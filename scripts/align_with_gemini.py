@@ -1,0 +1,285 @@
+#!/usr/bin/env python3
+import os
+import sys
+import json
+import re
+import xml.etree.ElementTree as ET
+import urllib.request
+import urllib.parse
+import time
+
+try:
+    import google.generativeai as genai
+except ImportError:
+    print("Installing google-generativeai package...")
+    import subprocess
+    subprocess.check_call([sys.executable, "-m", "pip", "install", "google-generativeai", "--break-system-packages"])
+    import google.generativeai as genai
+
+WLC_GENESIS_URL = "https://raw.githubusercontent.com/openscriptures/morphhb/master/wlc/Gen.xml"
+TELUGU_GENESIS_URL = "https://raw.githubusercontent.com/aruljohn/Bible-telugu/master/Genesis.json"
+
+# Initialize Gemini Client
+api_key = os.environ.get("GEMINI_API_KEY") or os.environ.get("GOOGLE_API_KEY")
+if api_key:
+    genai.configure(api_key=api_key)
+else:
+    print("WARNING: GEMINI_API_KEY or GOOGLE_API_KEY environment variable is missing.")
+    print("Please set it in your terminal before running this script: export GEMINI_API_KEY='your-key-here'")
+
+def download_file(url, dest):
+    print(f"Downloading {url} to {dest}...")
+    req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
+    with urllib.request.urlopen(req) as response:
+        with open(dest, 'wb') as f:
+            f.write(response.read())
+
+def load_strongs_xlit():
+    xlit_map = {}
+    strongs_path = "public/strongs.json"
+    if os.path.exists(strongs_path):
+        with open(strongs_path, 'r', encoding='utf-8') as f:
+            data = json.load(f)
+            for entry in data:
+                num = entry.get("number", "")
+                xlit = entry.get("xlit", "")
+                if num and xlit:
+                    xlit_map[num] = xlit
+    return xlit_map
+
+def clean_strongs_id(lemma):
+    if not lemma:
+        return ""
+    nums = re.findall(r'\d+', lemma)
+    if nums:
+        return f"H{nums[0].zfill(4)}"
+    return ""
+
+def parse_wlc_genesis(xml_path, xlit_map):
+    namespaces = {'ns': 'http://www.bibletechnologies.net/2003/OSIS/namespace'}
+    tree = ET.parse(xml_path)
+    root = tree.getroot()
+    
+    wlc_data = {}
+    for verse_node in root.findall('.//ns:verse', namespaces):
+        osis_id = verse_node.get('osisID', '')
+        if not osis_id.startswith('Gen.'):
+            continue
+            
+        parts = osis_id.split('.')
+        if len(parts) < 3:
+            continue
+            
+        chap_num = int(parts[1])
+        verse_num = int(parts[2])
+        
+        words = []
+        for w_node in verse_node.findall('.//ns:w', namespaces):
+            hb_word = w_node.text or ""
+            hb_word = hb_word.strip()
+            lemma = w_node.get('lemma', '')
+            morph = w_node.get('morph', '')
+            strongs_id = clean_strongs_id(lemma)
+            xlit = xlit_map.get(strongs_id, strongs_id)
+            
+            words.append({
+                "hebrew": hb_word,
+                "translit": xlit,
+                "strongs": strongs_id,
+                "gr": morph
+            })
+            
+        if chap_num not in wlc_data:
+            wlc_data[chap_num] = {}
+        wlc_data[chap_num][verse_num] = words
+        
+    return wlc_data
+
+def call_gemini_alignment(batch_data):
+    if not api_key:
+        # Fallback to proportional alignment if no API key is provided
+        print("No API Key detected. Using proportional fallback alignment...")
+        fallback_verses = []
+        for verse in batch_data:
+            words = []
+            target_words = verse["target"].split()
+            for idx, w in enumerate(verse["source"]):
+                prop_idx = min(int(idx * len(target_words) / len(verse["source"])), len(target_words) - 1)
+                words.append({
+                    "hebrew": w["hebrew"],
+                    "translit": w["translit"],
+                    "telugu": target_words[prop_idx] if target_words else ""
+                })
+            fallback_verses.append({
+                "v": verse["v"],
+                "words": words
+            })
+        return fallback_verses
+
+    # Format the prompt using the user's exact template
+    prompt = f"""
+Align the following Hebrew tokens to the Telugu translation for each verse. 
+Ensure the Telugu segment correctly maps to the corresponding Hebrew token.
+
+Example:
+Source: [ {{"hebrew": "וַיִּשְׁמַע", "translit": "wayyishmâʻ"}}, {{"hebrew": "לָבָן", "translit": "lâbân"}} ]
+Target: "లాబాను వినెను"
+Output: [ {{"hebrew": "וַיִּשְׁמַע", "translit": "wayyishmâʻ", "telugu": "వినెను"}}, {{"hebrew": "לָבָן", "translit": "lâbân", "telugu": "లాబాను"}} ]
+
+Now, process these verses:
+{json.dumps(batch_data, ensure_ascii=False, indent=2)}
+
+Output ONLY valid JSON representing an array of objects where each object has key "v" (verse number) and "words" (array of aligned hebrew-translit-telugu words matching the format above).
+Do not include markdown wraps or block texts outside the JSON.
+"""
+    
+    # We call gemini model
+    try:
+        model = genai.GenerativeModel('gemini-1.5-flash')
+        response = model.generate_content(prompt)
+        text_response = response.text.strip()
+        
+        # Clean any markdown codeblock wrapper tags
+        if text_response.startswith("```"):
+            # strip ```json or ```
+            text_response = re.sub(r'^```[a-z]*\n', '', text_response)
+            text_response = re.sub(r'\n```$', '', text_response)
+            
+        parsed_json = json.loads(text_response)
+        return parsed_json
+    except Exception as e:
+        print(f"Gemini Alignment Error: {e}. Retrying with proportional fallback...")
+        # Fallback
+        fallback_verses = []
+        for verse in batch_data:
+            words = []
+            target_words = verse["target"].split()
+            for idx, w in enumerate(verse["source"]):
+                prop_idx = min(int(idx * len(target_words) / len(verse["source"])), len(target_words) - 1)
+                words.append({
+                    "hebrew": w["hebrew"],
+                    "translit": w["translit"],
+                    "telugu": target_words[prop_idx] if target_words else ""
+                })
+            fallback_verses.append({
+                "v": verse["v"],
+                "words": words
+            })
+        return fallback_verses
+
+def align_and_compile():
+    os.makedirs("scripts/temp", exist_ok=True)
+    xml_dest = "scripts/temp/Gen.xml"
+    json_dest = "scripts/temp/Genesis.json"
+    
+    if not os.path.exists(xml_dest):
+        download_file(WLC_GENESIS_URL, xml_dest)
+    if not os.path.exists(json_dest):
+        download_file(TELUGU_GENESIS_URL, json_dest)
+        
+    xlit_map = load_strongs_xlit()
+    wlc_genesis = parse_wlc_genesis(xml_dest, xlit_map)
+    
+    with open(json_dest, 'r', encoding='utf-8') as f:
+        tel_data = json.load(f)
+        
+    out_dir = "public/bibles/telugu/OT/Genesis"
+    os.makedirs(out_dir, exist_ok=True)
+    
+    # We will process Chapter 1 as the initial pipeline prototype to check the alignments
+    for chapter_item in tel_data.get("chapters", []):
+        chap_str = chapter_item.get("chapter", "1")
+        chap_num = int(chap_str)
+        
+        # Only align Chapter 1 for this prototype step, or run all if API Key is set
+        if chap_num != 1 and not api_key:
+            print(f"Skipping Chapter {chap_num} (requires API Key to run full alignment pipeline).")
+            continue
+            
+        print(f"Processing Chapter {chap_num}...")
+        
+        # Build batch array for prompt
+        batch_verses = []
+        # Store original morphology metadata in a map to merge back post-alignment
+        morph_map = {} # (verse_num, hebrew_token) -> {strongs, gr}
+        
+        for verse_item in chapter_item.get("verses", []):
+            v_str = verse_item.get("verse", "1")
+            v_num = int(v_str)
+            v_text = verse_item.get("text", "").strip()
+            
+            hebrew_words = wlc_genesis.get(chap_num, {}).get(v_num, [])
+            if not hebrew_words:
+                continue
+                
+            source_tokens = []
+            for hw in hebrew_words:
+                source_tokens.append({
+                    "hebrew": hw["hebrew"],
+                    "translit": hw["translit"]
+                })
+                # Index morphology tags
+                morph_map[(v_num, hw["hebrew"])] = {
+                    "strongs": hw["strongs"],
+                    "gr": hw["gr"]
+                }
+                
+            batch_verses.append({
+                "v": v_num,
+                "source": source_tokens,
+                "target": v_text
+            })
+            
+        # Call Gemini in batches of 5 verses to avoid rate limit/token issues
+        aligned_result = []
+        batch_size = 5
+        for i in range(0, len(batch_verses), batch_size):
+            batch = batch_verses[i:i+batch_size]
+            print(f"Aligning verses {batch[0]['v']} - {batch[-1]['v']} using Gemini API...")
+            aligned_batch = call_gemini_alignment(batch)
+            aligned_result.extend(aligned_batch)
+            # Small cooldown to prevent rate limits
+            time.sleep(1)
+            
+        # Reconstruct into target interlinear schema
+        final_verses = []
+        for av in aligned_result:
+            v_num = av.get("v")
+            words = []
+            for w in av.get("words", []):
+                hb_tok = w.get("hebrew", "")
+                te_gloss = w.get("telugu", "")
+                tr_tok = w.get("translit", "")
+                
+                # Fetch grammar tags and Strong's number from original index
+                meta = morph_map.get((v_num, hb_tok), {})
+                words.append({
+                    "hb": hb_tok,
+                    "tr": tr_tok,
+                    "te": te_gloss,
+                    "gr": meta.get("gr", ""),
+                    "strongs": meta.get("strongs", "")
+                })
+            final_verses.append({
+                "v": v_num,
+                "words": words
+            })
+            
+        # Write clean output file
+        chap_file_name = f"{chap_str.zfill(2)}.json"
+        chap_file_path = os.path.join(out_dir, chap_file_name)
+        
+        output_schema = {
+            "book": "ఆదికాండము",
+            "chapter": chap_num,
+            "language": "Telugu",
+            "data": final_verses
+        }
+        
+        with open(chap_file_path, 'w', encoding='utf-8') as out_f:
+            json.dump(output_schema, out_f, ensure_ascii=False, indent=2)
+            
+    print("=== PIPELINE ALIGNMENT STEP COMPLETE ===")
+
+if __name__ == "__main__":
+    align_and_compile()
