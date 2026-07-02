@@ -64,7 +64,7 @@ Output ONLY valid JSON representing an array of objects. Each object must contai
 Do not include markdown wraps or block texts outside the JSON.
 """
 
-    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key={api_key}"
+    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key={api_key}"
     payload = {
         "contents": [
             {
