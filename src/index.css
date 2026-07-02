@@ -1179,6 +1179,20 @@ h1 {
     }
 }
 
+/* Grammatical Particles / Connective Tissue */
+.word-box.particle-word .telugu-text {
+    font-size: 0.85rem !important;
+    color: var(--text-muted) !important;
+    font-style: italic;
+    opacity: 0.7;
+}
+
+.word-box.particle-word {
+    border-color: rgba(148, 163, 184, 0.2) !important;
+    background: rgba(148, 163, 184, 0.03) !important;
+}
+
+
 
 
 

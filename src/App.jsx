@@ -469,7 +469,7 @@ function App() {
     if (!selectedWordHighlight.original) {
       return isVerseMatch;
     }
-    const targetWord = word.hb || word.original || '';
+    const targetWord = word.hb || word.original || word.hebrew || '';
     const isWordMatch = selectedWordHighlight.original === targetWord;
     return isVerseMatch && isWordMatch;
   };
@@ -719,6 +719,20 @@ function App() {
         
         {!loading && !error && verses.map((verse, idx) => {
           const verseNum = verse.v || verse.verse || verse.verse_number;
+          
+          // Defensively normalize segmented or legacy array schemas
+          const segments = (verse.segments || verse.words || []).map((w, wIdx) => {
+            const isWordObject = typeof w === 'object' && w !== null;
+            return {
+              hebrew: isWordObject ? (w.hebrew || w.hb || w.original || '') : '',
+              translit: isWordObject ? (w.translit || w.tr || w.translit_english || '') : '',
+              telugu_chunk: isWordObject ? (w.telugu_chunk || w.te || w.telugu_gloss || '') : '',
+              strongs: isWordObject ? (w.strongs || '') : '',
+              grammar: isWordObject ? (w.grammar || w.gr || '') : '',
+              index: wIdx
+            };
+          });
+
           return (
             <div 
               key={idx} 
@@ -756,38 +770,51 @@ function App() {
                 {/* 1. Interlinear Pane */}
                 <div className="interlinear-pane">
                   <div className="words-container">
-                    {verse.words && verse.words.map((word, wordIdx) => (
-                      <div 
-                        key={wordIdx} 
-                        className={`word-box ${isSearchResultHighlighted(verseNum, word) ? 'highlighted-box' : ''} ${isWordCustomHighlighted(verseNum, wordIdx) ? 'highlighted-word' : ''}`}
-                        onClick={() => handleWordClick(word, verseNum, wordIdx)}
-                      >
-                        {showOriginal && (
-                          <div 
-                            className="original-text"
-                            style={{ fontSize: `${fontSizeOriginal}rem` }}
-                          >
-                            {word.hb || word.original || ''}
-                          </div>
-                        )}
-                        {showTranslit && (
-                          <div 
-                            className="translit-text"
-                            style={{ fontSize: `${fontSizeTranslit}rem` }}
-                          >
-                            {word.tr || word.translit_english || ''}
-                          </div>
-                        )}
-                        {showGloss && (
-                          <div 
-                            className="telugu-text"
-                            style={{ fontSize: `${fontSizeGloss}rem` }}
-                          >
-                            {word.te || word.telugu_gloss || ''}
-                          </div>
-                        )}
-                      </div>
-                    ))}
+                    {segments.map((word, wordIdx) => {
+                      const isParticle = word.telugu_chunk.toLowerCase().includes("particle") || word.telugu_chunk === "Grammatical Particle";
+                      return (
+                        <div 
+                          key={wordIdx} 
+                          className={`word-box ${isSearchResultHighlighted(verseNum, word) ? 'highlighted-box' : ''} ${isWordCustomHighlighted(verseNum, wordIdx) ? 'highlighted-word' : ''} ${isParticle ? 'particle-word' : ''}`}
+                          onClick={() => handleWordClick({
+                            hb: word.hebrew,
+                            original: word.hebrew,
+                            tr: word.translit,
+                            translit_english: word.translit,
+                            te: word.telugu_chunk,
+                            telugu_gloss: word.telugu_chunk,
+                            strongs: word.strongs,
+                            gr: word.grammar,
+                            grammar: word.grammar
+                          }, verseNum, wordIdx)}
+                        >
+                          {showOriginal && (
+                            <div 
+                              className="original-text"
+                              style={{ fontSize: `${fontSizeOriginal}rem` }}
+                            >
+                              {word.hebrew}
+                            </div>
+                          )}
+                          {showTranslit && (
+                            <div 
+                              className="translit-text"
+                              style={{ fontSize: `${fontSizeTranslit}rem` }}
+                            >
+                              {word.translit}
+                            </div>
+                          )}
+                          {showGloss && (
+                            <div 
+                              className="telugu-text"
+                              style={{ fontSize: `${fontSizeGloss}rem` }}
+                            >
+                              {word.telugu_chunk}
+                            </div>
+                          )}
+                        </div>
+                      );
+                    })}
                   </div>
                 </div>
 
@@ -795,7 +822,7 @@ function App() {
                 {showParallel && (parallelTranslation === 'bsi' || parallelTranslation === 'three-column') && (
                   <div className="telugu-bsi-pane">
                     <p className="telugu-bsi-text">
-                      {verse.words ? verse.words.map(w => w.te || w.telugu_gloss || '').join(' ').trim() : ''}
+                      {segments.map(w => w.telugu_chunk).join(' ').trim()}
                     </p>
                   </div>
                 )}
