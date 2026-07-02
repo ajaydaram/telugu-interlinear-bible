@@ -1,3306 +1,4142 @@
 {
-  "book": "Mark",
+  "book": {
+    "english": "Mark",
+    "telugu": "మార్కు సువార్త"
+  },
   "chapter": 11,
   "language": "Telugu",
   "data": [
     {
-      "v": 1,
+      "verse_number": 1,
       "words": [
         {
-          "original": "λόγος",
-          "translit_english": "logos",
+          "original": "Καὶ",
+          "translit_english": "kaí",
+          "telugu_gloss": "మరియు",
+          "strongs": "G2532",
+          "grammar": "CONJ"
+        },
+        {
+          "original": "ὅτε",
+          "translit_english": "hóte",
           "telugu_gloss": "వారు",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
+          "strongs": "G3753",
+          "grammar": "ADV"
         },
         {
-          "original": "θεός",
-          "translit_english": "theos",
+          "original": "ἐγγίζουσιν",
+          "translit_english": "engízō",
           "telugu_gloss": "యెరూషలేమునకు",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
+          "strongs": "G1448",
+          "grammar": "V-PAI-3P"
         },
         {
-          "original": "λόγος",
-          "translit_english": "logos",
+          "original": "εἰς",
+          "translit_english": "eis",
           "telugu_gloss": "సమీపించి",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
+          "strongs": "G1519",
+          "grammar": "PREP"
         },
         {
-          "original": "θεός",
-          "translit_english": "theos",
+          "original": "Ἱεροσόλυμα",
+          "translit_english": "Hierosólyma",
           "telugu_gloss": "ఒలీవల",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
+          "strongs": "G2414",
+          "grammar": "N-APN"
         },
         {
-          "original": "λόγος",
-          "translit_english": "logos",
+          "original": "εἰς",
+          "translit_english": "eis",
           "telugu_gloss": "కొండ",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
+          "strongs": "G1519",
+          "grammar": "PREP"
         },
         {
-          "original": "θεός",
-          "translit_english": "theos",
+          "original": "Βηθφαγὴ",
+          "translit_english": "G0967",
           "telugu_gloss": "దగ్గరనున్న",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
+          "strongs": "G0967",
+          "grammar": "N-PRI"
         },
         {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "బేత్పగే",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
+          "original": "καὶ",
+          "translit_english": "kaí",
+          "telugu_gloss": "మరియు",
+          "strongs": "G2532",
+          "grammar": "CONJ"
         },
         {
-          "original": "θεός",
-          "translit_english": "theos",
+          "original": "Βηθανίαν",
+          "translit_english": "G0963",
           "telugu_gloss": "బేతనియ",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
+          "strongs": "G0963",
+          "grammar": "N-ASF"
         },
         {
-          "original": "λόγος",
-          "translit_english": "logos",
+          "original": "πρὸς",
+          "translit_english": "prós",
           "telugu_gloss": "అను",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
+          "strongs": "G4314",
+          "grammar": "PREP"
         },
         {
-          "original": "θεός",
-          "translit_english": "theos",
+          "original": "τὸ",
+          "translit_english": "ho",
+          "telugu_gloss": "ఆ",
+          "strongs": "G3588",
+          "grammar": "T-ASN"
+        },
+        {
+          "original": "Ὄρος",
+          "translit_english": "óros",
           "telugu_gloss": "గ్రామములకు",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
+          "strongs": "G3735",
+          "grammar": "N-ASN"
         },
         {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "వచ్చి",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
+          "original": "τῶν",
+          "translit_english": "ho",
+          "telugu_gloss": "ఆ",
+          "strongs": "G3588",
+          "grammar": "T-GPF"
         },
         {
-          "original": "θεός",
-          "translit_english": "theos",
+          "original": "Ἐλαιῶν",
+          "translit_english": "elaía",
           "telugu_gloss": "నప్పుడు",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
+          "strongs": "G1636",
+          "grammar": "N-GPF"
         },
         {
-          "original": "λόγος",
-          "translit_english": "logos",
+          "original": "ἀποστέλλει",
+          "translit_english": "G0649",
           "telugu_gloss": "ఆయన",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
+          "strongs": "G0649",
+          "grammar": "V-PAI-3S"
         },
         {
-          "original": "θεός",
-          "translit_english": "theos",
+          "original": "δύο",
+          "translit_english": "dýo",
           "telugu_gloss": "తన",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
+          "strongs": "G1417",
+          "grammar": "A-NUI"
         },
         {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "శిష్యులలో",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
+          "original": "τῶν",
+          "translit_english": "ho",
+          "telugu_gloss": "ఆ",
+          "strongs": "G3588",
+          "grammar": "T-GPM"
         },
         {
-          "original": "θεός",
-          "translit_english": "theos",
+          "original": "μαθητῶν",
+          "translit_english": "mathētḗs",
           "telugu_gloss": "ఇద్దరిని",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
+          "strongs": "G3101",
+          "grammar": "N-GPM"
         },
         {
-          "original": "λόγος",
-          "translit_english": "logos",
+          "original": "αὐτοῦ",
+          "translit_english": "G0846",
           "telugu_gloss": "చూచి",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
+          "strongs": "G0846",
+          "grammar": "P-GSM"
         }
       ]
     },
     {
-      "v": 2,
+      "verse_number": 2,
       "words": [
         {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "మీ",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
+          "original": "καὶ",
+          "translit_english": "kaí",
+          "telugu_gloss": "మరియు",
+          "strongs": "G2532",
+          "grammar": "CONJ"
         },
         {
-          "original": "θεός",
-          "translit_english": "theos",
+          "original": "λέγει",
+          "translit_english": "légō",
+          "telugu_gloss": "మీ",
+          "strongs": "G3004",
+          "grammar": "V-PAI-3S"
+        },
+        {
+          "original": "αὐτοῖς",
+          "translit_english": "G0846",
           "telugu_gloss": "యెదుటనున్న",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
+          "strongs": "G0846",
+          "grammar": "P-DPM"
         },
         {
-          "original": "λόγος",
-          "translit_english": "logos",
+          "original": "Ὑπάγετε",
+          "translit_english": "hypágō",
           "telugu_gloss": "గ్రామమునకు",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
+          "strongs": "G5217",
+          "grammar": "V-PAM-2P"
         },
         {
-          "original": "θεός",
-          "translit_english": "theos",
+          "original": "εἰς",
+          "translit_english": "eis",
           "telugu_gloss": "వెళ్లుడి",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
+          "strongs": "G1519",
+          "grammar": "PREP"
         },
         {
-          "original": "λόγος",
-          "translit_english": "logos",
+          "original": "τὴν",
+          "translit_english": "ho",
+          "telugu_gloss": "ఆ",
+          "strongs": "G3588",
+          "grammar": "T-ASF"
+        },
+        {
+          "original": "κώμην",
+          "translit_english": "kṓmē",
           "telugu_gloss": "అందులో",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
+          "strongs": "G2968",
+          "grammar": "N-ASF"
         },
         {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "మీరు",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
+          "original": "τὴν",
+          "translit_english": "ho",
+          "telugu_gloss": "ఆ",
+          "strongs": "G3588",
+          "grammar": "T-ASF"
         },
         {
-          "original": "λόγος",
-          "translit_english": "logos",
+          "original": "κατέναντι",
+          "translit_english": "katénanti",
           "telugu_gloss": "ప్రవేశింపగానే",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
+          "strongs": "G2713",
+          "grammar": "PREP"
         },
         {
-          "original": "θεός",
-          "translit_english": "theos",
+          "original": "ὑμῶν",
+          "translit_english": "hymōn",
           "telugu_gloss": "కట్టబడియున్న",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
+          "strongs": "G5216",
+          "grammar": "P-2GP"
         },
         {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "యొక",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
+          "original": "καὶ",
+          "translit_english": "kaí",
+          "telugu_gloss": "మరియు",
+          "strongs": "G2532",
+          "grammar": "CONJ"
         },
         {
-          "original": "θεός",
-          "translit_english": "theos",
+          "original": "εὐθὺς",
+          "translit_english": "euthýs",
           "telugu_gloss": "గాడిద",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
+          "strongs": "G2117",
+          "grammar": "ADV"
         },
         {
-          "original": "λόγος",
-          "translit_english": "logos",
+          "original": "εἰσπορευόμενοι",
+          "translit_english": "eisporeúomai",
+          "telugu_gloss": "గాడిద",
+          "strongs": "G1531",
+          "grammar": "V-PNP-NPM"
+        },
+        {
+          "original": "εἰς",
+          "translit_english": "eis",
           "telugu_gloss": "పిల్ల",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
+          "strongs": "G1519",
+          "grammar": "PREP"
         },
         {
-          "original": "θεός",
-          "translit_english": "theos",
+          "original": "αὐτὴν",
+          "translit_english": "G0848",
           "telugu_gloss": "కన",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
+          "strongs": "G0848",
+          "grammar": "P-ASF"
         },
         {
-          "original": "λόγος",
-          "translit_english": "logos",
+          "original": "εὑρήσετε",
+          "translit_english": "heurískō",
           "telugu_gloss": "బడును",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
+          "strongs": "G2147",
+          "grammar": "V-FAI-2P"
         },
         {
-          "original": "θεός",
-          "translit_english": "theos",
+          "original": "πῶλον",
+          "translit_english": "pōlos",
           "telugu_gloss": "దానిమీద",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
+          "strongs": "G4454",
+          "grammar": "N-ASM"
         },
         {
-          "original": "λόγος",
-          "translit_english": "logos",
+          "original": "δεδεμένον",
+          "translit_english": "déō",
+          "telugu_gloss": "దానిమీద",
+          "strongs": "G1210",
+          "grammar": "V-RPP-ASM"
+        },
+        {
+          "original": "ἐφ",
+          "translit_english": "epí",
           "telugu_gloss": "ఏ",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
+          "strongs": "G1909",
+          "grammar": "PREP"
         },
         {
-          "original": "θεός",
-          "translit_english": "theos",
+          "original": "ὃν",
+          "translit_english": "hós",
           "telugu_gloss": "మనుష్యుడును",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
+          "strongs": "G3739",
+          "grammar": "R-ASM"
         },
         {
-          "original": "λόγος",
-          "translit_english": "logos",
+          "original": "οὐδεὶς",
+          "translit_english": "oudeís",
           "telugu_gloss": "ఎప్పుడును",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
+          "strongs": "G3762",
+          "grammar": "A-NSM-N"
         },
         {
-          "original": "θεός",
-          "translit_english": "theos",
+          "original": "οὔπω",
+          "translit_english": "oúpō",
           "telugu_gloss": "కూర్చుండ",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
+          "strongs": "G3768",
+          "grammar": "ADV-N"
         },
         {
-          "original": "λόγος",
-          "translit_english": "logos",
+          "original": "ἀνθρώπων",
+          "translit_english": "G0444",
           "telugu_gloss": "లేదు",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
+          "strongs": "G0444",
+          "grammar": "N-GPM"
         },
         {
-          "original": "θεός",
-          "translit_english": "theos",
+          "original": "ἐκάθισεν",
+          "translit_english": "kathízō",
+          "telugu_gloss": "లేదు",
+          "strongs": "G2523",
+          "grammar": "V-AAI-3S"
+        },
+        {
+          "original": "λύσατε",
+          "translit_english": "lýō",
           "telugu_gloss": "దానిని",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
+          "strongs": "G3089",
+          "grammar": "V-AAM-2P"
         },
         {
-          "original": "λόγος",
-          "translit_english": "logos",
+          "original": "αὐτὸν",
+          "translit_english": "G0846",
           "telugu_gloss": "విప్పి",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
+          "strongs": "G0846",
+          "grammar": "P-ASM"
         },
         {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "తోలుకొని",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
+          "original": "καὶ",
+          "translit_english": "kaí",
+          "telugu_gloss": "మరియు",
+          "strongs": "G2532",
+          "grammar": "CONJ"
         },
         {
-          "original": "λόγος",
-          "translit_english": "logos",
+          "original": "φέρετε",
+          "translit_english": "phérō",
           "telugu_gloss": "రండి",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
+          "strongs": "G5342",
+          "grammar": "V-PAM-2P"
         }
       ]
     },
     {
-      "v": 3,
+      "verse_number": 3,
       "words": [
         {
-          "original": "λόγος",
-          "translit_english": "logos",
+          "original": "καὶ",
+          "translit_english": "kaí",
+          "telugu_gloss": "మరియు",
+          "strongs": "G2532",
+          "grammar": "CONJ"
+        },
+        {
+          "original": "ἐάν",
+          "translit_english": "eán",
           "telugu_gloss": "ఎవడైననుమీరెందుకు",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
+          "strongs": "G1437",
+          "grammar": "COND"
         },
         {
-          "original": "θεός",
-          "translit_english": "theos",
+          "original": "τις",
+          "translit_english": "tìs",
           "telugu_gloss": "ఈలాగు",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
+          "strongs": "G5100",
+          "grammar": "X-NSM"
         },
         {
-          "original": "λόγος",
-          "translit_english": "logos",
+          "original": "ὑμῖν",
+          "translit_english": "hymîn",
           "telugu_gloss": "చేయు",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
+          "strongs": "G5213",
+          "grammar": "P-2DP"
         },
         {
-          "original": "θεός",
-          "translit_english": "theos",
+          "original": "εἴπῃ",
+          "translit_english": "épō",
           "telugu_gloss": "చున్నారని",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
+          "strongs": "G2036",
+          "grammar": "V-2AAS-3S"
         },
         {
-          "original": "λόγος",
-          "translit_english": "logos",
+          "original": "Τί",
+          "translit_english": "tís",
           "telugu_gloss": "మిమ్ము",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
+          "strongs": "G5101",
+          "grammar": "I-ASN"
         },
         {
-          "original": "θεός",
-          "translit_english": "theos",
+          "original": "ποιεῖτε",
+          "translit_english": "poiéō",
           "telugu_gloss": "నడిగిన",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
+          "strongs": "G4160",
+          "grammar": "V-PAI-2P"
         },
         {
-          "original": "λόγος",
-          "translit_english": "logos",
+          "original": "τοῦτο",
+          "translit_english": "toûto",
           "telugu_gloss": "యెడలఅది",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
+          "strongs": "G5124",
+          "grammar": "D-ASN"
         },
         {
-          "original": "θεός",
-          "translit_english": "theos",
+          "original": "εἴπατε",
+          "translit_english": "épō",
+          "telugu_gloss": "యెడలఅది",
+          "strongs": "G2036",
+          "grammar": "V-2AAM-2P"
+        },
+        {
+          "original": "ὅτι",
+          "translit_english": "hóti",
           "telugu_gloss": "ప్రభువునకు",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
+          "strongs": "G3754",
+          "grammar": "CONJ"
         },
         {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "కావలసియున్నదని",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
+          "original": "Ὁ",
+          "translit_english": "ho",
+          "telugu_gloss": "ఆ",
+          "strongs": "G3588",
+          "grammar": "T-NSM"
         },
         {
-          "original": "θεός",
-          "translit_english": "theos",
+          "original": "κύριος",
+          "translit_english": "kýrios",
           "telugu_gloss": "చెప్పుడి",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
+          "strongs": "G2962",
+          "grammar": "N-NSM"
         },
         {
-          "original": "λόγος",
-          "translit_english": "logos",
+          "original": "αὐτοῦ",
+          "translit_english": "G0846",
           "telugu_gloss": "తక్షణమే",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
+          "strongs": "G0846",
+          "grammar": "P-GSM"
         },
         {
-          "original": "θεός",
-          "translit_english": "theos",
+          "original": "χρείαν",
+          "translit_english": "chreía",
           "telugu_gloss": "అతడు",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
+          "strongs": "G5532",
+          "grammar": "N-ASF"
         },
         {
-          "original": "λόγος",
-          "translit_english": "logos",
+          "original": "ἔχει",
+          "translit_english": "échō",
           "telugu_gloss": "దానిని",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
+          "strongs": "G2192",
+          "grammar": "V-PAI-3S"
         },
         {
-          "original": "θεός",
-          "translit_english": "theos",
+          "original": "καὶ",
+          "translit_english": "kaí",
+          "telugu_gloss": "మరియు",
+          "strongs": "G2532",
+          "grammar": "CONJ"
+        },
+        {
+          "original": "εὐθὺς",
+          "translit_english": "euthýs",
           "telugu_gloss": "ఇక్కడికితోలి",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
+          "strongs": "G2117",
+          "grammar": "ADV"
         },
         {
-          "original": "λόγος",
-          "translit_english": "logos",
+          "original": "αὐτὸν",
+          "translit_english": "G0846",
           "telugu_gloss": "పంపునని",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
+          "strongs": "G0846",
+          "grammar": "P-ASM"
         },
         {
-          "original": "θεός",
-          "translit_english": "theos",
+          "original": "ἀποστέλλει",
+          "translit_english": "G0649",
           "telugu_gloss": "చెప్పి",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
+          "strongs": "G0649",
+          "grammar": "V-PAI-3S"
         },
         {
-          "original": "λόγος",
-          "translit_english": "logos",
+          "original": "πάλιν",
+          "translit_english": "pálin",
           "telugu_gloss": "వారిని",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
+          "strongs": "G3825",
+          "grammar": "ADV"
         },
         {
-          "original": "θεός",
-          "translit_english": "theos",
+          "original": "ὧδε",
+          "translit_english": "hōde",
           "telugu_gloss": "పంపెను",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
+          "strongs": "G5602",
+          "grammar": "ADV"
         }
       ]
     },
     {
-      "v": 4,
+      "verse_number": 4,
       "words": [
         {
-          "original": "λόγος",
-          "translit_english": "logos",
+          "original": "καὶ",
+          "translit_english": "kaí",
+          "telugu_gloss": "మరియు",
+          "strongs": "G2532",
+          "grammar": "CONJ"
+        },
+        {
+          "original": "ἀπῆλθον",
+          "translit_english": "G0565",
           "telugu_gloss": "వారు",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
+          "strongs": "G0565",
+          "grammar": "V-2AAI-3P"
         },
         {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "వెళ్లగా",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
+          "original": "καὶ",
+          "translit_english": "kaí",
+          "telugu_gloss": "మరియు",
+          "strongs": "G2532",
+          "grammar": "CONJ"
         },
         {
-          "original": "λόγος",
-          "translit_english": "logos",
+          "original": "εὗρον",
+          "translit_english": "heurískō",
           "telugu_gloss": "వీధిలో",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
+          "strongs": "G2147",
+          "grammar": "V-2AAI-3P"
         },
         {
-          "original": "θεός",
-          "translit_english": "theos",
+          "original": "πῶλον",
+          "translit_english": "pōlos",
           "telugu_gloss": "ఇంటి",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
+          "strongs": "G4454",
+          "grammar": "N-ASM"
         },
         {
-          "original": "λόγος",
-          "translit_english": "logos",
+          "original": "δεδεμένον",
+          "translit_english": "déō",
           "telugu_gloss": "బయట",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
+          "strongs": "G1210",
+          "grammar": "V-RPP-ASM"
         },
         {
-          "original": "θεός",
-          "translit_english": "theos",
+          "original": "πρὸς",
+          "translit_english": "prós",
           "telugu_gloss": "తలవాకిట",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
+          "strongs": "G4314",
+          "grammar": "PREP"
         },
         {
-          "original": "λόγος",
-          "translit_english": "logos",
+          "original": "θύραν",
+          "translit_english": "thýra",
           "telugu_gloss": "కట్టబడియున్న",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
+          "strongs": "G2374",
+          "grammar": "N-ASF"
         },
         {
-          "original": "θεός",
-          "translit_english": "theos",
+          "original": "ἔξω",
+          "translit_english": "éxō",
           "telugu_gloss": "గాడిద",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
+          "strongs": "G1854",
+          "grammar": "ADV"
         },
         {
-          "original": "λόγος",
-          "translit_english": "logos",
+          "original": "ἐπὶ",
+          "translit_english": "epí",
           "telugu_gloss": "పిల్ల",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
+          "strongs": "G1909",
+          "grammar": "PREP"
         },
         {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "యొకటి",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
+          "original": "τοῦ",
+          "translit_english": "ho",
+          "telugu_gloss": "ఆ",
+          "strongs": "G3588",
+          "grammar": "T-GSN"
         },
         {
-          "original": "λόγος",
-          "translit_english": "logos",
+          "original": "ἀμφόδου",
+          "translit_english": "G0296",
           "telugu_gloss": "వారికి",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
+          "strongs": "G0296",
+          "grammar": "N-GSN"
         },
         {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "కనబడెను",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
+          "original": "καὶ",
+          "translit_english": "kaí",
+          "telugu_gloss": "మరియు",
+          "strongs": "G2532",
+          "grammar": "CONJ"
         },
         {
-          "original": "λόγος",
-          "translit_english": "logos",
+          "original": "λύουσιν",
+          "translit_english": "lýō",
           "telugu_gloss": "దానిని",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
+          "strongs": "G3089",
+          "grammar": "V-PAI-3P"
         },
         {
-          "original": "θεός",
-          "translit_english": "theos",
+          "original": "αὐτόν",
+          "translit_english": "G0846",
           "telugu_gloss": "విప్పుచుండగా",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
+          "strongs": "G0846",
+          "grammar": "P-ASM"
         }
       ]
     },
     {
-      "v": 5,
+      "verse_number": 5,
       "words": [
         {
-          "original": "λόγος",
-          "translit_english": "logos",
+          "original": "καί",
+          "translit_english": "kaí",
+          "telugu_gloss": "మరియు",
+          "strongs": "G2532",
+          "grammar": "CONJ"
+        },
+        {
+          "original": "τινες",
+          "translit_english": "tìs",
           "telugu_gloss": "అక్కడ",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
+          "strongs": "G5100",
+          "grammar": "X-NPM"
         },
         {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "నిలిచియున్న",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
+          "original": "τῶν",
+          "translit_english": "ho",
+          "telugu_gloss": "ఆ",
+          "strongs": "G3588",
+          "grammar": "T-GPM"
         },
         {
-          "original": "λόγος",
-          "translit_english": "logos",
+          "original": "ἐκεῖ",
+          "translit_english": "ekeî",
           "telugu_gloss": "వారిలో",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
+          "strongs": "G1563",
+          "grammar": "ADV"
         },
         {
-          "original": "θεός",
-          "translit_english": "theos",
+          "original": "ἑστηκότων",
+          "translit_english": "hístēmi",
           "telugu_gloss": "కొందరు",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
+          "strongs": "G2476",
+          "grammar": "V-RAP-GPM"
         },
         {
-          "original": "λόγος",
-          "translit_english": "logos",
+          "original": "ἔλεγον",
+          "translit_english": "légō",
           "telugu_gloss": "మీరేమి",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
+          "strongs": "G3004",
+          "grammar": "V-IAI-3P"
         },
         {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "చేయుచున్నారు",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
+          "original": "αὐτοῖς",
+          "translit_english": "G0846",
+          "telugu_gloss": "చేయుచున్నారు?",
+          "strongs": "G0846",
+          "grammar": "P-DPM"
         },
         {
-          "original": "λόγος",
-          "translit_english": "logos",
+          "original": "Τί",
+          "translit_english": "tís",
           "telugu_gloss": "గాడిద",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
+          "strongs": "G5101",
+          "grammar": "I-ASN"
         },
         {
-          "original": "θεός",
-          "translit_english": "theos",
+          "original": "ποιεῖτε",
+          "translit_english": "poiéō",
           "telugu_gloss": "పిల్లను",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
+          "strongs": "G4160",
+          "grammar": "V-PAI-2P"
         },
         {
-          "original": "λόγος",
-          "translit_english": "logos",
+          "original": "λύοντες",
+          "translit_english": "lýō",
           "telugu_gloss": "ఎందుకు",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
+          "strongs": "G3089",
+          "grammar": "V-PAP-NPM"
         },
         {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "విప్పుచున్నారని",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
+          "original": "τὸν",
+          "translit_english": "ho",
+          "telugu_gloss": "ఆ",
+          "strongs": "G3588",
+          "grammar": "T-ASM"
         },
         {
-          "original": "λόγος",
-          "translit_english": "logos",
+          "original": "πῶλον",
+          "translit_english": "pōlos",
           "telugu_gloss": "వారినడిగిరి",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
+          "strongs": "G4454",
+          "grammar": "N-ASM"
         }
       ]
     },
     {
-      "v": 6,
+      "verse_number": 6,
       "words": [
         {
-          "original": "λόγος",
-          "translit_english": "logos",
+          "original": "οἱ",
+          "translit_english": "ho",
+          "telugu_gloss": "ఆ",
+          "strongs": "G3588",
+          "grammar": "T-NPM"
+        },
+        {
+          "original": "δὲ",
+          "translit_english": "dé",
           "telugu_gloss": "అందుకు",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
+          "strongs": "G1161",
+          "grammar": "CONJ"
         },
         {
-          "original": "θεός",
-          "translit_english": "theos",
+          "original": "εἶπαν",
+          "translit_english": "épō",
           "telugu_gloss": "శిష్యులు",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
+          "strongs": "G2036",
+          "grammar": "V-2AAI-3P"
         },
         {
-          "original": "λόγος",
-          "translit_english": "logos",
+          "original": "αὐτοῖς",
+          "translit_english": "G0846",
           "telugu_gloss": "యేసు",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
+          "strongs": "G0846",
+          "grammar": "P-DPM"
         },
         {
-          "original": "θεός",
-          "translit_english": "theos",
+          "original": "καθὼς",
+          "translit_english": "kathṓs",
+          "telugu_gloss": "యేసు",
+          "strongs": "G2531",
+          "grammar": "ADV"
+        },
+        {
+          "original": "εἶπεν",
+          "translit_english": "épō",
           "telugu_gloss": "ఆజ్ఞాపించినట్టు",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
+          "strongs": "G2036",
+          "grammar": "V-2AAI-3S"
         },
         {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "వారితో",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "చెప్పగా",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "వారు",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "పోనిచ్చిరి",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        }
-      ]
-    },
-    {
-      "v": 7,
-      "words": [
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "వారు",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
+          "original": "ὁ",
+          "translit_english": "ho",
           "telugu_gloss": "ఆ",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
+          "strongs": "G3588",
+          "grammar": "T-NSM"
         },
         {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "గాడిదపిల్లను",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "యేసునొద్దకు",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "తోలుకొని",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "వచ్చి",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "తమ",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "బట్టలు",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "దానిపై",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "వేయగా",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "ఆయన",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "దానిమీద",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "కూర్చుం",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "డెను",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        }
-      ]
-    },
-    {
-      "v": 8,
-      "words": [
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "అనేకులు",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "తమ",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "బట్టలను",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "దారి",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "పొడుగునను",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "పరచిరి",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "కొందరు",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "తాము",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "పొలములలో",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "నరికిన",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "కొమ్మలను",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "పరచిరి",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        }
-      ]
-    },
-    {
-      "v": 9,
-      "words": [
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "మరియు",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "ముందు",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "వెళ్లుచుండినవారును",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "వెనుక",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "వచ్చుచుండిన",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "వారును",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "జయము1",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        }
-      ]
-    },
-    {
-      "v": 10,
-      "words": [
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "ప్రభువు",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "పేరట",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "వచ్చువాడు",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "స్తుతింపబడుగాక",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "వచ్చుచున్న",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "మన",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "తండ్రియైన",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "దావీదు",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "రాజ్యము",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "స్తుతింపబడుగాక",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "సర్వోన్నతమైన",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "స్థలములలో",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "జయము1",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "అని",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "కేకలు",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "వేయుచుండిరి",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        }
-      ]
-    },
-    {
-      "v": 11,
-      "words": [
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "ఆయన",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "యెరూషలేమునకు",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "వచ్చి",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "దేవాలయములో",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "ప్రవేశించి",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "చుట్టు",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "సమస్తమును",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "చూచి",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "సాయంకాల",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "మైనందున",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "పండ్రెండుమందితో",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "కూడ",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "బేతనియకు",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "వెళ్లెను",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        }
-      ]
-    },
-    {
-      "v": 12,
-      "words": [
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "మరునాడు",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "వారు",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "బేతనియనుండి",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "వెళ్లుచుండగా",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "ఆయన",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "ఆకలిగొని",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        }
-      ]
-    },
-    {
-      "v": 13,
-      "words": [
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "ఆకులుగల",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "ఒక",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "అంజూరపు",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "చెట్టును",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "దూరము",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "నుండి",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "చూచి",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "దానిమీద",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "ఏమైనను",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "దొరకునేమో",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "అని",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "వచ్చెను",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "దానియొద్దకు",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "వచ్చి",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "చూడగా",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "ఆకులు",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "తప్ప",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "మరేమియు",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "కనబడలేదు",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "ఏలయనగా",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "అది",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "అంజూరపు",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "పండ్లకాలము",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "కాదు",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        }
-      ]
-    },
-    {
-      "v": 14,
-      "words": [
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "అందుకాయనఇకమీదట",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "ఎన్నటి",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "కిని",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "నీ",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "పండ్లు",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "ఎవరును",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "తినకుందురు",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "గాక",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "అని",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "చెప్పెను",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "ఇది",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "ఆయన",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "శిష్యులు",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "వినిరి",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        }
-      ]
-    },
-    {
-      "v": 15,
-      "words": [
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "వారు",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "యెరూషలేమునకు",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "వచ్చినప్పుడు",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "ఆయన",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "దేవా",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "లయములో",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "ప్రవేశించి",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "దేవాలయములో",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "క్రయ",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "విక్రయ",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "ములు",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "చేయువారిని",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "వెళ్లగొట్ట",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "నారంభించి",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "రూకలు",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "మార్చువారి",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "బల్లలను",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "గువ్వలమ్మువారి",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "పీటలను",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "పడద్రోసి",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        }
-      ]
-    },
-    {
-      "v": 16,
-      "words": [
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "దేవాలయము",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "గుండ",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "ఏపాత్రయైనను",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "ఎవనిని",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "తేనియ్య",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "కుండెను",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        }
-      ]
-    },
-    {
-      "v": 17,
-      "words": [
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "మరియు",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "ఆయన",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "బోధించుచు",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "నా",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "మందిరము",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "సమస్తమైన",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "అన్యజనులకు",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "ప్రార్థన",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "మందిరమనబడును",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "అని",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "వ్రాయబడలేదా",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "అయితే",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "మీరు",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "దానిని",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "దొంగల",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "గుహగా",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "చేసితిరనెను",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        }
-      ]
-    },
-    {
-      "v": 18,
-      "words": [
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "శాస్త్రులును",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "ప్రధానయాజకులును",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "ఆ",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "మాట",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "విని",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "జన",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "సమూహమంతయు",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "ఆయన",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "బోధకు",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "బహుగా",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "ఆశ్చర్య",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "పడుట",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "చూచి",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "ఆయనకు",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "భయపడి",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "ఆయన",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "నేలాగు",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "సంహరించుదమా",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "అని",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "సమయము",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "చూచుచుండిరి",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        }
-      ]
-    },
-    {
-      "v": 19,
-      "words": [
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "సాయంకాలమైనప్పుడు",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "ఆయన",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "పట్టణములోనుండి",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "బయలుదేరెను",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        }
-      ]
-    },
-    {
-      "v": 20,
-      "words": [
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "ప్రొద్దున",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "వారు",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "మార్గమున",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "పోవుచుండగా",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "ఆ",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "అంజూ",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "రపుచెట్టు",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "వేళ్లు",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "మొదలుకొని",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "యెండియుండుట",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "చూచిరి",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        }
-      ]
-    },
-    {
-      "v": 21,
-      "words": [
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "అప్పుడు",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "పేతురు",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "ఆ",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "సంగతి",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "జ్ఞాపకమునకు",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "తెచ్చుకొనిబోధకుడా",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "యిదిగో",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "నీవు",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "శపించిన",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "అంజూరపుచెట్టు",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "ఎండిపోయెనని",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "ఆయనతో",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "చెప్పెను",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        }
-      ]
-    },
-    {
-      "v": 22,
-      "words": [
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "అందుకు",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
+          "original": "Ἰησοῦς",
+          "translit_english": "Iēsoûs",
           "telugu_gloss": "యేసు",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "వారితో",
-          "strongs": "G3056",
+          "strongs": "G2424",
           "grammar": "N-NSM"
         },
         {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "ఇట్లనెనుమీరు",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
+          "original": "καὶ",
+          "translit_english": "kaí",
+          "telugu_gloss": "మరియు",
+          "strongs": "G2532",
+          "grammar": "CONJ"
         },
         {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "దేవునియందు",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "విశ్వాసముంచుడి",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        }
-      ]
-    },
-    {
-      "v": 23,
-      "words": [
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "ఎవడైనను",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "ఈ",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "కొండను",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "చూచినీవు",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "ఎత్తబడి",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "సముద్ర",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "ములో",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "పడవేయబడు",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "మని",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "చెప్పి",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "తన",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "మనస్సులో",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "సందే",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "హింపక",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "తాను",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "చెప్పినది",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "జరుగునని",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "నమి్మనయెడల",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "వాడు",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "చెప్పినది",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "జరుగునని",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "మీతో",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "నిశ్చయముగా",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "చెప్పుచున్నాను",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        }
-      ]
-    },
-    {
-      "v": 24,
-      "words": [
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "అందుచేత",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "ప్రార్థన",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "చేయునప్పుడు",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "మీరు",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "అడుగుచున్న",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "వాటినెల్లను",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "పొందియున్నామని",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "నమ్ముడి",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "అప్పుడు",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "అవి",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "మీకు",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "కలుగునని",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "మీతో",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "చెప్పుచున్నాను",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        }
-      ]
-    },
-    {
-      "v": 25,
-      "words": [
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "మీకు",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "ఒకనిమీద",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "విరోధ",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "మేమైనను",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "కలిగియున్న",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "యెడల",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "మీరు",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "నిలువబడి",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "ప్రార్థన",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "చేయునప్పుడెల్లను",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "వాని",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "క్షమించుడి",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        }
-      ]
-    },
-    {
-      "v": 26,
-      "words": [
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "అప్పుడు",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "పరలోకమందున్న",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "మీ",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "తండ్రియు",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "మీ",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "పాపములు",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "క్షమించును",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        }
-      ]
-    },
-    {
-      "v": 27,
-      "words": [
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
+          "original": "ἀφῆκαν",
+          "translit_english": "G0863",
           "telugu_gloss": "వారు",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
+          "strongs": "G0863",
+          "grammar": "V-AAI-3P"
         },
         {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "యెరూషలేమునకు",
-          "strongs": "G2316",
+          "original": "αὐτούς",
+          "translit_english": "G0848",
+          "telugu_gloss": "పోనిచ్చిరి",
+          "strongs": "G0848",
+          "grammar": "P-APM"
+        }
+      ]
+    },
+    {
+      "verse_number": 7,
+      "words": [
+        {
+          "original": "καὶ",
+          "translit_english": "kaí",
+          "telugu_gloss": "మరియు",
+          "strongs": "G2532",
+          "grammar": "CONJ"
+        },
+        {
+          "original": "φέρουσιν",
+          "translit_english": "phérō",
+          "telugu_gloss": "వారు",
+          "strongs": "G5342",
+          "grammar": "V-PAI-3P"
+        },
+        {
+          "original": "τὸν",
+          "translit_english": "ho",
+          "telugu_gloss": "ఆ",
+          "strongs": "G3588",
+          "grammar": "T-ASM"
+        },
+        {
+          "original": "πῶλον",
+          "translit_english": "pōlos",
+          "telugu_gloss": "గాడిదపిల్లను",
+          "strongs": "G4454",
+          "grammar": "N-ASM"
+        },
+        {
+          "original": "πρὸς",
+          "translit_english": "prós",
+          "telugu_gloss": "యేసునొద్దకు",
+          "strongs": "G4314",
+          "grammar": "PREP"
+        },
+        {
+          "original": "τὸν",
+          "translit_english": "ho",
+          "telugu_gloss": "ఆ",
+          "strongs": "G3588",
+          "grammar": "T-ASM"
+        },
+        {
+          "original": "Ἰησοῦν",
+          "translit_english": "Iēsoûs",
+          "telugu_gloss": "యేసు",
+          "strongs": "G2424",
+          "grammar": "N-ASM"
+        },
+        {
+          "original": "καὶ",
+          "translit_english": "kaí",
+          "telugu_gloss": "మరియు",
+          "strongs": "G2532",
+          "grammar": "CONJ"
+        },
+        {
+          "original": "ἐπιβάλλουσιν",
+          "translit_english": "epibállō",
+          "telugu_gloss": "తమ",
+          "strongs": "G1911",
+          "grammar": "V-PAI-3P"
+        },
+        {
+          "original": "αὐτῷ",
+          "translit_english": "G0846",
+          "telugu_gloss": "బట్టలు",
+          "strongs": "G0846",
+          "grammar": "P-DSM"
+        },
+        {
+          "original": "τὰ",
+          "translit_english": "ho",
+          "telugu_gloss": "ఆ",
+          "strongs": "G3588",
+          "grammar": "T-APN"
+        },
+        {
+          "original": "ἱμάτια",
+          "translit_english": "himátion",
+          "telugu_gloss": "వేయగా",
+          "strongs": "G2440",
+          "grammar": "N-APN"
+        },
+        {
+          "original": "αὐτῶν",
+          "translit_english": "G0846",
+          "telugu_gloss": "వేయగా",
+          "strongs": "G0846",
+          "grammar": "P-GPM"
+        },
+        {
+          "original": "καὶ",
+          "translit_english": "kaí",
+          "telugu_gloss": "మరియు",
+          "strongs": "G2532",
+          "grammar": "CONJ"
+        },
+        {
+          "original": "ἐκάθισεν",
+          "translit_english": "kathízō",
+          "telugu_gloss": "దానిమీద",
+          "strongs": "G2523",
+          "grammar": "V-AAI-3S"
+        },
+        {
+          "original": "ἐπ",
+          "translit_english": "epí",
+          "telugu_gloss": "కూర్చుం",
+          "strongs": "G1909",
+          "grammar": "PREP"
+        },
+        {
+          "original": "αὐτόν",
+          "translit_english": "G0846",
+          "telugu_gloss": "డెను",
+          "strongs": "G0846",
+          "grammar": "P-ASM"
+        }
+      ]
+    },
+    {
+      "verse_number": 8,
+      "words": [
+        {
+          "original": "καὶ",
+          "translit_english": "kaí",
+          "telugu_gloss": "మరియు",
+          "strongs": "G2532",
+          "grammar": "CONJ"
+        },
+        {
+          "original": "πολλοὶ",
+          "translit_english": "polýs",
+          "telugu_gloss": "అనేకులు",
+          "strongs": "G4183",
+          "grammar": "A-NPM"
+        },
+        {
+          "original": "τὰ",
+          "translit_english": "ho",
+          "telugu_gloss": "ఆ",
+          "strongs": "G3588",
+          "grammar": "T-APN"
+        },
+        {
+          "original": "ἱμάτια",
+          "translit_english": "himátion",
+          "telugu_gloss": "బట్టలను",
+          "strongs": "G2440",
+          "grammar": "N-APN"
+        },
+        {
+          "original": "αὐτῶν",
+          "translit_english": "G0846",
+          "telugu_gloss": "దారి",
+          "strongs": "G0846",
+          "grammar": "P-GPM"
+        },
+        {
+          "original": "ἔστρωσαν",
+          "translit_english": "strṓnnymi",
+          "telugu_gloss": "దారి",
+          "strongs": "G4766",
+          "grammar": "V-AAI-3P"
+        },
+        {
+          "original": "εἰς",
+          "translit_english": "eis",
+          "telugu_gloss": "పొడుగునను",
+          "strongs": "G1519",
+          "grammar": "PREP"
+        },
+        {
+          "original": "τὴν",
+          "translit_english": "ho",
+          "telugu_gloss": "ఆ",
+          "strongs": "G3588",
+          "grammar": "T-ASF"
+        },
+        {
+          "original": "ὁδόν",
+          "translit_english": "hodós",
+          "telugu_gloss": "కొందరు",
+          "strongs": "G3598",
+          "grammar": "N-ASF"
+        },
+        {
+          "original": "ἄλλοι",
+          "translit_english": "G0243",
+          "telugu_gloss": "కొందరు",
+          "strongs": "G0243",
+          "grammar": "A-NPM"
+        },
+        {
+          "original": "δὲ",
+          "translit_english": "dé",
+          "telugu_gloss": "తాము",
+          "strongs": "G1161",
+          "grammar": "CONJ"
+        },
+        {
+          "original": "στιβάδας",
+          "translit_english": "stoibás",
+          "telugu_gloss": "పొలములలో",
+          "strongs": "G4746",
+          "grammar": "N-APF"
+        },
+        {
+          "original": "κόψαντες",
+          "translit_english": "kóptō",
+          "telugu_gloss": "నరికిన",
+          "strongs": "G2875",
+          "grammar": "V-AAP-NPM"
+        },
+        {
+          "original": "ἐκ",
+          "translit_english": "ek",
+          "telugu_gloss": "నరికిన",
+          "strongs": "G1537",
+          "grammar": "PREP"
+        },
+        {
+          "original": "τῶν",
+          "translit_english": "ho",
+          "telugu_gloss": "ఆ",
+          "strongs": "G3588",
+          "grammar": "T-GPM"
+        },
+        {
+          "original": "ἀγρῶν",
+          "translit_english": "G0068",
+          "telugu_gloss": "పరచిరి",
+          "strongs": "G0068",
+          "grammar": "N-GPM"
+        }
+      ]
+    },
+    {
+      "verse_number": 9,
+      "words": [
+        {
+          "original": "καὶ",
+          "translit_english": "kaí",
+          "telugu_gloss": "మరియు",
+          "strongs": "G2532",
+          "grammar": "CONJ"
+        },
+        {
+          "original": "οἱ",
+          "translit_english": "ho",
+          "telugu_gloss": "ఆ",
+          "strongs": "G3588",
+          "grammar": "T-NPM"
+        },
+        {
+          "original": "προάγοντες",
+          "translit_english": "proágō",
+          "telugu_gloss": "ముందు",
+          "strongs": "G4254",
+          "grammar": "V-PAP-NPM"
+        },
+        {
+          "original": "καὶ",
+          "translit_english": "kaí",
+          "telugu_gloss": "మరియు",
+          "strongs": "G2532",
+          "grammar": "CONJ"
+        },
+        {
+          "original": "οἱ",
+          "translit_english": "ho",
+          "telugu_gloss": "ఆ",
+          "strongs": "G3588",
+          "grammar": "T-NPM"
+        },
+        {
+          "original": "ἀκολουθοῦντες",
+          "translit_english": "G0190",
+          "telugu_gloss": "వెళ్లుచుండినవారును",
+          "strongs": "G0190",
+          "grammar": "V-PAP-NPM"
+        },
+        {
+          "original": "ἔκραζον",
+          "translit_english": "krázō",
+          "telugu_gloss": "వెనుక",
+          "strongs": "G2896",
+          "grammar": "V-IAI-3P"
+        },
+        {
+          "original": "Ὡσαννά",
+          "translit_english": "hōsanná",
+          "telugu_gloss": "వెనుక",
+          "strongs": "G5614",
+          "grammar": "HEB"
+        },
+        {
+          "original": "Εὐλογημένος",
+          "translit_english": "eulogéō",
+          "telugu_gloss": "వచ్చుచుండిన",
+          "strongs": "G2127",
+          "grammar": "V-RPP-NSM"
+        },
+        {
+          "original": "ὁ",
+          "translit_english": "ho",
+          "telugu_gloss": "ఆ",
+          "strongs": "G3588",
+          "grammar": "T-NSM"
+        },
+        {
+          "original": "ἐρχόμενος",
+          "translit_english": "érchomai",
+          "telugu_gloss": "వారును",
+          "strongs": "G2064",
+          "grammar": "V-PNP-NSM"
+        },
+        {
+          "original": "ἐν",
+          "translit_english": "en",
+          "telugu_gloss": "ఆదియందు",
+          "strongs": "G1722",
+          "grammar": "PREP"
+        },
+        {
+          "original": "ὀνόματι",
+          "translit_english": "ónoma",
+          "telugu_gloss": "జయము1",
+          "strongs": "G3686",
+          "grammar": "N-DSN"
+        },
+        {
+          "original": "κυρίου",
+          "translit_english": "kýrios",
+          "telugu_gloss": "జయము1",
+          "strongs": "G2962",
+          "grammar": "N-GSM"
+        }
+      ]
+    },
+    {
+      "verse_number": 10,
+      "words": [
+        {
+          "original": "Εὐλογημένη",
+          "translit_english": "eulogéō",
+          "telugu_gloss": "ప్రభువు",
+          "strongs": "G2127",
+          "grammar": "V-RPP-NSF"
+        },
+        {
+          "original": "ἡ",
+          "translit_english": "ho",
+          "telugu_gloss": "ఆ",
+          "strongs": "G3588",
+          "grammar": "T-NSF"
+        },
+        {
+          "original": "ἐρχομένη",
+          "translit_english": "érchomai",
+          "telugu_gloss": "వచ్చువాడు",
+          "strongs": "G2064",
+          "grammar": "V-PNP-NSF"
+        },
+        {
+          "original": "βασιλεία",
+          "translit_english": "G0932",
+          "telugu_gloss": "వచ్చుచున్న",
+          "strongs": "G0932",
+          "grammar": "N-NSF"
+        },
+        {
+          "original": "τοῦ",
+          "translit_english": "ho",
+          "telugu_gloss": "ఆ",
+          "strongs": "G3588",
+          "grammar": "T-GSM"
+        },
+        {
+          "original": "πατρὸς",
+          "translit_english": "patḗr",
+          "telugu_gloss": "తండ్రియైన",
+          "strongs": "G3962",
           "grammar": "N-GSM"
         },
         {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "తిరిగి",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
+          "original": "ἡμῶν",
+          "translit_english": "hēmōn",
+          "telugu_gloss": "రాజ్యము",
+          "strongs": "G2257",
+          "grammar": "P-1GP"
         },
         {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "వచ్చిరి",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
+          "original": "Δαυίδ",
+          "translit_english": "Dabíd",
+          "telugu_gloss": "స్తుతింపబడుగాక",
+          "strongs": "G1138",
+          "grammar": "N-PRI"
         },
         {
-          "original": "λόγος",
-          "translit_english": "logos",
+          "original": "Ὡσαννὰ",
+          "translit_english": "hōsanná",
+          "telugu_gloss": "సర్వోన్నతమైన",
+          "strongs": "G5614",
+          "grammar": "HEB"
+        },
+        {
+          "original": "ἐν",
+          "translit_english": "en",
+          "telugu_gloss": "ఆదియందు",
+          "strongs": "G1722",
+          "grammar": "PREP"
+        },
+        {
+          "original": "τοῖς",
+          "translit_english": "ho",
+          "telugu_gloss": "ఆ",
+          "strongs": "G3588",
+          "grammar": "T-DPN"
+        },
+        {
+          "original": "ὑψίστοις",
+          "translit_english": "hýpsistos",
+          "telugu_gloss": "కేకలు",
+          "strongs": "G5310",
+          "grammar": "A-DPN-S"
+        }
+      ]
+    },
+    {
+      "verse_number": 11,
+      "words": [
+        {
+          "original": "Καὶ",
+          "translit_english": "kaí",
+          "telugu_gloss": "మరియు",
+          "strongs": "G2532",
+          "grammar": "CONJ"
+        },
+        {
+          "original": "εἰσῆλθεν",
+          "translit_english": "eisérchomai",
           "telugu_gloss": "ఆయన",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
+          "strongs": "G1525",
+          "grammar": "V-2AAI-3S"
         },
         {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "దేవాలయములో",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
+          "original": "εἰς",
+          "translit_english": "eis",
+          "telugu_gloss": "యెరూషలేమునకు",
+          "strongs": "G1519",
+          "grammar": "PREP"
         },
         {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "తిరుగుచుండగా",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
+          "original": "Ἱεροσόλυμα",
+          "translit_english": "Hierosólyma",
+          "telugu_gloss": "వచ్చి",
+          "strongs": "G2414",
+          "grammar": "N-APN"
         },
         {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "ప్రధానయాజకులును",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
+          "original": "εἰς",
+          "translit_english": "eis",
+          "telugu_gloss": "వచ్చి",
+          "strongs": "G1519",
+          "grammar": "PREP"
         },
         {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "శాస్త్రులును",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
+          "original": "τὸ",
+          "translit_english": "ho",
+          "telugu_gloss": "ఆ",
+          "strongs": "G3588",
+          "grammar": "T-ASN"
         },
         {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "పెద్దలును",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
+          "original": "ἱερόν",
+          "translit_english": "hierón",
+          "telugu_gloss": "ప్రవేశించి",
+          "strongs": "G2411",
+          "grammar": "N-ASN"
         },
         {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "ఆయనయొద్దకువచ్చి",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
+          "original": "καὶ",
+          "translit_english": "kaí",
+          "telugu_gloss": "మరియు",
+          "strongs": "G2532",
+          "grammar": "CONJ"
+        },
+        {
+          "original": "περιβλεψάμενος",
+          "translit_english": "periblépō",
+          "telugu_gloss": "చుట్టు",
+          "strongs": "G4017",
+          "grammar": "V-AMP-NSM"
+        },
+        {
+          "original": "πάντα",
+          "translit_english": "pâs",
+          "telugu_gloss": "సమస్తమును",
+          "strongs": "G3956",
+          "grammar": "A-APN"
+        },
+        {
+          "original": "ὀψὲ",
+          "translit_english": "opsé",
+          "telugu_gloss": "సమస్తమును",
+          "strongs": "G3796",
+          "grammar": "ADV"
+        },
+        {
+          "original": "ἤδη",
+          "translit_english": "ḗdē",
+          "telugu_gloss": "చూచి",
+          "strongs": "G2235",
+          "grammar": "ADV"
+        },
+        {
+          "original": "οὔσης",
+          "translit_english": "ṓn",
+          "telugu_gloss": "సాయంకాల",
+          "strongs": "G5607",
+          "grammar": "V-PAP-GSF"
+        },
+        {
+          "original": "τῆς",
+          "translit_english": "ho",
+          "telugu_gloss": "ఆ",
+          "strongs": "G3588",
+          "grammar": "T-GSF"
+        },
+        {
+          "original": "ὥρας",
+          "translit_english": "hṓra",
+          "telugu_gloss": "మైనందున",
+          "strongs": "G5610",
+          "grammar": "N-GSF"
+        },
+        {
+          "original": "ἐξῆλθεν",
+          "translit_english": "exérchomai",
+          "telugu_gloss": "పండ్రెండుమందితో",
+          "strongs": "G1831",
+          "grammar": "V-2AAI-3S"
+        },
+        {
+          "original": "εἰς",
+          "translit_english": "eis",
+          "telugu_gloss": "పండ్రెండుమందితో",
+          "strongs": "G1519",
+          "grammar": "PREP"
+        },
+        {
+          "original": "Βηθανίαν",
+          "translit_english": "G0963",
+          "telugu_gloss": "కూడ",
+          "strongs": "G0963",
+          "grammar": "N-ASF"
+        },
+        {
+          "original": "μετὰ",
+          "translit_english": "metá",
+          "telugu_gloss": "బేతనియకు",
+          "strongs": "G3326",
+          "grammar": "PREP"
+        },
+        {
+          "original": "τῶν",
+          "translit_english": "ho",
+          "telugu_gloss": "ఆ",
+          "strongs": "G3588",
+          "grammar": "T-GPM"
+        },
+        {
+          "original": "δώδεκα",
+          "translit_english": "dṓdeka",
+          "telugu_gloss": "వెళ్లెను",
+          "strongs": "G1427",
+          "grammar": "A-NUI"
         }
       ]
     },
     {
-      "v": 28,
+      "verse_number": 12,
       "words": [
         {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "నీవు",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
+          "original": "Καὶ",
+          "translit_english": "kaí",
+          "telugu_gloss": "మరియు",
+          "strongs": "G2532",
+          "grammar": "CONJ"
         },
         {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "ఏ",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
+          "original": "τῇ",
+          "translit_english": "ho",
+          "telugu_gloss": "ఆ",
+          "strongs": "G3588",
+          "grammar": "T-DSF"
         },
         {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "అధి",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
+          "original": "ἐπαύριον",
+          "translit_english": "epaúrion",
+          "telugu_gloss": "వారు",
+          "strongs": "G1887",
+          "grammar": "ADV"
         },
         {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "కారమువలన",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
+          "original": "ἐξελθόντων",
+          "translit_english": "exérchomai",
+          "telugu_gloss": "బేతనియనుండి",
+          "strongs": "G1831",
+          "grammar": "V-2AAP-GPM"
         },
         {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "ఈ",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
+          "original": "αὐτῶν",
+          "translit_english": "G0846",
+          "telugu_gloss": "వెళ్లుచుండగా",
+          "strongs": "G0846",
+          "grammar": "P-GPM"
         },
         {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "కార్యములు",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
+          "original": "ἀπὸ",
+          "translit_english": "G0575",
+          "telugu_gloss": "వెళ్లుచుండగా",
+          "strongs": "G0575",
+          "grammar": "PREP"
         },
         {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "చేయుచున్నావు",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
+          "original": "Βηθανίας",
+          "translit_english": "G0963",
+          "telugu_gloss": "ఆయన",
+          "strongs": "G0963",
+          "grammar": "N-GSF"
         },
         {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "వీటిని",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "చేయుటకు",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "ఈ",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "యధికారము",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "నీకెవడిచ్చెనని",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "అడిగిరి",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
+          "original": "ἐπείνασεν",
+          "translit_english": "peináō",
+          "telugu_gloss": "ఆకలిగొని",
+          "strongs": "G3983",
+          "grammar": "V-AAI-3S"
         }
       ]
     },
     {
-      "v": 29,
+      "verse_number": 13,
       "words": [
         {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "అందుకు",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
+          "original": "καὶ",
+          "translit_english": "kaí",
+          "telugu_gloss": "మరియు",
+          "strongs": "G2532",
+          "grammar": "CONJ"
         },
         {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "యేసునేనును",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
+          "original": "ἰδὼν",
+          "translit_english": "horáō",
+          "telugu_gloss": "ఆకులుగల",
+          "strongs": "G3708",
+          "grammar": "V-2AAP-NSM"
         },
         {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "మిమ్మును",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
+          "original": "συκῆν",
+          "translit_english": "sykē",
           "telugu_gloss": "ఒక",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
+          "strongs": "G4808",
+          "grammar": "N-ASF"
         },
         {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "మాట",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
+          "original": "ἀπὸ",
+          "translit_english": "G0575",
+          "telugu_gloss": "అంజూరపు",
+          "strongs": "G0575",
+          "grammar": "PREP"
         },
         {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "అడిగెదను",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
+          "original": "μακρόθεν",
+          "translit_english": "makróthen",
+          "telugu_gloss": "చెట్టును",
+          "strongs": "G3113",
+          "grammar": "ADV"
         },
         {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "నా",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
+          "original": "ἔχουσαν",
+          "translit_english": "échō",
+          "telugu_gloss": "దూరము",
+          "strongs": "G2192",
+          "grammar": "V-PAP-ASF"
         },
         {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "కుత్తరమియ్యుడి",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
+          "original": "φύλλα",
+          "translit_english": "phýllon",
+          "telugu_gloss": "దూరము",
+          "strongs": "G5444",
+          "grammar": "N-APN"
         },
         {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "అప్పుడు",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
+          "original": "ἦλθεν",
+          "translit_english": "érchomai",
+          "telugu_gloss": "నుండి",
+          "strongs": "G2064",
+          "grammar": "V-2AAI-3S"
         },
         {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "నేను",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
+          "original": "εἰ",
+          "translit_english": "ei",
+          "telugu_gloss": "చూచి",
+          "strongs": "G1487",
+          "grammar": "COND"
         },
         {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "ఏ",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
+          "original": "ἄρα",
+          "translit_english": "G0686",
+          "telugu_gloss": "దానిమీద",
+          "strongs": "G0686",
+          "grammar": "PRT-I"
         },
         {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "అధికారమువలన",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
+          "original": "τι",
+          "translit_english": "tìs",
+          "telugu_gloss": "ఏమైనను",
+          "strongs": "G5100",
+          "grammar": "X-ASN"
         },
         {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "వీటిని",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
+          "original": "εὑρήσει",
+          "translit_english": "heurískō",
+          "telugu_gloss": "దొరకునేమో",
+          "strongs": "G2147",
+          "grammar": "V-FAI-3S"
         },
         {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "చేయుచున్నానో",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
+          "original": "ἐν",
+          "translit_english": "en",
+          "telugu_gloss": "ఆదియందు",
+          "strongs": "G1722",
+          "grammar": "PREP"
         },
         {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "అది",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "మీతో",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "చెప్పుదును",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        }
-      ]
-    },
-    {
-      "v": 30,
-      "words": [
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "యోహాను",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "ఇచ్చిన",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "బాప్తిస్మము",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "పరలోకమునుండి",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "కలిగినదా",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "మనుష్యులనుండి",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "కలిగినదా",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "నాకు",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "ఉత్తరమియ్యుడని",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "చెప్పెను",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        }
-      ]
-    },
-    {
-      "v": 31,
-      "words": [
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "అందుకు",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "వారుమనము",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "పరలోకమునుండి",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "కలిగినదని",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "చెప్పినయెడల",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "ఆయనఆలాగైతే",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "మీరు",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "ఎందుకతని",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "నమ్మలేదని",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "అడుగును",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        }
-      ]
-    },
-    {
-      "v": 32,
-      "words": [
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "మనుష్యులవలన",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "కలిగిన",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "దని",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
-        },
-        {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "చెప్పుదుమా",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
-        },
-        {
-          "original": "λόγος",
-          "translit_english": "logos",
+          "original": "αὐτῇ",
+          "translit_english": "G0846",
           "telugu_gloss": "అని",
-          "strongs": "G3056",
+          "strongs": "G0846",
+          "grammar": "P-DSF"
+        },
+        {
+          "original": "καὶ",
+          "translit_english": "kaí",
+          "telugu_gloss": "మరియు",
+          "strongs": "G2532",
+          "grammar": "CONJ"
+        },
+        {
+          "original": "ἐλθὼν",
+          "translit_english": "érchomai",
+          "telugu_gloss": "దానియొద్దకు",
+          "strongs": "G2064",
+          "grammar": "V-2AAP-NSM"
+        },
+        {
+          "original": "ἐπ",
+          "translit_english": "epí",
+          "telugu_gloss": "వచ్చి",
+          "strongs": "G1909",
+          "grammar": "PREP"
+        },
+        {
+          "original": "αὐτὴν",
+          "translit_english": "G0848",
+          "telugu_gloss": "చూడగా",
+          "strongs": "G0848",
+          "grammar": "P-ASF"
+        },
+        {
+          "original": "οὐδὲν",
+          "translit_english": "oudeís",
+          "telugu_gloss": "చూడగా",
+          "strongs": "G3762",
+          "grammar": "A-ASN-N"
+        },
+        {
+          "original": "εὗρεν",
+          "translit_english": "heurískō",
+          "telugu_gloss": "ఆకులు",
+          "strongs": "G2147",
+          "grammar": "V-2AAI-3S"
+        },
+        {
+          "original": "εἰ",
+          "translit_english": "ei",
+          "telugu_gloss": "తప్ప",
+          "strongs": "G1487",
+          "grammar": "COND"
+        },
+        {
+          "original": "μὴ",
+          "translit_english": "mḗ",
+          "telugu_gloss": "మరేమియు",
+          "strongs": "G3361",
+          "grammar": "PRT-N"
+        },
+        {
+          "original": "φύλλα",
+          "translit_english": "phýllon",
+          "telugu_gloss": "కనబడలేదు",
+          "strongs": "G5444",
+          "grammar": "N-APN"
+        },
+        {
+          "original": "ὁ",
+          "translit_english": "ho",
+          "telugu_gloss": "ఆ",
+          "strongs": "G3588",
+          "grammar": "T-NSM"
+        },
+        {
+          "original": "γὰρ",
+          "translit_english": "gár",
+          "telugu_gloss": "ఏలయనగా",
+          "strongs": "G1063",
+          "grammar": "CONJ"
+        },
+        {
+          "original": "καιρὸς",
+          "translit_english": "kairós",
+          "telugu_gloss": "అది",
+          "strongs": "G2540",
           "grammar": "N-NSM"
         },
         {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "తమలోతాము",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
+          "original": "οὐκ",
+          "translit_english": "ou",
+          "telugu_gloss": "అంజూరపు",
+          "strongs": "G3756",
+          "grammar": "PRT-N"
         },
         {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "ఆలోచించుకొనిరి",
-          "strongs": "G3056",
+          "original": "ἦν",
+          "translit_english": "ēn",
+          "telugu_gloss": "ఉండెను",
+          "strongs": "G2258",
+          "grammar": "V-IAI-3S"
+        },
+        {
+          "original": "σύκων",
+          "translit_english": "sŷkon",
+          "telugu_gloss": "కాదు",
+          "strongs": "G4810",
+          "grammar": "N-GPN"
+        }
+      ]
+    },
+    {
+      "verse_number": 14,
+      "words": [
+        {
+          "original": "καὶ",
+          "translit_english": "kaí",
+          "telugu_gloss": "మరియు",
+          "strongs": "G2532",
+          "grammar": "CONJ"
+        },
+        {
+          "original": "ἀποκριθεὶς",
+          "translit_english": "G0611",
+          "telugu_gloss": "అందుకాయనఇకమీదట",
+          "strongs": "G0611",
+          "grammar": "V-AOP-NSM"
+        },
+        {
+          "original": "εἶπεν",
+          "translit_english": "épō",
+          "telugu_gloss": "ఎన్నటి",
+          "strongs": "G2036",
+          "grammar": "V-2AAI-3S"
+        },
+        {
+          "original": "αὐτῇ",
+          "translit_english": "G0846",
+          "telugu_gloss": "కిని",
+          "strongs": "G0846",
+          "grammar": "P-DSF"
+        },
+        {
+          "original": "Μηκέτι",
+          "translit_english": "mēkéti",
+          "telugu_gloss": "నీ",
+          "strongs": "G3371",
+          "grammar": "ADV-N"
+        },
+        {
+          "original": "εἰς",
+          "translit_english": "eis",
+          "telugu_gloss": "నీ",
+          "strongs": "G1519",
+          "grammar": "PREP"
+        },
+        {
+          "original": "τὸν",
+          "translit_english": "ho",
+          "telugu_gloss": "ఆ",
+          "strongs": "G3588",
+          "grammar": "T-ASM"
+        },
+        {
+          "original": "αἰῶνα",
+          "translit_english": "G0165",
+          "telugu_gloss": "ఎవరును",
+          "strongs": "G0165",
+          "grammar": "N-ASM"
+        },
+        {
+          "original": "ἐκ",
+          "translit_english": "ek",
+          "telugu_gloss": "తినకుందురు",
+          "strongs": "G1537",
+          "grammar": "PREP"
+        },
+        {
+          "original": "σοῦ",
+          "translit_english": "soû",
+          "telugu_gloss": "గాక",
+          "strongs": "G4675",
+          "grammar": "P-2GS"
+        },
+        {
+          "original": "μηδεὶς",
+          "translit_english": "mēdeís",
+          "telugu_gloss": "గాక",
+          "strongs": "G3367",
+          "grammar": "A-NSM-N"
+        },
+        {
+          "original": "καρπὸν",
+          "translit_english": "karpós",
+          "telugu_gloss": "అని",
+          "strongs": "G2590",
+          "grammar": "N-ASM"
+        },
+        {
+          "original": "φάγοι",
+          "translit_english": "phágō",
+          "telugu_gloss": "చెప్పెను",
+          "strongs": "G5315",
+          "grammar": "V-2AAO-3S"
+        },
+        {
+          "original": "καὶ",
+          "translit_english": "kaí",
+          "telugu_gloss": "మరియు",
+          "strongs": "G2532",
+          "grammar": "CONJ"
+        },
+        {
+          "original": "ἤκουον",
+          "translit_english": "G0191",
+          "telugu_gloss": "ఇది",
+          "strongs": "G0191",
+          "grammar": "V-IAI-3P"
+        },
+        {
+          "original": "οἱ",
+          "translit_english": "ho",
+          "telugu_gloss": "ఆ",
+          "strongs": "G3588",
+          "grammar": "T-NPM"
+        },
+        {
+          "original": "μαθηταὶ",
+          "translit_english": "mathētḗs",
+          "telugu_gloss": "శిష్యులు",
+          "strongs": "G3101",
+          "grammar": "N-NPM"
+        },
+        {
+          "original": "αὐτοῦ",
+          "translit_english": "G0846",
+          "telugu_gloss": "వినిరి",
+          "strongs": "G0846",
+          "grammar": "P-GSM"
+        }
+      ]
+    },
+    {
+      "verse_number": 15,
+      "words": [
+        {
+          "original": "Καὶ",
+          "translit_english": "kaí",
+          "telugu_gloss": "మరియు",
+          "strongs": "G2532",
+          "grammar": "CONJ"
+        },
+        {
+          "original": "ἔρχονται",
+          "translit_english": "érchomai",
+          "telugu_gloss": "వారు",
+          "strongs": "G2064",
+          "grammar": "V-PNI-3P"
+        },
+        {
+          "original": "εἰς",
+          "translit_english": "eis",
+          "telugu_gloss": "యెరూషలేమునకు",
+          "strongs": "G1519",
+          "grammar": "PREP"
+        },
+        {
+          "original": "Ἱεροσόλυμα",
+          "translit_english": "Hierosólyma",
+          "telugu_gloss": "యెరూషలేమునకు",
+          "strongs": "G2414",
+          "grammar": "N-APN"
+        },
+        {
+          "original": "καὶ",
+          "translit_english": "kaí",
+          "telugu_gloss": "మరియు",
+          "strongs": "G2532",
+          "grammar": "CONJ"
+        },
+        {
+          "original": "εἰσελθὼν",
+          "translit_english": "eisérchomai",
+          "telugu_gloss": "ఆయన",
+          "strongs": "G1525",
+          "grammar": "V-2AAP-NSM"
+        },
+        {
+          "original": "εἰς",
+          "translit_english": "eis",
+          "telugu_gloss": "ఆయన",
+          "strongs": "G1519",
+          "grammar": "PREP"
+        },
+        {
+          "original": "τὸ",
+          "translit_english": "ho",
+          "telugu_gloss": "ఆ",
+          "strongs": "G3588",
+          "grammar": "T-ASN"
+        },
+        {
+          "original": "ἱερὸν",
+          "translit_english": "hierón",
+          "telugu_gloss": "లయములో",
+          "strongs": "G2411",
+          "grammar": "N-ASN"
+        },
+        {
+          "original": "ἤρξατο",
+          "translit_english": "G0756",
+          "telugu_gloss": "లయములో",
+          "strongs": "G0756",
+          "grammar": "V-ADI-3S"
+        },
+        {
+          "original": "ἐκβάλλειν",
+          "translit_english": "ekbállō",
+          "telugu_gloss": "ప్రవేశించి",
+          "strongs": "G1544",
+          "grammar": "V-PAN"
+        },
+        {
+          "original": "τοὺς",
+          "translit_english": "ho",
+          "telugu_gloss": "ఆ",
+          "strongs": "G3588",
+          "grammar": "T-APM"
+        },
+        {
+          "original": "πωλοῦντας",
+          "translit_english": "pōléō",
+          "telugu_gloss": "దేవాలయములో",
+          "strongs": "G4453",
+          "grammar": "V-PAP-APM"
+        },
+        {
+          "original": "καὶ",
+          "translit_english": "kaí",
+          "telugu_gloss": "మరియు",
+          "strongs": "G2532",
+          "grammar": "CONJ"
+        },
+        {
+          "original": "τοὺς",
+          "translit_english": "ho",
+          "telugu_gloss": "ఆ",
+          "strongs": "G3588",
+          "grammar": "T-APM"
+        },
+        {
+          "original": "ἀγοράζοντας",
+          "translit_english": "G0059",
+          "telugu_gloss": "విక్రయ",
+          "strongs": "G0059",
+          "grammar": "V-PAP-APM"
+        },
+        {
+          "original": "ἐν",
+          "translit_english": "en",
+          "telugu_gloss": "ఆదియందు",
+          "strongs": "G1722",
+          "grammar": "PREP"
+        },
+        {
+          "original": "τῷ",
+          "translit_english": "ho",
+          "telugu_gloss": "ఆ",
+          "strongs": "G3588",
+          "grammar": "T-DSN"
+        },
+        {
+          "original": "ἱερῷ",
+          "translit_english": "hierós",
+          "telugu_gloss": "చేయువారిని",
+          "strongs": "G2413",
+          "grammar": "N-DSN"
+        },
+        {
+          "original": "καὶ",
+          "translit_english": "kaí",
+          "telugu_gloss": "మరియు",
+          "strongs": "G2532",
+          "grammar": "CONJ"
+        },
+        {
+          "original": "τὰς",
+          "translit_english": "ho",
+          "telugu_gloss": "ఆ",
+          "strongs": "G3588",
+          "grammar": "T-APF"
+        },
+        {
+          "original": "τραπέζας",
+          "translit_english": "trápeza",
+          "telugu_gloss": "నారంభించి",
+          "strongs": "G5132",
+          "grammar": "N-APF"
+        },
+        {
+          "original": "τῶν",
+          "translit_english": "ho",
+          "telugu_gloss": "ఆ",
+          "strongs": "G3588",
+          "grammar": "T-GPM"
+        },
+        {
+          "original": "κολλυβιστῶν",
+          "translit_english": "kollybistḗs",
+          "telugu_gloss": "రూకలు",
+          "strongs": "G2855",
+          "grammar": "N-GPM"
+        },
+        {
+          "original": "καὶ",
+          "translit_english": "kaí",
+          "telugu_gloss": "మరియు",
+          "strongs": "G2532",
+          "grammar": "CONJ"
+        },
+        {
+          "original": "τὰς",
+          "translit_english": "ho",
+          "telugu_gloss": "ఆ",
+          "strongs": "G3588",
+          "grammar": "T-APF"
+        },
+        {
+          "original": "καθέδρας",
+          "translit_english": "kathédra",
+          "telugu_gloss": "బల్లలను",
+          "strongs": "G2515",
+          "grammar": "N-APF"
+        },
+        {
+          "original": "τῶν",
+          "translit_english": "ho",
+          "telugu_gloss": "ఆ",
+          "strongs": "G3588",
+          "grammar": "T-GPM"
+        },
+        {
+          "original": "πωλούντων",
+          "translit_english": "pōléō",
+          "telugu_gloss": "గువ్వలమ్మువారి",
+          "strongs": "G4453",
+          "grammar": "V-PAP-GPM"
+        },
+        {
+          "original": "τὰς",
+          "translit_english": "ho",
+          "telugu_gloss": "ఆ",
+          "strongs": "G3588",
+          "grammar": "T-APF"
+        },
+        {
+          "original": "περιστερὰς",
+          "translit_english": "peristerá",
+          "telugu_gloss": "పీటలను",
+          "strongs": "G4058",
+          "grammar": "N-APF"
+        },
+        {
+          "original": "κατέστρεψεν",
+          "translit_english": "katastréphō",
+          "telugu_gloss": "పడద్రోసి",
+          "strongs": "G2690",
+          "grammar": "V-AAI-3S"
+        }
+      ]
+    },
+    {
+      "verse_number": 16,
+      "words": [
+        {
+          "original": "καὶ",
+          "translit_english": "kaí",
+          "telugu_gloss": "మరియు",
+          "strongs": "G2532",
+          "grammar": "CONJ"
+        },
+        {
+          "original": "οὐκ",
+          "translit_english": "ou",
+          "telugu_gloss": "దేవాలయము",
+          "strongs": "G3756",
+          "grammar": "PRT-N"
+        },
+        {
+          "original": "ἤφιεν",
+          "translit_english": "G0863",
+          "telugu_gloss": "గుండ",
+          "strongs": "G0863",
+          "grammar": "V-IAI-3S"
+        },
+        {
+          "original": "ἵνα",
+          "translit_english": "hína",
+          "telugu_gloss": "గుండ",
+          "strongs": "G2443",
+          "grammar": "CONJ"
+        },
+        {
+          "original": "τις",
+          "translit_english": "tìs",
+          "telugu_gloss": "ఏపాత్రయైనను",
+          "strongs": "G5100",
+          "grammar": "X-NSM"
+        },
+        {
+          "original": "διενέγκῃ",
+          "translit_english": "diaphérō",
+          "telugu_gloss": "ఎవనిని",
+          "strongs": "G1308",
+          "grammar": "V-2AAS-3S"
+        },
+        {
+          "original": "σκεῦος",
+          "translit_english": "skeûos",
+          "telugu_gloss": "ఎవనిని",
+          "strongs": "G4632",
+          "grammar": "N-ASN"
+        },
+        {
+          "original": "διὰ",
+          "translit_english": "diá",
+          "telugu_gloss": "తేనియ్య",
+          "strongs": "G1223",
+          "grammar": "PREP"
+        },
+        {
+          "original": "τοῦ",
+          "translit_english": "ho",
+          "telugu_gloss": "ఆ",
+          "strongs": "G3588",
+          "grammar": "T-GSN"
+        },
+        {
+          "original": "ἱεροῦ",
+          "translit_english": "hierón",
+          "telugu_gloss": "కుండెను",
+          "strongs": "G2411",
+          "grammar": "N-GSN"
+        }
+      ]
+    },
+    {
+      "verse_number": 17,
+      "words": [
+        {
+          "original": "καὶ",
+          "translit_english": "kaí",
+          "telugu_gloss": "మరియు",
+          "strongs": "G2532",
+          "grammar": "CONJ"
+        },
+        {
+          "original": "ἐδίδασκεν",
+          "translit_english": "didáskō",
+          "telugu_gloss": "మరియు",
+          "strongs": "G1321",
+          "grammar": "V-IAI-3S"
+        },
+        {
+          "original": "καὶ",
+          "translit_english": "kaí",
+          "telugu_gloss": "మరియు",
+          "strongs": "G2532",
+          "grammar": "CONJ"
+        },
+        {
+          "original": "ἔλεγεν",
+          "translit_english": "légō",
+          "telugu_gloss": "బోధించుచు",
+          "strongs": "G3004",
+          "grammar": "V-IAI-3S"
+        },
+        {
+          "original": "αὐτοῖς",
+          "translit_english": "G0846",
+          "telugu_gloss": "బోధించుచు",
+          "strongs": "G0846",
+          "grammar": "P-DPM"
+        },
+        {
+          "original": "Οὐ",
+          "translit_english": "ou",
+          "telugu_gloss": "నా",
+          "strongs": "G3756",
+          "grammar": "PRT-N"
+        },
+        {
+          "original": "γέγραπται",
+          "translit_english": "gráphō",
+          "telugu_gloss": "మందిరము",
+          "strongs": "G1125",
+          "grammar": "V-RPI-3S"
+        },
+        {
+          "original": "ὅτι",
+          "translit_english": "hóti",
+          "telugu_gloss": "సమస్తమైన",
+          "strongs": "G3754",
+          "grammar": "CONJ"
+        },
+        {
+          "original": "Ὁ",
+          "translit_english": "ho",
+          "telugu_gloss": "ఆ",
+          "strongs": "G3588",
+          "grammar": "T-NSM"
+        },
+        {
+          "original": "οἶκός",
+          "translit_english": "oîkos",
+          "telugu_gloss": "అన్యజనులకు",
+          "strongs": "G3624",
           "grammar": "N-NSM"
         },
         {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "గాని",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
+          "original": "μου",
+          "translit_english": "moû",
+          "telugu_gloss": "ప్రార్థన",
+          "strongs": "G3450",
+          "grammar": "P-1GS"
         },
         {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "అందరు",
-          "strongs": "G3056",
+          "original": "οἶκος",
+          "translit_english": "oîkos",
+          "telugu_gloss": "మందిరమనబడును",
+          "strongs": "G3624",
           "grammar": "N-NSM"
         },
         {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "యోహాను",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
+          "original": "προσευχῆς",
+          "translit_english": "proseuchḗ",
+          "telugu_gloss": "మందిరమనబడును",
+          "strongs": "G4335",
+          "grammar": "N-GSF"
         },
         {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "నిజముగా",
-          "strongs": "G3056",
+          "original": "κληθήσεται",
+          "translit_english": "kaléō",
+          "telugu_gloss": "అని",
+          "strongs": "G2564",
+          "grammar": "V-FPI-3S"
+        },
+        {
+          "original": "πᾶσιν",
+          "translit_english": "pâs",
+          "telugu_gloss": "వ్రాయబడలేదా?",
+          "strongs": "G3956",
+          "grammar": "A-DPN"
+        },
+        {
+          "original": "τοῖς",
+          "translit_english": "ho",
+          "telugu_gloss": "ఆ",
+          "strongs": "G3588",
+          "grammar": "T-DPN"
+        },
+        {
+          "original": "ἔθνεσιν",
+          "translit_english": "éthnos",
+          "telugu_gloss": "అయితే",
+          "strongs": "G1484",
+          "grammar": "N-DPN"
+        },
+        {
+          "original": "ὑμεῖς",
+          "translit_english": "hymeîs",
+          "telugu_gloss": "మీరు",
+          "strongs": "G5210",
+          "grammar": "P-2NP"
+        },
+        {
+          "original": "δὲ",
+          "translit_english": "dé",
+          "telugu_gloss": "దానిని",
+          "strongs": "G1161",
+          "grammar": "CONJ"
+        },
+        {
+          "original": "πεποιήκατε",
+          "translit_english": "poiéō",
+          "telugu_gloss": "దొంగల",
+          "strongs": "G4160",
+          "grammar": "V-RAI-2P"
+        },
+        {
+          "original": "αὐτὸν",
+          "translit_english": "G0846",
+          "telugu_gloss": "దొంగల",
+          "strongs": "G0846",
+          "grammar": "P-ASM"
+        },
+        {
+          "original": "σπήλαιον",
+          "translit_english": "spḗlaion",
+          "telugu_gloss": "గుహగా",
+          "strongs": "G4693",
+          "grammar": "N-ASN"
+        },
+        {
+          "original": "λῃστῶν",
+          "translit_english": "lēistḗs",
+          "telugu_gloss": "చేసితిరనెను",
+          "strongs": "G3027",
+          "grammar": "N-GPM"
+        }
+      ]
+    },
+    {
+      "verse_number": 18,
+      "words": [
+        {
+          "original": "καὶ",
+          "translit_english": "kaí",
+          "telugu_gloss": "మరియు",
+          "strongs": "G2532",
+          "grammar": "CONJ"
+        },
+        {
+          "original": "ἤκουσαν",
+          "translit_english": "G0191",
+          "telugu_gloss": "శాస్త్రులును",
+          "strongs": "G0191",
+          "grammar": "V-AAI-3P"
+        },
+        {
+          "original": "οἱ",
+          "translit_english": "ho",
+          "telugu_gloss": "ఆ",
+          "strongs": "G3588",
+          "grammar": "T-NPM"
+        },
+        {
+          "original": "ἀρχιερεῖς",
+          "translit_english": "G0749",
+          "telugu_gloss": "ఆ",
+          "strongs": "G0749",
+          "grammar": "N-NPM"
+        },
+        {
+          "original": "καὶ",
+          "translit_english": "kaí",
+          "telugu_gloss": "మరియు",
+          "strongs": "G2532",
+          "grammar": "CONJ"
+        },
+        {
+          "original": "οἱ",
+          "translit_english": "ho",
+          "telugu_gloss": "ఆ",
+          "strongs": "G3588",
+          "grammar": "T-NPM"
+        },
+        {
+          "original": "γραμματεῖς",
+          "translit_english": "grammateús",
+          "telugu_gloss": "జన",
+          "strongs": "G1122",
+          "grammar": "N-NPM"
+        },
+        {
+          "original": "καὶ",
+          "translit_english": "kaí",
+          "telugu_gloss": "మరియు",
+          "strongs": "G2532",
+          "grammar": "CONJ"
+        },
+        {
+          "original": "ἐζήτουν",
+          "translit_english": "zētéō",
+          "telugu_gloss": "ఆయన",
+          "strongs": "G2212",
+          "grammar": "V-IAI-3P"
+        },
+        {
+          "original": "πῶς",
+          "translit_english": "pōs",
+          "telugu_gloss": "ఆయన",
+          "strongs": "G4459",
+          "grammar": "ADV-I"
+        },
+        {
+          "original": "αὐτὸν",
+          "translit_english": "G0846",
+          "telugu_gloss": "బోధకు",
+          "strongs": "G0846",
+          "grammar": "P-ASM"
+        },
+        {
+          "original": "ἀπολέσωσιν",
+          "translit_english": "G0622",
+          "telugu_gloss": "బహుగా",
+          "strongs": "G0622",
+          "grammar": "V-AAS-3P"
+        },
+        {
+          "original": "ἐφοβοῦντο",
+          "translit_english": "phobéō",
+          "telugu_gloss": "ఆశ్చర్య",
+          "strongs": "G5399",
+          "grammar": "V-INI-3P"
+        },
+        {
+          "original": "γὰρ",
+          "translit_english": "gár",
+          "telugu_gloss": "పడుట",
+          "strongs": "G1063",
+          "grammar": "CONJ"
+        },
+        {
+          "original": "αὐτόν",
+          "translit_english": "G0846",
+          "telugu_gloss": "చూచి",
+          "strongs": "G0846",
+          "grammar": "P-ASM"
+        },
+        {
+          "original": "πᾶς",
+          "translit_english": "pâs",
+          "telugu_gloss": "ఆయనకు",
+          "strongs": "G3956",
+          "grammar": "A-NSM"
+        },
+        {
+          "original": "γὰρ",
+          "translit_english": "gár",
+          "telugu_gloss": "భయపడి",
+          "strongs": "G1063",
+          "grammar": "CONJ"
+        },
+        {
+          "original": "ὁ",
+          "translit_english": "ho",
+          "telugu_gloss": "ఆ",
+          "strongs": "G3588",
+          "grammar": "T-NSM"
+        },
+        {
+          "original": "ὄχλος",
+          "translit_english": "óchlos",
+          "telugu_gloss": "ఆయన",
+          "strongs": "G3793",
           "grammar": "N-NSM"
         },
         {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "ప్రవక్త",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
+          "original": "ἐξεπλήσσετο",
+          "translit_english": "ekplḗssō",
+          "telugu_gloss": "నేలాగు",
+          "strongs": "G1605",
+          "grammar": "V-IPI-3S"
         },
         {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "యని",
-          "strongs": "G3056",
+          "original": "ἐπὶ",
+          "translit_english": "epí",
+          "telugu_gloss": "సంహరించుదమా",
+          "strongs": "G1909",
+          "grammar": "PREP"
+        },
+        {
+          "original": "τῇ",
+          "translit_english": "ho",
+          "telugu_gloss": "ఆ",
+          "strongs": "G3588",
+          "grammar": "T-DSF"
+        },
+        {
+          "original": "διδαχῇ",
+          "translit_english": "didachḗ",
+          "telugu_gloss": "సమయము",
+          "strongs": "G1322",
+          "grammar": "N-DSF"
+        },
+        {
+          "original": "αὐτοῦ",
+          "translit_english": "G0846",
+          "telugu_gloss": "చూచుచుండిరి",
+          "strongs": "G0846",
+          "grammar": "P-GSM"
+        }
+      ]
+    },
+    {
+      "verse_number": 19,
+      "words": [
+        {
+          "original": "Καὶ",
+          "translit_english": "kaí",
+          "telugu_gloss": "మరియు",
+          "strongs": "G2532",
+          "grammar": "CONJ"
+        },
+        {
+          "original": "ὅταν",
+          "translit_english": "hótan",
+          "telugu_gloss": "సాయంకాలమైనప్పుడు",
+          "strongs": "G3752",
+          "grammar": "CONJ"
+        },
+        {
+          "original": "ὀψὲ",
+          "translit_english": "opsé",
+          "telugu_gloss": "ఆయన",
+          "strongs": "G3796",
+          "grammar": "ADV"
+        },
+        {
+          "original": "ἐγένετο",
+          "translit_english": "gínomai",
+          "telugu_gloss": "ఆయెను",
+          "strongs": "G1096",
+          "grammar": "V-2ADI-3S"
+        },
+        {
+          "original": "ἐξεπορεύοντο",
+          "translit_english": "ekporeúomai",
+          "telugu_gloss": "పట్టణములోనుండి",
+          "strongs": "G1607",
+          "grammar": "V-INI-3P"
+        },
+        {
+          "original": "ἔξω",
+          "translit_english": "éxō",
+          "telugu_gloss": "పట్టణములోనుండి",
+          "strongs": "G1854",
+          "grammar": "ADV"
+        },
+        {
+          "original": "τῆς",
+          "translit_english": "ho",
+          "telugu_gloss": "ఆ",
+          "strongs": "G3588",
+          "grammar": "T-GSF"
+        },
+        {
+          "original": "πόλεως",
+          "translit_english": "pólis",
+          "telugu_gloss": "బయలుదేరెను",
+          "strongs": "G4172",
+          "grammar": "N-GSF"
+        }
+      ]
+    },
+    {
+      "verse_number": 20,
+      "words": [
+        {
+          "original": "Καὶ",
+          "translit_english": "kaí",
+          "telugu_gloss": "మరియు",
+          "strongs": "G2532",
+          "grammar": "CONJ"
+        },
+        {
+          "original": "παραπορευόμενοι",
+          "translit_english": "paraporeúomai",
+          "telugu_gloss": "వారు",
+          "strongs": "G3899",
+          "grammar": "V-PNP-NPM"
+        },
+        {
+          "original": "πρωῒ",
+          "translit_english": "prōḯ",
+          "telugu_gloss": "మార్గమున",
+          "strongs": "G4404",
+          "grammar": "ADV"
+        },
+        {
+          "original": "εἶδον",
+          "translit_english": "horáō",
+          "telugu_gloss": "పోవుచుండగా",
+          "strongs": "G3708",
+          "grammar": "V-2AAI-3P"
+        },
+        {
+          "original": "τὴν",
+          "translit_english": "ho",
+          "telugu_gloss": "ఆ",
+          "strongs": "G3588",
+          "grammar": "T-ASF"
+        },
+        {
+          "original": "συκῆν",
+          "translit_english": "sykē",
+          "telugu_gloss": "రపుచెట్టు",
+          "strongs": "G4808",
+          "grammar": "N-ASF"
+        },
+        {
+          "original": "ἐξηραμμένην",
+          "translit_english": "xēraínō",
+          "telugu_gloss": "వేళ్లు",
+          "strongs": "G3583",
+          "grammar": "V-RPP-ASF"
+        },
+        {
+          "original": "ἐκ",
+          "translit_english": "ek",
+          "telugu_gloss": "మొదలుకొని",
+          "strongs": "G1537",
+          "grammar": "PREP"
+        },
+        {
+          "original": "ῥιζῶν",
+          "translit_english": "rhíza",
+          "telugu_gloss": "యెండియుండుట",
+          "strongs": "G4491",
+          "grammar": "N-GPF"
+        }
+      ]
+    },
+    {
+      "verse_number": 21,
+      "words": [
+        {
+          "original": "καὶ",
+          "translit_english": "kaí",
+          "telugu_gloss": "మరియు",
+          "strongs": "G2532",
+          "grammar": "CONJ"
+        },
+        {
+          "original": "ἀναμνησθεὶς",
+          "translit_english": "G0363",
+          "telugu_gloss": "పేతురు",
+          "strongs": "G0363",
+          "grammar": "V-AOP-NSM"
+        },
+        {
+          "original": "ὁ",
+          "translit_english": "ho",
+          "telugu_gloss": "ఆ",
+          "strongs": "G3588",
+          "grammar": "T-NSM"
+        },
+        {
+          "original": "Πέτρος",
+          "translit_english": "Pétros",
+          "telugu_gloss": "సంగతి",
+          "strongs": "G4074",
           "grammar": "N-NSM"
         },
         {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "యెంచిరి",
+          "original": "λέγει",
+          "translit_english": "légō",
+          "telugu_gloss": "జ్ఞాపకమునకు",
+          "strongs": "G3004",
+          "grammar": "V-PAI-3S"
+        },
+        {
+          "original": "αὐτῷ",
+          "translit_english": "G0846",
+          "telugu_gloss": "తెచ్చుకొనిబోధకుడా",
+          "strongs": "G0846",
+          "grammar": "P-DSM"
+        },
+        {
+          "original": "Ῥαββί",
+          "translit_english": "rhabbí",
+          "telugu_gloss": "యిదిగో",
+          "strongs": "G4461",
+          "grammar": "HEB"
+        },
+        {
+          "original": "ἴδε",
+          "translit_english": "íde",
+          "telugu_gloss": "నీవు",
+          "strongs": "G2396",
+          "grammar": "V-2AAM-2S"
+        },
+        {
+          "original": "ἡ",
+          "translit_english": "ho",
+          "telugu_gloss": "ఆ",
+          "strongs": "G3588",
+          "grammar": "T-NSF"
+        },
+        {
+          "original": "συκῆ",
+          "translit_english": "sykē",
+          "telugu_gloss": "అంజూరపుచెట్టు",
+          "strongs": "G4808",
+          "grammar": "N-NSF"
+        },
+        {
+          "original": "ἣν",
+          "translit_english": "hós",
+          "telugu_gloss": "ఎండిపోయెనని",
+          "strongs": "G3739",
+          "grammar": "R-ASF"
+        },
+        {
+          "original": "κατηράσω",
+          "translit_english": "kataráomai",
+          "telugu_gloss": "ఆయనతో",
+          "strongs": "G2672",
+          "grammar": "V-ADI-2S"
+        },
+        {
+          "original": "ἐξήρανται",
+          "translit_english": "xēraínō",
+          "telugu_gloss": "చెప్పెను",
+          "strongs": "G3583",
+          "grammar": "V-RPI-3S"
+        }
+      ]
+    },
+    {
+      "verse_number": 22,
+      "words": [
+        {
+          "original": "καὶ",
+          "translit_english": "kaí",
+          "telugu_gloss": "మరియు",
+          "strongs": "G2532",
+          "grammar": "CONJ"
+        },
+        {
+          "original": "ἀποκριθεὶς",
+          "translit_english": "G0611",
+          "telugu_gloss": "అందుకు",
+          "strongs": "G0611",
+          "grammar": "V-AOP-NSM"
+        },
+        {
+          "original": "ὁ",
+          "translit_english": "ho",
+          "telugu_gloss": "ఆ",
+          "strongs": "G3588",
+          "grammar": "T-NSM"
+        },
+        {
+          "original": "Ἰησοῦς",
+          "translit_english": "Iēsoûs",
+          "telugu_gloss": "యేసు",
+          "strongs": "G2424",
+          "grammar": "N-NSM"
+        },
+        {
+          "original": "λέγει",
+          "translit_english": "légō",
+          "telugu_gloss": "వారితో",
+          "strongs": "G3004",
+          "grammar": "V-PAI-3S"
+        },
+        {
+          "original": "αὐτοῖς",
+          "translit_english": "G0846",
+          "telugu_gloss": "ఇట్లనెనుమీరు",
+          "strongs": "G0846",
+          "grammar": "P-DPM"
+        },
+        {
+          "original": "Ἔχετε",
+          "translit_english": "échō",
+          "telugu_gloss": "దేవునియందు",
+          "strongs": "G2192",
+          "grammar": "V-PAM-2P"
+        },
+        {
+          "original": "πίστιν",
+          "translit_english": "pístis",
+          "telugu_gloss": "దేవునియందు",
+          "strongs": "G4102",
+          "grammar": "N-ASF"
+        },
+        {
+          "original": "θεοῦ",
+          "translit_english": "theós",
+          "telugu_gloss": "దేవుడు",
           "strongs": "G2316",
           "grammar": "N-GSM"
         }
       ]
     },
     {
-      "v": 33,
+      "verse_number": 23,
+      "words": [
+        {
+          "original": "ἀμὴν",
+          "translit_english": "G0281",
+          "telugu_gloss": "ఎవడైనను",
+          "strongs": "G0281",
+          "grammar": "HEB"
+        },
+        {
+          "original": "λέγω",
+          "translit_english": "légō",
+          "telugu_gloss": "ఎవడైనను",
+          "strongs": "G3004",
+          "grammar": "V-PAI-1S"
+        },
+        {
+          "original": "ὑμῖν",
+          "translit_english": "hymîn",
+          "telugu_gloss": "ఈ",
+          "strongs": "G5213",
+          "grammar": "P-2DP"
+        },
+        {
+          "original": "ὅτι",
+          "translit_english": "hóti",
+          "telugu_gloss": "కొండను",
+          "strongs": "G3754",
+          "grammar": "CONJ"
+        },
+        {
+          "original": "ὃς",
+          "translit_english": "hós",
+          "telugu_gloss": "చూచినీవు",
+          "strongs": "G3739",
+          "grammar": "R-NSM"
+        },
+        {
+          "original": "ἂν",
+          "translit_english": "G0302",
+          "telugu_gloss": "చూచినీవు",
+          "strongs": "G0302",
+          "grammar": "PRT"
+        },
+        {
+          "original": "εἴπῃ",
+          "translit_english": "épō",
+          "telugu_gloss": "ఎత్తబడి",
+          "strongs": "G2036",
+          "grammar": "V-2AAS-3S"
+        },
+        {
+          "original": "τῷ",
+          "translit_english": "ho",
+          "telugu_gloss": "ఆ",
+          "strongs": "G3588",
+          "grammar": "T-DSN"
+        },
+        {
+          "original": "ὄρει",
+          "translit_english": "óros",
+          "telugu_gloss": "ములో",
+          "strongs": "G3735",
+          "grammar": "N-DSN"
+        },
+        {
+          "original": "τούτῳ",
+          "translit_english": "toútōi",
+          "telugu_gloss": "ములో",
+          "strongs": "G5129",
+          "grammar": "D-DSN"
+        },
+        {
+          "original": "Ἄρθητι",
+          "translit_english": "G0142",
+          "telugu_gloss": "పడవేయబడు",
+          "strongs": "G0142",
+          "grammar": "V-APM-2S"
+        },
+        {
+          "original": "καὶ",
+          "translit_english": "kaí",
+          "telugu_gloss": "మరియు",
+          "strongs": "G2532",
+          "grammar": "CONJ"
+        },
+        {
+          "original": "βλήθητι",
+          "translit_english": "G0906",
+          "telugu_gloss": "చెప్పి",
+          "strongs": "G0906",
+          "grammar": "V-APM-2S"
+        },
+        {
+          "original": "εἰς",
+          "translit_english": "eis",
+          "telugu_gloss": "తన",
+          "strongs": "G1519",
+          "grammar": "PREP"
+        },
+        {
+          "original": "τὴν",
+          "translit_english": "ho",
+          "telugu_gloss": "ఆ",
+          "strongs": "G3588",
+          "grammar": "T-ASF"
+        },
+        {
+          "original": "θάλασσαν",
+          "translit_english": "thálassa",
+          "telugu_gloss": "మనస్సులో",
+          "strongs": "G2281",
+          "grammar": "N-ASF"
+        },
+        {
+          "original": "καὶ",
+          "translit_english": "kaí",
+          "telugu_gloss": "మరియు",
+          "strongs": "G2532",
+          "grammar": "CONJ"
+        },
+        {
+          "original": "μὴ",
+          "translit_english": "mḗ",
+          "telugu_gloss": "హింపక",
+          "strongs": "G3361",
+          "grammar": "PRT-N"
+        },
+        {
+          "original": "διακριθῇ",
+          "translit_english": "diakrínō",
+          "telugu_gloss": "హింపక",
+          "strongs": "G1252",
+          "grammar": "V-APS-3S"
+        },
+        {
+          "original": "ἐν",
+          "translit_english": "en",
+          "telugu_gloss": "ఆదియందు",
+          "strongs": "G1722",
+          "grammar": "PREP"
+        },
+        {
+          "original": "τῇ",
+          "translit_english": "ho",
+          "telugu_gloss": "ఆ",
+          "strongs": "G3588",
+          "grammar": "T-DSF"
+        },
+        {
+          "original": "καρδίᾳ",
+          "translit_english": "kardía",
+          "telugu_gloss": "జరుగునని",
+          "strongs": "G2588",
+          "grammar": "N-DSF"
+        },
+        {
+          "original": "αὐτοῦ",
+          "translit_english": "G0846",
+          "telugu_gloss": "నమి్మనయెడల",
+          "strongs": "G0846",
+          "grammar": "P-GSM"
+        },
+        {
+          "original": "ἀλλὰ",
+          "translit_english": "G0235",
+          "telugu_gloss": "నమి్మనయెడల",
+          "strongs": "G0235",
+          "grammar": "CONJ"
+        },
+        {
+          "original": "πιστεύῃ",
+          "translit_english": "pisteúō",
+          "telugu_gloss": "వాడు",
+          "strongs": "G4100",
+          "grammar": "V-PAS-3S"
+        },
+        {
+          "original": "ὅτι",
+          "translit_english": "hóti",
+          "telugu_gloss": "చెప్పినది",
+          "strongs": "G3754",
+          "grammar": "CONJ"
+        },
+        {
+          "original": "ὃ",
+          "translit_english": "hós",
+          "telugu_gloss": "జరుగునని",
+          "strongs": "G3739",
+          "grammar": "R-ASN"
+        },
+        {
+          "original": "λαλεῖ",
+          "translit_english": "laléō",
+          "telugu_gloss": "జరుగునని",
+          "strongs": "G2980",
+          "grammar": "V-PAI-3S"
+        },
+        {
+          "original": "γίνεται",
+          "translit_english": "gínomai",
+          "telugu_gloss": "ఆయెను",
+          "strongs": "G1096",
+          "grammar": "V-PNI-3S"
+        },
+        {
+          "original": "ἔσται",
+          "translit_english": "ésomai",
+          "telugu_gloss": "నిశ్చయముగా",
+          "strongs": "G2071",
+          "grammar": "V-FDI-3S"
+        },
+        {
+          "original": "αὐτῷ",
+          "translit_english": "G0846",
+          "telugu_gloss": "చెప్పుచున్నాను",
+          "strongs": "G0846",
+          "grammar": "P-DSM"
+        }
+      ]
+    },
+    {
+      "verse_number": 24,
+      "words": [
+        {
+          "original": "διὰ",
+          "translit_english": "diá",
+          "telugu_gloss": "అందుచేత",
+          "strongs": "G1223",
+          "grammar": "PREP"
+        },
+        {
+          "original": "τοῦτο",
+          "translit_english": "toûto",
+          "telugu_gloss": "అందుచేత",
+          "strongs": "G5124",
+          "grammar": "D-ASN"
+        },
+        {
+          "original": "λέγω",
+          "translit_english": "légō",
+          "telugu_gloss": "ప్రార్థన",
+          "strongs": "G3004",
+          "grammar": "V-PAI-1S"
+        },
+        {
+          "original": "ὑμῖν",
+          "translit_english": "hymîn",
+          "telugu_gloss": "చేయునప్పుడు",
+          "strongs": "G5213",
+          "grammar": "P-2DP"
+        },
+        {
+          "original": "πάντα",
+          "translit_english": "pâs",
+          "telugu_gloss": "మీరు",
+          "strongs": "G3956",
+          "grammar": "A-APN"
+        },
+        {
+          "original": "ὅσα",
+          "translit_english": "hósos",
+          "telugu_gloss": "అడుగుచున్న",
+          "strongs": "G3745",
+          "grammar": "K-APN"
+        },
+        {
+          "original": "προσεύχεσθε",
+          "translit_english": "proseúchomai",
+          "telugu_gloss": "వాటినెల్లను",
+          "strongs": "G4336",
+          "grammar": "V-PNI-2P"
+        },
+        {
+          "original": "καὶ",
+          "translit_english": "kaí",
+          "telugu_gloss": "మరియు",
+          "strongs": "G2532",
+          "grammar": "CONJ"
+        },
+        {
+          "original": "αἰτεῖσθε",
+          "translit_english": "G0154",
+          "telugu_gloss": "నమ్ముడి",
+          "strongs": "G0154",
+          "grammar": "V-PMI-2P"
+        },
+        {
+          "original": "πιστεύετε",
+          "translit_english": "pisteúō",
+          "telugu_gloss": "అప్పుడు",
+          "strongs": "G4100",
+          "grammar": "V-PAM-2P"
+        },
+        {
+          "original": "ὅτι",
+          "translit_english": "hóti",
+          "telugu_gloss": "అవి",
+          "strongs": "G3754",
+          "grammar": "CONJ"
+        },
+        {
+          "original": "ἐλάβετε",
+          "translit_english": "lambánō",
+          "telugu_gloss": "మీకు",
+          "strongs": "G2983",
+          "grammar": "V-2AAI-2P"
+        },
+        {
+          "original": "καὶ",
+          "translit_english": "kaí",
+          "telugu_gloss": "మరియు",
+          "strongs": "G2532",
+          "grammar": "CONJ"
+        },
+        {
+          "original": "ἔσται",
+          "translit_english": "ésomai",
+          "telugu_gloss": "మీతో",
+          "strongs": "G2071",
+          "grammar": "V-FDI-3S"
+        },
+        {
+          "original": "ὑμῖν",
+          "translit_english": "hymîn",
+          "telugu_gloss": "చెప్పుచున్నాను",
+          "strongs": "G5213",
+          "grammar": "P-2DP"
+        }
+      ]
+    },
+    {
+      "verse_number": 25,
+      "words": [
+        {
+          "original": "καὶ",
+          "translit_english": "kaí",
+          "telugu_gloss": "మరియు",
+          "strongs": "G2532",
+          "grammar": "CONJ"
+        },
+        {
+          "original": "ὅταν",
+          "translit_english": "hótan",
+          "telugu_gloss": "మీకు",
+          "strongs": "G3752",
+          "grammar": "CONJ"
+        },
+        {
+          "original": "στήκετε",
+          "translit_english": "stḗkō",
+          "telugu_gloss": "ఒకనిమీద",
+          "strongs": "G4739",
+          "grammar": "V-PAI-2P"
+        },
+        {
+          "original": "προσευχόμενοι",
+          "translit_english": "proseúchomai",
+          "telugu_gloss": "ఒకనిమీద",
+          "strongs": "G4336",
+          "grammar": "V-PNP-NPM"
+        },
+        {
+          "original": "ἀφίετε",
+          "translit_english": "G0863",
+          "telugu_gloss": "విరోధ",
+          "strongs": "G0863",
+          "grammar": "V-PAM-2P"
+        },
+        {
+          "original": "εἴ",
+          "translit_english": "ei",
+          "telugu_gloss": "విరోధ",
+          "strongs": "G1487",
+          "grammar": "COND"
+        },
+        {
+          "original": "τι",
+          "translit_english": "tìs",
+          "telugu_gloss": "మేమైనను",
+          "strongs": "G5100",
+          "grammar": "X-ASN"
+        },
+        {
+          "original": "ἔχετε",
+          "translit_english": "échō",
+          "telugu_gloss": "మేమైనను",
+          "strongs": "G2192",
+          "grammar": "V-PAI-2P"
+        },
+        {
+          "original": "κατά",
+          "translit_english": "katá",
+          "telugu_gloss": "కలిగియున్న",
+          "strongs": "G2596",
+          "grammar": "PREP"
+        },
+        {
+          "original": "τινος",
+          "translit_english": "tìs",
+          "telugu_gloss": "కలిగియున్న",
+          "strongs": "G5100",
+          "grammar": "X-GSM"
+        },
+        {
+          "original": "ἵνα",
+          "translit_english": "hína",
+          "telugu_gloss": "యెడల",
+          "strongs": "G2443",
+          "grammar": "CONJ"
+        },
+        {
+          "original": "καὶ",
+          "translit_english": "kaí",
+          "telugu_gloss": "మరియు",
+          "strongs": "G2532",
+          "grammar": "CONJ"
+        },
+        {
+          "original": "ὁ",
+          "translit_english": "ho",
+          "telugu_gloss": "ఆ",
+          "strongs": "G3588",
+          "grammar": "T-NSM"
+        },
+        {
+          "original": "πατὴρ",
+          "translit_english": "patḗr",
+          "telugu_gloss": "మీరు",
+          "strongs": "G3962",
+          "grammar": "N-NSM"
+        },
+        {
+          "original": "ὑμῶν",
+          "translit_english": "hymōn",
+          "telugu_gloss": "నిలువబడి",
+          "strongs": "G5216",
+          "grammar": "P-2GP"
+        },
+        {
+          "original": "ὁ",
+          "translit_english": "ho",
+          "telugu_gloss": "ఆ",
+          "strongs": "G3588",
+          "grammar": "T-NSM"
+        },
+        {
+          "original": "ἐν",
+          "translit_english": "en",
+          "telugu_gloss": "ఆదియందు",
+          "strongs": "G1722",
+          "grammar": "PREP"
+        },
+        {
+          "original": "τοῖς",
+          "translit_english": "ho",
+          "telugu_gloss": "ఆ",
+          "strongs": "G3588",
+          "grammar": "T-DPM"
+        },
+        {
+          "original": "οὐρανοῖς",
+          "translit_english": "ouranós",
+          "telugu_gloss": "చేయునప్పుడెల్లను",
+          "strongs": "G3772",
+          "grammar": "N-DPM"
+        },
+        {
+          "original": "ἀφῇ",
+          "translit_english": "G0863",
+          "telugu_gloss": "చేయునప్పుడెల్లను",
+          "strongs": "G0863",
+          "grammar": "V-2AAS-3S"
+        },
+        {
+          "original": "ὑμῖν",
+          "translit_english": "hymîn",
+          "telugu_gloss": "వాని",
+          "strongs": "G5213",
+          "grammar": "P-2DP"
+        },
+        {
+          "original": "τὰ",
+          "translit_english": "ho",
+          "telugu_gloss": "ఆ",
+          "strongs": "G3588",
+          "grammar": "T-APN"
+        },
+        {
+          "original": "παραπτώματα",
+          "translit_english": "paráptōma",
+          "telugu_gloss": "క్షమించుడి",
+          "strongs": "G3900",
+          "grammar": "N-APN"
+        },
+        {
+          "original": "ὑμῶν",
+          "translit_english": "hymōn",
+          "telugu_gloss": "క్షమించుడి",
+          "strongs": "G5216",
+          "grammar": "P-2GP"
+        }
+      ]
+    },
+    {
+      "verse_number": 26,
       "words": [
         {
           "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "గనుక",
+          "translit_english": "lógos",
+          "telugu_gloss": "వాక్యము",
           "strongs": "G3056",
           "grammar": "N-NSM"
+        }
+      ]
+    },
+    {
+      "verse_number": 27,
+      "words": [
+        {
+          "original": "Καὶ",
+          "translit_english": "kaí",
+          "telugu_gloss": "మరియు",
+          "strongs": "G2532",
+          "grammar": "CONJ"
         },
         {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "ప్రజలకు",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
+          "original": "ἔρχονται",
+          "translit_english": "érchomai",
+          "telugu_gloss": "వారు",
+          "strongs": "G2064",
+          "grammar": "V-PNI-3P"
         },
         {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "భయపడిఆ",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
+          "original": "πάλιν",
+          "translit_english": "pálin",
+          "telugu_gloss": "యెరూషలేమునకు",
+          "strongs": "G3825",
+          "grammar": "ADV"
         },
         {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "సంగతి",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
+          "original": "εἰς",
+          "translit_english": "eis",
+          "telugu_gloss": "యెరూషలేమునకు",
+          "strongs": "G1519",
+          "grammar": "PREP"
         },
         {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "మాకు",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
+          "original": "Ἱεροσόλυμα",
+          "translit_english": "Hierosólyma",
+          "telugu_gloss": "తిరిగి",
+          "strongs": "G2414",
+          "grammar": "N-APN"
         },
         {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "తెలియదని",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
+          "original": "καὶ",
+          "translit_english": "kaí",
+          "telugu_gloss": "మరియు",
+          "strongs": "G2532",
+          "grammar": "CONJ"
         },
         {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "యేసునకు",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
+          "original": "ἐν",
+          "translit_english": "en",
+          "telugu_gloss": "ఆదియందు",
+          "strongs": "G1722",
+          "grammar": "PREP"
         },
         {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "ఉత్తరమిచ్చిరి",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
+          "original": "τῷ",
+          "translit_english": "ho",
+          "telugu_gloss": "ఆ",
+          "strongs": "G3588",
+          "grammar": "T-DSN"
         },
         {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "అందుకు",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
+          "original": "ἱερῷ",
+          "translit_english": "hierón",
+          "telugu_gloss": "ఆయన",
+          "strongs": "G2411",
+          "grammar": "N-DSN"
         },
         {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "యేసుఏ",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
+          "original": "περιπατοῦντος",
+          "translit_english": "peripatéō",
+          "telugu_gloss": "ఆయన",
+          "strongs": "G4043",
+          "grammar": "V-PAP-GSM"
         },
         {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "అధికారము",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
+          "original": "αὐτοῦ",
+          "translit_english": "G0846",
+          "telugu_gloss": "దేవాలయములో",
+          "strongs": "G0846",
+          "grammar": "P-GSM"
         },
         {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "వలన",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
+          "original": "ἔρχονται",
+          "translit_english": "érchomai",
+          "telugu_gloss": "దేవాలయములో",
+          "strongs": "G2064",
+          "grammar": "V-PNI-3P"
         },
         {
-          "original": "λόγος",
-          "translit_english": "logos",
+          "original": "πρὸς",
+          "translit_english": "prós",
+          "telugu_gloss": "తిరుగుచుండగా",
+          "strongs": "G4314",
+          "grammar": "PREP"
+        },
+        {
+          "original": "αὐτὸν",
+          "translit_english": "G0846",
+          "telugu_gloss": "తిరుగుచుండగా",
+          "strongs": "G0846",
+          "grammar": "P-ASM"
+        },
+        {
+          "original": "οἱ",
+          "translit_english": "ho",
+          "telugu_gloss": "ఆ",
+          "strongs": "G3588",
+          "grammar": "T-NPM"
+        },
+        {
+          "original": "ἀρχιερεῖς",
+          "translit_english": "G0749",
+          "telugu_gloss": "ప్రధానయాజకులును",
+          "strongs": "G0749",
+          "grammar": "N-NPM"
+        },
+        {
+          "original": "καὶ",
+          "translit_english": "kaí",
+          "telugu_gloss": "మరియు",
+          "strongs": "G2532",
+          "grammar": "CONJ"
+        },
+        {
+          "original": "οἱ",
+          "translit_english": "ho",
+          "telugu_gloss": "ఆ",
+          "strongs": "G3588",
+          "grammar": "T-NPM"
+        },
+        {
+          "original": "γραμματεῖς",
+          "translit_english": "grammateús",
+          "telugu_gloss": "పెద్దలును",
+          "strongs": "G1122",
+          "grammar": "N-NPM"
+        },
+        {
+          "original": "καὶ",
+          "translit_english": "kaí",
+          "telugu_gloss": "మరియు",
+          "strongs": "G2532",
+          "grammar": "CONJ"
+        },
+        {
+          "original": "οἱ",
+          "translit_english": "ho",
+          "telugu_gloss": "ఆ",
+          "strongs": "G3588",
+          "grammar": "T-NPM"
+        },
+        {
+          "original": "πρεσβύτεροι",
+          "translit_english": "presbýteros",
+          "telugu_gloss": "ఆయనయొద్దకువచ్చి",
+          "strongs": "G4245",
+          "grammar": "A-NPM-C"
+        }
+      ]
+    },
+    {
+      "verse_number": 28,
+      "words": [
+        {
+          "original": "καὶ",
+          "translit_english": "kaí",
+          "telugu_gloss": "మరియు",
+          "strongs": "G2532",
+          "grammar": "CONJ"
+        },
+        {
+          "original": "ἔλεγον",
+          "translit_english": "légō",
+          "telugu_gloss": "నీవు",
+          "strongs": "G3004",
+          "grammar": "V-IAI-3P"
+        },
+        {
+          "original": "αὐτῷ",
+          "translit_english": "G0846",
+          "telugu_gloss": "ఏ",
+          "strongs": "G0846",
+          "grammar": "P-DSM"
+        },
+        {
+          "original": "Ἐν",
+          "translit_english": "en",
+          "telugu_gloss": "ఆదియందు",
+          "strongs": "G1722",
+          "grammar": "PREP"
+        },
+        {
+          "original": "ποίᾳ",
+          "translit_english": "poîos",
+          "telugu_gloss": "అధి",
+          "strongs": "G4169",
+          "grammar": "I-DSF"
+        },
+        {
+          "original": "ἐξουσίᾳ",
+          "translit_english": "exousía",
+          "telugu_gloss": "కారమువలన",
+          "strongs": "G1849",
+          "grammar": "N-DSF"
+        },
+        {
+          "original": "ταῦτα",
+          "translit_english": "taûta",
           "telugu_gloss": "ఈ",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
+          "strongs": "G5023",
+          "grammar": "D-APN"
         },
         {
-          "original": "θεός",
-          "translit_english": "theos",
+          "original": "ποιεῖς",
+          "translit_english": "poiéō",
           "telugu_gloss": "కార్యములు",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
+          "strongs": "G4160",
+          "grammar": "V-PAI-2S"
         },
         {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "చేయుచున్నానో",
-          "strongs": "G3056",
+          "original": "ἢ",
+          "translit_english": "ḗ",
+          "telugu_gloss": "కార్యములు",
+          "strongs": "G2228",
+          "grammar": "PRT"
+        },
+        {
+          "original": "τίς",
+          "translit_english": "tís",
+          "telugu_gloss": "చేయుచున్నావు?",
+          "strongs": "G5101",
+          "grammar": "I-NSM"
+        },
+        {
+          "original": "σοι",
+          "translit_english": "soí",
+          "telugu_gloss": "వీటిని",
+          "strongs": "G4671",
+          "grammar": "P-2DS"
+        },
+        {
+          "original": "ἔδωκεν",
+          "translit_english": "dídōmi",
+          "telugu_gloss": "వీటిని",
+          "strongs": "G1325",
+          "grammar": "V-AAI-3S"
+        },
+        {
+          "original": "τὴν",
+          "translit_english": "ho",
+          "telugu_gloss": "ఆ",
+          "strongs": "G3588",
+          "grammar": "T-ASF"
+        },
+        {
+          "original": "ἐξουσίαν",
+          "translit_english": "exousía",
+          "telugu_gloss": "ఈ",
+          "strongs": "G1849",
+          "grammar": "N-ASF"
+        },
+        {
+          "original": "ταύτην",
+          "translit_english": "taútēi",
+          "telugu_gloss": "యధికారము",
+          "strongs": "G5026",
+          "grammar": "D-ASF"
+        },
+        {
+          "original": "ἵνα",
+          "translit_english": "hína",
+          "telugu_gloss": "యధికారము",
+          "strongs": "G2443",
+          "grammar": "CONJ"
+        },
+        {
+          "original": "ταῦτα",
+          "translit_english": "taûta",
+          "telugu_gloss": "నీకెవడిచ్చెనని",
+          "strongs": "G5023",
+          "grammar": "D-APN"
+        },
+        {
+          "original": "ποιῇς",
+          "translit_english": "poiéō",
+          "telugu_gloss": "అడిగిరి",
+          "strongs": "G4160",
+          "grammar": "V-PAS-2S"
+        }
+      ]
+    },
+    {
+      "verse_number": 29,
+      "words": [
+        {
+          "original": "ὁ",
+          "translit_english": "ho",
+          "telugu_gloss": "ఆ",
+          "strongs": "G3588",
+          "grammar": "T-NSM"
+        },
+        {
+          "original": "δὲ",
+          "translit_english": "dé",
+          "telugu_gloss": "అందుకు",
+          "strongs": "G1161",
+          "grammar": "CONJ"
+        },
+        {
+          "original": "Ἰησοῦς",
+          "translit_english": "Iēsoûs",
+          "telugu_gloss": "యేసు",
+          "strongs": "G2424",
           "grammar": "N-NSM"
         },
         {
-          "original": "θεός",
-          "translit_english": "theos",
-          "telugu_gloss": "అదియు",
-          "strongs": "G2316",
-          "grammar": "N-GSM"
+          "original": "εἶπεν",
+          "translit_english": "épō",
+          "telugu_gloss": "మిమ్మును",
+          "strongs": "G2036",
+          "grammar": "V-2AAI-3S"
         },
         {
-          "original": "λόγος",
-          "translit_english": "logos",
+          "original": "αὐτοῖς",
+          "translit_english": "G0846",
+          "telugu_gloss": "ఒక",
+          "strongs": "G0846",
+          "grammar": "P-DPM"
+        },
+        {
+          "original": "Ἐπερωτήσω",
+          "translit_english": "eperōtáō",
+          "telugu_gloss": "మాట",
+          "strongs": "G1905",
+          "grammar": "V-FAI-1S"
+        },
+        {
+          "original": "ὑμᾶς",
+          "translit_english": "hymâs",
+          "telugu_gloss": "అడిగెదను",
+          "strongs": "G5209",
+          "grammar": "P-2AP"
+        },
+        {
+          "original": "ἕνα",
+          "translit_english": "heîs",
+          "telugu_gloss": "అడిగెదను",
+          "strongs": "G1520",
+          "grammar": "A-ASM"
+        },
+        {
+          "original": "λόγον",
+          "translit_english": "lógos",
+          "telugu_gloss": "వాక్యము",
+          "strongs": "G3056",
+          "grammar": "N-ASM"
+        },
+        {
+          "original": "καὶ",
+          "translit_english": "kaí",
+          "telugu_gloss": "మరియు",
+          "strongs": "G2532",
+          "grammar": "CONJ"
+        },
+        {
+          "original": "ἀποκρίθητέ",
+          "translit_english": "G0611",
+          "telugu_gloss": "అప్పుడు",
+          "strongs": "G0611",
+          "grammar": "V-AOM-2P"
+        },
+        {
+          "original": "μοι",
+          "translit_english": "moí",
           "telugu_gloss": "నేను",
-          "strongs": "G3056",
-          "grammar": "N-NSM"
+          "strongs": "G3427",
+          "grammar": "P-1DS"
         },
         {
-          "original": "θεός",
-          "translit_english": "theos",
+          "original": "καὶ",
+          "translit_english": "kaí",
+          "telugu_gloss": "మరియు",
+          "strongs": "G2532",
+          "grammar": "CONJ"
+        },
+        {
+          "original": "ἐρῶ",
+          "translit_english": "eréō",
+          "telugu_gloss": "అధికారమువలన",
+          "strongs": "G2046",
+          "grammar": "V-FAI-1S"
+        },
+        {
+          "original": "ὑμῖν",
+          "translit_english": "hymîn",
+          "telugu_gloss": "అధికారమువలన",
+          "strongs": "G5213",
+          "grammar": "P-2DP"
+        },
+        {
+          "original": "ἐν",
+          "translit_english": "en",
+          "telugu_gloss": "ఆదియందు",
+          "strongs": "G1722",
+          "grammar": "PREP"
+        },
+        {
+          "original": "ποίᾳ",
+          "translit_english": "poîos",
+          "telugu_gloss": "చేయుచున్నానో",
+          "strongs": "G4169",
+          "grammar": "I-DSF"
+        },
+        {
+          "original": "ἐξουσίᾳ",
+          "translit_english": "exousía",
+          "telugu_gloss": "అది",
+          "strongs": "G1849",
+          "grammar": "N-DSF"
+        },
+        {
+          "original": "ταῦτα",
+          "translit_english": "taûta",
           "telugu_gloss": "మీతో",
-          "strongs": "G2316",
+          "strongs": "G5023",
+          "grammar": "D-APN"
+        },
+        {
+          "original": "ποιῶ",
+          "translit_english": "poiéō",
+          "telugu_gloss": "చెప్పుదును",
+          "strongs": "G4160",
+          "grammar": "V-PAI-1S"
+        }
+      ]
+    },
+    {
+      "verse_number": 30,
+      "words": [
+        {
+          "original": "τὸ",
+          "translit_english": "ho",
+          "telugu_gloss": "ఆ",
+          "strongs": "G3588",
+          "grammar": "T-NSN"
+        },
+        {
+          "original": "βάπτισμα",
+          "translit_english": "G0908",
+          "telugu_gloss": "యోహాను",
+          "strongs": "G0908",
+          "grammar": "N-NSN"
+        },
+        {
+          "original": "τὸ",
+          "translit_english": "ho",
+          "telugu_gloss": "ఆ",
+          "strongs": "G3588",
+          "grammar": "T-NSN"
+        },
+        {
+          "original": "Ἰωάννου",
+          "translit_english": "Iōánnēs",
+          "telugu_gloss": "బాప్తిస్మము",
+          "strongs": "G2491",
           "grammar": "N-GSM"
         },
         {
-          "original": "λόγος",
-          "translit_english": "logos",
-          "telugu_gloss": "చెప్పననెను",
-          "strongs": "G3056",
+          "original": "ἐξ",
+          "translit_english": "ek",
+          "telugu_gloss": "పరలోకమునుండి",
+          "strongs": "G1537",
+          "grammar": "PREP"
+        },
+        {
+          "original": "οὐρανοῦ",
+          "translit_english": "ouranós",
+          "telugu_gloss": "కలిగినదా",
+          "strongs": "G3772",
+          "grammar": "N-GSM"
+        },
+        {
+          "original": "ἦν",
+          "translit_english": "ēn",
+          "telugu_gloss": "ఉండెను",
+          "strongs": "G2258",
+          "grammar": "V-IAI-3S"
+        },
+        {
+          "original": "ἢ",
+          "translit_english": "ḗ",
+          "telugu_gloss": "మనుష్యులనుండి",
+          "strongs": "G2228",
+          "grammar": "PRT"
+        },
+        {
+          "original": "ἐξ",
+          "translit_english": "ek",
+          "telugu_gloss": "కలిగినదా?",
+          "strongs": "G1537",
+          "grammar": "PREP"
+        },
+        {
+          "original": "ἀνθρώπων",
+          "translit_english": "G0444",
+          "telugu_gloss": "నాకు",
+          "strongs": "G0444",
+          "grammar": "N-GPM"
+        },
+        {
+          "original": "ἀποκρίθητέ",
+          "translit_english": "G0611",
+          "telugu_gloss": "ఉత్తరమియ్యుడని",
+          "strongs": "G0611",
+          "grammar": "V-AOM-2P"
+        },
+        {
+          "original": "μοι",
+          "translit_english": "moí",
+          "telugu_gloss": "చెప్పెను",
+          "strongs": "G3427",
+          "grammar": "P-1DS"
+        }
+      ]
+    },
+    {
+      "verse_number": 31,
+      "words": [
+        {
+          "original": "καὶ",
+          "translit_english": "kaí",
+          "telugu_gloss": "మరియు",
+          "strongs": "G2532",
+          "grammar": "CONJ"
+        },
+        {
+          "original": "διελογίζοντο",
+          "translit_english": "dialogízomai",
+          "telugu_gloss": "అందుకు",
+          "strongs": "G1260",
+          "grammar": "V-INI-3P"
+        },
+        {
+          "original": "πρὸς",
+          "translit_english": "prós",
+          "telugu_gloss": "వారుమనము",
+          "strongs": "G4314",
+          "grammar": "PREP"
+        },
+        {
+          "original": "ἑαυτοὺς",
+          "translit_english": "heautoû",
+          "telugu_gloss": "వారుమనము",
+          "strongs": "G1438",
+          "grammar": "F-3APM"
+        },
+        {
+          "original": "λέγοντες",
+          "translit_english": "légō",
+          "telugu_gloss": "పరలోకమునుండి",
+          "strongs": "G3004",
+          "grammar": "V-PAP-NPM"
+        },
+        {
+          "original": "Τί",
+          "translit_english": "tís",
+          "telugu_gloss": "పరలోకమునుండి",
+          "strongs": "G5101",
+          "grammar": "I-ASN"
+        },
+        {
+          "original": "εἴπωμεν",
+          "translit_english": "épō",
+          "telugu_gloss": "కలిగినదని",
+          "strongs": "G2036",
+          "grammar": "V-AAS-1P"
+        },
+        {
+          "original": "ἐὰν",
+          "translit_english": "eán",
+          "telugu_gloss": "కలిగినదని",
+          "strongs": "G1437",
+          "grammar": "COND"
+        },
+        {
+          "original": "εἴπωμεν",
+          "translit_english": "épō",
+          "telugu_gloss": "చెప్పినయెడల",
+          "strongs": "G2036",
+          "grammar": "V-2AAS-1P"
+        },
+        {
+          "original": "Ἐξ",
+          "translit_english": "ek",
+          "telugu_gloss": "ఆయనఆలాగైతే",
+          "strongs": "G1537",
+          "grammar": "PREP"
+        },
+        {
+          "original": "οὐρανοῦ",
+          "translit_english": "ouranós",
+          "telugu_gloss": "ఆయనఆలాగైతే",
+          "strongs": "G3772",
+          "grammar": "N-GSM"
+        },
+        {
+          "original": "ἐρεῖ",
+          "translit_english": "eréō",
+          "telugu_gloss": "మీరు",
+          "strongs": "G2046",
+          "grammar": "V-FAI-3S"
+        },
+        {
+          "original": "Διὰ",
+          "translit_english": "diá",
+          "telugu_gloss": "మీరు",
+          "strongs": "G1223",
+          "grammar": "PREP"
+        },
+        {
+          "original": "τί",
+          "translit_english": "tís",
+          "telugu_gloss": "ఎందుకతని",
+          "strongs": "G5101",
+          "grammar": "I-ASN"
+        },
+        {
+          "original": "οὖν",
+          "translit_english": "oûn",
+          "telugu_gloss": "ఎందుకతని",
+          "strongs": "G3767",
+          "grammar": "CONJ"
+        },
+        {
+          "original": "οὐκ",
+          "translit_english": "ou",
+          "telugu_gloss": "నమ్మలేదని",
+          "strongs": "G3756",
+          "grammar": "PRT-N"
+        },
+        {
+          "original": "ἐπιστεύσατε",
+          "translit_english": "pisteúō",
+          "telugu_gloss": "నమ్మలేదని",
+          "strongs": "G4100",
+          "grammar": "V-AAI-2P"
+        },
+        {
+          "original": "αὐτῷ",
+          "translit_english": "G0846",
+          "telugu_gloss": "అడుగును",
+          "strongs": "G0846",
+          "grammar": "P-DSM"
+        }
+      ]
+    },
+    {
+      "verse_number": 32,
+      "words": [
+        {
+          "original": "ἀλλὰ",
+          "translit_english": "G0235",
+          "telugu_gloss": "మనుష్యులవలన",
+          "strongs": "G0235",
+          "grammar": "CONJ"
+        },
+        {
+          "original": "εἴπωμεν",
+          "translit_english": "épō",
+          "telugu_gloss": "మనుష్యులవలన",
+          "strongs": "G2036",
+          "grammar": "V-2AAS-1P"
+        },
+        {
+          "original": "Ἐξ",
+          "translit_english": "ek",
+          "telugu_gloss": "కలిగిన",
+          "strongs": "G1537",
+          "grammar": "PREP"
+        },
+        {
+          "original": "ἀνθρώπων",
+          "translit_english": "G0444",
+          "telugu_gloss": "దని",
+          "strongs": "G0444",
+          "grammar": "N-GPM"
+        },
+        {
+          "original": "ἐφοβοῦντο",
+          "translit_english": "phobéō",
+          "telugu_gloss": "చెప్పుదుమా",
+          "strongs": "G5399",
+          "grammar": "V-INI-3P"
+        },
+        {
+          "original": "τὸν",
+          "translit_english": "ho",
+          "telugu_gloss": "ఆ",
+          "strongs": "G3588",
+          "grammar": "T-ASM"
+        },
+        {
+          "original": "ὄχλον",
+          "translit_english": "óchlos",
+          "telugu_gloss": "తమలోతాము",
+          "strongs": "G3793",
+          "grammar": "N-ASM"
+        },
+        {
+          "original": "ἅπαντες",
+          "translit_english": "G0537",
+          "telugu_gloss": "ఆలోచించుకొనిరి",
+          "strongs": "G0537",
+          "grammar": "A-NPM"
+        },
+        {
+          "original": "γὰρ",
+          "translit_english": "gár",
+          "telugu_gloss": "గాని",
+          "strongs": "G1063",
+          "grammar": "CONJ"
+        },
+        {
+          "original": "εἶχον",
+          "translit_english": "échō",
+          "telugu_gloss": "గాని",
+          "strongs": "G2192",
+          "grammar": "V-IAI-3P"
+        },
+        {
+          "original": "τὸν",
+          "translit_english": "ho",
+          "telugu_gloss": "ఆ",
+          "strongs": "G3588",
+          "grammar": "T-ASM"
+        },
+        {
+          "original": "Ἰωάννην",
+          "translit_english": "Iōánnēs",
+          "telugu_gloss": "యోహాను",
+          "strongs": "G2491",
+          "grammar": "N-ASM"
+        },
+        {
+          "original": "ὄντως",
+          "translit_english": "óntōs",
+          "telugu_gloss": "నిజముగా",
+          "strongs": "G3689",
+          "grammar": "ADV"
+        },
+        {
+          "original": "ὅτι",
+          "translit_english": "hóti",
+          "telugu_gloss": "ప్రవక్త",
+          "strongs": "G3754",
+          "grammar": "CONJ"
+        },
+        {
+          "original": "προφήτης",
+          "translit_english": "prophḗtēs",
+          "telugu_gloss": "యని",
+          "strongs": "G4396",
           "grammar": "N-NSM"
+        },
+        {
+          "original": "ἦν",
+          "translit_english": "ēn",
+          "telugu_gloss": "ఉండెను",
+          "strongs": "G2258",
+          "grammar": "V-IAI-3S"
+        }
+      ]
+    },
+    {
+      "verse_number": 33,
+      "words": [
+        {
+          "original": "καὶ",
+          "translit_english": "kaí",
+          "telugu_gloss": "మరియు",
+          "strongs": "G2532",
+          "grammar": "CONJ"
+        },
+        {
+          "original": "ἀποκριθέντες",
+          "translit_english": "G0611",
+          "telugu_gloss": "గనుక",
+          "strongs": "G0611",
+          "grammar": "V-AOP-NPM"
+        },
+        {
+          "original": "τῷ",
+          "translit_english": "ho",
+          "telugu_gloss": "ఆ",
+          "strongs": "G3588",
+          "grammar": "T-DSM"
+        },
+        {
+          "original": "Ἰησοῦ",
+          "translit_english": "Iēsoûs",
+          "telugu_gloss": "యేసు",
+          "strongs": "G2424",
+          "grammar": "N-DSM"
+        },
+        {
+          "original": "λέγουσιν",
+          "translit_english": "légō",
+          "telugu_gloss": "సంగతి",
+          "strongs": "G3004",
+          "grammar": "V-PAI-3P"
+        },
+        {
+          "original": "Οὐκ",
+          "translit_english": "ou",
+          "telugu_gloss": "మాకు",
+          "strongs": "G3756",
+          "grammar": "PRT-N"
+        },
+        {
+          "original": "οἴδαμεν",
+          "translit_english": "eídō",
+          "telugu_gloss": "తెలియదని",
+          "strongs": "G1492",
+          "grammar": "V-RAI-1P"
+        },
+        {
+          "original": "καὶ",
+          "translit_english": "kaí",
+          "telugu_gloss": "మరియు",
+          "strongs": "G2532",
+          "grammar": "CONJ"
+        },
+        {
+          "original": "ὁ",
+          "translit_english": "ho",
+          "telugu_gloss": "ఆ",
+          "strongs": "G3588",
+          "grammar": "T-NSM"
+        },
+        {
+          "original": "Ἰησοῦς",
+          "translit_english": "Iēsoûs",
+          "telugu_gloss": "యేసు",
+          "strongs": "G2424",
+          "grammar": "N-NSM"
+        },
+        {
+          "original": "λέγει",
+          "translit_english": "légō",
+          "telugu_gloss": "యేసుఏ",
+          "strongs": "G3004",
+          "grammar": "V-PAI-3S"
+        },
+        {
+          "original": "αὐτοῖς",
+          "translit_english": "G0846",
+          "telugu_gloss": "యేసుఏ",
+          "strongs": "G0846",
+          "grammar": "P-DPM"
+        },
+        {
+          "original": "Οὐδὲ",
+          "translit_english": "oudé",
+          "telugu_gloss": "అధికారము",
+          "strongs": "G3761",
+          "grammar": "CONJ-N"
+        },
+        {
+          "original": "ἐγὼ",
+          "translit_english": "egṓ",
+          "telugu_gloss": "వలన",
+          "strongs": "G1473",
+          "grammar": "P-1NS"
+        },
+        {
+          "original": "λέγω",
+          "translit_english": "légō",
+          "telugu_gloss": "ఈ",
+          "strongs": "G3004",
+          "grammar": "V-PAI-1S"
+        },
+        {
+          "original": "ὑμῖν",
+          "translit_english": "hymîn",
+          "telugu_gloss": "కార్యములు",
+          "strongs": "G5213",
+          "grammar": "P-2DP"
+        },
+        {
+          "original": "ἐν",
+          "translit_english": "en",
+          "telugu_gloss": "ఆదియందు",
+          "strongs": "G1722",
+          "grammar": "PREP"
+        },
+        {
+          "original": "ποίᾳ",
+          "translit_english": "poîos",
+          "telugu_gloss": "అదియు",
+          "strongs": "G4169",
+          "grammar": "I-DSF"
+        },
+        {
+          "original": "ἐξουσίᾳ",
+          "translit_english": "exousía",
+          "telugu_gloss": "నేను",
+          "strongs": "G1849",
+          "grammar": "N-DSF"
+        },
+        {
+          "original": "ταῦτα",
+          "translit_english": "taûta",
+          "telugu_gloss": "మీతో",
+          "strongs": "G5023",
+          "grammar": "D-APN"
+        },
+        {
+          "original": "ποιῶ",
+          "translit_english": "poiéō",
+          "telugu_gloss": "చెప్పననెను",
+          "strongs": "G4160",
+          "grammar": "V-PAI-1S"
         }
       ]
     }
