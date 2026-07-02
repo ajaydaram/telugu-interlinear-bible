@@ -5,7 +5,7 @@
   "data": [
     {
       "verse": 1,
-      "text": "ఆదియందు ఆదియందు దేవుడు దేవుడు భూమ్యాకాశములను భూమ్యాకాశములను సృజించెను.",
+      "text": "ఆదియందు దేవుడు భూమ్యాకాశములను సృజించెను.",
       "segments": [
         {
           "hebrew": "בְּ/רֵאשִׁ֖ית",
@@ -17,7 +17,7 @@
         {
           "hebrew": "בָּרָ֣א",
           "translit": "bârâʼ",
-          "telugu_chunk": "ఆదియందు",
+          "telugu_chunk": "సృజించెను",
           "strongs": "H1254",
           "grammar": "HVqp3ms"
         },
@@ -29,38 +29,17 @@
           "grammar": "HNcmpa"
         },
         {
-          "hebrew": "אֵ֥ת",
-          "translit": "H0853",
-          "telugu_chunk": "దేవుడు",
-          "strongs": "H0853",
-          "grammar": "HTo"
-        },
-        {
-          "hebrew": "הַ/שָּׁמַ֖יִם",
-          "translit": "shâmayim",
+          "hebrew": "אֵ֥ת הַ/שָּׁמַ֖יִם וְ/אֵ֥ת הָ/אָֽרֶץ",
+          "translit": "H0853 / shâmayim / H0853 / H0776",
           "telugu_chunk": "భూమ్యాకాశములను",
-          "strongs": "H8064",
-          "grammar": "HTd/Ncmpa"
-        },
-        {
-          "hebrew": "וְ/אֵ֥ת",
-          "translit": "H0853",
-          "telugu_chunk": "భూమ్యాకాశములను",
-          "strongs": "H0853",
-          "grammar": "HC/To"
-        },
-        {
-          "hebrew": "הָ/אָֽרֶץ",
-          "translit": "H0776",
-          "telugu_chunk": "సృజించెను.",
-          "strongs": "H0776",
-          "grammar": "HTd/Ncbsa"
+          "strongs": "H0853_H8064_H0853_H0776",
+          "grammar": "HTo_HTd/Ncmpa_HC/To_HTd/Ncbsa"
         }
       ]
     },
     {
       "verse": 2,
-      "text": "భూమి భూమి నిరాకారముగాను శూన్యముగాను ఉండెను; చీకటి అగాధ జలము పైన కమ్మియుండెను; దేవుని ఆత్మ జలములపైన అల్లాడుచుండెను.",
+      "text": "భూమి నిరాకారముగాను శూన్యముగాను ఉండెను; చీకటి అగాధ జలము పైన కమ్మియుండెను; దేవుని ఆత్మ జలములపైన అల్లాడుచుండెను.",
       "segments": [
         {
           "hebrew": "וְ/הָ/אָ֗רֶץ",
@@ -72,7 +51,7 @@
         {
           "hebrew": "הָיְתָ֥ה",
           "translit": "hâyâh",
-          "telugu_chunk": "భూమి",
+          "telugu_chunk": "ఉండెను",
           "strongs": "H1961",
           "grammar": "HVqp3fs"
         },
@@ -93,70 +72,70 @@
         {
           "hebrew": "וְ/חֹ֖שֶׁךְ",
           "translit": "chôshek",
-          "telugu_chunk": "ఉండెను;",
+          "telugu_chunk": "చీకటి",
           "strongs": "H2822",
           "grammar": "HC/Ncmsa"
         },
         {
           "hebrew": "עַל",
           "translit": "ʻal",
-          "telugu_chunk": "చీకటి",
+          "telugu_chunk": "పైన కమ్మియుండెను",
           "strongs": "H5921",
           "grammar": "HR"
         },
         {
           "hebrew": "פְּנֵ֣י",
           "translit": "pânîym",
-          "telugu_chunk": "అగాధ",
+          "telugu_chunk": "Grammatical Particle",
           "strongs": "H6440",
           "grammar": "HNcbpc"
         },
         {
           "hebrew": "תְה֑וֹם",
           "translit": "tᵉhôwm",
-          "telugu_chunk": "జలము",
+          "telugu_chunk": "అగాధ జలము",
           "strongs": "H8415",
           "grammar": "HNcbsa"
         },
         {
           "hebrew": "וְ/ר֣וּחַ",
           "translit": "rûwach",
-          "telugu_chunk": "పైన",
+          "telugu_chunk": "ఆత్మ",
           "strongs": "H7307",
           "grammar": "HC/Ncbsc"
         },
         {
           "hebrew": "אֱלֹהִ֔ים",
           "translit": "H0430",
-          "telugu_chunk": "కమ్మియుండెను;",
+          "telugu_chunk": "దేవుని",
           "strongs": "H0430",
           "grammar": "HNcmpa"
         },
         {
           "hebrew": "מְרַחֶ֖פֶת",
           "translit": "râchaph",
-          "telugu_chunk": "దేవుని",
+          "telugu_chunk": "అల్లాడుచుండెను",
           "strongs": "H7363",
           "grammar": "HVprfsa"
         },
         {
           "hebrew": "עַל",
           "translit": "ʻal",
-          "telugu_chunk": "ఆత్మ",
+          "telugu_chunk": "పైన",
           "strongs": "H5921",
           "grammar": "HR"
         },
         {
           "hebrew": "פְּנֵ֥י",
           "translit": "pânîym",
-          "telugu_chunk": "జలములపైన",
+          "telugu_chunk": "Grammatical Particle",
           "strongs": "H6440",
           "grammar": "HNcbpc"
         },
         {
           "hebrew": "הַ/מָּֽיִם",
           "translit": "mayim",
-          "telugu_chunk": "అల్లాడుచుండెను.",
+          "telugu_chunk": "జలముల",
           "strongs": "H4325",
           "grammar": "HTd/Ncmpa"
         }
@@ -169,14 +148,14 @@
         {
           "hebrew": "וַ/יֹּ֥אמֶר",
           "translit": "H0559",
-          "telugu_chunk": "దేవుడు",
+          "telugu_chunk": "పలుకగా",
           "strongs": "H0559",
           "grammar": "HC/Vqw3ms"
         },
         {
           "hebrew": "אֱלֹהִ֖ים",
           "translit": "H0430",
-          "telugu_chunk": "వెలుగు",
+          "telugu_chunk": "దేవుడు",
           "strongs": "H0430",
           "grammar": "HNcmpa"
         },
@@ -190,21 +169,21 @@
         {
           "hebrew": "א֑וֹר",
           "translit": "H0216",
-          "telugu_chunk": "పలుకగా",
+          "telugu_chunk": "వెలుగు",
           "strongs": "H0216",
           "grammar": "HNcbsa"
         },
         {
           "hebrew": "וַֽ/יְהִי",
           "translit": "hâyâh",
-          "telugu_chunk": "వెలుగు",
+          "telugu_chunk": "కలిగెను",
           "strongs": "H1961",
           "grammar": "HC/Vqw3ms"
         },
         {
           "hebrew": "אֽוֹר",
           "translit": "H0216",
-          "telugu_chunk": "కలిగెను.",
+          "telugu_chunk": "వెలుగు",
           "strongs": "H0216",
           "grammar": "HNcbsa"
         }
@@ -212,91 +191,56 @@
     },
     {
       "verse": 4,
-      "text": "వెలుగు వెలుగు మంచిదైనట్టు మంచిదైనట్టు దేవుడుచూచెను; దేవుడుచూచెను; దేవుడు వెలుగును వెలుగును చీకటిని చీకటిని వేరుపరచెను.",
+      "text": "వెలుగు మంచిదైనట్టు దేవుడుచూచెను; దేవుడు వెలుగును చీకటిని వేరుపరచెను.",
       "segments": [
         {
-          "hebrew": "וַ/יַּ֧רְא",
-          "translit": "râʼâh",
+          "hebrew": "וַ/יַּ֧רְא אֱלֹהִ֛ים",
+          "translit": "râʼâh / H0430",
+          "telugu_chunk": "దేవుడుచూచెను",
+          "strongs": "H7200_H0430",
+          "grammar": "HC/Vqw3ms_HNcmpa"
+        },
+        {
+          "hebrew": "אֶת הָ/א֖וֹר",
+          "translit": "H0853 / H0216",
           "telugu_chunk": "వెలుగు",
-          "strongs": "H7200",
-          "grammar": "HC/Vqw3ms"
+          "strongs": "H0853_H0216",
+          "grammar": "HTo_HTd/Ncbsa"
         },
         {
-          "hebrew": "אֱלֹהִ֛ים",
-          "translit": "H0430",
-          "telugu_chunk": "వెలుగు",
-          "strongs": "H0430",
-          "grammar": "HNcmpa"
-        },
-        {
-          "hebrew": "אֶת",
-          "translit": "H0853",
+          "hebrew": "כִּי ט֑וֹב",
+          "translit": "kîy / ṭôwb",
           "telugu_chunk": "మంచిదైనట్టు",
-          "strongs": "H0853",
-          "grammar": "HTo"
-        },
-        {
-          "hebrew": "הָ/א֖וֹר",
-          "translit": "H0216",
-          "telugu_chunk": "మంచిదైనట్టు",
-          "strongs": "H0216",
-          "grammar": "HTd/Ncbsa"
-        },
-        {
-          "hebrew": "כִּי",
-          "translit": "kîy",
-          "telugu_chunk": "దేవుడుచూచెను;",
-          "strongs": "H3588",
-          "grammar": "HC"
-        },
-        {
-          "hebrew": "ט֑וֹב",
-          "translit": "ṭôwb",
-          "telugu_chunk": "దేవుడుచూచెను;",
-          "strongs": "H2896",
-          "grammar": "HAamsa"
+          "strongs": "H3588_H2896",
+          "grammar": "HC_HAamsa"
         },
         {
           "hebrew": "וַ/יַּבְדֵּ֣ל",
           "translit": "H0914",
-          "telugu_chunk": "దేవుడు",
+          "telugu_chunk": "వేరుపరచెను",
           "strongs": "H0914",
           "grammar": "HC/Vhw3ms"
         },
         {
           "hebrew": "אֱלֹהִ֔ים",
           "translit": "H0430",
-          "telugu_chunk": "వెలుగును",
+          "telugu_chunk": "దేవుడు",
           "strongs": "H0430",
           "grammar": "HNcmpa"
         },
         {
-          "hebrew": "בֵּ֥ין",
-          "translit": "H0996",
+          "hebrew": "בֵּ֥ין הָ/א֖וֹר",
+          "translit": "H0996 / H0216",
           "telugu_chunk": "వెలుగును",
-          "strongs": "H0996",
-          "grammar": "HR"
+          "strongs": "H0996_H0216",
+          "grammar": "HR_HTd/Ncbsa"
         },
         {
-          "hebrew": "הָ/א֖וֹר",
-          "translit": "H0216",
+          "hebrew": "וּ/בֵ֥ין הַ/חֹֽשֶׁךְ",
+          "translit": "H0996 / chôshek",
           "telugu_chunk": "చీకటిని",
-          "strongs": "H0216",
-          "grammar": "HTd/Ncbsa"
-        },
-        {
-          "hebrew": "וּ/בֵ֥ין",
-          "translit": "H0996",
-          "telugu_chunk": "చీకటిని",
-          "strongs": "H0996",
-          "grammar": "HC/R"
-        },
-        {
-          "hebrew": "הַ/חֹֽשֶׁךְ",
-          "translit": "chôshek",
-          "telugu_chunk": "వేరుపరచెను.",
-          "strongs": "H2822",
-          "grammar": "HTd/Ncmsa"
+          "strongs": "H0996_H2822",
+          "grammar": "HC/R_HTd/Ncmsa"
         }
       ]
     },
@@ -305,93 +249,93 @@
       "text": "దేవుడు వెలుగునకు పగలనియు, చీకటికి రాత్రి అనియు పేరు పెట్టెను. అస్తమయమును ఉదయమును కలుగగా ఒక దినమాయెను.",
       "segments": [
         {
-          "hebrew": "וַ/יִּקְרָ֨א",
+          "hebrew": "",
           "translit": "qârâʼ",
           "telugu_chunk": "దేవుడు",
           "strongs": "H7121",
           "grammar": "HC/Vqw3ms"
         },
         {
-          "hebrew": "אֱלֹהִ֤ים",
+          "hebrew": "",
           "translit": "H0430",
           "telugu_chunk": "వెలుగునకు",
           "strongs": "H0430",
           "grammar": "HNcmpa"
         },
         {
-          "hebrew": "לָ/אוֹר֙",
+          "hebrew": "",
           "translit": "H0216",
-          "telugu_chunk": "పగలనియు,",
+          "telugu_chunk": "పగలనియు",
           "strongs": "H0216",
           "grammar": "HRd/Ncbsa"
         },
         {
-          "hebrew": "י֔וֹם",
+          "hebrew": "",
           "translit": "yôwm",
           "telugu_chunk": "చీకటికి",
           "strongs": "H3117",
           "grammar": "HNcmsa"
         },
         {
-          "hebrew": "וְ/לַ/חֹ֖שֶׁךְ",
+          "hebrew": "",
           "translit": "chôshek",
           "telugu_chunk": "రాత్రి",
           "strongs": "H2822",
           "grammar": "HC/Rd/Ncmsa"
         },
         {
-          "hebrew": "קָ֣רָא",
+          "hebrew": "",
           "translit": "qârâʼ",
           "telugu_chunk": "అనియు",
           "strongs": "H7121",
           "grammar": "HVqp3ms"
         },
         {
-          "hebrew": "לָ֑יְלָה",
+          "hebrew": "",
           "translit": "layil",
           "telugu_chunk": "పేరు",
           "strongs": "H3915",
           "grammar": "HNcmsa"
         },
         {
-          "hebrew": "וַֽ/יְהִי",
+          "hebrew": "",
           "translit": "hâyâh",
-          "telugu_chunk": "పెట్టెను.",
+          "telugu_chunk": "పెట్టెను",
           "strongs": "H1961",
           "grammar": "HC/Vqw3ms"
         },
         {
-          "hebrew": "עֶ֥רֶב",
+          "hebrew": "",
           "translit": "ʻereb",
           "telugu_chunk": "అస్తమయమును",
           "strongs": "H6153",
           "grammar": "HNcmsa"
         },
         {
-          "hebrew": "וַֽ/יְהִי",
+          "hebrew": "",
           "translit": "hâyâh",
           "telugu_chunk": "ఉదయమును",
           "strongs": "H1961",
           "grammar": "HC/Vqw3ms"
         },
         {
-          "hebrew": "בֹ֖קֶר",
+          "hebrew": "",
           "translit": "bôqer",
           "telugu_chunk": "కలుగగా",
           "strongs": "H1242",
           "grammar": "HNcmsa"
         },
         {
-          "hebrew": "י֥וֹם",
+          "hebrew": "",
           "translit": "yôwm",
           "telugu_chunk": "ఒక",
           "strongs": "H3117",
           "grammar": "HNcmsa"
         },
         {
-          "hebrew": "אֶחָֽד",
+          "hebrew": "",
           "translit": "H0259",
-          "telugu_chunk": "దినమాయెను.",
+          "telugu_chunk": "దినమాయెను",
           "strongs": "H0259",
           "grammar": "HAcmsa"
         }
@@ -399,7 +343,7 @@
     },
     {
       "verse": 6,
-      "text": "మరియు దేవుడుజలముల మధ్య నొక విశాలము కలిగి జలములను ఈ జలములను వేరుపరచును గాకని",
+      "text": "మరియు దేవుడుజలముల మధ్య నొక విశాలము కలిగి ఆ జలములను ఈ జలములను వేరుపరచును గాకని పలికెను.",
       "segments": [
         {
           "hebrew": "וַ/יֹּ֣אמֶר",
@@ -411,70 +355,70 @@
         {
           "hebrew": "אֱלֹהִ֔ים",
           "translit": "H0430",
-          "telugu_chunk": "దేవుడుజలముల",
+          "telugu_chunk": "దేవుడు",
           "strongs": "H0430",
           "grammar": "HNcmpa"
         },
         {
           "hebrew": "יְהִ֥י",
           "translit": "hâyâh",
-          "telugu_chunk": "మధ్య",
+          "telugu_chunk": "కలిగి",
           "strongs": "H1961",
           "grammar": "HVqj3ms"
         },
         {
           "hebrew": "רָקִ֖יעַ",
           "translit": "râqîyaʻ",
-          "telugu_chunk": "నొక",
+          "telugu_chunk": "నొక విశాలము",
           "strongs": "H7549",
           "grammar": "HNcmsa"
         },
         {
           "hebrew": "בְּ/ת֣וֹךְ",
           "translit": "tâvek",
-          "telugu_chunk": "విశాలము",
+          "telugu_chunk": "మధ్య",
           "strongs": "H8432",
           "grammar": "HR/Ncmsc"
         },
         {
           "hebrew": "הַ/מָּ֑יִם",
           "translit": "mayim",
-          "telugu_chunk": "కలిగి",
+          "telugu_chunk": "జలముల",
           "strongs": "H4325",
           "grammar": "HTd/Ncmpa"
         },
         {
           "hebrew": "וִ/יהִ֣י",
           "translit": "hâyâh",
-          "telugu_chunk": "జలములను",
+          "telugu_chunk": "గాకని పలికెను",
           "strongs": "H1961",
           "grammar": "HC/Vqi3ms"
         },
         {
           "hebrew": "מַבְדִּ֔יל",
           "translit": "H0914",
-          "telugu_chunk": "ఈ",
+          "telugu_chunk": "వేరుపరచును",
           "strongs": "H0914",
           "grammar": "HVhrmsa"
         },
         {
           "hebrew": "בֵּ֥ין",
           "translit": "H0996",
-          "telugu_chunk": "జలములను",
+          "telugu_chunk": "ఆ",
           "strongs": "H0996",
           "grammar": "HR"
         },
         {
           "hebrew": "מַ֖יִם",
           "translit": "mayim",
-          "telugu_chunk": "వేరుపరచును",
+          "telugu_chunk": "జలములను",
           "strongs": "H4325",
           "grammar": "HNcmpa"
         },
         {
           "hebrew": "לָ/מָֽיִם",
           "translit": "mayim",
-          "telugu_chunk": "గాకని",
+          "telugu_chunk": "ఈ జలములను",
           "strongs": "H4325",
           "grammar": "HR/Ncmpa"
         }
@@ -482,12 +426,12 @@
     },
     {
       "verse": 7,
-      "text": "దేవుడు దేవుడు ఆ విశాలము చేసి చేసి విశాలము క్రింది జలములను జలములను విశాలము మీది జలములను జలములను వేరుపరపగా ఆ ప్రకారమాయెను.",
+      "text": "దేవుడు ఆ విశాలము చేసి విశాలము క్రింది జలములను విశాలము మీది జలములను వేరుపరపగా ఆ ప్రకారమాయెను.",
       "segments": [
         {
           "hebrew": "וַ/יַּ֣עַשׂ",
           "translit": "ʻâsâh",
-          "telugu_chunk": "దేవుడు",
+          "telugu_chunk": "చేసి",
           "strongs": "H6213",
           "grammar": "HC/Vqw3ms"
         },
@@ -513,79 +457,79 @@
           "grammar": "HTd/Ncmsa"
         },
         {
-          "hebrew": "וַ/יַּבְדֵּ֗ל",
+          "hebrew": "וַ/יַּבְדֵּ֗",
           "translit": "H0914",
-          "telugu_chunk": "చేసి",
+          "telugu_chunk": "వేరుపరపగా",
           "strongs": "H0914",
           "grammar": "HC/Vhw3ms"
         },
         {
           "hebrew": "בֵּ֤ין",
           "translit": "H0996",
-          "telugu_chunk": "చేసి",
+          "telugu_chunk": "Grammatical Particle",
           "strongs": "H0996",
           "grammar": "HR"
         },
         {
           "hebrew": "הַ/מַּ֨יִם֙",
           "translit": "mayim",
-          "telugu_chunk": "విశాలము",
+          "telugu_chunk": "జలములను",
           "strongs": "H4325",
           "grammar": "HTd/Ncmpa"
         },
         {
           "hebrew": "אֲשֶׁר֙",
           "translit": "H0834",
-          "telugu_chunk": "క్రింది",
+          "telugu_chunk": "Grammatical Particle",
           "strongs": "H0834",
           "grammar": "HTr"
         },
         {
           "hebrew": "מִ/תַּ֣חַת",
           "translit": "tachath",
-          "telugu_chunk": "జలములను",
+          "telugu_chunk": "క్రింది",
           "strongs": "H8478",
           "grammar": "HR/R"
         },
         {
           "hebrew": "לָ/רָקִ֔יעַ",
           "translit": "râqîyaʻ",
-          "telugu_chunk": "జలములను",
+          "telugu_chunk": "విశాలము",
           "strongs": "H7549",
           "grammar": "HRd/Ncmsa"
         },
         {
           "hebrew": "וּ/בֵ֣ין",
           "translit": "H0996",
-          "telugu_chunk": "విశాలము",
+          "telugu_chunk": "Grammatical Particle",
           "strongs": "H0996",
           "grammar": "HC/R"
         },
         {
           "hebrew": "הַ/מַּ֔יִם",
           "translit": "mayim",
-          "telugu_chunk": "మీది",
+          "telugu_chunk": "జలములను",
           "strongs": "H4325",
           "grammar": "HTd/Ncmpa"
         },
         {
           "hebrew": "אֲשֶׁ֖ר",
           "translit": "H0834",
-          "telugu_chunk": "జలములను",
+          "telugu_chunk": "Grammatical Particle",
           "strongs": "H0834",
           "grammar": "HTr"
         },
         {
-          "hebrew": "מֵ/עַ֣ל",
+          "hebrew": "מֵ/עַ֣ల్",
           "translit": "ʻal",
-          "telugu_chunk": "జలములను",
+          "telugu_chunk": "మీది",
           "strongs": "H5921",
           "grammar": "HR/R"
         },
         {
           "hebrew": "לָ/רָקִ֑יעַ",
           "translit": "râqîyaʻ",
-          "telugu_chunk": "వేరుపరపగా",
+          "telugu_chunk": "విశాలము",
           "strongs": "H7549",
           "grammar": "HRd/Ncmsa"
         },
@@ -599,7 +543,7 @@
         {
           "hebrew": "כֵֽן",
           "translit": "kên",
-          "telugu_chunk": "ప్రకారమాయెను.",
+          "telugu_chunk": "ప్రకారమాయెను",
           "strongs": "H3651",
           "grammar": "HD"
         }
@@ -607,26 +551,26 @@
     },
     {
       "verse": 8,
-      "text": "దేవుడు ఆ విశాలమునకు ఆకాశమని పేరు పెట్టెను. అస్తమయమును ఉదయమును కలుగగా రెండవ",
+      "text": "దేవుడు ఆ విశాలమునకు ఆకాశమని పేరు పెట్టెను. అస్తమయమును ఉదయమును కలుగగా రెండవ దినమాయెను.",
       "segments": [
         {
           "hebrew": "וַ/יִּקְרָ֧א",
           "translit": "qârâʼ",
-          "telugu_chunk": "దేవుడు",
+          "telugu_chunk": "పేరు పెట్టెను",
           "strongs": "H7121",
           "grammar": "HC/Vqw3ms"
         },
         {
           "hebrew": "אֱלֹהִ֛ים",
           "translit": "H0430",
-          "telugu_chunk": "ఆ",
+          "telugu_chunk": "దేవుడు",
           "strongs": "H0430",
           "grammar": "HNcmpa"
         },
         {
           "hebrew": "לָֽ/רָקִ֖יעַ",
           "translit": "râqîyaʻ",
-          "telugu_chunk": "విశాలమునకు",
+          "telugu_chunk": "ఆ విశాలమునకు",
           "strongs": "H7549",
           "grammar": "HRd/Ncmsa"
         },
@@ -640,21 +584,21 @@
         {
           "hebrew": "וַֽ/יְהִי",
           "translit": "hâyâh",
-          "telugu_chunk": "పేరు",
+          "telugu_chunk": "కలుగగా",
           "strongs": "H1961",
           "grammar": "HC/Vqw3ms"
         },
         {
           "hebrew": "עֶ֥רֶב",
           "translit": "ʻereb",
-          "telugu_chunk": "పెట్టెను.",
+          "telugu_chunk": "అస్తమయమును",
           "strongs": "H6153",
           "grammar": "HNcmsa"
         },
         {
           "hebrew": "וַֽ/יְהִי",
           "translit": "hâyâh",
-          "telugu_chunk": "అస్తమయమును",
+          "telugu_chunk": "Grammatical Particle",
           "strongs": "H1961",
           "grammar": "HC/Vqw3ms"
         },
@@ -668,7 +612,7 @@
         {
           "hebrew": "י֥וֹם",
           "translit": "yôwm",
-          "telugu_chunk": "కలుగగా",
+          "telugu_chunk": "దినమాయెను",
           "strongs": "H3117",
           "grammar": "HNcmsa"
         },
@@ -683,26 +627,26 @@
     },
     {
       "verse": 9,
-      "text": "దేవుడుఆకాశము దేవుడుఆకాశము క్రిందనున్న జలము లొకచోటనే కూర్చబడి ఆరిన నేల కనబడును గాకని పలుకగా ఆ ప్రకారమాయెను.",
+      "text": "దేవుడుఆకాశము క్రిందనున్న జలము లొకచోటనే కూర్చబడి ఆరిన నేల కనబడును గాకని పలుకగా ఆ ప్రకారమాయెను.",
       "segments": [
         {
           "hebrew": "וַ/יֹּ֣אמֶר",
           "translit": "H0559",
-          "telugu_chunk": "దేవుడుఆకాశము",
+          "telugu_chunk": "పలుకగా",
           "strongs": "H0559",
           "grammar": "HC/Vqw3ms"
         },
         {
           "hebrew": "אֱלֹהִ֗ים",
           "translit": "H0430",
-          "telugu_chunk": "దేవుడుఆకాశము",
+          "telugu_chunk": "దేవుడు",
           "strongs": "H0430",
           "grammar": "HNcmpa"
         },
         {
           "hebrew": "יִקָּו֨וּ",
           "translit": "qâvâh",
-          "telugu_chunk": "క్రిందనున్న",
+          "telugu_chunk": "కూర్చబడి",
           "strongs": "H6960",
           "grammar": "HVNj3mp"
         },
@@ -716,49 +660,35 @@
         {
           "hebrew": "מִ/תַּ֤חַת",
           "translit": "tachath",
-          "telugu_chunk": "లొకచోటనే",
+          "telugu_chunk": "క్రిందనున్న",
           "strongs": "H8478",
           "grammar": "HR/R"
         },
         {
           "hebrew": "הַ/שָּׁמַ֨יִם֙",
           "translit": "shâmayim",
-          "telugu_chunk": "కూర్చబడి",
+          "telugu_chunk": "ఆకాశము",
           "strongs": "H8064",
           "grammar": "HTd/Ncmpa"
         },
         {
-          "hebrew": "אֶל",
-          "translit": "H0413",
-          "telugu_chunk": "ఆరిన",
-          "strongs": "H0413",
-          "grammar": "HR"
-        },
-        {
-          "hebrew": "מָק֣וֹם",
-          "translit": "mâqôwm",
-          "telugu_chunk": "నేల",
-          "strongs": "H4725",
-          "grammar": "HNcmsa"
-        },
-        {
-          "hebrew": "אֶחָ֔ד",
-          "translit": "H0259",
-          "telugu_chunk": "కనబడును",
-          "strongs": "H0259",
-          "grammar": "HAcmsa"
+          "hebrew": "אֶל מָק֣וֹם אֶחָ֔ד",
+          "translit": "H0413 / mâqôwm / H0259",
+          "telugu_chunk": "లొకచోటనే",
+          "strongs": "H0413_H4725_H0259",
+          "grammar": "HR_HNcmsa_HAcmsa"
         },
         {
           "hebrew": "וְ/תֵרָאֶ֖ה",
           "translit": "râʼâh",
-          "telugu_chunk": "గాకని",
+          "telugu_chunk": "కనబడును గాకని",
           "strongs": "H7200",
           "grammar": "HC/VNi3fs"
         },
         {
           "hebrew": "הַ/יַּבָּשָׁ֑ה",
           "translit": "yabbâshâh",
-          "telugu_chunk": "పలుకగా",
+          "telugu_chunk": "ఆరిన నేల",
           "strongs": "H3004",
           "grammar": "HTd/Ncfsa"
         },
@@ -772,7 +702,7 @@
         {
           "hebrew": "כֵֽן",
           "translit": "kên",
-          "telugu_chunk": "ప్రకారమాయెను.",
+          "telugu_chunk": "ప్రకారమాయెను",
           "strongs": "H3651",
           "grammar": "HD"
         }
@@ -780,54 +710,54 @@
     },
     {
       "verse": 10,
-      "text": "దేవుడు ఆరిన నేలకు అని పేరు పెట్టెను, ఆయన సముద్రములని పేరు అది మంచిదని దేవుడు",
+      "text": "దేవుడు ఆరిన నేలకు భూమి అని పేరు పెట్టెను, జలరాశికి ఆయన సముద్రములని పేరు పెట్టెను, అది మంచిదని దేవుడు చూచెను.",
       "segments": [
         {
           "hebrew": "וַ/יִּקְרָ֨א",
           "translit": "qârâʼ",
-          "telugu_chunk": "దేవుడు",
+          "telugu_chunk": "పేరు పెట్టెను",
           "strongs": "H7121",
           "grammar": "HC/Vqw3ms"
         },
         {
           "hebrew": "אֱלֹהִ֤ים",
           "translit": "H0430",
-          "telugu_chunk": "ఆరిన",
+          "telugu_chunk": "దేవుడు",
           "strongs": "H0430",
           "grammar": "HNcmpa"
         },
         {
           "hebrew": "לַ/יַּבָּשָׁה֙",
           "translit": "yabbâshâh",
-          "telugu_chunk": "నేలకు",
+          "telugu_chunk": "ఆరిన నేలకు",
           "strongs": "H3004",
           "grammar": "HRd/Ncfsa"
         },
         {
           "hebrew": "אֶ֔רֶץ",
           "translit": "H0776",
-          "telugu_chunk": "అని",
+          "telugu_chunk": "భూమి అని",
           "strongs": "H0776",
           "grammar": "HNcbsa"
         },
         {
           "hebrew": "וּ/לְ/מִקְוֵ֥ה",
           "translit": "miqveh",
-          "telugu_chunk": "పేరు",
+          "telugu_chunk": "జలరాశికి",
           "strongs": "H4723",
           "grammar": "HC/R/Ncmsc"
         },
         {
           "hebrew": "הַ/מַּ֖יִם",
           "translit": "mayim",
-          "telugu_chunk": "పెట్టెను,",
+          "telugu_chunk": "Grammatical Particle",
           "strongs": "H4325",
           "grammar": "HTd/Ncmpa"
         },
         {
           "hebrew": "קָרָ֣א",
           "translit": "qârâʼ",
-          "telugu_chunk": "ఆయన",
+          "telugu_chunk": "ఆయన పేరు పెట్టెను",
           "strongs": "H7121",
           "grammar": "HVqp3ms"
         },
@@ -841,28 +771,28 @@
         {
           "hebrew": "וַ/יַּ֥רְא",
           "translit": "râʼâh",
-          "telugu_chunk": "పేరు",
+          "telugu_chunk": "చూచెను",
           "strongs": "H7200",
           "grammar": "HC/Vqw3ms"
         },
         {
           "hebrew": "אֱלֹהִ֖ים",
           "translit": "H0430",
-          "telugu_chunk": "అది",
+          "telugu_chunk": "దేవుడు",
           "strongs": "H0430",
           "grammar": "HNcmpa"
         },
         {
           "hebrew": "כִּי",
           "translit": "kîy",
-          "telugu_chunk": "మంచిదని",
+          "telugu_chunk": "అది మంచిదని",
           "strongs": "H3588",
           "grammar": "HC"
         },
         {
           "hebrew": "טֽוֹב",
           "translit": "ṭôwb",
-          "telugu_chunk": "దేవుడు",
+          "telugu_chunk": "Grammatical Particle",
           "strongs": "H2896",
           "grammar": "HAamsa"
         }
@@ -870,145 +800,117 @@
     },
     {
       "verse": 11,
-      "text": "దేవుడుగడ్డిని దేవుడుగడ్డిని విత్తనములిచ్చు చెట్లను భూమిమీద తమ తమ జాతి ప్రకారము తమలో విత్తనములుగల విత్తనములుగల ఫలమిచ్చు ఫలవృక్షములను భూమి మొలిపించుగాకని పలుకగా ఆ ప్రకార మాయెను.",
+      "text": "దేవుడుగడ్డిని విత్తనములిచ్చు చెట్లను భూమిమీద తమ తమ జాతి ప్రకారము తమలో విత్తనములుగల ఫలమిచ్చు ఫలవృక్షములను భూమి మొలిపించుగాకని పలుకగా ఆ ప్రకార మాయెను.",
       "segments": [
         {
           "hebrew": "וַ/יֹּ֣אמֶר",
           "translit": "H0559",
-          "telugu_chunk": "దేవుడుగడ్డిని",
+          "telugu_chunk": "పలుకగా",
           "strongs": "H0559",
           "grammar": "HC/Vqw3ms"
         },
         {
           "hebrew": "אֱלֹהִ֗ים",
           "translit": "H0430",
-          "telugu_chunk": "దేవుడుగడ్డిని",
+          "telugu_chunk": "దేవుడు",
           "strongs": "H0430",
           "grammar": "HNcmpa"
         },
         {
           "hebrew": "תַּֽדְשֵׁ֤א",
           "translit": "dâshâʼ",
-          "telugu_chunk": "విత్తనములిచ్చు",
+          "telugu_chunk": "మొలిపించుగాకని",
           "strongs": "H1876",
           "grammar": "HVhj3fs"
         },
         {
           "hebrew": "הָ/אָ֨רֶץ֙",
           "translit": "H0776",
-          "telugu_chunk": "చెట్లను",
+          "telugu_chunk": "భూమి",
           "strongs": "H0776",
           "grammar": "HTd/Ncbsa"
         },
         {
           "hebrew": "דֶּ֔שֶׁא",
           "translit": "desheʼ",
-          "telugu_chunk": "భూమిమీద",
+          "telugu_chunk": "గడ్డిని",
           "strongs": "H1877",
           "grammar": "HNcmsa"
         },
         {
           "hebrew": "עֵ֚שֶׂב",
           "translit": "ʻeseb",
-          "telugu_chunk": "తమ",
+          "telugu_chunk": "చెట్లను",
           "strongs": "H6212",
           "grammar": "HNcmsa"
         },
         {
-          "hebrew": "מַזְרִ֣יעַ",
-          "translit": "zâraʻ",
-          "telugu_chunk": "తమ",
-          "strongs": "H2232",
-          "grammar": "HVhrmsa"
+          "hebrew": "מַזְרִ֣יעַ זֶ֔רַע",
+          "translit": "zâraʻ / zeraʻ",
+          "telugu_chunk": "విత్తనములిచ్చు",
+          "strongs": "H2232_H2233",
+          "grammar": "HVhrmsa_HNcmsa"
         },
         {
-          "hebrew": "זֶ֔רַע",
-          "translit": "zeraʻ",
-          "telugu_chunk": "జాతి",
-          "strongs": "H2233",
-          "grammar": "HNcmsa"
+          "hebrew": "עֵ֣ץ פְּרִ֞י",
+          "translit": "ʻêts / pᵉrîy",
+          "telugu_chunk": "ఫలవృక్షములను",
+          "strongs": "H6086_H6529",
+          "grammar": "HNcmsc_HNcmsa"
         },
         {
-          "hebrew": "עֵ֣ץ",
-          "translit": "ʻêts",
-          "telugu_chunk": "ప్రకారము",
-          "strongs": "H6086",
-          "grammar": "HNcmsc"
-        },
-        {
-          "hebrew": "פְּרִ֞י",
-          "translit": "pᵉrîy",
-          "telugu_chunk": "తమలో",
-          "strongs": "H6529",
-          "grammar": "HNcmsa"
-        },
-        {
-          "hebrew": "עֹ֤שֶׂה",
-          "translit": "ʻâsâh",
-          "telugu_chunk": "విత్తనములుగల",
-          "strongs": "H6213",
-          "grammar": "HVqrmsa"
-        },
-        {
-          "hebrew": "פְּרִי֙",
-          "translit": "pᵉrîy",
-          "telugu_chunk": "విత్తనములుగల",
-          "strongs": "H6529",
-          "grammar": "HNcmsa"
+          "hebrew": "עֹ֤שֶׂה פְּרִי֙",
+          "translit": "ʻâsâh / pᵉrîy",
+          "telugu_chunk": "ఫలమిచ్చు",
+          "strongs": "H6213_H6529",
+          "grammar": "HVqrmsa_HNcmsa"
         },
         {
           "hebrew": "לְ/מִינ֔/וֹ",
           "translit": "mîyn",
-          "telugu_chunk": "ఫలమిచ్చు",
+          "telugu_chunk": "తమ తమ జాతి ప్రకారము",
           "strongs": "H4327",
           "grammar": "HR/Ncmsc/Sp3ms"
         },
         {
           "hebrew": "אֲשֶׁ֥ר",
           "translit": "H0834",
-          "telugu_chunk": "ఫలవృక్షములను",
+          "telugu_chunk": "Grammatical Particle",
           "strongs": "H0834",
           "grammar": "HTr"
         },
         {
           "hebrew": "זַרְע/וֹ",
           "translit": "zeraʻ",
-          "telugu_chunk": "భూమి",
+          "telugu_chunk": "విత్తనములుగల",
           "strongs": "H2233",
           "grammar": "HNcmsc/Sp3ms"
         },
         {
           "hebrew": "ב֖/וֹ",
           "translit": "",
-          "telugu_chunk": "మొలిపించుగాకని",
+          "telugu_chunk": "తమలో",
           "strongs": "",
           "grammar": "HR/Sp3ms"
         },
         {
-          "hebrew": "עַל",
-          "translit": "ʻal",
-          "telugu_chunk": "పలుకగా",
-          "strongs": "H5921",
-          "grammar": "HR"
-        },
-        {
-          "hebrew": "הָ/אָ֑רֶץ",
-          "translit": "H0776",
-          "telugu_chunk": "ఆ",
-          "strongs": "H0776",
-          "grammar": "HTd/Ncbsa"
+          "hebrew": "עַל הָ/אָ֑רֶץ",
+          "translit": "ʻal / H0776",
+          "telugu_chunk": "భూమిమీద",
+          "strongs": "H5921_H0776",
+          "grammar": "HR_HTd/Ncbsa"
         },
         {
           "hebrew": "וַֽ/יְהִי",
           "translit": "hâyâh",
-          "telugu_chunk": "ప్రకార",
+          "telugu_chunk": "మాయెను",
           "strongs": "H1961",
           "grammar": "HC/Vqw3ms"
         },
         {
           "hebrew": "כֵֽן",
           "translit": "kên",
-          "telugu_chunk": "మాయెను.",
+          "telugu_chunk": "ఆ ప్రకార",
           "strongs": "H3651",
           "grammar": "HD"
         }
@@ -1016,131 +918,117 @@
     },
     {
       "verse": 12,
-      "text": "భూమి గడ్డిని తమ తమ జాతి ప్రకారము విత్తనములిచ్చు చెట్లను, తమ జాతి ప్రకారము తమలో విత్తనములుగల ఫలవృక్షములను మొలిపింపగా అది మంచిదని దేవుడు",
+      "text": "భూమి గడ్డిని తమ తమ జాతి ప్రకారము విత్తనములిచ్చు చెట్లను, తమ తమ జాతి ప్రకారము తమలో విత్తనములుగల ఫలవృక్షములను మొలిపింపగా అది మంచిదని దేవుడు చూచెను",
       "segments": [
         {
           "hebrew": "וַ/תּוֹצֵ֨א",
           "translit": "yâtsâʼ",
-          "telugu_chunk": "భూమి",
+          "telugu_chunk": "మొలిపింపగా",
           "strongs": "H3318",
           "grammar": "HC/Vhw3fs"
         },
         {
           "hebrew": "הָ/אָ֜רֶץ",
           "translit": "H0776",
-          "telugu_chunk": "గడ్డిని",
+          "telugu_chunk": "భూమి",
           "strongs": "H0776",
           "grammar": "HTd/Ncbsa"
         },
         {
           "hebrew": "דֶּ֠שֶׁא",
           "translit": "desheʼ",
-          "telugu_chunk": "తమ",
+          "telugu_chunk": "గడ్డిని",
           "strongs": "H1877",
           "grammar": "HNcmsa"
         },
         {
           "hebrew": "עֵ֣שֶׂב",
           "translit": "ʻeseb",
-          "telugu_chunk": "తమ",
+          "telugu_chunk": "చెట్లను",
           "strongs": "H6212",
           "grammar": "HNcmsa"
         },
         {
           "hebrew": "מַזְרִ֤יעַ",
           "translit": "zâraʻ",
-          "telugu_chunk": "జాతి",
+          "telugu_chunk": "విత్తనములిచ్చు",
           "strongs": "H2232",
           "grammar": "HVhrmsa"
         },
         {
-          "hebrew": "זֶ֨רַע֙",
-          "translit": "zeraʻ",
-          "telugu_chunk": "ప్రకారము",
-          "strongs": "H2233",
-          "grammar": "HNcmsa"
-        },
-        {
           "hebrew": "לְ/מִינֵ֔/הוּ",
           "translit": "mîyn",
-          "telugu_chunk": "విత్తనములిచ్చు",
+          "telugu_chunk": "తమ తమ జాతి ప్రకారము",
           "strongs": "H4327",
           "grammar": "HR/Ncmsc/Sp3ms"
         },
         {
           "hebrew": "וְ/עֵ֧ץ",
           "translit": "ʻêts",
-          "telugu_chunk": "చెట్లను,",
+          "telugu_chunk": "వృక్షములను",
           "strongs": "H6086",
           "grammar": "HC/Ncmsa"
         },
         {
-          "hebrew": "עֹֽשֶׂה",
-          "translit": "ʻâsâh",
-          "telugu_chunk": "తమ",
-          "strongs": "H6213",
-          "grammar": "HVqrmsa"
-        },
-        {
           "hebrew": "פְּרִ֛י",
           "translit": "pᵉrîy",
-          "telugu_chunk": "జాతి",
+          "telugu_chunk": "ఫల",
           "strongs": "H6529",
           "grammar": "HNcmsa"
         },
         {
           "hebrew": "אֲשֶׁ֥ר",
           "translit": "H0834",
-          "telugu_chunk": "ప్రకారము",
+          "telugu_chunk": "గల",
           "strongs": "H0834",
           "grammar": "HTr"
         },
         {
           "hebrew": "זַרְע/וֹ",
           "translit": "zeraʻ",
-          "telugu_chunk": "తమలో",
+          "telugu_chunk": "విత్తనములు",
           "strongs": "H2233",
           "grammar": "HNcmsc/Sp3ms"
         },
         {
           "hebrew": "ב֖/וֹ",
           "translit": "",
-          "telugu_chunk": "విత్తనములుగల",
+          "telugu_chunk": "తమలో",
           "strongs": "",
           "grammar": "HR/Sp3ms"
         },
         {
           "hebrew": "לְ/מִינֵ֑/הוּ",
           "translit": "mîyn",
-          "telugu_chunk": "ఫలవృక్షములను",
+          "telugu_chunk": "తమ తమ జాతి ప్రకారము",
           "strongs": "H4327",
           "grammar": "HR/Ncmsc/Sp3ms"
         },
         {
           "hebrew": "וַ/יַּ֥רְא",
           "translit": "râʼâh",
-          "telugu_chunk": "మొలిపింపగా",
+          "telugu_chunk": "చూచెను",
           "strongs": "H7200",
           "grammar": "HC/Vqw3ms"
         },
         {
           "hebrew": "אֱלֹהִ֖ים",
           "translit": "H0430",
-          "telugu_chunk": "అది",
+          "telugu_chunk": "దేవుడు",
           "strongs": "H0430",
           "grammar": "HNcmpa"
         },
         {
           "hebrew": "כִּי",
           "translit": "kîy",
-          "telugu_chunk": "మంచిదని",
+          "telugu_chunk": "అది",
           "strongs": "H3588",
           "grammar": "HC"
         },
         {
           "hebrew": "טֽוֹב",
           "translit": "ṭôwb",
-          "telugu_chunk": "దేవుడు",
+          "telugu_chunk": "మంచిదని",
           "strongs": "H2896",
           "grammar": "HAamsa"
         }
@@ -1148,12 +1036,12 @@
     },
     {
       "verse": 13,
-      "text": "అస్తమయమును అస్తమయమును ఉదయమును కలుగగా మూడవ దినమాయెను.",
+      "text": "అస్తమయమును ఉదయమును కలుగగా మూడవ దినమాయెను.",
       "segments": [
         {
           "hebrew": "וַֽ/יְהִי",
           "translit": "hâyâh",
-          "telugu_chunk": "అస్తమయమును",
+          "telugu_chunk": "కలుగగా",
           "strongs": "H1961",
           "grammar": "HC/Vqw3ms"
         },
@@ -1167,28 +1055,28 @@
         {
           "hebrew": "וַֽ/יְהִי",
           "translit": "hâyâh",
-          "telugu_chunk": "ఉదయమును",
+          "telugu_chunk": "Grammatical Particle",
           "strongs": "H1961",
           "grammar": "HC/Vqw3ms"
         },
         {
           "hebrew": "בֹ֖קֶר",
           "translit": "bôqer",
-          "telugu_chunk": "కలుగగా",
+          "telugu_chunk": "ఉదయమును",
           "strongs": "H1242",
           "grammar": "HNcmsa"
         },
         {
           "hebrew": "י֥וֹם",
           "translit": "yôwm",
-          "telugu_chunk": "మూడవ",
+          "telugu_chunk": "దినమాయెను",
           "strongs": "H3117",
           "grammar": "HNcmsa"
         },
         {
           "hebrew": "שְׁלִישִֽׁי",
           "translit": "shᵉlîyshîy",
-          "telugu_chunk": "దినమాయెను.",
+          "telugu_chunk": "మూడవ",
           "strongs": "H7992",
           "grammar": "HAomsa"
         }
@@ -1201,112 +1089,112 @@
         {
           "hebrew": "וַ/יֹּ֣אמֶר",
           "translit": "H0559",
-          "telugu_chunk": "దేవుడుపగటిని",
+          "telugu_chunk": "గాకనియు",
           "strongs": "H0559",
           "grammar": "HC/Vqw3ms"
         },
         {
           "hebrew": "אֱלֹהִ֗ים",
           "translit": "H0430",
-          "telugu_chunk": "రాత్రిని",
+          "telugu_chunk": "దేవుడు",
           "strongs": "H0430",
           "grammar": "HNcmpa"
         },
         {
           "hebrew": "יְהִ֤י",
           "translit": "hâyâh",
-          "telugu_chunk": "వేరుపరచునట్లు",
+          "telugu_chunk": "కలుగును",
           "strongs": "H1961",
           "grammar": "HVqj3ms"
         },
         {
           "hebrew": "מְאֹרֹת֙",
           "translit": "mâʼôwr",
-          "telugu_chunk": "ఆకాశవిశాల",
+          "telugu_chunk": "జ్యోతులు",
           "strongs": "H3974",
           "grammar": "HNcmpa"
         },
         {
           "hebrew": "בִּ/רְקִ֣יעַ",
           "translit": "râqîyaʻ",
-          "telugu_chunk": "మందు",
+          "telugu_chunk": "విశాల మందు",
           "strongs": "H7549",
           "grammar": "HR/Ncmsc"
         },
         {
           "hebrew": "הַ/שָּׁמַ֔יִם",
           "translit": "shâmayim",
-          "telugu_chunk": "జ్యోతులు",
+          "telugu_chunk": "ఆకాశ",
           "strongs": "H8064",
           "grammar": "HTd/Ncmpa"
         },
         {
           "hebrew": "לְ/הַבְדִּ֕יל",
           "translit": "H0914",
-          "telugu_chunk": "కలుగును",
+          "telugu_chunk": "వేరుపరచునట్లు",
           "strongs": "H0914",
           "grammar": "HR/Vhc"
         },
         {
           "hebrew": "בֵּ֥ין",
           "translit": "H0996",
-          "telugu_chunk": "గాకనియు,",
+          "telugu_chunk": "Grammatical Particle",
           "strongs": "H0996",
           "grammar": "HR"
         },
         {
           "hebrew": "הַ/יּ֖וֹם",
           "translit": "yôwm",
-          "telugu_chunk": "అవి",
+          "telugu_chunk": "పగటిని",
           "strongs": "H3117",
           "grammar": "HTd/Ncmsa"
         },
         {
           "hebrew": "וּ/בֵ֣ין",
           "translit": "H0996",
-          "telugu_chunk": "సూచనలను",
+          "telugu_chunk": "Grammatical Particle",
           "strongs": "H0996",
           "grammar": "HC/R"
         },
         {
           "hebrew": "הַ/לָּ֑יְלָה",
           "translit": "layil",
-          "telugu_chunk": "కాలములను",
+          "telugu_chunk": "రాత్రిని",
           "strongs": "H3915",
           "grammar": "HTd/Ncmsa"
         },
         {
           "hebrew": "וְ/הָי֤וּ",
           "translit": "hâyâh",
-          "telugu_chunk": "దిన",
+          "telugu_chunk": "అవి యుండు",
           "strongs": "H1961",
           "grammar": "HC/Vqq3cp"
         },
         {
           "hebrew": "לְ/אֹתֹת֙",
           "translit": "H0226",
-          "telugu_chunk": "సంవత్సరములను",
+          "telugu_chunk": "సూచనలను",
           "strongs": "H0226",
           "grammar": "HR/Ncbpa"
         },
         {
           "hebrew": "וּ/לְ/מ֣וֹעֲדִ֔ים",
           "translit": "môwʻêd",
-          "telugu_chunk": "సూచించుటకై",
+          "telugu_chunk": "కాలములను",
           "strongs": "H4150",
           "grammar": "HC/R/Ncmpa"
         },
         {
           "hebrew": "וּ/לְ/יָמִ֖ים",
           "translit": "yôwm",
-          "telugu_chunk": "యుండు",
+          "telugu_chunk": "దిన సంవత్సరములను సూచించుటకై",
           "strongs": "H3117",
           "grammar": "HC/R/Ncmpa"
         },
         {
           "hebrew": "וְ/שָׁנִֽים",
           "translit": "shâneh",
-          "telugu_chunk": "గాకనియు,",
+          "telugu_chunk": "గాకనియు",
           "strongs": "H8141",
           "grammar": "HC/Ncfpa"
         }
@@ -1314,26 +1202,26 @@
     },
     {
       "verse": 15,
-      "text": "భూమిమీద వెలుగిచ్చుటకు అవి ఆకాశ విశాలమందు యుండు గాకనియు పలికెను; ఆ",
+      "text": "భూమిమీద వెలుగిచ్చుటకు అవి ఆకాశ విశాలమందు జ్యోతులై యుండు గాకనియు పలికెను; ఆ ప్రకారమాయెను.",
       "segments": [
         {
-          "hebrew": "וְ/הָי֤וּ",
+          "hebrew": "וְ/הָי֤ו",
           "translit": "hâyâh",
-          "telugu_chunk": "భూమిమీద",
+          "telugu_chunk": "అవి యుండు గాక",
           "strongs": "H1961",
           "grammar": "HC/Vqq3cp"
         },
         {
           "hebrew": "לִ/מְאוֹרֹת֙",
           "translit": "mâʼôwr",
-          "telugu_chunk": "వెలుగిచ్చుటకు",
+          "telugu_chunk": "జ్యోతులై",
           "strongs": "H3974",
           "grammar": "HR/Ncmpa"
         },
         {
           "hebrew": "בִּ/רְקִ֣יעַ",
           "translit": "râqîyaʻ",
-          "telugu_chunk": "అవి",
+          "telugu_chunk": "విశాలమందు",
           "strongs": "H7549",
           "grammar": "HR/Ncmsc"
         },
@@ -1347,35 +1235,35 @@
         {
           "hebrew": "לְ/הָאִ֖יר",
           "translit": "H0215",
-          "telugu_chunk": "విశాలమందు",
+          "telugu_chunk": "వెలుగిచ్చుటకు",
           "strongs": "H0215",
           "grammar": "HR/Vhc"
         },
         {
           "hebrew": "עַל",
           "translit": "ʻal",
-          "telugu_chunk": "యుండు",
+          "telugu_chunk": "మీద",
           "strongs": "H5921",
           "grammar": "HR"
         },
         {
           "hebrew": "הָ/אָ֑רֶץ",
           "translit": "H0776",
-          "telugu_chunk": "గాకనియు",
+          "telugu_chunk": "భూమి",
           "strongs": "H0776",
           "grammar": "HTd/Ncbsa"
         },
         {
           "hebrew": "וַֽ/יְהִי",
           "translit": "hâyâh",
-          "telugu_chunk": "పలికెను;",
+          "telugu_chunk": "నియు పలికెను అయెను",
           "strongs": "H1961",
           "grammar": "HC/Vqw3ms"
         },
         {
           "hebrew": "כֵֽן",
           "translit": "kên",
-          "telugu_chunk": "ఆ",
+          "telugu_chunk": "ఆ ప్రకారము",
           "strongs": "H3651",
           "grammar": "HD"
         }
@@ -1383,15 +1271,8 @@
     },
     {
       "verse": 16,
-      "text": "దేవుడు దేవుడు ఆ రెండు గొప్ప జ్యోతులను, అనగా పగటిని ఏలుటకు పెద్ద పెద్ద జ్యోతిని రాత్రిని ఏలుటకు చిన్న జ్యోతిని నక్షత్రములను చేసెను.",
+      "text": "దేవుడు ఆ రెండు గొప్ప జ్యోతులను, అనగా పగటిని ఏలుటకు పెద్ద జ్యోతిని రాత్రిని ఏలుటకు చిన్న జ్యోతిని నక్షత్రములను చేసెను.",
       "segments": [
-        {
-          "hebrew": "וַ/יַּ֣עַשׂ",
-          "translit": "ʻâsâh",
-          "telugu_chunk": "దేవుడు",
-          "strongs": "H6213",
-          "grammar": "HC/Vqw3ms"
-        },
         {
           "hebrew": "אֱלֹהִ֔ים",
           "translit": "H0430",
@@ -1423,7 +1304,7 @@
         {
           "hebrew": "הַ/גְּדֹלִ֑ים",
           "translit": "gâdôwl",
-          "telugu_chunk": "జ్యోతులను,",
+          "telugu_chunk": "జ్యోతులను",
           "strongs": "H1419",
           "grammar": "HTd/Aampa"
         },
@@ -1458,16 +1339,9 @@
         {
           "hebrew": "הַ/יּ֔וֹם",
           "translit": "yôwm",
-          "telugu_chunk": "పెద్ద",
+          "telugu_chunk": "జ్యోతిని",
           "strongs": "H3117",
           "grammar": "HTd/Ncmsa"
-        },
-        {
-          "hebrew": "וְ/אֶת",
-          "translit": "H0853",
-          "telugu_chunk": "జ్యోతిని",
-          "strongs": "H0853",
-          "grammar": "HC/To"
         },
         {
           "hebrew": "הַ/מָּא֤וֹר",
@@ -1498,16 +1372,9 @@
           "grammar": "HTd/Ncmsa"
         },
         {
-          "hebrew": "וְ/אֵ֖ת",
-          "translit": "H0853",
-          "telugu_chunk": "నక్షత్రములను",
-          "strongs": "H0853",
-          "grammar": "HC/To"
-        },
-        {
           "hebrew": "הַ/כּוֹכָבִֽים",
           "translit": "kôwkâb",
-          "telugu_chunk": "చేసెను.",
+          "telugu_chunk": "నక్షత్రములను చేసెను",
           "strongs": "H3556",
           "grammar": "HTd/Ncmpa"
         }
@@ -1515,151 +1382,116 @@
     },
     {
       "verse": 17,
-      "text": "భూమిమీద భూమిమీద భూమిమీద వెలు వెలు వెలు గిచ్చుటకును గిచ్చుటకును",
+      "text": "భూమిమీద వెలు గిచ్చుటకును",
       "segments": [
         {
-          "hebrew": "וַ/יִּתֵּ֥ן",
-          "translit": "nâthan",
-          "telugu_chunk": "భూమిమీద",
-          "strongs": "H5414",
-          "grammar": "HC/Vqw3ms"
-        },
-        {
-          "hebrew": "אֹתָ֛/ם",
-          "translit": "H0853",
-          "telugu_chunk": "భూమిమీద",
-          "strongs": "H0853",
-          "grammar": "HTo/Sp3mp"
-        },
-        {
-          "hebrew": "אֱלֹהִ֖ים",
-          "translit": "H0430",
-          "telugu_chunk": "భూమిమీద",
-          "strongs": "H0430",
-          "grammar": "HNcmpa"
-        },
-        {
-          "hebrew": "בִּ/רְקִ֣יעַ",
-          "translit": "râqîyaʻ",
-          "telugu_chunk": "వెలు",
-          "strongs": "H7549",
-          "grammar": "HR/Ncmsc"
-        },
-        {
-          "hebrew": "הַ/שָּׁמָ֑יִם",
-          "translit": "shâmayim",
-          "telugu_chunk": "వెలు",
-          "strongs": "H8064",
-          "grammar": "HTd/Ncmpa"
+          "hebrew": "וַ/יִּתֵּ֥ן אֹתָ֛/ם אֱלֹהִ֖ים בִּ/רְקִ֣יעַ הַ/שָּׁמָ֑יִם",
+          "translit": "nâthan / H0853 / H0430 / râqîyaʻ / shâmayim",
+          "telugu_chunk": "గిచ్చుటకును",
+          "strongs": "H5414_H0853_H0430_H7549_H8064",
+          "grammar": "HC/Vqw3ms_HTo/Sp3mp_HNcmpa_HR/Ncmsc_HTd/Ncmpa"
         },
         {
           "hebrew": "לְ/הָאִ֖יר",
           "translit": "H0215",
-          "telugu_chunk": "వెలు",
+          "telugu_chunk": "వెలు గిచ్చుటకును",
           "strongs": "H0215",
           "grammar": "HR/Vhc"
         },
         {
-          "hebrew": "עַל",
-          "translit": "ʻal",
-          "telugu_chunk": "గిచ్చుటకును",
-          "strongs": "H5921",
-          "grammar": "HR"
-        },
-        {
-          "hebrew": "הָ/אָֽרֶץ",
-          "translit": "H0776",
-          "telugu_chunk": "గిచ్చుటకును",
-          "strongs": "H0776",
-          "grammar": "HTd/Ncbsa"
+          "hebrew": "עַל הָ/אָֽרֶץ",
+          "translit": "ʻal / H0776",
+          "telugu_chunk": "భూమిమీద",
+          "strongs": "H5921_H0776",
+          "grammar": "HR_HTd/Ncbsa"
         }
       ]
     },
     {
       "verse": 18,
-      "text": "పగటిని రాత్రిని ఏలుటకును చీక టిని వేరుపరచుటకును ఆకాశ విశాలమందు వాటి అది మంచిదని దేవుడు",
+      "text": "పగటిని రాత్రిని ఏలుటకును వెలుగును చీక టిని వేరుపరచుటకును దేవుడు ఆకాశ విశాలమందు వాటి నుంచెను; అది మంచిదని దేవుడు చూచెను.",
       "segments": [
         {
           "hebrew": "וְ/לִ/מְשֹׁל֙",
           "translit": "mâshal",
-          "telugu_chunk": "పగటిని",
+          "telugu_chunk": "ఏలుటకును",
           "strongs": "H4910",
           "grammar": "HC/R/Vqc"
         },
         {
           "hebrew": "בַּ/יּ֣וֹם",
           "translit": "yôwm",
-          "telugu_chunk": "రాత్రిని",
+          "telugu_chunk": "పగటిని",
           "strongs": "H3117",
           "grammar": "HRd/Ncmsa"
         },
         {
           "hebrew": "וּ/בַ/לַּ֔יְלָה",
           "translit": "layil",
-          "telugu_chunk": "ఏలుటకును",
+          "telugu_chunk": "రాత్రిని",
           "strongs": "H3915",
           "grammar": "HC/Rd/Ncmsa"
         },
         {
           "hebrew": "וּֽ/לֲ/הַבְדִּ֔יל",
           "translit": "H0914",
-          "telugu_chunk": "చీక",
+          "telugu_chunk": "వేరుపరచుటకును",
           "strongs": "H0914",
           "grammar": "HC/R/Vhc"
         },
         {
           "hebrew": "בֵּ֥ין",
           "translit": "H0996",
-          "telugu_chunk": "టిని",
+          "telugu_chunk": "Grammatical Particle",
           "strongs": "H0996",
           "grammar": "HR"
         },
         {
           "hebrew": "הָ/א֖וֹר",
           "translit": "H0216",
-          "telugu_chunk": "వేరుపరచుటకును",
+          "telugu_chunk": "వెలుగును",
           "strongs": "H0216",
           "grammar": "HTd/Ncbsa"
         },
         {
           "hebrew": "וּ/בֵ֣ין",
           "translit": "H0996",
-          "telugu_chunk": "ఆకాశ",
+          "telugu_chunk": "Grammatical Particle",
           "strongs": "H0996",
           "grammar": "HC/R"
         },
         {
           "hebrew": "הַ/חֹ֑שֶׁךְ",
           "translit": "chôshek",
-          "telugu_chunk": "విశాలమందు",
+          "telugu_chunk": "చీకటిని",
           "strongs": "H2822",
           "grammar": "HTd/Ncmsa"
         },
         {
           "hebrew": "וַ/יַּ֥רְא",
           "translit": "râʼâh",
-          "telugu_chunk": "వాటి",
+          "telugu_chunk": "చూచెను",
           "strongs": "H7200",
           "grammar": "HC/Vqw3ms"
         },
         {
           "hebrew": "אֱלֹהִ֖ים",
           "translit": "H0430",
-          "telugu_chunk": "అది",
+          "telugu_chunk": "దేవుడు",
           "strongs": "H0430",
           "grammar": "HNcmpa"
         },
         {
           "hebrew": "כִּי",
           "translit": "kîy",
-          "telugu_chunk": "మంచిదని",
+          "telugu_chunk": "Grammatical Particle",
           "strongs": "H3588",
           "grammar": "HC"
         },
         {
           "hebrew": "טֽוֹב",
           "translit": "ṭôwb",
-          "telugu_chunk": "దేవుడు",
+          "telugu_chunk": "అది మంచిదని",
           "strongs": "H2896",
           "grammar": "HAamsa"
         }
@@ -1670,44 +1502,44 @@
       "text": "అస్తమయ మును ఉదయమును కలుగగా నాలుగవ దినమాయెను.",
       "segments": [
         {
-          "hebrew": "וַֽ/יְהִי",
+          "hebrew": "",
           "translit": "hâyâh",
           "telugu_chunk": "అస్తమయ",
           "strongs": "H1961",
           "grammar": "HC/Vqw3ms"
         },
         {
-          "hebrew": "עֶ֥רֶב",
+          "hebrew": "",
           "translit": "ʻereb",
           "telugu_chunk": "మును",
           "strongs": "H6153",
           "grammar": "HNcmsa"
         },
         {
-          "hebrew": "וַֽ/יְהִי",
+          "hebrew": "",
           "translit": "hâyâh",
           "telugu_chunk": "ఉదయమును",
           "strongs": "H1961",
           "grammar": "HC/Vqw3ms"
         },
         {
-          "hebrew": "בֹ֖קֶר",
+          "hebrew": "",
           "translit": "bôqer",
           "telugu_chunk": "కలుగగా",
           "strongs": "H1242",
           "grammar": "HNcmsa"
         },
         {
-          "hebrew": "י֥וֹם",
+          "hebrew": "",
           "translit": "yôwm",
           "telugu_chunk": "నాలుగవ",
           "strongs": "H3117",
           "grammar": "HNcmsa"
         },
         {
-          "hebrew": "רְבִיעִֽי",
+          "hebrew": "",
           "translit": "rᵉbîyʻîy",
-          "telugu_chunk": "దినమాయెను.",
+          "telugu_chunk": "దినమాయెను",
           "strongs": "H7243",
           "grammar": "HAomsa"
         }
@@ -1715,21 +1547,14 @@
     },
     {
       "verse": 20,
-      "text": "దేవుడుజీవముకలిగి దేవుడుజీవముకలిగి చలించువాటిని జలములు సమృ ద్ధిగా పుట్టించును గాకనియు, పక్షులు భూమిపైని ఆకాశ విశాలములో ఎగురును గాకనియు పలికెను.",
+      "text": "దేవుడుజీవముకలిగి చలించువాటిని జలములు సమృ ద్ధిగా పుట్టించును గాకనియు, పక్షులు భూమిపైని ఆకాశ విశాలములో ఎగురును గాకనియు పలికెను.",
       "segments": [
         {
-          "hebrew": "וַ/יֹּ֣אמֶר",
-          "translit": "H0559",
+          "hebrew": "וַ/יֹּ֣אמֶר אֱלֹהִ֔ים",
+          "translit": "H0559 / H0430",
           "telugu_chunk": "దేవుడుజీవముకలిగి",
-          "strongs": "H0559",
-          "grammar": "HC/Vqw3ms"
-        },
-        {
-          "hebrew": "אֱלֹהִ֔ים",
-          "translit": "H0430",
-          "telugu_chunk": "దేవుడుజీవముకలిగి",
-          "strongs": "H0430",
-          "grammar": "HNcmpa"
+          "strongs": "H0559_H0430",
+          "grammar": "HC/Vqw3ms_HNcmpa"
         },
         {
           "hebrew": "יִשְׁרְצ֣וּ",
@@ -1769,7 +1594,7 @@
         {
           "hebrew": "וְ/עוֹף֙",
           "translit": "ʻôwph",
-          "telugu_chunk": "గాకనియు,",
+          "telugu_chunk": "గాకనియు",
           "strongs": "H5775",
           "grammar": "HC/Ncmsa"
         },
@@ -1818,7 +1643,7 @@
         {
           "hebrew": "הַ/שָּׁמָֽיִם",
           "translit": "shâmayim",
-          "telugu_chunk": "పలికెను.",
+          "telugu_chunk": "పలికెను",
           "strongs": "H8064",
           "grammar": "HTd/Ncmpa"
         }
@@ -1826,164 +1651,150 @@
     },
     {
       "verse": 21,
-      "text": "దేవుడు జల ములలో వాటి వాటి జాతి జలములు సమృద్ధిగా పుట్టించిన మహా మత్స్యములను, జీవముకలిగి వాటినన్నిటిని, దాని దాని జాతి ప్రకారము రెక్కలుగల పక్షిని సృజించెను. అది మంచిదని దేవుడు",
+      "text": "దేవుడు జల ములలో వాటి వాటి జాతి ప్రకారము జలములు సమృద్ధిగా పుట్టించిన మహా మత్స్యములను, జీవముకలిగి చలించు వాటినన్నిటిని, దాని దాని జాతి ప్రకారము రెక్కలుగల ప్రతి పక్షిని సృజించెను. అది మంచిదని దేవుడు చూచెను.",
       "segments": [
         {
-          "hebrew": "וַ/יִּבְרָ֣א",
+          "hebrew": "",
           "translit": "bârâʼ",
           "telugu_chunk": "దేవుడు",
           "strongs": "H1254",
           "grammar": "HC/Vqw3ms"
         },
         {
-          "hebrew": "אֱלֹהִ֔ים",
+          "hebrew": "",
           "translit": "H0430",
           "telugu_chunk": "జల",
           "strongs": "H0430",
           "grammar": "HNcmpa"
         },
         {
-          "hebrew": "אֶת",
+          "hebrew": "",
           "translit": "H0853",
           "telugu_chunk": "ములలో",
           "strongs": "H0853",
           "grammar": "HTo"
         },
         {
-          "hebrew": "הַ/תַּנִּינִ֖ם",
-          "translit": "tannîyn",
+          "hebrew": " ",
+          "translit": "tannîyn / gâdôwl",
           "telugu_chunk": "వాటి",
-          "strongs": "H8577",
-          "grammar": "HTd/Ncmpa"
+          "strongs": "H8577_H1419",
+          "grammar": "HTd/Ncmpa_HTd/Aampa"
         },
         {
-          "hebrew": "הַ/גְּדֹלִ֑ים",
-          "translit": "gâdôwl",
-          "telugu_chunk": "వాటి",
-          "strongs": "H1419",
-          "grammar": "HTd/Aampa"
-        },
-        {
-          "hebrew": "וְ/אֵ֣ת",
+          "hebrew": "",
           "translit": "H0853",
           "telugu_chunk": "జాతి",
           "strongs": "H0853",
           "grammar": "HC/To"
         },
         {
-          "hebrew": "כָּל",
+          "hebrew": "",
           "translit": "kôl",
           "telugu_chunk": "జలములు",
           "strongs": "H3605",
           "grammar": "HNcmsc"
         },
         {
-          "hebrew": "נֶ֣פֶשׁ",
+          "hebrew": "",
           "translit": "nephesh",
           "telugu_chunk": "సమృద్ధిగా",
           "strongs": "H5315",
           "grammar": "HNcbsa"
         },
         {
-          "hebrew": "הַֽ/חַיָּ֣ה",
+          "hebrew": "",
           "translit": "chay",
           "telugu_chunk": "పుట్టించిన",
           "strongs": "H2416",
           "grammar": "HTd/Aafsa"
         },
         {
-          "hebrew": "הָֽ/רֹמֶ֡שֶׂת",
+          "hebrew": "",
           "translit": "râmas",
           "telugu_chunk": "మహా",
           "strongs": "H7430",
           "grammar": "HTd/Vqrfsa"
         },
         {
-          "hebrew": "אֲשֶׁר֩",
+          "hebrew": "",
           "translit": "H0834",
-          "telugu_chunk": "మత్స్యములను,",
+          "telugu_chunk": "మత్స్యములను",
           "strongs": "H0834",
           "grammar": "HTr"
         },
         {
-          "hebrew": "שָׁרְצ֨וּ",
+          "hebrew": "",
           "translit": "shârats",
           "telugu_chunk": "జీవముకలిగి",
           "strongs": "H8317",
           "grammar": "HVqp3cp"
         },
         {
-          "hebrew": "הַ/מַּ֜יִם",
+          "hebrew": "",
           "translit": "mayim",
-          "telugu_chunk": "వాటినన్నిటిని,",
+          "telugu_chunk": "వాటినన్నిటిని",
           "strongs": "H4325",
           "grammar": "HTd/Ncmpa"
         },
         {
-          "hebrew": "לְ/מִֽינֵ/הֶ֗ם",
-          "translit": "mîyn",
+          "hebrew": " ",
+          "translit": "mîyn / H0853",
           "telugu_chunk": "దాని",
-          "strongs": "H4327",
-          "grammar": "HR/Ncmsc/Sp3mp"
+          "strongs": "H4327_H0853",
+          "grammar": "HR/Ncmsc/Sp3mp_HC/To"
         },
         {
-          "hebrew": "וְ/אֵ֨ת",
-          "translit": "H0853",
-          "telugu_chunk": "దాని",
-          "strongs": "H0853",
-          "grammar": "HC/To"
-        },
-        {
-          "hebrew": "כָּל",
+          "hebrew": "",
           "translit": "kôl",
           "telugu_chunk": "జాతి",
           "strongs": "H3605",
           "grammar": "HNcmsc"
         },
         {
-          "hebrew": "ע֤וֹף",
+          "hebrew": "",
           "translit": "ʻôwph",
           "telugu_chunk": "ప్రకారము",
           "strongs": "H5775",
           "grammar": "HNcmsa"
         },
         {
-          "hebrew": "כָּנָף֙",
+          "hebrew": "",
           "translit": "kânâph",
           "telugu_chunk": "రెక్కలుగల",
           "strongs": "H3671",
           "grammar": "HNcfsa"
         },
         {
-          "hebrew": "לְ/מִינֵ֔/הוּ",
+          "hebrew": "",
           "translit": "mîyn",
           "telugu_chunk": "పక్షిని",
           "strongs": "H4327",
           "grammar": "HR/Ncmsc/Sp3ms"
         },
         {
-          "hebrew": "וַ/יַּ֥רְא",
+          "hebrew": "",
           "translit": "râʼâh",
-          "telugu_chunk": "సృజించెను.",
+          "telugu_chunk": "సృజించెను",
           "strongs": "H7200",
           "grammar": "HC/Vqw3ms"
         },
         {
-          "hebrew": "אֱלֹהִ֖ים",
+          "hebrew": "",
           "translit": "H0430",
           "telugu_chunk": "అది",
           "strongs": "H0430",
           "grammar": "HNcmpa"
         },
         {
-          "hebrew": "כִּי",
+          "hebrew": "",
           "translit": "kîy",
           "telugu_chunk": "మంచిదని",
           "strongs": "H3588",
           "grammar": "HC"
         },
         {
-          "hebrew": "טֽוֹב",
+          "hebrew": "",
           "translit": "ṭôwb",
           "telugu_chunk": "దేవుడు",
           "strongs": "H2896",
@@ -1993,47 +1804,47 @@
     },
     {
       "verse": 22,
-      "text": "దేవుడు మీరు ఫలించి అభివృద్ధిపొంది సముద్ర జలములలో నిండి పక్షులు భూమిమీద విస్తరించును గాకనియు, వాటిని ఆశీర్వ",
+      "text": "దేవుడు మీరు ఫలించి అభివృద్ధిపొంది సముద్ర జలములలో నిండి యుండుడనియు, పక్షులు భూమిమీద విస్తరించును గాకనియు, వాటిని ఆశీర్వ దించెను.",
       "segments": [
         {
           "hebrew": "וַ/יְבָ֧רֶךְ",
           "translit": "bârak",
-          "telugu_chunk": "దేవుడు",
+          "telugu_chunk": "ఆశీర్వ దించెను",
           "strongs": "H1288",
           "grammar": "HC/Vpw3ms"
         },
         {
           "hebrew": "אֹתָ֛/ם",
           "translit": "H0853",
-          "telugu_chunk": "మీరు",
+          "telugu_chunk": "వాటిని",
           "strongs": "H0853",
           "grammar": "HTo/Sp3mp"
         },
         {
           "hebrew": "אֱלֹהִ֖ים",
           "translit": "H0430",
-          "telugu_chunk": "ఫలించి",
+          "telugu_chunk": "దేవుడు",
           "strongs": "H0430",
           "grammar": "HNcmpa"
         },
         {
           "hebrew": "לֵ/אמֹ֑ר",
           "translit": "H0559",
-          "telugu_chunk": "అభివృద్ధిపొంది",
+          "telugu_chunk": "యుండుడనియు",
           "strongs": "H0559",
           "grammar": "HR/Vqc"
         },
         {
           "hebrew": "פְּר֣וּ",
           "translit": "pârâh",
-          "telugu_chunk": "సముద్ర",
+          "telugu_chunk": "మీరు ఫలించి",
           "strongs": "H6509",
           "grammar": "HVqv2mp"
         },
         {
           "hebrew": "וּ/רְב֗וּ",
           "translit": "râbâh",
-          "telugu_chunk": "జలములలో",
+          "telugu_chunk": "అభివృద్ధిపొంది",
           "strongs": "H7235",
           "grammar": "HC/Vqv2mp"
         },
@@ -2047,42 +1858,42 @@
         {
           "hebrew": "אֶת",
           "translit": "H0853",
-          "telugu_chunk": "పక్షులు",
+          "telugu_chunk": "Grammatical Particle",
           "strongs": "H0853",
           "grammar": "HTo"
         },
         {
           "hebrew": "הַ/מַּ֨יִם֙",
           "translit": "mayim",
-          "telugu_chunk": "భూమిమీద",
+          "telugu_chunk": "జలములలో",
           "strongs": "H4325",
           "grammar": "HTd/Ncmpa"
         },
         {
           "hebrew": "בַּ/יַּמִּ֔ים",
           "translit": "yâm",
-          "telugu_chunk": "విస్తరించును",
+          "telugu_chunk": "సముద్ర",
           "strongs": "H3220",
           "grammar": "HRd/Ncmpa"
         },
         {
           "hebrew": "וְ/הָ/ע֖וֹף",
           "translit": "ʻôwph",
-          "telugu_chunk": "గాకనియు,",
+          "telugu_chunk": "పక్షులు",
           "strongs": "H5775",
           "grammar": "HC/Td/Ncmsa"
         },
         {
           "hebrew": "יִ֥רֶב",
           "translit": "râbâh",
-          "telugu_chunk": "వాటిని",
+          "telugu_chunk": "విస్తరించును గాకనియు",
           "strongs": "H7235",
           "grammar": "HVqj3ms"
         },
         {
           "hebrew": "בָּ/אָֽרֶץ",
           "translit": "H0776",
-          "telugu_chunk": "ఆశీర్వ",
+          "telugu_chunk": "భూమిమీద",
           "strongs": "H0776",
           "grammar": "HRd/Ncbsa"
         }
@@ -2095,14 +1906,14 @@
         {
           "hebrew": "וַֽ/יְהִי",
           "translit": "hâyâh",
-          "telugu_chunk": "అస్తమయమును",
+          "telugu_chunk": "Grammatical Particle",
           "strongs": "H1961",
           "grammar": "HC/Vqw3ms"
         },
         {
           "hebrew": "עֶ֥רֶב",
           "translit": "ʻereb",
-          "telugu_chunk": "ఉదయమును",
+          "telugu_chunk": "అస్తమయమును",
           "strongs": "H6153",
           "grammar": "HNcmsa"
         },
@@ -2116,21 +1927,21 @@
         {
           "hebrew": "בֹ֖קֶר",
           "translit": "bôqer",
-          "telugu_chunk": "అయి",
+          "telugu_chunk": "ఉదయమును",
           "strongs": "H1242",
           "grammar": "HNcmsa"
         },
         {
           "hebrew": "י֥וֹם",
           "translit": "yôwm",
-          "telugu_chunk": "దవ",
+          "telugu_chunk": "దినమాయెను",
           "strongs": "H3117",
           "grammar": "HNcmsa"
         },
         {
           "hebrew": "חֲמִישִֽׁי",
           "translit": "chămîyshîy",
-          "telugu_chunk": "దినమాయెను.",
+          "telugu_chunk": "అయి దవ",
           "strongs": "H2549",
           "grammar": "HAomsa"
         }
@@ -2138,103 +1949,103 @@
     },
     {
       "verse": 24,
-      "text": "దేవుడు వాటి జాతి ప్రకారము వాటిని, అనగా వాటి జాతి పశువులను పురుగులను జంతువులను భూమి పలి కెను;",
+      "text": "దేవుడు వాటి వాటి జాతి ప్రకారము జీవముగల వాటిని, అనగా వాటి వాటి జాతి ప్రకారము పశువులను పురుగులను అడవి జంతువులను భూమి పుట్టించుగాకని పలి కెను; ఆప్రకారమాయెను.",
       "segments": [
         {
           "hebrew": "וַ/יֹּ֣אמֶר",
           "translit": "H0559",
-          "telugu_chunk": "దేవుడు",
+          "telugu_chunk": "పలి కెను",
           "strongs": "H0559",
           "grammar": "HC/Vqw3ms"
         },
         {
           "hebrew": "אֱלֹהִ֗ים",
           "translit": "H0430",
-          "telugu_chunk": "వాటి",
+          "telugu_chunk": "దేవుడు",
           "strongs": "H0430",
           "grammar": "HNcmpa"
         },
         {
           "hebrew": "תּוֹצֵ֨א",
           "translit": "yâtsâʼ",
-          "telugu_chunk": "జాతి",
+          "telugu_chunk": "పుట్టించుగాకని",
           "strongs": "H3318",
           "grammar": "HVhj3fs"
         },
         {
           "hebrew": "הָ/אָ֜רֶץ",
           "translit": "H0776",
-          "telugu_chunk": "ప్రకారము",
+          "telugu_chunk": "భూమి",
           "strongs": "H0776",
           "grammar": "HTd/Ncbsa"
         },
         {
           "hebrew": "נֶ֤פֶשׁ",
           "translit": "nephesh",
-          "telugu_chunk": "వాటిని,",
+          "telugu_chunk": "వాటిని",
           "strongs": "H5315",
           "grammar": "HNcbsa"
         },
         {
           "hebrew": "חַיָּה֙",
           "translit": "chay",
-          "telugu_chunk": "అనగా",
+          "telugu_chunk": "జీవముగల",
           "strongs": "H2416",
           "grammar": "HAafsa"
         },
         {
           "hebrew": "לְ/מִינָ֔/הּ",
           "translit": "mîyn",
-          "telugu_chunk": "వాటి",
+          "telugu_chunk": "వాటి వాటి జాతి ప్రకారము",
           "strongs": "H4327",
           "grammar": "HR/Ncmsc/Sp3fs"
         },
         {
           "hebrew": "בְּהֵמָ֥ה",
           "translit": "H0929",
-          "telugu_chunk": "జాతి",
+          "telugu_chunk": "పశువులను",
           "strongs": "H0929",
           "grammar": "HNcfsa"
         },
         {
           "hebrew": "וָ/רֶ֛מֶשׂ",
           "translit": "remes",
-          "telugu_chunk": "పశువులను",
+          "telugu_chunk": "పురుగులను",
           "strongs": "H7431",
           "grammar": "HC/Ncmsa"
         },
         {
           "hebrew": "וְ/חַֽיְתוֹ",
           "translit": "chay",
-          "telugu_chunk": "పురుగులను",
+          "telugu_chunk": "జంతువులను",
           "strongs": "H2416",
           "grammar": "HC/Ncfsc"
         },
         {
           "hebrew": "אֶ֖רֶץ",
           "translit": "H0776",
-          "telugu_chunk": "జంతువులను",
+          "telugu_chunk": "అడవి",
           "strongs": "H0776",
           "grammar": "HNcbsa"
         },
         {
           "hebrew": "לְ/מִינָ֑/הּ",
           "translit": "mîyn",
-          "telugu_chunk": "భూమి",
+          "telugu_chunk": "అనగా వాటి వాటి జాతి ప్రకారము",
           "strongs": "H4327",
           "grammar": "HR/Ncmsc/Sp3fs"
         },
         {
           "hebrew": "וַֽ/יְהִי",
           "translit": "hâyâh",
-          "telugu_chunk": "పలి",
+          "telugu_chunk": "ఆప్రకారమాయెను",
           "strongs": "H1961",
           "grammar": "HC/Vqw3ms"
         },
         {
           "hebrew": "כֵֽן",
           "translit": "kên",
-          "telugu_chunk": "కెను;",
+          "telugu_chunk": "Grammatical Particle",
           "strongs": "H3651",
           "grammar": "HD"
         }
@@ -2242,131 +2053,131 @@
     },
     {
       "verse": 25,
-      "text": "దేవుడు ఆ యా ప్రకారము అడవి జంతువులను, యా జాతుల ప్రకారము ఆ యా జాతుల నేలను ప్రాకు ప్రతి చేసెను. అదిమంచిదని దేవుడు",
+      "text": "దేవుడు ఆ యా జాతుల ప్రకారము అడవి జంతువులను, ఆ యా జాతుల ప్రకారము పశువులను, ఆ యా జాతుల ప్రకారము నేలను ప్రాకు ప్రతి పురుగును చేసెను. అదిమంచిదని దేవుడు చూచెను.",
       "segments": [
         {
           "hebrew": "וַ/יַּ֣עַשׂ",
           "translit": "ʻâsâh",
-          "telugu_chunk": "దేవుడు",
+          "telugu_chunk": "చేసెను",
           "strongs": "H6213",
           "grammar": "HC/Vqw3ms"
         },
         {
           "hebrew": "אֱלֹהִים֩",
           "translit": "H0430",
-          "telugu_chunk": "ఆ",
+          "telugu_chunk": "దేవుడు",
           "strongs": "H0430",
           "grammar": "HNcmpa"
         },
         {
           "hebrew": "אֶת",
           "translit": "H0853",
-          "telugu_chunk": "యా",
+          "telugu_chunk": "Grammatical Particle",
           "strongs": "H0853",
           "grammar": "HTo"
         },
         {
           "hebrew": "חַיַּ֨ת",
           "translit": "chay",
-          "telugu_chunk": "ప్రకారము",
+          "telugu_chunk": "అడవి",
           "strongs": "H2416",
           "grammar": "HNcfsc"
         },
         {
           "hebrew": "הָ/אָ֜רֶץ",
           "translit": "H0776",
-          "telugu_chunk": "అడవి",
+          "telugu_chunk": "జంతువులను",
           "strongs": "H0776",
           "grammar": "HTd/Ncbsa"
         },
         {
           "hebrew": "לְ/מִינָ֗/הּ",
           "translit": "mîyn",
-          "telugu_chunk": "జంతువులను,",
+          "telugu_chunk": "ఆ యా జాతుల ప్రకారము",
           "strongs": "H4327",
           "grammar": "HR/Ncmsc/Sp3fs"
         },
         {
           "hebrew": "וְ/אֶת",
           "translit": "H0853",
-          "telugu_chunk": "యా",
+          "telugu_chunk": "Grammatical Particle",
           "strongs": "H0853",
           "grammar": "HC/To"
         },
         {
           "hebrew": "הַ/בְּהֵמָה֙",
           "translit": "H0929",
-          "telugu_chunk": "జాతుల",
+          "telugu_chunk": "పశువులను",
           "strongs": "H0929",
           "grammar": "HTd/Ncfsa"
         },
         {
           "hebrew": "לְ/מִינָ֔/הּ",
           "translit": "mîyn",
-          "telugu_chunk": "ప్రకారము",
+          "telugu_chunk": "ఆ యా జాతుల ప్రకారము",
           "strongs": "H4327",
           "grammar": "HR/Ncmsc/Sp3fs"
         },
         {
           "hebrew": "וְ/אֵ֛ת",
           "translit": "H0853",
-          "telugu_chunk": "ఆ",
+          "telugu_chunk": "Grammatical Particle",
           "strongs": "H0853",
           "grammar": "HC/To"
         },
         {
           "hebrew": "כָּל",
           "translit": "kôl",
-          "telugu_chunk": "యా",
+          "telugu_chunk": "ప్రతి",
           "strongs": "H3605",
           "grammar": "HNcmsc"
         },
         {
           "hebrew": "רֶ֥מֶשׂ",
           "translit": "remes",
-          "telugu_chunk": "జాతుల",
+          "telugu_chunk": "పురుగును",
           "strongs": "H7431",
           "grammar": "HNcmsc"
         },
         {
           "hebrew": "הָֽ/אֲדָמָ֖ה",
           "translit": "H0127",
-          "telugu_chunk": "నేలను",
+          "telugu_chunk": "నేలను ప్రాకు",
           "strongs": "H0127",
           "grammar": "HTd/Ncfsa"
         },
         {
           "hebrew": "לְ/מִינֵ֑/הוּ",
           "translit": "mîyn",
-          "telugu_chunk": "ప్రాకు",
+          "telugu_chunk": "ఆ యా జాతుల ప్రకారము",
           "strongs": "H4327",
           "grammar": "HR/Ncmsc/Sp3ms"
         },
         {
           "hebrew": "וַ/יַּ֥רְא",
           "translit": "râʼâh",
-          "telugu_chunk": "ప్రతి",
+          "telugu_chunk": "చూచెను",
           "strongs": "H7200",
           "grammar": "HC/Vqw3ms"
         },
         {
           "hebrew": "אֱלֹהִ֖ים",
           "translit": "H0430",
-          "telugu_chunk": "చేసెను.",
+          "telugu_chunk": "దేవుడు",
           "strongs": "H0430",
           "grammar": "HNcmpa"
         },
         {
           "hebrew": "כִּי",
           "translit": "kîy",
-          "telugu_chunk": "అదిమంచిదని",
+          "telugu_chunk": "అది",
           "strongs": "H3588",
           "grammar": "HC"
         },
         {
           "hebrew": "טֽוֹב",
           "translit": "ṭôwb",
-          "telugu_chunk": "దేవుడు",
+          "telugu_chunk": "మంచిదని",
           "strongs": "H2896",
           "grammar": "HAamsa"
         }
@@ -2374,136 +2185,136 @@
     },
     {
       "verse": 26,
-      "text": "దేవుడు మన స్వరూపమందు మన పోలికె చొప్పున నరులను చేయుదము; వారుసముద్రపు చేపలను పక్షులను పశువులను సమస్త భూమిని భూమిమీద ప్రాకు ప్రతి జంతువును ఏలుదురుగాకనియు",
+      "text": "దేవుడు మన స్వరూపమందు మన పోలికె చొప్పున నరులను చేయుదము; వారుసముద్రపు చేపలను ఆకాశ పక్షులను పశువులను సమస్త భూమిని భూమిమీద ప్రాకు ప్రతి జంతువును ఏలుదురుగాకనియు పలికెను.",
       "segments": [
         {
-          "hebrew": "וַ/יֹּ֣אמֶר",
+          "hebrew": "",
           "translit": "H0559",
           "telugu_chunk": "దేవుడు",
           "strongs": "H0559",
           "grammar": "HC/Vqw3ms"
         },
         {
-          "hebrew": "אֱלֹהִ֔ים",
+          "hebrew": "",
           "translit": "H0430",
           "telugu_chunk": "మన",
           "strongs": "H0430",
           "grammar": "HNcmpa"
         },
         {
-          "hebrew": "נַֽעֲשֶׂ֥ה",
+          "hebrew": "",
           "translit": "ʻâsâh",
           "telugu_chunk": "స్వరూపమందు",
           "strongs": "H6213",
           "grammar": "HVqi1cp"
         },
         {
-          "hebrew": "אָדָ֛ם",
+          "hebrew": "",
           "translit": "H0120",
           "telugu_chunk": "మన",
           "strongs": "H0120",
           "grammar": "HNcmsa"
         },
         {
-          "hebrew": "בְּ/צַלְמֵ֖/נוּ",
+          "hebrew": "",
           "translit": "tselem",
           "telugu_chunk": "పోలికె",
           "strongs": "H6754",
           "grammar": "HR/Ncmsc/Sp1cp"
         },
         {
-          "hebrew": "כִּ/דְמוּתֵ֑/נוּ",
+          "hebrew": "",
           "translit": "dᵉmûwth",
           "telugu_chunk": "చొప్పున",
           "strongs": "H1823",
           "grammar": "HR/Ncfsc/Sp1cp"
         },
         {
-          "hebrew": "וְ/יִרְדּוּ֩",
+          "hebrew": "",
           "translit": "râdâh",
           "telugu_chunk": "నరులను",
           "strongs": "H7287",
           "grammar": "HC/Vqj3mp"
         },
         {
-          "hebrew": "בִ/דְגַ֨ת",
+          "hebrew": "",
           "translit": "dâgâh",
-          "telugu_chunk": "చేయుదము;",
+          "telugu_chunk": "చేయుదము",
           "strongs": "H1710",
           "grammar": "HR/Ncfsc"
         },
         {
-          "hebrew": "הַ/יָּ֜ם",
+          "hebrew": "",
           "translit": "yâm",
           "telugu_chunk": "వారుసముద్రపు",
           "strongs": "H3220",
           "grammar": "HTd/Ncmsa"
         },
         {
-          "hebrew": "וּ/בְ/ע֣וֹף",
+          "hebrew": "",
           "translit": "ʻôwph",
           "telugu_chunk": "చేపలను",
           "strongs": "H5775",
           "grammar": "HC/R/Ncmsc"
         },
         {
-          "hebrew": "הַ/שָּׁמַ֗יִם",
+          "hebrew": "",
           "translit": "shâmayim",
           "telugu_chunk": "పక్షులను",
           "strongs": "H8064",
           "grammar": "HTd/Ncmpa"
         },
         {
-          "hebrew": "וּ/בַ/בְּהֵמָה֙",
+          "hebrew": "",
           "translit": "H0929",
           "telugu_chunk": "పశువులను",
           "strongs": "H0929",
           "grammar": "HC/Rd/Ncfsa"
         },
         {
-          "hebrew": "וּ/בְ/כָל",
+          "hebrew": "",
           "translit": "kôl",
           "telugu_chunk": "సమస్త",
           "strongs": "H3605",
           "grammar": "HC/R/Ncmsc"
         },
         {
-          "hebrew": "הָ/אָ֔רֶץ",
+          "hebrew": "",
           "translit": "H0776",
           "telugu_chunk": "భూమిని",
           "strongs": "H0776",
           "grammar": "HTd/Ncbsa"
         },
         {
-          "hebrew": "וּ/בְ/כָל",
+          "hebrew": "",
           "translit": "kôl",
           "telugu_chunk": "భూమిమీద",
           "strongs": "H3605",
           "grammar": "HC/R/Ncmsc"
         },
         {
-          "hebrew": "הָ/רֶ֖מֶשׂ",
+          "hebrew": "",
           "translit": "remes",
           "telugu_chunk": "ప్రాకు",
           "strongs": "H7431",
           "grammar": "HTd/Ncmsa"
         },
         {
-          "hebrew": "הָֽ/רֹמֵ֥שׂ",
+          "hebrew": "",
           "translit": "râmas",
           "telugu_chunk": "ప్రతి",
           "strongs": "H7430",
           "grammar": "HTd/Vqrmsa"
         },
         {
-          "hebrew": "עַל",
+          "hebrew": "",
           "translit": "ʻal",
           "telugu_chunk": "జంతువును",
           "strongs": "H5921",
           "grammar": "HR"
         },
         {
-          "hebrew": "הָ/אָֽרֶץ",
+          "hebrew": "",
           "translit": "H0776",
           "telugu_chunk": "ఏలుదురుగాకనియు",
           "strongs": "H0776",
@@ -2513,26 +2324,26 @@
     },
     {
       "verse": 27,
-      "text": "దేవుడు తన స్వరూపమందు నరుని సృజించెను; దేవుని స్వరూపమందు వాని సృజించెను; స్త్రీనిగాను పురు షునిగాను వారిని",
+      "text": "దేవుడు తన స్వరూపమందు నరుని సృజించెను; దేవుని స్వరూపమందు వాని సృజించెను; స్త్రీనిగాను పురు షునిగాను వారిని సృజించెను.",
       "segments": [
         {
           "hebrew": "וַ/יִּבְרָ֨א",
           "translit": "bârâʼ",
-          "telugu_chunk": "దేవుడు",
+          "telugu_chunk": "సృజించెను",
           "strongs": "H1254",
           "grammar": "HC/Vqw3ms"
         },
         {
           "hebrew": "אֱלֹהִ֤ים",
           "translit": "H0430",
-          "telugu_chunk": "తన",
+          "telugu_chunk": "దేవుడు",
           "strongs": "H0430",
           "grammar": "HNcmpa"
         },
         {
           "hebrew": "אֶת",
           "translit": "H0853",
-          "telugu_chunk": "స్వరూపమందు",
+          "telugu_chunk": "Grammatical Particle",
           "strongs": "H0853",
           "grammar": "HTo"
         },
@@ -2546,56 +2357,56 @@
         {
           "hebrew": "בְּ/צַלְמ֔/וֹ",
           "translit": "tselem",
-          "telugu_chunk": "సృజించెను;",
+          "telugu_chunk": "తన స్వరూపమందు",
           "strongs": "H6754",
           "grammar": "HR/Ncmsc/Sp3ms"
         },
         {
           "hebrew": "בְּ/צֶ֥לֶם",
           "translit": "tselem",
-          "telugu_chunk": "దేవుని",
+          "telugu_chunk": "స్వరూపమందు",
           "strongs": "H6754",
           "grammar": "HR/Ncmsc"
         },
         {
           "hebrew": "אֱלֹהִ֖ים",
           "translit": "H0430",
-          "telugu_chunk": "స్వరూపమందు",
+          "telugu_chunk": "దేవుని",
           "strongs": "H0430",
           "grammar": "HNcmpa"
         },
         {
           "hebrew": "בָּרָ֣א",
           "translit": "bârâʼ",
-          "telugu_chunk": "వాని",
+          "telugu_chunk": "సృజించెను",
           "strongs": "H1254",
           "grammar": "HVqp3ms"
         },
         {
           "hebrew": "אֹת֑/וֹ",
           "translit": "H0853",
-          "telugu_chunk": "సృజించెను;",
+          "telugu_chunk": "వాని",
           "strongs": "H0853",
           "grammar": "HTo/Sp3ms"
         },
         {
           "hebrew": "זָכָ֥ר",
           "translit": "zâkâr",
-          "telugu_chunk": "స్త్రీనిగాను",
+          "telugu_chunk": "పురు షునిగాను",
           "strongs": "H2145",
           "grammar": "HAamsa"
         },
         {
           "hebrew": "וּ/נְקֵבָ֖ה",
           "translit": "nᵉqêbâh",
-          "telugu_chunk": "పురు",
+          "telugu_chunk": "స్త్రీనిగాను",
           "strongs": "H5347",
           "grammar": "HC/Ncfsa"
         },
         {
           "hebrew": "בָּרָ֥א",
           "translit": "bârâʼ",
-          "telugu_chunk": "షునిగాను",
+          "telugu_chunk": "సృజించెను",
           "strongs": "H1254",
           "grammar": "HVqp3ms"
         },
@@ -2610,12 +2421,12 @@
     },
     {
       "verse": 28,
-      "text": "దేవుడు వారిని ఆశీర్వ దించెను; ఎట్లనగామీరు ఫలించి అభివృద్ధిపొంది విస్తరించి భూమిని నిండించి దానిని సముద్రపు చేపలను ఆకాశ పక్షులను భూమిమీద ప్రాకు ప్రతి జీవిని ఏలుడని దేవుడు వారితో",
+      "text": "దేవుడు వారిని ఆశీర్వ దించెను; ఎట్లనగామీరు ఫలించి అభివృద్ధిపొంది విస్తరించి భూమిని నిండించి దానిని లోపరచుకొనుడి; సముద్రపు చేపలను ఆకాశ పక్షులను భూమిమీద ప్రాకు ప్రతి జీవిని ఏలుడని దేవుడు వారితో చెప్పెను.",
       "segments": [
         {
           "hebrew": "וַ/יְבָ֣רֶךְ",
           "translit": "bârak",
-          "telugu_chunk": "దేవుడు",
+          "telugu_chunk": "ఆశీర్వ దించెను",
           "strongs": "H1288",
           "grammar": "HC/Vpw3ms"
         },
@@ -2629,140 +2440,84 @@
         {
           "hebrew": "אֱלֹהִים֒",
           "translit": "H0430",
-          "telugu_chunk": "ఆశీర్వ",
+          "telugu_chunk": "దేవుడు",
           "strongs": "H0430",
           "grammar": "HNcmpa"
         },
         {
           "hebrew": "וַ/יֹּ֨אמֶר",
           "translit": "H0559",
-          "telugu_chunk": "దించెను;",
+          "telugu_chunk": "ఎట్లనగామీరు",
           "strongs": "H0559",
           "grammar": "HC/Vqw3ms"
         },
         {
-          "hebrew": "לָ/הֶ֜ם",
-          "translit": "",
-          "telugu_chunk": "ఎట్లనగామీరు",
-          "strongs": "",
-          "grammar": "HR/Sp3mp"
-        },
-        {
-          "hebrew": "אֱלֹהִ֗ים",
-          "translit": "H0430",
-          "telugu_chunk": "ఫలించి",
-          "strongs": "H0430",
-          "grammar": "HNcmpa"
+          "hebrew": "לָ/הֶ֜ם אֱלֹהִ֗ים",
+          "translit": " / H0430",
+          "telugu_chunk": "Grammatical Particle",
+          "strongs": "_H0430",
+          "grammar": "HR/Sp3mp_HNcmpa"
         },
         {
           "hebrew": "פְּר֥וּ",
           "translit": "pârâh",
-          "telugu_chunk": "అభివృద్ధిపొంది",
+          "telugu_chunk": "ఫలించి",
           "strongs": "H6509",
           "grammar": "HVqv2mp"
         },
         {
           "hebrew": "וּ/רְב֛וּ",
           "translit": "râbâh",
-          "telugu_chunk": "విస్తరించి",
+          "telugu_chunk": "అభివృద్ధిపొంది విస్తరించి",
           "strongs": "H7235",
           "grammar": "HC/Vqv2mp"
         },
         {
           "hebrew": "וּ/מִלְא֥וּ",
           "translit": "mâlêʼ",
-          "telugu_chunk": "భూమిని",
+          "telugu_chunk": "నిండించి",
           "strongs": "H4390",
           "grammar": "HC/Vqv2mp"
         },
         {
           "hebrew": "אֶת",
           "translit": "H0853",
-          "telugu_chunk": "నిండించి",
+          "telugu_chunk": "Grammatical Particle",
           "strongs": "H0853",
           "grammar": "HTo"
         },
         {
           "hebrew": "הָ/אָ֖רֶץ",
           "translit": "H0776",
-          "telugu_chunk": "దానిని",
+          "telugu_chunk": "భూమిని",
           "strongs": "H0776",
           "grammar": "HTd/Ncbsa"
         },
         {
           "hebrew": "וְ/כִבְשֻׁ֑/הָ",
           "translit": "kâbash",
-          "telugu_chunk": "సముద్రపు",
+          "telugu_chunk": "దానిని లోపరచుకొనుడి",
           "strongs": "H3533",
           "grammar": "HC/Vqv2mp/Sp3fs"
         },
         {
           "hebrew": "וּ/רְד֞וּ",
           "translit": "râdâh",
-          "telugu_chunk": "చేపలను",
+          "telugu_chunk": "సముద్రపు చేపలను ఆకాశ పక్షులను భూమిమీద ప్రాకు ప్రతి జీవిని ఏలుడని",
           "strongs": "H7287",
           "grammar": "HC/Vqv2mp"
         },
         {
-          "hebrew": "בִּ/דְגַ֤ת",
-          "translit": "dâgâh",
-          "telugu_chunk": "ఆకాశ",
-          "strongs": "H1710",
-          "grammar": "HR/Ncfsc"
-        },
-        {
-          "hebrew": "הַ/יָּם֙",
-          "translit": "yâm",
-          "telugu_chunk": "పక్షులను",
-          "strongs": "H3220",
-          "grammar": "HTd/Ncmsa"
-        },
-        {
-          "hebrew": "וּ/בְ/ע֣וֹף",
-          "translit": "ʻôwph",
-          "telugu_chunk": "భూమిమీద",
-          "strongs": "H5775",
-          "grammar": "HC/R/Ncmsc"
-        },
-        {
-          "hebrew": "הַ/שָּׁמַ֔יִם",
-          "translit": "shâmayim",
-          "telugu_chunk": "ప్రాకు",
-          "strongs": "H8064",
-          "grammar": "HTd/Ncmpa"
-        },
-        {
-          "hebrew": "וּ/בְ/כָל",
-          "translit": "kôl",
-          "telugu_chunk": "ప్రతి",
-          "strongs": "H3605",
-          "grammar": "HC/R/Ncmsc"
-        },
-        {
-          "hebrew": "חַיָּ֖ה",
-          "translit": "chay",
-          "telugu_chunk": "జీవిని",
-          "strongs": "H2416",
-          "grammar": "HNcbsa"
-        },
-        {
-          "hebrew": "הָֽ/רֹמֶ֥שֶׂת",
-          "translit": "râmas",
-          "telugu_chunk": "ఏలుడని",
-          "strongs": "H7430",
-          "grammar": "HTd/Vqrfsa"
-        },
-        {
-          "hebrew": "עַל",
-          "translit": "ʻal",
-          "telugu_chunk": "దేవుడు",
-          "strongs": "H5921",
-          "grammar": "HR"
+          "hebrew": "בִּ/דְגַ֤ת הַ/יָּם֙ וּ/בְ/ע֣וֹף הַ/שָּׁמַ֔יִם וּ/בְ/כָל חַיָּ֖ה הָֽ/רֹמֶ֥שֶׂת עַל",
+          "translit": "dâgâh / yâm / ʻôwph / shâmayim / kôl / chay / râmas / ʻal",
+          "telugu_chunk": "Grammatical Particle",
+          "strongs": "H1710_H3220_H5775_H8064_H3605_H2416_H7430_H5921",
+          "grammar": "HR/Ncfsc_HTd/Ncmsa_HC/R/Ncmsc_HTd/Ncmpa_HC/R/Ncmsc_HNcbsa_HTd/Vqrfsa_HR"
         },
         {
           "hebrew": "הָ/אָֽרֶץ",
           "translit": "H0776",
-          "telugu_chunk": "వారితో",
+          "telugu_chunk": "దేవుడు వారితో చెప్పెను",
           "strongs": "H0776",
           "grammar": "HTd/Ncbsa"
         }
@@ -2770,12 +2525,12 @@
     },
     {
       "verse": 29,
-      "text": "దేవుడు దేవుడు ఇదిగో ఇదిగో భూమిమీదనున్న విత్తనములిచ్చు విత్తనములిచ్చు ప్రతి చెట్టును చెట్టును విత్తనములిచ్చు విత్తనములిచ్చు వృక్షఫలముగల ప్రతి ప్రతి వృక్ష మును మును మీ మీ కిచ్చి యున్నాను; యున్నాను; అవి మీ మీ కాహారమగును.",
+      "text": "దేవుడు ఇదిగో భూమిమీదనున్న విత్తనములిచ్చు ప్రతి చెట్టును విత్తనములిచ్చు వృక్షఫలముగల ప్రతి వృక్ష మును మీ కిచ్చి యున్నాను; అవి మీ కాహారమగును.",
       "segments": [
         {
           "hebrew": "וַ/יֹּ֣אמֶר",
           "translit": "H0559",
-          "telugu_chunk": "దేవుడు",
+          "telugu_chunk": "Grammatical Particle",
           "strongs": "H0559",
           "grammar": "HC/Vqw3ms"
         },
@@ -2796,149 +2551,100 @@
         {
           "hebrew": "נָתַ֨תִּי",
           "translit": "nâthan",
-          "telugu_chunk": "ఇదిగో",
+          "telugu_chunk": "కిచ్చి యున్నాను",
           "strongs": "H5414",
           "grammar": "HVqp1cs"
         },
         {
           "hebrew": "לָ/כֶ֜ם",
           "translit": "",
-          "telugu_chunk": "భూమిమీదనున్న",
+          "telugu_chunk": "మీ",
           "strongs": "",
           "grammar": "HR/Sp2mp"
         },
         {
           "hebrew": "אֶת",
           "translit": "H0853",
-          "telugu_chunk": "విత్తనములిచ్చు",
+          "telugu_chunk": "Grammatical Particle",
           "strongs": "H0853",
           "grammar": "HTo"
         },
         {
           "hebrew": "כָּל",
           "translit": "kôl",
-          "telugu_chunk": "విత్తనములిచ్చు",
+          "telugu_chunk": "ప్రతి",
           "strongs": "H3605",
           "grammar": "HNcmsc"
         },
         {
           "hebrew": "עֵ֣שֶׂב",
           "translit": "ʻeseb",
-          "telugu_chunk": "ప్రతి",
+          "telugu_chunk": "చెట్టును",
           "strongs": "H6212",
           "grammar": "HNcmsa"
         },
         {
-          "hebrew": "זֹרֵ֣עַ",
-          "translit": "zâraʻ",
-          "telugu_chunk": "చెట్టును",
-          "strongs": "H2232",
-          "grammar": "HVqrmsa"
-        },
-        {
-          "hebrew": "זֶ֗רַע",
-          "translit": "zeraʻ",
-          "telugu_chunk": "చెట్టును",
-          "strongs": "H2233",
-          "grammar": "HNcmsa"
+          "hebrew": "זֹרֵ֣עַ זֶ֗רַע",
+          "translit": "zâraʻ / zeraʻ",
+          "telugu_chunk": "విత్తనములిచ్చు",
+          "strongs": "H2232_H2233",
+          "grammar": "HVqrmsa_HNcmsa"
         },
         {
           "hebrew": "אֲשֶׁר֙",
           "translit": "H0834",
-          "telugu_chunk": "విత్తనములిచ్చు",
+          "telugu_chunk": "Grammatical Particle",
           "strongs": "H0834",
           "grammar": "HTr"
         },
         {
-          "hebrew": "עַל",
-          "translit": "ʻal",
-          "telugu_chunk": "విత్తనములిచ్చు",
-          "strongs": "H5921",
-          "grammar": "HR"
-        },
-        {
-          "hebrew": "פְּנֵ֣י",
-          "translit": "pânîym",
-          "telugu_chunk": "వృక్షఫలముగల",
-          "strongs": "H6440",
-          "grammar": "HNcbpc"
-        },
-        {
-          "hebrew": "כָל",
-          "translit": "kôl",
-          "telugu_chunk": "ప్రతి",
-          "strongs": "H3605",
-          "grammar": "HNcmsc"
-        },
-        {
-          "hebrew": "הָ/אָ֔רֶץ",
-          "translit": "H0776",
-          "telugu_chunk": "ప్రతి",
-          "strongs": "H0776",
-          "grammar": "HTd/Ncbsa"
+          "hebrew": "עַל פְּנֵ֣י כָל הָ/אָ֔רֶץ",
+          "translit": "ʻal / pânîym / kôl / H0776",
+          "telugu_chunk": "భూమిమీదనున్న",
+          "strongs": "H5921_H6440_H3605_H0776",
+          "grammar": "HR_HNcbpc_HNcmsc_HTd/Ncbsa"
         },
         {
           "hebrew": "וְ/אֶת",
           "translit": "H0853",
-          "telugu_chunk": "వృక్ష",
+          "telugu_chunk": "Grammatical Particle",
           "strongs": "H0853",
           "grammar": "HC/To"
         },
         {
           "hebrew": "כָּל",
           "translit": "kôl",
-          "telugu_chunk": "మును",
+          "telugu_chunk": "ప్రతి",
           "strongs": "H3605",
           "grammar": "HNcmsc"
         },
         {
           "hebrew": "הָ/עֵ֛ץ",
           "translit": "ʻêts",
-          "telugu_chunk": "మును",
+          "telugu_chunk": "వృక్ష మును",
           "strongs": "H6086",
           "grammar": "HTd/Ncmsa"
         },
         {
           "hebrew": "אֲשֶׁר",
           "translit": "H0834",
-          "telugu_chunk": "మీ",
+          "telugu_chunk": "Grammatical Particle",
           "strongs": "H0834",
           "grammar": "HTr"
         },
         {
-          "hebrew": "בּ֥/וֹ",
-          "translit": "",
-          "telugu_chunk": "మీ",
-          "strongs": "",
-          "grammar": "HR/Sp3ms"
+          "hebrew": "בּ֥/וֹ פְרִי עֵ֖ץ",
+          "translit": " / pᵉrîy / ʻêts",
+          "telugu_chunk": "వృక్షఫలముగల",
+          "strongs": "_H6529_H6086",
+          "grammar": "HR/Sp3ms_HNcmsc_HNcmsa"
         },
         {
-          "hebrew": "פְרִי",
-          "translit": "pᵉrîy",
-          "telugu_chunk": "కిచ్చి",
-          "strongs": "H6529",
-          "grammar": "HNcmsc"
-        },
-        {
-          "hebrew": "עֵ֖ץ",
-          "translit": "ʻêts",
-          "telugu_chunk": "యున్నాను;",
-          "strongs": "H6086",
-          "grammar": "HNcmsa"
-        },
-        {
-          "hebrew": "זֹרֵ֣עַ",
-          "translit": "zâraʻ",
-          "telugu_chunk": "యున్నాను;",
-          "strongs": "H2232",
-          "grammar": "HVqrmsa"
-        },
-        {
-          "hebrew": "זָ֑רַע",
-          "translit": "zeraʻ",
-          "telugu_chunk": "అవి",
-          "strongs": "H2233",
-          "grammar": "HNcmsa"
+          "hebrew": "זֹרֵ֣עַ זָ֑רַע",
+          "translit": "zâraʻ / zeraʻ",
+          "telugu_chunk": "విత్తనములిచ్చు",
+          "strongs": "H2232_H2233",
+          "grammar": "HVqrmsa_HNcmsa"
         },
         {
           "hebrew": "לָ/כֶ֥ם",
@@ -2950,14 +2656,14 @@
         {
           "hebrew": "יִֽהְיֶ֖ה",
           "translit": "hâyâh",
-          "telugu_chunk": "మీ",
+          "telugu_chunk": "అవి",
           "strongs": "H1961",
           "grammar": "HVqi3ms"
         },
         {
           "hebrew": "לְ/אָכְלָֽה",
           "translit": "H0402",
-          "telugu_chunk": "కాహారమగును.",
+          "telugu_chunk": "కాహారమగును",
           "strongs": "H0402",
           "grammar": "HR/Ncfsa"
         }
@@ -2965,152 +2671,131 @@
     },
     {
       "verse": 30,
-      "text": "భూమిమీదనుండు భూమిమీదనుండు జంతువులన్నిటికిని ఆకాశ ఆకాశ పక్షులన్నిటికిని భూమిమీద భూమిమీద ప్రాకు సమస్త సమస్త జీవులకును పచ్చని పచ్చని చెట్లన్నియు ఆహారమగునని ఆహారమగునని పలికెను. ఆ ఆ ప్రకారమాయెను.",
+      "text": "భూమిమీదనుండు జంతువులన్నిటికిని ఆకాశ పక్షులన్నిటికిని భూమిమీద ప్రాకు సమస్త జీవులకును పచ్చని చెట్లన్నియు ఆహారమగునని పలికెను. ఆ ప్రకారమాయెను.",
       "segments": [
         {
           "hebrew": "וּֽ/לְ/כָל",
           "translit": "kôl",
-          "telugu_chunk": "భూమిమీదనుండు",
+          "telugu_chunk": "Grammatical Particle",
           "strongs": "H3605",
           "grammar": "HC/R/Ncmsc"
         },
         {
           "hebrew": "חַיַּ֣ת",
           "translit": "chay",
-          "telugu_chunk": "భూమిమీదనుండు",
+          "telugu_chunk": "జంతువులన్నిటికిని",
           "strongs": "H2416",
           "grammar": "HNcfsc"
         },
         {
           "hebrew": "הָ֠/אָרֶץ",
           "translit": "H0776",
-          "telugu_chunk": "జంతువులన్నిటికిని",
+          "telugu_chunk": "భూమిమీదనుండు",
           "strongs": "H0776",
           "grammar": "HTd/Ncbsa"
         },
         {
           "hebrew": "וּ/לְ/כָל",
           "translit": "kôl",
-          "telugu_chunk": "ఆకాశ",
+          "telugu_chunk": "Grammatical Particle",
           "strongs": "H3605",
           "grammar": "HC/R/Ncmsc"
         },
         {
           "hebrew": "ע֨וֹף",
           "translit": "ʻôwph",
-          "telugu_chunk": "ఆకాశ",
+          "telugu_chunk": "పక్షులన్నిటికిని",
           "strongs": "H5775",
           "grammar": "HNcmsc"
         },
         {
           "hebrew": "הַ/שָּׁמַ֜יִם",
           "translit": "shâmayim",
-          "telugu_chunk": "పక్షులన్నిటికిని",
+          "telugu_chunk": "ఆకాశ",
           "strongs": "H8064",
           "grammar": "HTd/Ncmpa"
         },
         {
           "hebrew": "וּ/לְ/כֹ֣ל",
           "translit": "kôl",
-          "telugu_chunk": "భూమిమీద",
+          "telugu_chunk": "సమస్త",
           "strongs": "H3605",
           "grammar": "HC/R/Ncmsc"
         },
         {
           "hebrew": "רוֹמֵ֣שׂ",
           "translit": "râmas",
-          "telugu_chunk": "భూమిమీద",
+          "telugu_chunk": "ప్రాకు",
           "strongs": "H7430",
           "grammar": "HVqrmsa"
         },
         {
           "hebrew": "עַל",
           "translit": "ʻal",
-          "telugu_chunk": "ప్రాకు",
+          "telugu_chunk": "Grammatical Particle",
           "strongs": "H5921",
           "grammar": "HR"
         },
         {
           "hebrew": "הָ/אָ֗רֶץ",
           "translit": "H0776",
-          "telugu_chunk": "సమస్త",
+          "telugu_chunk": "భూమిమీద",
           "strongs": "H0776",
           "grammar": "HTd/Ncbsa"
         },
         {
-          "hebrew": "אֲשֶׁר",
+          "hebrew": "אֲשֶׁר בּ/וֹ֙",
           "translit": "H0834",
-          "telugu_chunk": "సమస్త",
+          "telugu_chunk": "Grammatical Particle",
           "strongs": "H0834",
-          "grammar": "HTr"
-        },
-        {
-          "hebrew": "בּ/וֹ֙",
-          "translit": "",
-          "telugu_chunk": "జీవులకును",
-          "strongs": "",
-          "grammar": "HR/Sp3ms"
+          "grammar": "HTr_HR/Sp3ms"
         },
         {
           "hebrew": "נֶ֣פֶשׁ",
           "translit": "nephesh",
-          "telugu_chunk": "పచ్చని",
+          "telugu_chunk": "జీవులకును",
           "strongs": "H5315",
           "grammar": "HNcbsa"
         },
         {
-          "hebrew": "חַיָּ֔ה",
-          "translit": "chay",
-          "telugu_chunk": "పచ్చని",
-          "strongs": "H2416",
-          "grammar": "HAafsa"
-        },
-        {
-          "hebrew": "אֶת",
-          "translit": "H0853",
-          "telugu_chunk": "చెట్లన్నియు",
-          "strongs": "H0853",
-          "grammar": "HTo"
-        },
-        {
-          "hebrew": "כָּל",
-          "translit": "kôl",
-          "telugu_chunk": "ఆహారమగునని",
-          "strongs": "H3605",
-          "grammar": "HNcmsc"
+          "hebrew": "חַיָּ֔ה אֶת כָּל",
+          "translit": "chay / H0853 / kôl",
+          "telugu_chunk": "Grammatical Particle",
+          "strongs": "H2416_H0853_H3605",
+          "grammar": "HAafsa_HTo_HNcmsc"
         },
         {
           "hebrew": "יֶ֥רֶק",
           "translit": "yereq",
-          "telugu_chunk": "ఆహారమగునని",
+          "telugu_chunk": "పచ్చని",
           "strongs": "H3418",
           "grammar": "HNcmsa"
         },
         {
           "hebrew": "עֵ֖שֶׂב",
           "translit": "ʻeseb",
-          "telugu_chunk": "పలికెను.",
+          "telugu_chunk": "చెట్లన్నియు",
           "strongs": "H6212",
           "grammar": "HNcmsa"
         },
         {
           "hebrew": "לְ/אָכְלָ֑ה",
           "translit": "H0402",
-          "telugu_chunk": "ఆ",
+          "telugu_chunk": "ఆహారమగునని",
           "strongs": "H0402",
           "grammar": "HR/Ncfsa"
         },
         {
           "hebrew": "וַֽ/יְהִי",
           "translit": "hâyâh",
-          "telugu_chunk": "ఆ",
+          "telugu_chunk": "ప్రకారమాయెను",
           "strongs": "H1961",
           "grammar": "HC/Vqw3ms"
         },
         {
           "hebrew": "כֵֽן",
           "translit": "kên",
-          "telugu_chunk": "ప్రకారమాయెను.",
+          "telugu_chunk": "ఆ",
           "strongs": "H3651",
           "grammar": "HD"
         }
@@ -3118,12 +2803,12 @@
     },
     {
       "verse": 31,
-      "text": "దేవుడు దేవుడు తాను చేసినది యావత్తును చూచినప్పుడు అది చాలమంచిదిగ చాలమంచిదిగ నుండెను. అస్తమయమును ఉదయమును కలుగగా ఆరవ దినమాయెను.",
+      "text": "దేవుడు తాను చేసినది యావత్తును చూచినప్పుడు అది చాలమంచిదిగ నుండెను. అస్తమయమును ఉదయమును కలుగగా ఆరవ దినమాయెను.",
       "segments": [
         {
           "hebrew": "וַ/יַּ֤רְא",
           "translit": "râʼâh",
-          "telugu_chunk": "దేవుడు",
+          "telugu_chunk": "చూచినప్పుడు",
           "strongs": "H7200",
           "grammar": "HC/Vqw3ms"
         },
@@ -3137,28 +2822,28 @@
         {
           "hebrew": "אֶת",
           "translit": "H0853",
-          "telugu_chunk": "తాను",
+          "telugu_chunk": "Grammatical Particle",
           "strongs": "H0853",
           "grammar": "HTo"
         },
         {
           "hebrew": "כָּל",
           "translit": "kôl",
-          "telugu_chunk": "చేసినది",
+          "telugu_chunk": "యావత్తును",
           "strongs": "H3605",
           "grammar": "HNcmsc"
         },
         {
           "hebrew": "אֲשֶׁ֣ר",
           "translit": "H0834",
-          "telugu_chunk": "యావత్తును",
+          "telugu_chunk": "Grammatical Particle",
           "strongs": "H0834",
           "grammar": "HTr"
         },
         {
           "hebrew": "עָשָׂ֔ה",
           "translit": "ʻâsâh",
-          "telugu_chunk": "చూచినప్పుడు",
+          "telugu_chunk": "తాను చేసినది",
           "strongs": "H6213",
           "grammar": "HVqp3ms"
         },
@@ -3172,21 +2857,21 @@
         {
           "hebrew": "ט֖וֹב",
           "translit": "ṭôwb",
-          "telugu_chunk": "చాలమంచిదిగ",
+          "telugu_chunk": "మంచిదిగ నుండెను",
           "strongs": "H2896",
           "grammar": "HAamsa"
         },
         {
           "hebrew": "מְאֹ֑ד",
           "translit": "mᵉʼôd",
-          "telugu_chunk": "చాలమంచిదిగ",
+          "telugu_chunk": "చాల",
           "strongs": "H3966",
           "grammar": "HD"
         },
         {
           "hebrew": "וַֽ/יְהִי",
           "translit": "hâyâh",
-          "telugu_chunk": "నుండెను.",
+          "telugu_chunk": "కలుగగా",
           "strongs": "H1961",
           "grammar": "HC/Vqw3ms"
         },
@@ -3200,28 +2885,28 @@
         {
           "hebrew": "וַֽ/יְהִי",
           "translit": "hâyâh",
-          "telugu_chunk": "ఉదయమును",
+          "telugu_chunk": "Grammatical Particle",
           "strongs": "H1961",
           "grammar": "HC/Vqw3ms"
         },
         {
           "hebrew": "בֹ֖קֶר",
           "translit": "bôqer",
-          "telugu_chunk": "కలుగగా",
+          "telugu_chunk": "ఉదయమును",
           "strongs": "H1242",
           "grammar": "HNcmsa"
         },
         {
           "hebrew": "י֥וֹם",
           "translit": "yôwm",
-          "telugu_chunk": "ఆరవ",
+          "telugu_chunk": "దినమాయెను",
           "strongs": "H3117",
           "grammar": "HNcmsc"
         },
         {
           "hebrew": "הַ/שִּׁשִּֽׁי",
           "translit": "shishshîy",
-          "telugu_chunk": "దినమాయెను.",
+          "telugu_chunk": "ఆరవ",
           "strongs": "H8345",
           "grammar": "HTd/Aomsa"
         }

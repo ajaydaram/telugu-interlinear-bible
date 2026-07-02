@@ -20,6 +20,7 @@ function App() {
   const [modalLoading, setModalLoading] = useState(false);
   const [modalError, setModalError] = useState(null);
   const [modalStrongsEntry, setModalStrongsEntry] = useState(null);
+  const [modalStrongsEntries, setModalStrongsEntries] = useState([]);
 
   // Strong's Dictionary lookup cache
   const [strongsDict, setStrongsDict] = useState(null);
@@ -307,6 +308,7 @@ function App() {
     setModalWord(word);
     setModalWordInfo({ verse: verseNum, index: wordIdx });
     setModalError(null);
+    setModalStrongsEntries([]);
     const strongsId = word.strongs || '';
 
     if (!strongsId) {
@@ -315,8 +317,12 @@ function App() {
       return;
     }
 
+    const ids = strongsId.split('_').filter(id => id.trim());
+
     if (strongsDict) {
-      setModalStrongsEntry(strongsDict[strongsId] || null);
+      const entries = ids.map(id => strongsDict[id] || { number: id, lemma: id, description: `Strong's ID "${id}" not found in database.` });
+      setModalStrongsEntries(entries);
+      setModalStrongsEntry(entries[0] || null);
       setModalLoading(false);
     } else {
       setModalLoading(true);
@@ -337,7 +343,9 @@ function App() {
               }
             });
             setStrongsDict(dict);
-            setModalStrongsEntry(dict[strongsId] || null);
+            const entries = ids.map(id => dict[id] || { number: id, lemma: id, description: `Strong's ID "${id}" not found in database.` });
+            setModalStrongsEntries(entries);
+            setModalStrongsEntry(entries[0] || null);
             setModalLoading(false);
             isFetchingDict.current = false;
           })
@@ -882,47 +890,55 @@ function App() {
               {!modalLoading && (
                 <div id="modal-data">
                   <div className="modal-header-data">
-                    {modalWord.strongs && (
-                      <span className="strongs-tag">{modalWord.strongs}</span>
-                    )}
-                    <h2 
-                      id="modal-word-lemma"
-                      style={{ direction: isOT ? 'rtl' : 'ltr' }}
-                    >
-                      {modalStrongsEntry?.lemma || modalWord.hb || modalWord.original || ''}
+                    <h2 style={{ fontSize: '1.2rem', opacity: 0.8, color: 'var(--text-muted)' }}>
+                      Segment Translation: <span style={{ color: 'var(--text-color)', fontWeight: 'bold' }}>{modalWord.te || modalWord.telugu_gloss || ''}</span>
                     </h2>
-                    <span className="xlit-tag">
-                      {modalStrongsEntry?.xlit || modalWord.tr || modalWord.translit_english || ''}
-                    </span>
                   </div>
 
-                  <div className="modal-section">
-                    <h3>Pronunciation</h3>
-                    <p className="pronounce-text">
-                      {modalStrongsEntry ? (modalStrongsEntry.pronounce || 'N/A') : (
-                        'Pronunciation details are not available for this Old Testament word in the current dataset.'
+                  {modalStrongsEntries.map((entry, idx) => (
+                    <div key={idx} className="strongs-entry-card" style={{ 
+                      borderBottom: idx < modalStrongsEntries.length - 1 ? '1px dashed var(--border-color)' : 'none',
+                      paddingBottom: '1.5rem',
+                      marginBottom: '1.5rem',
+                      marginTop: '1.5rem'
+                    }}>
+                      <div style={{ display: 'flex', alignItems: 'center', gap: '0.75rem', marginBottom: '0.75rem' }}>
+                        <span className="strongs-tag" style={{ margin: 0 }}>{entry.number}</span>
+                        <h3 
+                          style={{ 
+                            fontSize: '1.75rem', 
+                            margin: 0,
+                            direction: entry.number.startsWith('H') ? 'rtl' : 'ltr',
+                            fontFamily: entry.number.startsWith('H') ? 'inherit' : 'NTR, sans-serif'
+                          }}
+                        >
+                          {entry.lemma || ''}
+                        </h3>
+                        {entry.xlit && (
+                          <span className="xlit-tag" style={{ margin: 0 }}>{entry.xlit}</span>
+                        )}
+                      </div>
+
+                      {entry.pronounce && (
+                        <div className="modal-section" style={{ marginTop: '0.75rem' }}>
+                          <h4 style={{ fontSize: '0.9rem', color: 'var(--text-muted)', textTransform: 'uppercase', marginBottom: '0.25rem' }}>Pronunciation</h4>
+                          <p className="pronounce-text" style={{ margin: 0 }}>{entry.pronounce}</p>
+                        </div>
                       )}
-                    </p>
-                  </div>
 
-                  <div className="modal-section">
-                    <h3>Grammatical Parsing</h3>
-                    <p className="grammar-text">
-                      {modalWord.gr || modalWord.grammar || 'N/A'}
-                    </p>
-                  </div>
+                      <div className="modal-section" style={{ marginTop: '0.75rem' }}>
+                        <h4 style={{ fontSize: '0.9rem', color: 'var(--text-muted)', textTransform: 'uppercase', marginBottom: '0.25rem' }}>Definition</h4>
+                        <p className="definition-text" style={{ margin: 0 }}>{entry.description || 'No definition available.'}</p>
+                      </div>
 
-                  <div className="modal-section">
-                    <h3>Concordance Definition</h3>
-                    <p className="definition-text">
-                      {modalError ? `Error loading definition: ${modalError}` : (
-                        modalStrongsEntry ? (modalStrongsEntry.description || 'No definition available.') : (
-                          modalWord.strongs ? `Strong's ID "${modalWord.strongs}" not found in database.` :
-                          'Strong\'s Concordance identifier is not available in the source file for this word. Direct grammatical morphological parsing is provided above.'
-                        )
+                      {modalWord.gr && (
+                        <div className="modal-section" style={{ marginTop: '0.75rem' }}>
+                          <h4 style={{ fontSize: '0.9rem', color: 'var(--text-muted)', textTransform: 'uppercase', marginBottom: '0.25rem' }}>Morphology</h4>
+                          <p className="grammar-text" style={{ margin: 0 }}>{modalWord.gr.split('_')[idx] || modalWord.gr}</p>
+                        </div>
                       )}
-                    </p>
-                  </div>
+                    </div>
+                  ))}
 
                   <div style={{ display: 'flex', flexDirection: 'column', gap: '0.5rem', marginTop: '1.5rem' }}>
                     {(modalWord.strongs || modalWord.hb || modalWord.original) && (
