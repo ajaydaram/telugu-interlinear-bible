@@ -19,6 +19,22 @@ except ImportError:
 WLC_GENESIS_URL = "https://raw.githubusercontent.com/openscriptures/morphhb/master/wlc/Gen.xml"
 TELUGU_GENESIS_URL = "https://raw.githubusercontent.com/aruljohn/Bible-telugu/master/Genesis.json"
 
+# Load local .env or .env.local if present
+def load_env_file():
+    for fn in [".env.local", ".env"]:
+        if os.path.exists(fn):
+            try:
+                with open(fn, 'r', encoding='utf-8') as f:
+                    for line in f:
+                        line = line.strip()
+                        if line and not line.startswith('#') and '=' in line:
+                            k, v = line.split('=', 1)
+                            os.environ[k.strip()] = v.strip()
+            except Exception:
+                pass
+
+load_env_file()
+
 # Initialize Gemini Client
 api_key = os.environ.get("GEMINI_API_KEY") or os.environ.get("GOOGLE_API_KEY")
 if api_key:
