@@ -4,14 +4,8 @@ import sys
 import json
 import re
 import time
-
-try:
-    import google.generativeai as genai
-except ImportError:
-    print("Installing google-generativeai package...")
-    import subprocess
-    subprocess.check_call([sys.executable, "-m", "pip", "install", "google-generativeai", "--break-system-packages"])
-    import google.generativeai as genai
+import urllib.request
+import urllib.parse
 
 # Load local .env or .env.local if present
 def load_env_file():
@@ -29,15 +23,13 @@ def load_env_file():
 
 load_env_file()
 
-# Initialize Gemini Client
+# Initialize Gemini REST Client configurations
 api_key = os.environ.get("GEMINI_API_KEY") or os.environ.get("GOOGLE_API_KEY")
-if api_key:
-    genai.configure(api_key=api_key)
-else:
+if not api_key:
     print("WARNING: GEMINI_API_KEY or GOOGLE_API_KEY environment variable is missing.")
     print("The script will use proportional chunk mapping as a fallback.")
 
-def call_gemini_realign(verse_text, tokens):
+def call_gemini_realign_rest(verse_text, tokens):
     if not api_key:
         # Fallback to local proportional chunk mapping
         telugu_words = verse_text.split()
@@ -72,19 +64,41 @@ Output ONLY valid JSON representing an array of objects. Each object must contai
 Do not include markdown wraps or block texts outside the JSON.
 """
 
+    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key={api_key}"
+    payload = {
+        "contents": [
+            {
+                "parts": [
+                    {"text": prompt}
+                ]
+            }
+        ]
+    }
+    
+    headers = {
+        "Content-Type": "application/json"
+    }
+
     try:
-        model = genai.GenerativeModel('gemini-1.5-flash')
-        response = model.generate_content(prompt)
-        text_response = response.text.strip()
-        
-        if text_response.startswith("```"):
-            text_response = re.sub(r'^```[a-z]*\n', '', text_response)
-            text_response = re.sub(r'\n```$', '', text_response)
+        req = urllib.request.Request(
+            url,
+            data=json.dumps(payload).encode('utf-8'),
+            headers=headers,
+            method='POST'
+        )
+        with urllib.request.urlopen(req) as res:
+            response_data = json.loads(res.read().decode('utf-8'))
+            text_response = response_data['candidates'][0]['content']['parts'][0]['text'].strip()
             
-        parsed_json = json.loads(text_response)
-        return parsed_json
+            # Clean markdown code block wraps
+            if text_response.startswith("```"):
+                text_response = re.sub(r'^```[a-z]*\n', '', text_response)
+                text_response = re.sub(r'\n```$', '', text_response)
+                
+            parsed_json = json.loads(text_response)
+            return parsed_json
     except Exception as e:
-        print(f"Gemini Realignment Error: {e}. Falling back to proportional alignment...")
+        print(f"Gemini REST Error: {e}. Falling back to proportional alignment...")
         # Fallback
         telugu_words = verse_text.split()
         segments = []
@@ -107,30 +121,22 @@ def process_file_realign(file_path):
     book_name = chapter_data.get("book", "")
     chap_num = chapter_data.get("chapter", 1)
     
-    # We fetch Telugu translation verse-by-verse
-    # For Genesis, we load from aruljohn cache
-    # For others, we can retrieve translation text from the file data itself (combining words or reading structure)
     realigned_verses = []
-    
     data_list = chapter_data.get("data", [])
     
     for idx, verse_item in enumerate(data_list):
-        # Support both schemas
         v_num = verse_item.get("v") or verse_item.get("verse") or verse_item.get("verse_number")
         words_list = verse_item.get("words") or verse_item.get("segments") or []
         
-        # Build running Telugu translation string
-        # Join the words to get full target verse translation
         telugu_segments = [w.get("te") or w.get("telugu_gloss") or w.get("telugu_chunk") or "" for w in words_list]
         telugu_segments = [s for s in telugu_segments if s]
         verse_translation = " ".join(telugu_segments)
         
-        # If there's no Telugu words in words list, default
         if not verse_translation:
             verse_translation = ""
             
         print(f"  Verse {v_num}...")
-        segments = call_gemini_realign(verse_translation, words_list)
+        segments = call_gemini_realign_rest(verse_translation, words_list)
         
         realigned_verses.append({
             "verse": v_num,
@@ -138,11 +144,9 @@ def process_file_realign(file_path):
             "segments": segments
         })
         
-        # Delay to prevent rate limits
         if api_key:
             time.sleep(1)
             
-    # Save the updated segmented chapter file
     output_schema = {
         "book": book_name,
         "chapter": chap_num,

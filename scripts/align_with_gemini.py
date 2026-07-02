@@ -8,14 +8,6 @@ import urllib.request
 import urllib.parse
 import time
 
-try:
-    import google.generativeai as genai
-except ImportError:
-    print("Installing google-generativeai package...")
-    import subprocess
-    subprocess.check_call([sys.executable, "-m", "pip", "install", "google-generativeai", "--break-system-packages"])
-    import google.generativeai as genai
-
 WLC_GENESIS_URL = "https://raw.githubusercontent.com/openscriptures/morphhb/master/wlc/Gen.xml"
 TELUGU_GENESIS_URL = "https://raw.githubusercontent.com/aruljohn/Bible-telugu/master/Genesis.json"
 
@@ -35,20 +27,11 @@ def load_env_file():
 
 load_env_file()
 
-# Initialize Gemini Client
+# Initialize Gemini REST Client configurations
 api_key = os.environ.get("GEMINI_API_KEY") or os.environ.get("GOOGLE_API_KEY")
-if api_key:
-    genai.configure(api_key=api_key)
-else:
+if not api_key:
     print("WARNING: GEMINI_API_KEY or GOOGLE_API_KEY environment variable is missing.")
-    print("Please set it in your terminal before running this script: export GEMINI_API_KEY='your-key-here'")
-
-def download_file(url, dest):
-    print(f"Downloading {url} to {dest}...")
-    req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
-    with urllib.request.urlopen(req) as response:
-        with open(dest, 'wb') as f:
-            f.write(response.read())
+    print("The script will use proportional fallback alignment.")
 
 def load_strongs_xlit():
     xlit_map = {}
@@ -111,10 +94,9 @@ def parse_wlc_genesis(xml_path, xlit_map):
         
     return wlc_data
 
-def call_gemini_alignment(batch_data):
+def call_gemini_alignment_rest(batch_data):
     if not api_key:
-        # Fallback to proportional alignment if no API key is provided
-        print("No API Key detected. Using proportional fallback alignment...")
+        # Fallback to proportional alignment
         fallback_verses = []
         for verse in batch_data:
             words = []
@@ -149,22 +131,40 @@ Output ONLY valid JSON representing an array of objects where each object has ke
 Do not include markdown wraps or block texts outside the JSON.
 """
     
-    # We call gemini model
+    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key={api_key}"
+    payload = {
+        "contents": [
+            {
+                "parts": [
+                    {"text": prompt}
+                ]
+            }
+        ]
+    }
+    
+    headers = {
+        "Content-Type": "application/json"
+    }
+
     try:
-        model = genai.GenerativeModel('gemini-1.5-flash')
-        response = model.generate_content(prompt)
-        text_response = response.text.strip()
-        
-        # Clean any markdown codeblock wrapper tags
-        if text_response.startswith("```"):
-            # strip ```json or ```
-            text_response = re.sub(r'^```[a-z]*\n', '', text_response)
-            text_response = re.sub(r'\n```$', '', text_response)
+        req = urllib.request.Request(
+            url,
+            data=json.dumps(payload).encode('utf-8'),
+            headers=headers,
+            method='POST'
+        )
+        with urllib.request.urlopen(req) as res:
+            response_data = json.loads(res.read().decode('utf-8'))
+            text_response = response_data['candidates'][0]['content']['parts'][0]['text'].strip()
             
-        parsed_json = json.loads(text_response)
-        return parsed_json
+            if text_response.startswith("```"):
+                text_response = re.sub(r'^```[a-z]*\n', '', text_response)
+                text_response = re.sub(r'\n```$', '', text_response)
+                
+            parsed_json = json.loads(text_response)
+            return parsed_json
     except Exception as e:
-        print(f"Gemini Alignment Error: {e}. Retrying with proportional fallback...")
+        print(f"Gemini REST Error: {e}. Falling back to proportional alignment...")
         # Fallback
         fallback_verses = []
         for verse in batch_data:
@@ -189,9 +189,18 @@ def align_and_compile():
     json_dest = "scripts/temp/Genesis.json"
     
     if not os.path.exists(xml_dest):
-        download_file(WLC_GENESIS_URL, xml_dest)
+        try:
+            download_file(WLC_GENESIS_URL, xml_dest)
+        except Exception as e:
+            print(f"Error downloading Gen.xml: {e}")
+            return
+            
     if not os.path.exists(json_dest):
-        download_file(TELUGU_GENESIS_URL, json_dest)
+        try:
+            download_file(TELUGU_GENESIS_URL, json_dest)
+        except Exception as e:
+            print(f"Error downloading Genesis.json: {e}")
+            return
         
     xlit_map = load_strongs_xlit()
     wlc_genesis = parse_wlc_genesis(xml_dest, xlit_map)
@@ -202,22 +211,17 @@ def align_and_compile():
     out_dir = "public/bibles/telugu/OT/Genesis"
     os.makedirs(out_dir, exist_ok=True)
     
-    # We will process Chapter 1 as the initial pipeline prototype to check the alignments
     for chapter_item in tel_data.get("chapters", []):
         chap_str = chapter_item.get("chapter", "1")
         chap_num = int(chap_str)
         
-        # Only align Chapter 1 for this prototype step, or run all if API Key is set
         if chap_num != 1 and not api_key:
-            print(f"Skipping Chapter {chap_num} (requires API Key to run full alignment pipeline).")
             continue
             
         print(f"Processing Chapter {chap_num}...")
         
-        # Build batch array for prompt
         batch_verses = []
-        # Store original morphology metadata in a map to merge back post-alignment
-        morph_map = {} # (verse_num, hebrew_token) -> {strongs, gr}
+        morph_map = {}
         
         for verse_item in chapter_item.get("verses", []):
             v_str = verse_item.get("verse", "1")
@@ -234,7 +238,6 @@ def align_and_compile():
                     "hebrew": hw["hebrew"],
                     "translit": hw["translit"]
                 })
-                # Index morphology tags
                 morph_map[(v_num, hw["hebrew"])] = {
                     "strongs": hw["strongs"],
                     "gr": hw["gr"]
@@ -246,18 +249,16 @@ def align_and_compile():
                 "target": v_text
             })
             
-        # Call Gemini in batches of 5 verses to avoid rate limit/token issues
         aligned_result = []
         batch_size = 5
         for i in range(0, len(batch_verses), batch_size):
             batch = batch_verses[i:i+batch_size]
-            print(f"Aligning verses {batch[0]['v']} - {batch[-1]['v']} using Gemini API...")
-            aligned_batch = call_gemini_alignment(batch)
+            print(f"Aligning verses {batch[0]['v']} - {batch[-1]['v']} using Gemini REST API...")
+            aligned_batch = call_gemini_alignment_rest(batch)
             aligned_result.extend(aligned_batch)
-            # Small cooldown to prevent rate limits
-            time.sleep(1)
+            if api_key:
+                time.sleep(1)
             
-        # Reconstruct into target interlinear schema
         final_verses = []
         for av in aligned_result:
             v_num = av.get("v")
@@ -267,7 +268,6 @@ def align_and_compile():
                 te_gloss = w.get("telugu", "")
                 tr_tok = w.get("translit", "")
                 
-                # Fetch grammar tags and Strong's number from original index
                 meta = morph_map.get((v_num, hb_tok), {})
                 words.append({
                     "hb": hb_tok,
@@ -281,7 +281,6 @@ def align_and_compile():
                 "words": words
             })
             
-        # Write clean output file
         chap_file_name = f"{chap_str.zfill(2)}.json"
         chap_file_path = os.path.join(out_dir, chap_file_name)
         
@@ -296,6 +295,12 @@ def align_and_compile():
             json.dump(output_schema, out_f, ensure_ascii=False, indent=2)
             
     print("=== PIPELINE ALIGNMENT STEP COMPLETE ===")
+
+def download_file(url, dest):
+    req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
+    with urllib.request.urlopen(req) as response:
+        with open(dest, 'wb') as f:
+            f.write(response.read())
 
 if __name__ == "__main__":
     align_and_compile()
