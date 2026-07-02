@@ -1,488 +1,2428 @@
 {
-    "book": "ఆదికాండము",
-    "chapters": [
+  "book": "ఆదికాండము",
+  "chapter": 2,
+  "language": "Telugu",
+  "data": [
+    {
+      "v": 1,
+      "words": [
         {
-            "chapter": 2,
-            "verses": [
-                {
-                    "verse": 1,
-                    "text": "ఆకాశమును భూమియు వాటిలోనున్న సమస్త సమూహమును సంపూర్తి చేయబడెను.",
-                    "words": [
-                        { "order": 1, "original": "וַיְכֻלּוּ", "translit_telugu": "వయ్యెఖుల్లూ", "strongs": "H3615", "telugu_gloss": "సంపూర్తి చేయబడెను", "grammar": "conj-w | v-pual-consecutive imperfect-3mp" },
-                        { "order": 2, "original": "הַשָּׁמַיִם", "translit_telugu": "హష్షామాయిమ్", "strongs": "H8064", "telugu_gloss": "ఆకాశము", "grammar": "art | n-mp" },
-                        { "order": 3, "original": "וְהָאָרֶץ", "translit_telugu": "వెహాఆరెత్స్", "strongs": "H776", "telugu_gloss": "మరియు భూమి", "grammar": "conj-w, art | n-fs" },
-                        { "order": 4, "original": "וְכָל־", "translit_telugu": "వెఖాల్", "strongs": "H3605", "telugu_gloss": "మరియు సమస్త", "grammar": "conj-w | n-msc" },
-                        { "order": 5, "original": "צְבָאָם", "translit_telugu": "త్సెవాఆమ్", "strongs": "H6635", "telugu_gloss": "వాటి సమూహము", "grammar": "n-csc | 3mp" }
-                    ]
-                },
-                {
-                    "verse": 2,
-                    "text": "దేవుడు తాను చేసిన తనపని యేడవదినములోగా సంపూర్తిచేసి, తాను చేసిన తన పని యంతటినుండి యేడవ దినమున విశ్రమించెను.",
-                    "words": [
-                        { "order": 1, "original": "וַיְכַל", "translit_telugu": "వయ్యెఖల్", "strongs": "H3615", "telugu_gloss": "సంపూర్తిచేసెను", "grammar": "conj-w | v-piel-consecutive imperfect-3ms" },
-                        { "order": 2, "original": "אֱלֹהִים", "translit_telugu": "ఎలోహీమ్", "strongs": "H430", "telugu_gloss": "దేవుడు", "grammar": "n-mp" },
-                        { "order": 3, "original": "בַּיּוֹם", "translit_telugu": "బయ్యోమ్", "strongs": "H3117", "telugu_gloss": "దినమున", "grammar": "prep-b, art | n-ms" },
-                        { "order": 4, "original": "הַשְּׁבִיעִי", "translit_telugu": "హష్షెవియీ", "strongs": "H7637", "telugu_gloss": "ఏడవ", "grammar": "art | adj-ms" },
-                        { "order": 5, "original": "מְלַאכְתּוֹ", "translit_telugu": "మెలాఖ్తో", "strongs": "H4399", "telugu_gloss": "తన పని", "grammar": "n-fsc | 3ms" },
-                        { "order": 6, "original": "אֲשֶׁר", "translit_telugu": "అషెర్", "strongs": "H834", "telugu_gloss": "ఏ", "grammar": "prep" },
-                        { "order": 7, "original": "עָשָׂה", "translit_telugu": "ఆసా", "strongs": "H6213", "telugu_gloss": "చేసెను", "grammar": "v-qal-perf-3ms" },
-                        { "order": 8, "original": "וַיִּשְׁבֹּת", "translit_telugu": "వయ్యిష్బోత్", "strongs": "H7673", "telugu_gloss": "విశ్రమించెను", "grammar": "conj-w | v-qal-consecutive imperfect-3ms" },
-                        { "order": 9, "original": "בַּיּוֹם", "translit_telugu": "బయ్యోమ్", "strongs": "H3117", "telugu_gloss": "దినమున", "grammar": "prep-b, art | n-ms" },
-                        { "order": 10, "original": "הַשְּׁבִיעִי", "translit_telugu": "హష్షెవియీ", "strongs": "H7637", "telugu_gloss": "ఏడవ", "grammar": "art | adj-ms" },
-                        { "order": 11, "original": "מִכָּל־", "translit_telugu": "మిక్కాల్", "strongs": "H3605", "telugu_gloss": "సమస్తము నుండి", "grammar": "prep-m | n-msc" },
-                        { "order": 12, "original": "מְלַאכְתּוֹ", "translit_telugu": "మెలాఖ్తో", "strongs": "H4399", "telugu_gloss": "తన పని", "grammar": "n-fsc | 3ms" },
-                        { "order": 13, "original": "אֲשֶׁר", "translit_telugu": "అషెర్", "strongs": "H834", "telugu_gloss": "ఏ", "grammar": "prep" },
-                        { "order": 14, "original": "עָשָׂה", "translit_telugu": "ఆసా", "strongs": "H6213", "telugu_gloss": "చేసెను", "grammar": "v-qal-perf-3ms" }
-                    ]
-                },
-                {
-                    "verse": 3,
-                    "text": "కాబట్టి దేవుడు ఆ యేడవ దినమును ఆశీర్వదించి పరిశుద్ధపరచెను; ఏలయనగా దానిలో దేవుడు తాను చేసినట్టియు, సృజించినట్టియు తన పని అంతటినుండి విశ్రమించెను.",
-                    "words": [
-                        { "order": 1, "original": "וַיְבָרֶךְ", "translit_telugu": "వయ్యెవారెచ్", "strongs": "H1288", "telugu_gloss": "ఆశీర్వదించెను", "grammar": "conj-w | v-piel-consecutive imperfect-3ms" },
-                        { "order": 2, "original": "אֱלֹהִים", "translit_telugu": "ఎలోహీమ్", "strongs": "H430", "telugu_gloss": "దేవుడు", "grammar": "n-mp" },
-                        { "order": 3, "original": "אֶת־", "translit_telugu": "ఎత్", "strongs": "H853", "telugu_gloss": "(గుర్తు)", "grammar": "dir-obj" },
-                        { "order": 4, "original": "יוֹם", "translit_telugu": "యోమ్", "strongs": "H3117", "telugu_gloss": "దినమును", "grammar": "n-msc" },
-                        { "order": 5, "original": "הַשְּׁבִיעִי", "translit_telugu": "హష్షెవియీ", "strongs": "H7637", "telugu_gloss": "ఏడవ", "grammar": "art | adj-ms" },
-                        { "order": 6, "original": "וַיְקַדֵּשׁ", "translit_telugu": "వయ్యెకద్దేష్", "strongs": "H6942", "telugu_gloss": "పరిశుద్ధపరచెను", "grammar": "conj-w | v-piel-consecutive imperfect-3ms" },
-                        { "order": 7, "original": "אֹתוֹ", "translit_telugu": "ఒతో", "strongs": "H853", "telugu_gloss": "దానిని", "grammar": "dir-obj | 3ms" },
-                        { "order": 8, "original": "כִּי", "translit_telugu": "కీ", "strongs": "H3588", "telugu_gloss": "ఏలయనగా", "grammar": "conj" },
-                        { "order": 9, "original": "בוֹ", "translit_telugu": "వో", "strongs": "H1961", "telugu_gloss": "దానిలో", "grammar": "prep | 3ms" },
-                        { "order": 10, "original": "שָׁבַת", "translit_telugu": "షావత్", "strongs": "H7673", "telugu_gloss": "విశ్రమించెను", "grammar": "v-qal-perf-3ms" },
-                        { "order": 11, "original": "מִכָּל־", "translit_telugu": "మిక్కాల్", "strongs": "H3605", "telugu_gloss": "సమస్తము నుండి", "grammar": "prep-m | n-msc" },
-                        { "order": 12, "original": "מְלַאכְתּוֹ", "translit_telugu": "మెలాఖ్తో", "strongs": "H4399", "telugu_gloss": "తన పని", "grammar": "n-fsc | 3ms" },
-                        { "order": 13, "original": "אֲשֶׁר־", "translit_telugu": "అషెర్", "strongs": "H834", "telugu_gloss": "ఏ", "grammar": "prep" },
-                        { "order": 14, "original": "בָּרָא", "translit_telugu": "బారా", "strongs": "H1254", "telugu_gloss": "సృజించెను", "grammar": "v-qal-perf-3ms" },
-                        { "order": 15, "original": "אֱלֹהִים", "translit_telugu": "ఎలోహీమ్", "strongs": "H430", "telugu_gloss": "దేవుడు", "grammar": "n-mp" },
-                        { "order": 16, "original": "לַעֲשׂוֹת", "translit_telugu": "లాఅసోత్", "strongs": "H6213", "telugu_gloss": "చేయుటకు", "grammar": "prep-l | v-qal-infinitive construct" }
-                    ]
-                },
-                {
-                    "verse": 4,
-                    "text": "దేవుడైన యెహోవా భూమిని ఆకాశమును చేసిన దినమందు భూమ్యాకాశములు సృజించబడినప్పుడు వాటి వాటి ఉత్పత్తిక్రమము ఇదే.",
-                    "words": [
-                        { "order": 1, "original": "אֵלֶּה", "translit_telugu": "ఎల్లే", "strongs": "H428", "telugu_gloss": "ఇవి", "grammar": "p-d" },
-                        { "order": 2, "original": "תוֹלְדוֹת", "translit_telugu": "తోలెదోత్", "strongs": "H8435", "telugu_gloss": "ఉత్పత్తిక్రమము", "grammar": "n-fpc" },
-                        { "order": 3, "original": "הַשָּׁמַיִם", "translit_telugu": "హష్షామాయిమ్", "strongs": "H8064", "telugu_gloss": "ఆకాశములు", "grammar": "art | n-mp" },
-                        { "order": 4, "original": "וְהָאָרֶץ", "translit_telugu": "వెహాఆరెత్స్", "strongs": "H776", "telugu_gloss": "మరియు భూమి", "grammar": "conj-w, art | n-fs" },
-                        { "order": 5, "original": "בְּהִבָּרְאָם", "translit_telugu": "బెహిబ్బారెఆమ్", "strongs": "H1254", "telugu_gloss": "సృజించబడినప్పుడు", "grammar": "prep-b | v-niph-infinitive construct | 3mp" },
-                        { "order": 6, "original": "בְּיוֹם", "translit_telugu": "బెయోమ్", "strongs": "H3117", "telugu_gloss": "దినమందు", "grammar": "prep-b | n-msc" },
-                        { "order": 7, "original": "עֲשׂוֹת", "translit_telugu": "అసోత్", "strongs": "H6213", "telugu_gloss": "చేసిన", "grammar": "v-qal-infinitive construct" },
-                        { "order": 8, "original": "יְהוָה", "translit_telugu": "యెహ్వా", "strongs": "H3068", "telugu_gloss": "యెహోవా", "grammar": "n-proper-ms" },
-                        { "order": 9, "original": "אֱלֹהִים", "translit_telugu": "ఎలోహీమ్", "strongs": "H430", "telugu_gloss": "దేవుడు", "grammar": "n-mp" },
-                        { "order": 10, "original": "אֶרֶץ", "translit_telugu": "ఎరెత్స్", "strongs": "H776", "telugu_gloss": "భూమిని", "grammar": "n-fs" },
-                        { "order": 11, "original": "וְשָׁמָיִם", "translit_telugu": "వెషామాయిమ్", "strongs": "H8064", "telugu_gloss": "మరియు ఆకాశమును", "grammar": "conj-w | n-mp" }
-                    ]
-                },
-                {
-                    "verse": 5,
-                    "text": "అదివరకు పొలమందలి యే పొదయు భూమిమీద నుండలేదు. పొలమందలి యే చెట్టును మొలవలేదు; ఏలయనగా దేవుడైన యెహోవా భూమిమీద వాన కురిపించలేదు, నేలను సేద్యపరచుటకు మనుష్యుడు లేడు.",
-                    "words": [
-                        { "order": 1, "original": "וְכֹל", "translit_telugu": "వెఖోల్", "strongs": "H3605", "telugu_gloss": "మరియు ఏ", "grammar": "conj-w | n-msc" },
-                        { "order": 2, "original": "שִׂיחַ", "translit_telugu": "సియఖ్", "strongs": "H7880", "telugu_gloss": "పొద", "grammar": "n-ms" },
-                        { "order": 3, "original": "הַשָּׂדֶה", "translit_telugu": "హస్సాదే", "strongs": "H7704", "telugu_gloss": "పొలమందలి", "grammar": "art | n-ms" },
-                        { "order": 4, "original": "טֶרֶם", "translit_telugu": "టెరెమ్", "strongs": "H2962", "telugu_gloss": "ఇంకా లేదు", "grammar": "subst" },
-                        { "order": 5, "original": "יִהְיֶה", "translit_telugu": "యిహ్యే", "strongs": "H1961", "telugu_gloss": "ఉండెను", "grammar": "v-qal-imperfect-3ms" },
-                        { "order": 6, "original": "בָאָרֶץ", "translit_telugu": "వాఆరెత్స్", "strongs": "H776", "telugu_gloss": "భూమిమీద", "grammar": "prep-b, art | n-fs" },
-                        { "order": 7, "original": "וְכָל־", "translit_telugu": "వెఖాల్", "strongs": "H3605", "telugu_gloss": "మరియు ఏ", "grammar": "conj-w | n-msc" },
-                        { "order": 8, "original": "עֵשֶׂב", "translit_telugu": "ఎసెవ్", "strongs": "H6212", "telugu_gloss": "చెట్టు", "grammar": "n-ms" },
-                        { "order": 9, "original": "הַשָּׂדֶה", "translit_telugu": "హస్సాదే", "strongs": "H7704", "telugu_gloss": "పొలమందలి", "grammar": "art | n-ms" },
-                        { "order": 10, "original": "טֶרֶם", "translit_telugu": "టెరెమ్", "strongs": "H2962", "telugu_gloss": "ఇంకా లేదు", "grammar": "subst" },
-                        { "order": 11, "original": "יִצְמָח", "translit_telugu": "యిత్స్మాఖ్", "strongs": "H6779", "telugu_gloss": "మొలిచెను", "grammar": "v-qal-imperfect-3ms" },
-                        { "order": 12, "original": "כִּי", "translit_telugu": "కీ", "strongs": "H3588", "telugu_gloss": "ఏలయనగా", "grammar": "conj" },
-                        { "order": 13, "original": "לֹא", "translit_telugu": "లో", "strongs": "H3808", "telugu_gloss": "లేదు", "grammar": "adv-neg" },
-                        { "order": 14, "original": "הִמְטִיר", "translit_telugu": "హిమ్టీర్", "strongs": "H4305", "telugu_gloss": "వాన కురిపించెను", "grammar": "v-hif-perf-3ms" },
-                        { "order": 15, "original": "יְהוָה", "translit_telugu": "యెహ్వా", "strongs": "H3068", "telugu_gloss": "యెహోవా", "grammar": "n-proper-ms" },
-                        { "order": 16, "original": "אֱלֹהִים", "translit_telugu": "ఎలోహీమ్", "strongs": "H430", "telugu_gloss": "దేవుడు", "grammar": "n-mp" },
-                        { "order": 17, "original": "עַל־", "translit_telugu": "అల్", "strongs": "H5921", "telugu_gloss": "మీద", "grammar": "prep" },
-                        { "order": 18, "original": "הָאָרֶץ", "translit_telugu": "హాఆరెత్స్", "strongs": "H776", "telugu_gloss": "భూమి", "grammar": "art | n-fs" },
-                        { "order": 19, "original": "וְאָדָם", "translit_telugu": "వెఆదామ్", "strongs": "H120", "telugu_gloss": "మరియు మనుష్యుడు", "grammar": "conj-w | n-ms" },
-                        { "order": 20, "original": "אַיִן", "translit_telugu": "అయిన్", "strongs": "H369", "telugu_gloss": "లేడు", "grammar": "adv" },
-                        { "order": 21, "original": "לַעֲבֹד", "translit_telugu": "లాఅవోద్", "strongs": "H5647", "telugu_gloss": "సేద్యపరచుటకు", "grammar": "prep-l | v-qal-infinitive construct" },
-                        { "order": 22, "original": "אֶת־", "translit_telugu": "ఎత్", "strongs": "H853", "telugu_gloss": "(గుర్తు)", "grammar": "dir-obj" },
-                        { "order": 23, "original": "הָאֲדָמָה", "translit_telugu": "హాఅదామా", "strongs": "H127", "telugu_gloss": "నేలను", "grammar": "art | n-fs" }
-                    ]
-                },
-                {
-                    "verse": 6,
-                    "text": "అయితే ఆవిరి భూమినుండి లేచి నేల అంతటిని తడిపెను.",
-                    "words": [
-                        { "order": 1, "original": "וְאֵד", "translit_telugu": "వెఏద్", "strongs": "H108", "telugu_gloss": "మరియు ఆవిరి", "grammar": "conj-w | n-ms" },
-                        { "order": 2, "original": "יַעֲלֶה", "translit_telugu": "యాఅలే", "strongs": "H5927", "telugu_gloss": "లేచెను", "grammar": "v-qal-imperfect-3ms" },
-                        { "order": 3, "original": "מִן־", "translit_telugu": "మిన్", "strongs": "H4480", "telugu_gloss": "నుండి", "grammar": "prep" },
-                        { "order": 4, "original": "הָאָרֶץ", "translit_telugu": "హాఆరెత్స్", "strongs": "H776", "telugu_gloss": "భూమి", "grammar": "art | n-fs" },
-                        { "order": 5, "original": "וְהִשְׁקָה", "translit_telugu": "వెహిష్కా", "strongs": "H8248", "telugu_gloss": "తడిపెను", "grammar": "conj-w | v-hif-perf-3ms" },
-                        { "order": 6, "original": "אֶֽת־", "translit_telugu": "ఎత్", "strongs": "H853", "telugu_gloss": "(గుర్తు)", "grammar": "dir-obj" },
-                        { "order": 7, "original": "כָּל־", "translit_telugu": "కాల్", "strongs": "H3605", "telugu_gloss": "అంతటి", "grammar": "n-msc" },
-                        { "order": 8, "original": "פְּנֵי־", "translit_telugu": "పెనే", "strongs": "H6440", "telugu_gloss": "ఉపరితలము", "grammar": "n-mpc" },
-                        { "order": 9, "original": "הָאֲדָמָה", "translit_telugu": "హాఅదామా", "strongs": "H127", "telugu_gloss": "నేల", "grammar": "art | n-fs" }
-                    ]
-                },
-                {
-                    "verse": 7,
-                    "text": "దేవుడైన యెహోవా నేలమంటితో నరుని నిర్మించి వాని నాసికా రంధ్రములలో జీవవాయువును ఊదగా నరుడు జీవాత్మ ఆయెను.",
-                    "words": [
-                        { "order": 1, "original": "וַיִּיצֶר", "translit_telugu": "వయ్యీయెత్సెర్", "strongs": "H3335", "telugu_gloss": "నిర్మించెను", "grammar": "conj-w | v-qal-consecutive imperfect-3ms" },
-                        { "order": 2, "original": "יְהוָה", "translit_telugu": "యెహ్వా", "strongs": "H3068", "telugu_gloss": "యెహోవా", "grammar": "n-proper-ms" },
-                        { "order": 3, "original": "אֱלֹהִים", "translit_telugu": "ఎలోహీమ్", "strongs": "H430", "telugu_gloss": "దేవుడు", "grammar": "n-mp" },
-                        { "order": 4, "original": "אֶת־", "translit_telugu": "ఎత్", "strongs": "H853", "telugu_gloss": "(గుర్తు)", "grammar": "dir-obj" },
-                        { "order": 5, "original": "הָאָדָם", "translit_telugu": "హాఆదామ్", "strongs": "H120", "telugu_gloss": "నరుని", "grammar": "art | n-ms" },
-                        { "order": 6, "original": "עָפָר", "translit_telugu": "ఆఫార్", "strongs": "H6083", "telugu_gloss": "మంటితో", "grammar": "n-ms" },
-                        { "order": 7, "original": "מִן־", "translit_telugu": "మిన్", "strongs": "H4480", "telugu_gloss": "నుండి", "grammar": "prep" },
-                        { "order": 8, "original": "הָאֲדָמָה", "translit_telugu": "హాఅదామా", "strongs": "H127", "telugu_gloss": "నేల", "grammar": "art | n-fs" },
-                        { "order": 9, "original": "וַיִּפַּח", "translit_telugu": "వయ్యిప్పఖ్", "strongs": "H5301", "telugu_gloss": "ఊదెను", "grammar": "conj-w | v-qal-consecutive imperfect-3ms" },
-                        { "order": 10, "original": "בְּאַפָּיו", "translit_telugu": "బెఅప్పావ్", "strongs": "H639", "telugu_gloss": "వాని నాసికా రంధ్రములలో", "grammar": "prep-b | n-mdc | 3ms" },
-                        { "order": 11, "original": "נִשְׁמַת", "translit_telugu": "నిష్మత్", "strongs": "H5397", "telugu_gloss": "వాయువు", "grammar": "n-fsc" },
-                        { "order": 12, "original": "חַיִּים", "translit_telugu": "ఖయ్యీమ్", "strongs": "H2416", "telugu_gloss": "జీవ", "grammar": "adj-mp" },
-                        { "order": 13, "original": "וַיְהִי", "translit_telugu": "వయ్యెహీ", "strongs": "H1961", "telugu_gloss": "ఆయెను", "grammar": "conj-w | v-qal-consecutive imperfect-3ms" },
-                        { "order": 14, "original": "הָאָדָם", "translit_telugu": "హాఆదామ్", "strongs": "H120", "telugu_gloss": "నరుడు", "grammar": "art | n-ms" },
-                        { "order": 15, "original": "לְנֶפֶשׁ", "translit_telugu": "లెనెఫెష్", "strongs": "H5315", "telugu_gloss": "ఆత్మగా", "grammar": "prep-l | n-fs" },
-                        { "order": 16, "original": "חַיָּה", "translit_telugu": "ఖయ్యా", "strongs": "H2416", "telugu_gloss": "జీవ", "grammar": "adj-fs" }
-                    ]
-                },
-                {
-                    "verse": 8,
-                    "text": "దేవుడైన యెహోవా తూర్పున ఏదెనులో ఒక తోటవేసి తాను నిర్మించిన నరుని దానిలో ఉంచెను.",
-                    "words": [
-                        { "order": 1, "original": "וַיִּטַּע", "translit_telugu": "వయ్యిట్టా", "strongs": "H5193", "telugu_gloss": "వేసెను", "grammar": "conj-w | v-qal-consecutive imperfect-3ms" },
-                        { "order": 2, "original": "יְהוָה", "translit_telugu": "యెహ్వా", "strongs": "H3068", "telugu_gloss": "యెహోవా", "grammar": "n-proper-ms" },
-                        { "order": 3, "original": "אֱלֹהִים", "translit_telugu": "ఎలోహీమ్", "strongs": "H430", "telugu_gloss": "దేవుడు", "grammar": "n-mp" },
-                        { "order": 4, "original": "גַּן־", "translit_telugu": "గన్", "strongs": "H1588", "telugu_gloss": "తోట", "grammar": "n-cs" },
-                        { "order": 5, "original": "בְּעֵדֶן", "translit_telugu": "బెఏదెన్", "strongs": "H5731", "telugu_gloss": "ఏదెనులో", "grammar": "prep-b | n-proper-fs" },
-                        { "order": 6, "original": "מִקֶּדֶם", "translit_telugu": "మిక్కెదెమ్", "strongs": "H6924", "telugu_gloss": "తూర్పున", "grammar": "prep-m | n-ms" },
-                        { "order": 7, "original": "וַיָּשֶׂם", "translit_telugu": "వయ్యాసెమ్", "strongs": "H7760", "telugu_gloss": "ఉంచెను", "grammar": "conj-w | v-qal-consecutive imperfect-3ms" },
-                        { "order": 8, "original": "שָׁם", "translit_telugu": "షామ్", "strongs": "H8033", "telugu_gloss": "అక్కడ", "grammar": "adv" },
-                        { "order": 9, "original": "אֶת־", "translit_telugu": "ఎత్", "strongs": "H853", "telugu_gloss": "(గుర్తు)", "grammar": "dir-obj" },
-                        { "order": 10, "original": "הָאָדָם", "translit_telugu": "హాఆదామ్", "strongs": "H120", "telugu_gloss": "నరుని", "grammar": "art | n-ms" },
-                        { "order": 11, "original": "אֲשֶׁר", "translit_telugu": "అషెర్", "strongs": "H834", "telugu_gloss": "ఏ", "grammar": "prep" },
-                        { "order": 12, "original": "יָצָר", "translit_telugu": "యాత్సార్", "strongs": "H3335", "telugu_gloss": "నిర్మించెను", "grammar": "v-qal-perf-3ms" }
-                    ]
-                },
-                {
-                    "verse": 9,
-                    "text": "మరియు దేవుడైన యెహోవా చూపునకు రమ్యమైనదియు ఆహారమునకు మంచిదియునైన ప్రతి వృక్షమును, ఆ తోటమధ్యను జీవవృక్షమును, మంచి చెడ్డల తెలివినిచ్చు వృక్షమును నేలనుండి మొలిపించెను.",
-                    "words": [
-                        { "order": 1, "original": "וַיַּצְמַח", "translit_telugu": "వయ్యాత్స్మఖ్", "strongs": "H6779", "telugu_gloss": "మొలిపించెను", "grammar": "conj-w | v-hif-consecutive imperfect-3ms" },
-                        { "order": 2, "original": "יְהוָה", "translit_telugu": "యెహ్వా", "strongs": "H3068", "telugu_gloss": "యెహోవా", "grammar": "n-proper-ms" },
-                        { "order": 3, "original": "אֱלֹהִים", "translit_telugu": "ఎలోహీమ్", "strongs": "H430", "telugu_gloss": "దేవుడు", "grammar": "n-mp" },
-                        { "order": 4, "original": "מִן־", "translit_telugu": "మిన్", "strongs": "H4480", "telugu_gloss": "నుండి", "grammar": "prep" },
-                        { "order": 5, "original": "הָאֲדָמָה", "translit_telugu": "హాఅదామా", "strongs": "H127", "telugu_gloss": "నేల", "grammar": "art | n-fs" },
-                        { "order": 6, "original": "כָּל־", "translit_telugu": "కాల్", "strongs": "H3605", "telugu_gloss": "ప్రతి", "grammar": "n-msc" },
-                        { "order": 7, "original": "עֵץ", "translit_telugu": "ఎత్స్", "strongs": "H6086", "telugu_gloss": "వృక్షమును", "grammar": "n-ms" },
-                        { "order": 8, "original": "נֶחְמָד", "translit_telugu": "నెఖ్మాద్", "strongs": "H2530", "telugu_gloss": "రమ్యమైన", "grammar": "v-niph-ptc-ms" },
-                        { "order": 9, "original": "לְמַרְאֶה", "translit_telugu": "లెమర్ఎ", "strongs": "H4758", "telugu_gloss": "చూపునకు", "grammar": "prep-l | n-ms" },
-                        { "order": 10, "original": "וְטוֹב", "translit_telugu": "వెతోవ్", "strongs": "H2896", "telugu_gloss": "మరియు మంచి", "grammar": "conj-w | adj-ms" },
-                        { "order": 11, "original": "לְמַאֲכָל", "translit_telugu": "లెమఆఖల్", "strongs": "H3978", "telugu_gloss": "ఆహారమునకు", "grammar": "prep-l | n-ms" },
-                        { "order": 12, "original": "וְעֵץ", "translit_telugu": "వెఎత్స్", "strongs": "H6086", "telugu_gloss": "మరియు వృక్షమును", "grammar": "conj-w | n-ms" },
-                        { "order": 13, "original": "הַחַיִּים", "translit_telugu": "హఖయ్యీమ్", "strongs": "H2416", "telugu_gloss": "జీవ", "grammar": "art | adj-mp" },
-                        { "order": 14, "original": "בְּתוֹךְ", "translit_telugu": "బెతోచ్", "strongs": "H8432", "telugu_gloss": "మధ్యను", "grammar": "prep-b | n-msc" },
-                        { "order": 15, "original": "הַגָּן", "translit_telugu": "హగ్గాన్", "strongs": "H1588", "telugu_gloss": "తోట", "grammar": "art | n-cs" },
-                        { "order": 16, "original": "וְעֵץ", "translit_telugu": "వెఎత్స్", "strongs": "H6086", "telugu_gloss": "మరియు వృక్షమును", "grammar": "conj-w | n-ms" },
-                        { "order": 17, "original": "הַדַּעַת", "translit_telugu": "హద్దాఅత్", "strongs": "H1847", "telugu_gloss": "తెలివినిచ్చు", "grammar": "art | n-fs" },
-                        { "order": 18, "original": "טוֹב", "translit_telugu": "తోవ్", "strongs": "H2896", "telugu_gloss": "మంచి", "grammar": "adj-ms" },
-                        { "order": 19, "original": "וָרָע", "translit_telugu": "వారా", "strongs": "H7451", "telugu_gloss": "మరియు చెడ్డ", "grammar": "conj-w | adj-ms" }
-                    ]
-                },
-                {
-                    "verse": 10,
-                    "text": "మరియు ఆ తోటను తడుపుటకు ఏదెనులోనుండి ఒక నది బయలుదేరి అక్కడనుండి చీలిపోయి నాలుగు శాఖలాయెను.",
-                    "words": [
-                        { "order": 1, "original": "וְנָהָר", "translit_telugu": "వెనాహార్", "strongs": "H5104", "telugu_gloss": "మరియు నది", "grammar": "conj-w | n-ms" },
-                        { "order": 2, "original": "יֹצֵא", "translit_telugu": "యోత్సే", "strongs": "H3318", "telugu_gloss": "బయలుదేరి", "grammar": "v-qal-ptc-ms" },
-                        { "order": 3, "original": "מֵעֵדֶן", "translit_telugu": "మేఏదెన్", "strongs": "H5731", "telugu_gloss": "ఏదెనులోనుండి", "grammar": "prep-m | n-proper-fs" },
-                        { "order": 4, "original": "לְהַשְׁקוֹת", "translit_telugu": "లెహష్కోత్", "strongs": "H8248", "telugu_gloss": "తడుపుటకు", "grammar": "prep-l | v-hif-infinitive construct" },
-                        { "order": 5, "original": "אֶת־", "translit_telugu": "ఎత్", "strongs": "H853", "telugu_gloss": "(గుర్తు)", "grammar": "dir-obj" },
-                        { "order": 6, "original": "הַגָּן", "translit_telugu": "హగ్గాన్", "strongs": "H1588", "telugu_gloss": "తోటను", "grammar": "art | n-cs" },
-                        { "order": 7, "original": "וּמִשָּׁם", "translit_telugu": "ఉమిష్షామ్", "strongs": "H8033", "telugu_gloss": "మరియు అక్కడనుండి", "grammar": "conj-w, prep-m | adv" },
-                        { "order": 8, "original": "יִפָּרֵד", "translit_telugu": "యిప్పారేద్", "strongs": "H6504", "telugu_gloss": "చీలిపోయి", "grammar": "v-niph-imperfect-3ms" },
-                        { "order": 9, "original": "וְהָיָה", "translit_telugu": "వెహాయా", "strongs": "H1961", "telugu_gloss": "ఆయెను", "grammar": "conj-w | v-qal-consecutive perfect-3ms" },
-                        { "order": 10, "original": "לְאַרְבָּעָה", "translit_telugu": "లెఅర్బాఆ", "strongs": "H702", "telugu_gloss": "నాలుగు", "grammar": "prep-l | adj-ms" },
-                        { "order": 11, "original": "רָאשִׁים", "translit_telugu": "రాషీమ్", "strongs": "H7218", "telugu_gloss": "శాఖలు", "grammar": "n-mp" }
-                    ]
-                },
-                {
-                    "verse": 11,
-                    "text": "మొదటిదాని పేరు పీషోను; అది హవీలా దేశమంతటి చుట్టు పారుచున్నది; అక్కడ బంగారమున్నది.",
-                    "words": [
-                        { "order": 1, "original": "שֵׁם", "translit_telugu": "షేమ్", "strongs": "H8034", "telugu_gloss": "పేరు", "grammar": "n-ms" },
-                        { "order": 2, "original": "הָאֶחָד", "translit_telugu": "హాఎఖాద్", "strongs": "H259", "telugu_gloss": "మొదటిదాని", "grammar": "art | adj-ms" },
-                        { "order": 3, "original": "פִּישׁוֹן", "translit_telugu": "పీషోన్", "strongs": "H6376", "telugu_gloss": "పీషోను", "grammar": "n-proper-ms" },
-                        { "order": 4, "original": "הוּא", "translit_telugu": "హూ", "strongs": "H1931", "telugu_gloss": "అది", "grammar": "p-3ms" },
-                        { "order": 5, "original": "הַסֹּבֵב", "translit_telugu": "హస్సోవేవ్", "strongs": "H5437", "telugu_gloss": "చుట్టు పారుచున్నది", "grammar": "art | v-qal-ptc-ms" },
-                        { "order": 6, "original": "אֵת", "translit_telugu": "ఎత్", "strongs": "H853", "telugu_gloss": "(గుర్తు)", "grammar": "dir-obj" },
-                        { "order": 7, "original": "כָּל־", "translit_telugu": "కాల్", "strongs": "H3605", "telugu_gloss": "అంతటి", "grammar": "n-msc" },
-                        { "order": 8, "original": "אֶרֶץ", "translit_telugu": "ఎరెత్స్", "strongs": "H776", "telugu_gloss": "దేశము", "grammar": "n-fsc" },
-                        { "order": 9, "original": "הַחֲוִילָה", "translit_telugu": "హఖవీలా", "strongs": "H2341", "telugu_gloss": "హవీలా", "grammar": "n-proper-fs" },
-                        { "order": 10, "original": "אֲשֶׁר", "translit_telugu": "అషెర్", "strongs": "H834", "telugu_gloss": "ఏ", "grammar": "prep" },
-                        { "order": 11, "original": "שָׁם", "translit_telugu": "షామ్", "strongs": "H8033", "telugu_gloss": "అక్కడ", "grammar": "adv" },
-                        { "order": 12, "original": "הַזָּהָב", "translit_telugu": "హజ్జాహావ్", "strongs": "H2091", "telugu_gloss": "బంగారము", "grammar": "art | n-ms" }
-                    ]
-                },
-                {
-                    "verse": 12,
-                    "text": "ఆ దేశపు బంగారము శ్రేష్ఠమైనది; అక్కడ బోళమును గోమేధికములును దొరుకును.",
-                    "words": [
-                        { "order": 1, "original": "וּזֲהַב", "translit_telugu": "ఉజహవ్", "strongs": "H2091", "telugu_gloss": "మరియు బంగారము", "grammar": "conj-w | n-msc" },
-                        { "order": 2, "original": "הָאָרֶץ", "translit_telugu": "హాఆరెత్స్", "strongs": "H776", "telugu_gloss": "ఆ దేశపు", "grammar": "art | n-fs" },
-                        { "order": 3, "original": "הַהִוא", "translit_telugu": "హహివ్", "strongs": "H1931", "telugu_gloss": "ఆ", "grammar": "art | p-3fs" },
-                        { "order": 4, "original": "טוֹב", "translit_telugu": "తోవ్", "strongs": "H2896", "telugu_gloss": "శ్రేష్ఠమైనది", "grammar": "adj-ms" },
-                        { "order": 5, "original": "שָׁם", "translit_telugu": "షామ్", "strongs": "H8033", "telugu_gloss": "అక్కడ", "grammar": "adv" },
-                        { "order": 6, "original": "הַבְּדֹלַח", "translit_telugu": "హబ్బెదోలఖ్", "strongs": "H916", "telugu_gloss": "బోళము", "grammar": "art | n-ms" },
-                        { "order": 7, "original": "וְאֶבֶן", "translit_telugu": "వెఎవెన్", "strongs": "H68", "telugu_gloss": "మరియు రాయి", "grammar": "conj-w | n-fsc" },
-                        { "order": 8, "original": "הַשֹּׁהַם", "translit_telugu": "హష్షోహమ్", "strongs": "H7718", "telugu_gloss": "గోమేధికము", "grammar": "art | n-ms" }
-                    ]
-                },
-                {
-                    "verse": 13,
-                    "text": "రెండవ నది పేరు గీహోను; అది కూషు దేశమంతటి చుట్టు పారుచున్నది.",
-                    "words": [
-                        { "order": 1, "original": "וְשֵׁם", "translit_telugu": "వెషేమ్", "strongs": "H8034", "telugu_gloss": "మరియు పేరు", "grammar": "conj-w | n-msc" },
-                        { "order": 2, "original": "הַנָּהָר", "translit_telugu": "హన్నాహార్", "strongs": "H5104", "telugu_gloss": "నది", "grammar": "art | n-ms" },
-                        { "order": 3, "original": "הַשֵּׁנִי", "translit_telugu": "హష్షేనీ", "strongs": "H8145", "telugu_gloss": "రెండవ", "grammar": "art | adj-ms" },
-                        { "order": 4, "original": "גִּיחוֹן", "translit_telugu": "గీఖోన్", "strongs": "H1521", "telugu_gloss": "గీహోను", "grammar": "n-proper-ms" },
-                        { "order": 5, "original": "הוּא", "translit_telugu": "హూ", "strongs": "H1931", "telugu_gloss": "అది", "grammar": "p-3ms" },
-                        { "order": 6, "original": "הַסּוֹבֵב", "translit_telugu": "హస్సోవేవ్", "strongs": "H5437", "telugu_gloss": "చుట్టు పారుచున్నది", "grammar": "art | v-qal-ptc-ms" },
-                        { "order": 7, "original": "אֵת", "translit_telugu": "ఎత్", "strongs": "H853", "telugu_gloss": "(గుర్తు)", "grammar": "dir-obj" },
-                        { "order": 8, "original": "כָּל־", "translit_telugu": "కాల్", "strongs": "H3605", "telugu_gloss": "అంతటి", "grammar": "n-msc" },
-                        { "order": 9, "original": "אֶרֶץ", "translit_telugu": "ఎరెత్స్", "strongs": "H776", "telugu_gloss": "దేశము", "grammar": "n-fsc" },
-                        { "order": 10, "original": "כּוּשׁ", "translit_telugu": "కూష్", "strongs": "H3568", "telugu_gloss": "కూషు", "grammar": "n-proper-fs" }
-                    ]
-                },
-                {
-                    "verse": 14,
-                    "text": "మూడవ నది పేరు హిద్దెకెలు; అది అష్షూరు తూర్పు వైపున పారుచున్నది. నాలుగవ నది యూఫ్రటీసు.",
-                    "words": [
-                        { "order": 1, "original": "וְשֵׁם", "translit_telugu": "వెషేమ్", "strongs": "H8034", "telugu_gloss": "మరియు పేరు", "grammar": "conj-w | n-msc" },
-                        { "order": 2, "original": "הַנָּהָר", "translit_telugu": "హన్నాహార్", "strongs": "H5104", "telugu_gloss": "నది", "grammar": "art | n-ms" },
-                        { "order": 3, "original": "הַשְּׁלִישִׁי", "translit_telugu": "హష్షెలిషీ", "strongs": "H7992", "telugu_gloss": "మూడవ", "grammar": "art | adj-ms" },
-                        { "order": 4, "original": "חִדֶּקֶל", "translit_telugu": "ఖిద్దెకెల్", "strongs": "H2313", "telugu_gloss": "హిద్దెకెలు", "grammar": "n-proper-ms" },
-                        { "order": 5, "original": "הוּא", "translit_telugu": "హూ", "strongs": "H1931", "telugu_gloss": "అది", "grammar": "p-3ms" },
-                        { "order": 6, "original": "הַהֹלֵךְ", "translit_telugu": "హహోలేచ్", "strongs": "H1980", "telugu_gloss": "పారుచున్నది", "grammar": "art | v-qal-ptc-ms" },
-                        { "order": 7, "original": "קִדְמַת", "translit_telugu": "కిద్మత్", "strongs": "H6926", "telugu_gloss": "తూర్పు వైపున", "grammar": "n-fsc" },
-                        { "order": 8, "original": "אַשּׁוּר", "translit_telugu": "అష్షూర్", "strongs": "H804", "telugu_gloss": "అష్షూరు", "grammar": "n-proper-fs" },
-                        { "order": 9, "original": "וְהַנָּהָר", "translit_telugu": "వెహన్నాహార్", "strongs": "H5104", "telugu_gloss": "మరియు నది", "grammar": "conj-w, art | n-ms" },
-                        { "order": 10, "original": "הָרְבִיעִי", "translit_telugu": "హారెవియీ", "strongs": "H7243", "telugu_gloss": "నాలుగవ", "grammar": "art | adj-ms" },
-                        { "order": 11, "original": "הוּא", "translit_telugu": "హూ", "strongs": "H1931", "telugu_gloss": "అది", "grammar": "p-3ms" },
-                        { "order": 12, "original": "פְרָת", "translit_telugu": "ఫెరాత్", "strongs": "H6578", "telugu_gloss": "యూఫ్రటీసు", "grammar": "n-proper-ms" }
-                    ]
-                },
-                {
-                    "verse": 15,
-                    "text": "మరియు దేవుడైన యెహోవా నరుని తీసికొని ఏదెను తోటను సేద్యపరచుటకును దాని కాచుటకును దానిలో ఉంచెను.",
-                    "words": [
-                        { "order": 1, "original": "וַיִּקַּח", "translit_telugu": "వయ్యిక్కఖ్", "strongs": "H3947", "telugu_gloss": "తీసికొని", "grammar": "conj-w | v-qal-consecutive imperfect-3ms" },
-                        { "order": 2, "original": "יְהוָה", "translit_telugu": "యెహ్వా", "strongs": "H3068", "telugu_gloss": "యెహోవా", "grammar": "n-proper-ms" },
-                        { "order": 3, "original": "אֱלֹהִים", "translit_telugu": "ఎలోహీమ్", "strongs": "H430", "telugu_gloss": "దేవుడు", "grammar": "n-mp" },
-                        { "order": 4, "original": "אֶת־", "translit_telugu": "ఎత్", "strongs": "H853", "telugu_gloss": "(గుర్తు)", "grammar": "dir-obj" },
-                        { "order": 5, "original": "הָאָדָם", "translit_telugu": "హాఆదామ్", "strongs": "H120", "telugu_gloss": "నరుని", "grammar": "art | n-ms" },
-                        { "order": 6, "original": "וַיַּנִּחֵהוּ", "translit_telugu": "వయ్యన్నిఖేహూ", "strongs": "H3240", "telugu_gloss": "ఉంచెను", "grammar": "conj-w | v-hif-consecutive imperfect-3ms | 3ms" },
-                        { "order": 7, "original": "בְגַן־", "translit_telugu": "వెగన్", "strongs": "H1588", "telugu_gloss": "తోటలో", "grammar": "prep-b | n-csc" },
-                        { "order": 8, "original": "עֵדֶן", "translit_telugu": "ఏదెన్", "strongs": "H5731", "telugu_gloss": "ఏదెను", "grammar": "n-proper-fs" },
-                        { "order": 9, "original": "לְעָבְדָהּ", "translit_telugu": "లెఆవెదాహ్", "strongs": "H5647", "telugu_gloss": "సేద్యపరచుటకు", "grammar": "prep-l | v-qal-infinitive construct | 3fs" },
-                        { "order": 10, "original": "וּלְשָׁמְרָהּ", "translit_telugu": "ఉలెషామెరాహ్", "strongs": "H8104", "telugu_gloss": "మరియు కాచుటకు", "grammar": "conj-w, prep-l | v-qal-infinitive construct | 3fs" }
-                    ]
-                },
-                {
-                    "verse": 16,
-                    "text": "మరియు దేవుడైన యెహోవా ఈ తోటలోనున్న ప్రతి వృక్ష ఫలములను నీవు నిరభ్యంతరముగా తినవచ్చును;",
-                    "words": [
-                        { "order": 1, "original": "וַיְצַו", "translit_telugu": "వయ్యెత్సవ్", "strongs": "H6680", "telugu_gloss": "ఆజ్ఞాపించెను", "grammar": "conj-w | v-piel-consecutive imperfect-3ms" },
-                        { "order": 2, "original": "יְהוָה", "translit_telugu": "యెహ్వా", "strongs": "H3068", "telugu_gloss": "యెహోవా", "grammar": "n-proper-ms" },
-                        { "order": 3, "original": "אֱלֹהִים", "translit_telugu": "ఎలోహీమ్", "strongs": "H430", "telugu_gloss": "దేవుడు", "grammar": "n-mp" },
-                        { "order": 4, "original": "עַל־", "translit_telugu": "అల్", "strongs": "H5921", "telugu_gloss": "ఈ", "grammar": "prep" },
-                        { "order": 5, "original": "הָאָדָם", "translit_telugu": "హాఆదామ్", "strongs": "H120", "telugu_gloss": "నరుని", "grammar": "art | n-ms" },
-                        { "order": 6, "original": "לֵאמֹר", "translit_telugu": "లేమోర్", "strongs": "H559", "telugu_gloss": "అని", "grammar": "prep-l | v-qal-infinitive construct" },
-                        { "order": 7, "original": "מִכֹּל", "translit_telugu": "మిక్కోల్", "strongs": "H3605", "telugu_gloss": "సమస్తములోనుండి", "grammar": "prep-m | n-msc" },
-                        { "order": 8, "original": "עֵץ", "translit_telugu": "ఎత్స్", "strongs": "H6086", "telugu_gloss": "వృక్షము", "grammar": "n-ms" },
-                        { "order": 9, "original": "הַגָּן", "translit_telugu": "హగ్గాన్", "strongs": "H1588", "telugu_gloss": "తోట", "grammar": "art | n-cs" },
-                        { "order": 10, "original": "אָכֹל", "translit_telugu": "ఆఖోల్", "strongs": "H398", "telugu_gloss": "తినుట", "grammar": "v-qal-infinitive absolute" },
-                        { "order": 11, "original": "תֹּאכֵל", "translit_telugu": "తోఖేల్", "strongs": "H398", "telugu_gloss": "తినవచ్చును", "grammar": "v-qal-imperfect-2ms" }
-                    ]
-                },
-                {
-                    "verse": 17,
-                    "text": "అయితే మంచి చెడ్డల తెలివినిచ్చు వృక్ష ఫలములను తినకూడదు; నీవు వాటిని తిను దినమున నిశ్చయముగా చచ్చెదవని నరునికాజ్ఞాపించెను.",
-                    "words": [
-                        { "order": 1, "original": "וּמֵעֵץ", "translit_telugu": "ఉమేఎత్స్", "strongs": "H6086", "telugu_gloss": "మరియు వృక్షమునుండి", "grammar": "conj-w, prep-m | n-msc" },
-                        { "order": 2, "original": "הַדַּעַת", "translit_telugu": "హద్దాఅత్", "strongs": "H1847", "telugu_gloss": "తెలివినిచ్చు", "grammar": "art | n-fs" },
-                        { "order": 3, "original": "טוֹב", "translit_telugu": "తోవ్", "strongs": "H2896", "telugu_gloss": "మంచి", "grammar": "adj-ms" },
-                        { "order": 4, "original": "וָרָע", "translit_telugu": "వారా", "strongs": "H7451", "telugu_gloss": "మరియు చెడ్డ", "grammar": "conj-w | adj-ms" },
-                        { "order": 5, "original": "לֹא", "translit_telugu": "లో", "strongs": "H3808", "telugu_gloss": "లేదు", "grammar": "adv-neg" },
-                        { "order": 6, "original": "תֹאכַל", "translit_telugu": "తోఖల్", "strongs": "H398", "telugu_gloss": "తినకూడదు", "grammar": "v-qal-imperfect-2ms" },
-                        { "order": 7, "original": "מִמֶּנּוּ", "translit_telugu": "మిమ్మెన్నూ", "strongs": "H398", "telugu_gloss": "దానిలోనుండి", "grammar": "prep | 3ms" },
-                        { "order": 8, "original": "כִּי", "translit_telugu": "కీ", "strongs": "H3588", "telugu_gloss": "ఎందుకంటే", "grammar": "conj" },
-                        { "order": 9, "original": "בְּיוֹם", "translit_telugu": "బెయోమ్", "strongs": "H3117", "telugu_gloss": "దినమున", "grammar": "prep-b | n-msc" },
-                        { "order": 10, "original": "אֲכָלְךָ", "translit_telugu": "అఖాలెఖా", "strongs": "H398", "telugu_gloss": "నీవు తినుట", "grammar": "v-qal-infinitive construct | 2ms" },
-                        { "order": 11, "original": "מִמֶּנּוּ", "translit_telugu": "మిమ్మెన్నూ", "strongs": "H398", "telugu_gloss": "దానిలోనుండి", "grammar": "prep | 3ms" },
-                        { "order": 12, "original": "מוֹת", "translit_telugu": "మోత్", "strongs": "H4191", "telugu_gloss": "చావు", "grammar": "v-qal-infinitive absolute" },
-                        { "order": 13, "original": "תָּמוּת", "translit_telugu": "తామూత్", "strongs": "H4191", "telugu_gloss": "చచ్చెదవు", "grammar": "v-qal-imperfect-2ms" }
-                    ]
-                },
-                {
-                    "verse": 18,
-                    "text": "మరియు దేవుడైన యెహోవా నరుడు ఒంటరిగా నుండుట మంచిది కాదు; వానికి సాటియైన సహాయమును వానికొరకు చేయుదుననుకొనెను.",
-                    "words": [
-                        { "order": 1, "original": "וַיֹּאמֶר", "translit_telugu": "వయ్యోమెర్", "strongs": "H559", "telugu_gloss": "అనుకొనెను", "grammar": "conj-w | v-qal-consecutive imperfect-3ms" },
-                        { "order": 2, "original": "יְהוָה", "translit_telugu": "యెహ్వా", "strongs": "H3068", "telugu_gloss": "యెహోవా", "grammar": "n-proper-ms" },
-                        { "order": 3, "original": "אֱלֹהִים", "translit_telugu": "ఎలోహీమ్", "strongs": "H430", "telugu_gloss": "దేవుడు", "grammar": "n-mp" },
-                        { "order": 4, "original": "לֹא־", "translit_telugu": "లో", "strongs": "H3808", "telugu_gloss": "కాదు", "grammar": "adv-neg" },
-                        { "order": 5, "original": "טוֹב", "translit_telugu": "తోవ్", "strongs": "H2896", "telugu_gloss": "మంచిది", "grammar": "adj-ms" },
-                        { "order": 6, "original": "הֱיוֹת", "translit_telugu": "హెయోత్", "strongs": "H1961", "telugu_gloss": "ఉండుట", "grammar": "v-qal-infinitive construct" },
-                        { "order": 7, "original": "הָאָדָם", "translit_telugu": "హాఆదామ్", "strongs": "H120", "telugu_gloss": "నరుడు", "grammar": "art | n-ms" },
-                        { "order": 8, "original": "לְבַדּוֹ", "translit_telugu": "లెవద్దో", "strongs": "H905", "telugu_gloss": "ఒంటరిగా", "grammar": "prep-l | n-msc | 3ms" },
-                        { "order": 9, "original": "אֶעֱשֶׂהּ־", "translit_telugu": "ఎఎసెహ్", "strongs": "H6213", "telugu_gloss": "చేయుదును", "grammar": "v-qal-imperfect-1cs" },
-                        { "order": 10, "original": "לּוֹ", "translit_telugu": "లో", "strongs": "H1961", "telugu_gloss": "వానికొరకు", "grammar": "prep | 3ms" },
-                        { "order": 11, "original": "עֵזֶר", "translit_telugu": "ఏజెర్", "strongs": "H5828", "telugu_gloss": "సహాయము", "grammar": "n-ms" },
-                        { "order": 12, "original": "כְּנֶגְדּוֹ", "translit_telugu": "కెనెగ్దో", "strongs": "H5048", "telugu_gloss": "సాటియైన", "grammar": "prep-k | 3ms" }
-                    ]
-                },
-                {
-                    "verse": 19,
-                    "text": "దేవుడైన యెహోవా ప్రతి భూజంతువును ప్రతి ఆకాశపక్షిని నేలనుండి నిర్మించి, ఆదాము వాటికి ఏ పేరు పెట్టునో చూచుటకు అతని యొద్దకు వాటిని రప్పించెను. జీవముగల ప్రతిదానికి ఆదాము ఏ పేరు పెట్టెనో ఆ పేరు దానికి కలిగెను.",
-                    "words": [
-                        { "order": 1, "original": "וַיִּצֶר", "translit_telugu": "వయ్యిత్సెర్", "strongs": "H3335", "telugu_gloss": "నిర్మించెను", "grammar": "conj-w | v-qal-consecutive imperfect-3ms" },
-                        { "order": 2, "original": "יְהוָה", "translit_telugu": "యెహ్వా", "strongs": "H3068", "telugu_gloss": "యెహోవా", "grammar": "n-proper-ms" },
-                        { "order": 3, "original": "אֱלֹהִים", "translit_telugu": "ఎలోహీమ్", "strongs": "H430", "telugu_gloss": "దేవుడు", "grammar": "n-mp" },
-                        { "order": 4, "original": "מִן־", "translit_telugu": "మిన్", "strongs": "H4480", "telugu_gloss": "నుండి", "grammar": "prep" },
-                        { "order": 5, "original": "הָאֲדָמָה", "translit_telugu": "హాఅదామా", "strongs": "H127", "telugu_gloss": "నేల", "grammar": "art | n-fs" },
-                        { "order": 6, "original": "כָּל־", "translit_telugu": "కాల్", "strongs": "H3605", "telugu_gloss": "ప్రతి", "grammar": "n-msc" },
-                        { "order": 7, "original": "חַיַּת", "translit_telugu": "ఖయ్యత్", "strongs": "H2416", "telugu_gloss": "జంతువు", "grammar": "n-fsc" },
-                        { "order": 8, "original": "הַשָּׂדֶה", "translit_telugu": "హస్సాదే", "strongs": "H7704", "telugu_gloss": "భూమి", "grammar": "art | n-ms" },
-                        { "order": 9, "original": "וְאֵת", "translit_telugu": "వెఎత్", "strongs": "H853", "telugu_gloss": "మరియు", "grammar": "conj-w | dir-obj" },
-                        { "order": 10, "original": "כָּל־", "translit_telugu": "కాల్", "strongs": "H3605", "telugu_gloss": "ప్రతి", "grammar": "n-msc" },
-                        { "order": 11, "original": "עוֹף", "translit_telugu": "ఓఫ్", "strongs": "H5775", "telugu_gloss": "పక్షి", "grammar": "n-msc" },
-                        { "order": 12, "original": "הַשָּׁמַיִם", "translit_telugu": "హష్షామాయిమ్", "strongs": "H8064", "telugu_gloss": "ఆకాశ", "grammar": "art | n-mp" },
-                        { "order": 13, "original": "וַיָּבֵא", "translit_telugu": "వయ్యావే", "strongs": "H935", "telugu_gloss": "రప్పించెను", "grammar": "conj-w | v-hif-consecutive imperfect-3ms" },
-                        { "order": 14, "original": "אֶל־", "translit_telugu": "ఎల్", "strongs": "H413", "telugu_gloss": "ఒద్దకు", "grammar": "prep" },
-                        { "order": 15, "original": "הָאָדָם", "translit_telugu": "హాఆదామ్", "strongs": "H120", "telugu_gloss": "ఆదాము", "grammar": "art | n-ms" },
-                        { "order": 16, "original": "לִרְאוֹת", "translit_telugu": "లిర్ఓత్", "strongs": "H7200", "telugu_gloss": "చూచుటకు", "grammar": "prep-l | v-qal-infinitive construct" },
-                        { "order": 17, "original": "מַה־", "translit_telugu": "మా", "strongs": "H4100", "telugu_gloss": "ఏమి", "grammar": "interrog" },
-                        { "order": 18, "original": "יִקְרָא־", "translit_telugu": "యిక్రా", "strongs": "H7121", "telugu_gloss": "పేరు పెట్టునో", "grammar": "v-qal-imperfect-3ms" },
-                        { "order": 19, "original": "לוֹ", "translit_telugu": "లో", "strongs": "H1961", "telugu_gloss": "దానికి", "grammar": "prep | 3ms" },
-                        { "order": 20, "original": "וְכֹל", "translit_telugu": "వెఖోల్", "strongs": "H3605", "telugu_gloss": "మరియు ప్రతి", "grammar": "conj-w | n-msc" },
-                        { "order": 21, "original": "אֲשֶׁר", "translit_telugu": "అషెర్", "strongs": "H834", "telugu_gloss": "ఏ", "grammar": "prep" },
-                        { "order": 22, "original": "יִקְרָא־", "translit_telugu": "యిక్రా", "strongs": "H7121", "telugu_gloss": "పేరు పెట్టెనో", "grammar": "v-qal-imperfect-3ms" },
-                        { "order": 23, "original": "לוֹ", "translit_telugu": "లో", "strongs": "H1961", "telugu_gloss": "దానికి", "grammar": "prep | 3ms" },
-                        { "order": 24, "original": "הָאָדָם", "translit_telugu": "హాఆదామ్", "strongs": "H120", "telugu_gloss": "ఆదాము", "grammar": "art | n-ms" },
-                        { "order": 25, "original": "נֶפֶשׁ", "translit_telugu": "నెఫెష్", "strongs": "H5315", "telugu_gloss": "జీవము", "grammar": "n-fs" },
-                        { "order": 26, "original": "חַיָּה", "translit_telugu": "ఖయ్యా", "strongs": "H2416", "telugu_gloss": "గల", "grammar": "adj-fs" },
-                        { "order": 27, "original": "הוּא", "translit_telugu": "హూ", "strongs": "H1931", "telugu_gloss": "అది", "grammar": "p-3ms" },
-                        { "order": 28, "original": "שְׁמוֹ", "translit_telugu": "షెమో", "strongs": "H8034", "telugu_gloss": "దాని పేరు", "grammar": "n-msc | 3ms" }
-                    ]
-                },
-                {
-                    "verse": 20,
-                    "text": "అప్పుడు ఆదాము సమస్త పశువులకును ఆకాశ పక్షులకును సమస్త భూజంతువులకును పేరులు పెట్టెను. అయినను ఆదామునకు సాటియైన సహాయము అతనికి లేకపోయెను.",
-                    "words": [
-                        { "order": 1, "original": "וַיִּקְרָא", "translit_telugu": "వయ్యిక్రా", "strongs": "H7121", "telugu_gloss": "పేరు పెట్టెను", "grammar": "conj-w | v-qal-consecutive imperfect-3ms" },
-                        { "order": 2, "original": "הָאָדָם", "translit_telugu": "హాఆదామ్", "strongs": "H120", "telugu_gloss": "ఆదాము", "grammar": "art | n-ms" },
-                        { "order": 3, "original": "שֵׁמוֹת", "translit_telugu": "షేమోత్", "strongs": "H8034", "telugu_gloss": "పేర్లు", "grammar": "n-mp" },
-                        { "order": 4, "original": "לְכָל־", "translit_telugu": "లెఖాల్", "strongs": "H3605", "telugu_gloss": "సమస్త", "grammar": "prep-l | n-msc" },
-                        { "order": 5, "original": "הַבְּהֵמָה", "translit_telugu": "హబ్బెహేమా", "strongs": "H929", "telugu_gloss": "పశువులు", "grammar": "art | n-fs" },
-                        { "order": 6, "original": "וּלְעוֹף", "translit_telugu": "ఉలెఓఫ్", "strongs": "H5775", "telugu_gloss": "మరియు పక్షులు", "grammar": "conj-w, prep-l | n-msc" },
-                        { "order": 7, "original": "הַשָּׁמַיִם", "translit_telugu": "హష్షామాయిమ్", "strongs": "H8064", "telugu_gloss": "ఆకాశ", "grammar": "art | n-mp" },
-                        { "order": 8, "original": "וּלְכֹל", "translit_telugu": "ఉలెఖోల్", "strongs": "H3605", "telugu_gloss": "మరియు సమస్త", "grammar": "conj-w, prep-l | n-msc" },
-                        { "order": 9, "original": "חַיַּת", "translit_telugu": "ఖయ్యత్", "strongs": "H2416", "telugu_gloss": "జంతువులు", "grammar": "n-fsc" },
-                        { "order": 10, "original": "הַשָּׂדֶה", "translit_telugu": "హస్సాదే", "strongs": "H7704", "telugu_gloss": "భూమి", "grammar": "art | n-ms" },
-                        { "order": 11, "original": "וּלְאָדָם", "translit_telugu": "ఉలెఆదామ్", "strongs": "H120", "telugu_gloss": "మరియు ఆదామునకు", "grammar": "conj-w, prep-l | n-ms" },
-                        { "order": 12, "original": "לֹא־", "translit_telugu": "లో", "strongs": "H3808", "telugu_gloss": "లేదు", "grammar": "adv-neg" },
-                        { "order": 13, "original": "מָצָא", "translit_telugu": "మాత్సా", "strongs": "H4672", "telugu_gloss": "దొరకెను", "grammar": "v-qal-perf-3ms" },
-                        { "order": 14, "original": "עֵזֶר", "translit_telugu": "ఏజెర్", "strongs": "H5828", "telugu_gloss": "సహాయము", "grammar": "n-ms" },
-                        { "order": 15, "original": "כְּנֶגְדּוֹ", "translit_telugu": "కెనెగ్దో", "strongs": "H5048", "telugu_gloss": "సాటియైన", "grammar": "prep-k | 3ms" }
-                    ]
-                },
-                {
-                    "verse": 21,
-                    "text": "అప్పుడు దేవుడైన యెహోవా ఆదామునకు గాఢనిద్ర కలుగజేసి అతడు నిద్రించినప్పుడు అతని ప్రక్కటెముకలలో ఒకదానిని తీసి ఆ చోటును మాంసముతో పూడ్చివేసెను.",
-                    "words": [
-                        { "order": 1, "original": "וַיַּפֵּל", "translit_telugu": "వయ్యప్పేల్", "strongs": "H5307", "telugu_gloss": "కలుగజేసెను", "grammar": "conj-w | v-hif-consecutive imperfect-3ms" },
-                        { "order": 2, "original": "יְהוָה", "translit_telugu": "యెహ్వా", "strongs": "H3068", "telugu_gloss": "యెహోవా", "grammar": "n-proper-ms" },
-                        { "order": 3, "original": "אֱלֹהִים", "translit_telugu": "ఎలోహీమ్", "strongs": "H430", "telugu_gloss": "దేవుడు", "grammar": "n-mp" },
-                        { "order": 4, "original": "תַּרְדֵּמָה", "translit_telugu": "తర్ద్దేమా", "strongs": "H8639", "telugu_gloss": "గాఢనిద్ర", "grammar": "n-fs" },
-                        { "order": 5, "original": "עַל־", "translit_telugu": "అల్", "strongs": "H5921", "telugu_gloss": "మీద", "grammar": "prep" },
-                        { "order": 6, "original": "הָאָדָם", "translit_telugu": "హాఆదామ్", "strongs": "H120", "telugu_gloss": "ఆదాము", "grammar": "art | n-ms" },
-                        { "order": 7, "original": "וַיִּישָׁן", "translit_telugu": "వయ్యీషాన్", "strongs": "H3462", "telugu_gloss": "నిద్రించెను", "grammar": "conj-w | v-qal-consecutive imperfect-3ms" },
-                        { "order": 8, "original": "וַיִּקַּח", "translit_telugu": "వయ్యిక్కఖ్", "strongs": "H3947", "telugu_gloss": "తీసెను", "grammar": "conj-w | v-qal-consecutive imperfect-3ms" },
-                        { "order": 9, "original": "אַחַת", "translit_telugu": "అఖత్", "strongs": "H259", "telugu_gloss": "ఒక", "grammar": "adj-fs" },
-                        { "order": 10, "original": "מִצַּלְעֹתָיו", "translit_telugu": "మిత్సల్ఓతావ్", "strongs": "H6763", "telugu_gloss": "అతని ప్రక్కటెముకలలో", "grammar": "prep-m | n-fpc | 3ms" },
-                        { "order": 11, "original": "וַיִּסְגֹּר", "translit_telugu": "వయ్యిస్గోర్", "strongs": "H5462", "telugu_gloss": "పూడ్చివేసెను", "grammar": "conj-w | v-qal-consecutive imperfect-3ms" },
-                        { "order": 12, "original": "בָּשָׂר", "translit_telugu": "బాసార్", "strongs": "H1320", "telugu_gloss": "మాంసముతో", "grammar": "n-ms" },
-                        { "order": 13, "original": "תַּחְתֶּנָּה", "translit_telugu": "తఖ్తెన్నా", "strongs": "H8478", "telugu_gloss": "దాని స్థానమున", "grammar": "prep | 3fs" }
-                    ]
-                },
-                {
-                    "verse": 22,
-                    "text": "తరువాత దేవుడైన యెహోవా తాను ఆదాము నుండి తీసిన ప్రక్కటెముకను స్త్రీనిగా నిర్మించి ఆమెను ఆదాము నొద్దకు తీసికొనివచ్చెను.",
-                    "words": [
-                        { "order": 1, "original": "וַיִּבֶן", "translit_telugu": "వయ్యివెన్", "strongs": "H1129", "telugu_gloss": "నిర్మించెను", "grammar": "conj-w | v-qal-consecutive imperfect-3ms" },
-                        { "order": 2, "original": "יְהוָה", "translit_telugu": "యెహ్వా", "strongs": "H3068", "telugu_gloss": "యెహోవా", "grammar": "n-proper-ms" },
-                        { "order": 3, "original": "אֱלֹהִים", "translit_telugu": "ఎలోహీమ్", "strongs": "H430", "telugu_gloss": "దేవుడు", "grammar": "n-mp" },
-                        { "order": 4, "original": "אֶת־", "translit_telugu": "ఎత్", "strongs": "H853", "telugu_gloss": "(గుర్తు)", "grammar": "dir-obj" },
-                        { "order": 5, "original": "הַצֵּלָע", "translit_telugu": "హత్సేలా", "strongs": "H6763", "telugu_gloss": "ప్రక్కటెముకను", "grammar": "art | n-fs" },
-                        { "order": 6, "original": "אֲשֶׁר־", "translit_telugu": "అషెర్", "strongs": "H834", "telugu_gloss": "ఏ", "grammar": "prep" },
-                        { "order": 7, "original": "לָקַח", "translit_telugu": "లాఖఖ్", "strongs": "H3947", "telugu_gloss": "తీసెను", "grammar": "v-qal-perf-3ms" },
-                        { "order": 8, "original": "מִן־", "translit_telugu": "మిన్", "strongs": "H4480", "telugu_gloss": "నుండి", "grammar": "prep" },
-                        { "order": 9, "original": "הָאָדָם", "translit_telugu": "హాఆదామ్", "strongs": "H120", "telugu_gloss": "ఆదాము", "grammar": "art | n-ms" },
-                        { "order": 10, "original": "לְאִשָּׁה", "translit_telugu": "లెఇష్షా", "strongs": "H802", "telugu_gloss": "స్త్రీనిగా", "grammar": "prep-l | n-fs" },
-                        { "order": 11, "original": "וַיְבִאֶהָ", "translit_telugu": "వయ్యెవిఎహా", "strongs": "H935", "telugu_gloss": "తీసికొనివచ్చెను", "grammar": "conj-w | v-hif-consecutive imperfect-3ms | 3fs" },
-                        { "order": 12, "original": "אֶל־", "translit_telugu": "ఎల్", "strongs": "H413", "telugu_gloss": "ఒద్దకు", "grammar": "prep" },
-                        { "order": 13, "original": "הָאָדָם", "translit_telugu": "హాఆదామ్", "strongs": "H120", "telugu_gloss": "ఆదాము", "grammar": "art | n-ms" }
-                    ]
-                },
-                {
-                    "verse": 23,
-                    "text": "అప్పుడు ఆదాము ఇట్లనెను నా యెముకలలో ఒక యెముక నా మాంసములో మాంసము ఇది నరునిలోనుండి తీయబడెను గనుక నారి అనబడును.",
-                    "words": [
-                        { "order": 1, "original": "וַיֹּאמֶר", "translit_telugu": "వయ్యోమెర్", "strongs": "H559", "telugu_gloss": "అనెను", "grammar": "conj-w | v-qal-consecutive imperfect-3ms" },
-                        { "order": 2, "original": "הָאָדָם", "translit_telugu": "హాఆదామ్", "strongs": "H120", "telugu_gloss": "ఆదాము", "grammar": "art | n-ms" },
-                        { "order": 3, "original": "זֹאת", "translit_telugu": "జోత్", "strongs": "H2063", "telugu_gloss": "ఇది", "grammar": "p-fs" },
-                        { "order": 4, "original": "הַפַּעַם", "translit_telugu": "హప్పాఅమ్", "strongs": "H6471", "telugu_gloss": "ఇప్పుడు", "grammar": "art | n-fs" },
-                        { "order": 5, "original": "עֶצֶם", "translit_telugu": "ఎత్సెమ్", "strongs": "H6106", "telugu_gloss": "యెముక", "grammar": "n-fs" },
-                        { "order": 6, "original": "מֵעֲצָמַי", "translit_telugu": "మేఅత్సామై", "strongs": "H6106", "telugu_gloss": "నా యెముకలలో", "grammar": "prep-m | n-fpc | 1cs" },
-                        { "order": 7, "original": "וּבָשָׂר", "translit_telugu": "ఉవాసార్", "strongs": "H1320", "telugu_gloss": "మరియు మాంసము", "grammar": "conj-w | n-ms" },
-                        { "order": 8, "original": "מִבְּשָׂרִי", "translit_telugu": "మిబ్బెసారీ", "strongs": "H1320", "telugu_gloss": "నా మాంసములో", "grammar": "prep-m | n-msc | 1cs" },
-                        { "order": 9, "original": "לְזֹאת", "translit_telugu": "లెజోత్", "strongs": "H2063", "telugu_gloss": "దీనికి", "grammar": "prep-l | p-fs" },
-                        { "order": 10, "original": "יִקָּרֵא", "translit_telugu": "యిక్కారే", "strongs": "H7121", "telugu_gloss": "పేరు పెట్టబడును", "grammar": "v-niph-imperfect-3ms" },
-                        { "order": 11, "original": "אִשָּׁה", "translit_telugu": "ఇష్షా", "strongs": "H802", "telugu_gloss": "నారి", "grammar": "n-fs" },
-                        { "order": 12, "original": "כִּי", "translit_telugu": "కీ", "strongs": "H3588", "telugu_gloss": "ఎందుకంటే", "grammar": "conj" },
-                        { "order": 13, "original": "מֵאִישׁ", "translit_telugu": "మేఇష్", "strongs": "H376", "telugu_gloss": "నరునిలోనుండి", "grammar": "prep-m | n-ms" },
-                        { "order": 14, "original": "לֻקֳחָה־", "translit_telugu": "లుకొఖా", "strongs": "H3947", "telugu_gloss": "తీయబడెను", "grammar": "v-pual-perf-3fs" },
-                        { "order": 15, "original": "זֹּאת", "translit_telugu": "జోత్", "strongs": "H2063", "telugu_gloss": "ఇది", "grammar": "p-fs" }
-                    ]
-                },
-                {
-                    "verse": 24,
-                    "text": "కాబట్టి పురుషుడు తన తండ్రిని తన తల్లిని విడిచి తన భార్యను హత్తుకొనును; వారు ఏక శరీరమైయుందురు.",
-                    "words": [
-                        { "order": 1, "original": "עַל־", "translit_telugu": "అల్", "strongs": "H5921", "telugu_gloss": "కాబట్టి", "grammar": "prep" },
-                        { "order": 2, "original": "כֵּן", "translit_telugu": "ఖేన్", "strongs": "H3651", "telugu_gloss": "ఇందువల్ల", "grammar": "adv" },
-                        { "order": 3, "original": "יַעֲזָב־", "translit_telugu": "యాఅజావ్", "strongs": "H5800", "telugu_gloss": "విడిచి", "grammar": "v-qal-imperfect-3ms" },
-                        { "order": 4, "original": "אִישׁ", "translit_telugu": "ఇష్", "strongs": "H376", "telugu_gloss": "పురుషుడు", "grammar": "n-ms" },
-                        { "order": 5, "original": "אֶת־", "translit_telugu": "ఎత్", "strongs": "H853", "telugu_gloss": "(గుర్తు)", "grammar": "dir-obj" },
-                        { "order": 6, "original": "אָבִיו", "translit_telugu": "ఆవీవ్", "strongs": "H1", "telugu_gloss": "తన తండ్రిని", "grammar": "n-msc | 3ms" },
-                        { "order": 7, "original": "וְאֶת־", "translit_telugu": "వెఎత్", "strongs": "H853", "telugu_gloss": "మరియు", "grammar": "conj-w | dir-obj" },
-                        { "order": 8, "original": "אִמּוֹ", "translit_telugu": "ఇమ్మో", "strongs": "H517", "telugu_gloss": "తన తల్లిని", "grammar": "n-fsc | 3ms" },
-                        { "order": 9, "original": "וְדָבַק", "translit_telugu": "వెదావాక్", "strongs": "H1692", "telugu_gloss": "హత్తుకొనును", "grammar": "conj-w | v-qal-consecutive perfect-3ms" },
-                        { "order": 10, "original": "בְּאִשְׁתּוֹ", "translit_telugu": "బెఇష్తో", "strongs": "H802", "telugu_gloss": "తన భార్యను", "grammar": "prep-b | n-fsc | 3ms" },
-                        { "order": 11, "original": "וְהָיוּ", "translit_telugu": "వెహాయూ", "strongs": "H1961", "telugu_gloss": "అయ్యెదరు", "grammar": "conj-w | v-qal-consecutive perfect-3cp" },
-                        { "order": 12, "original": "לְבָשָׂר", "translit_telugu": "లెవాసార్", "strongs": "H1320", "telugu_gloss": "శరీరముగా", "grammar": "prep-l | n-ms" },
-                        { "order": 13, "original": "אֶחָד", "translit_telugu": "ఎఖాద్", "strongs": "H259", "telugu_gloss": "ఏక", "grammar": "adj-ms" }
-                    ]
-                },
-                {
-                    "verse": 25,
-                    "text": "అప్పుడు ఆదామును అతని భార్యయు వారిద్దరు దిగంబరులుగా నుండిరి; అయితే వారు సిగ్గు ఎరుగక యుండిరి.",
-                    "words": [
-                        { "order": 1, "original": "וַיִּהְיוּ", "translit_telugu": "వయ్యిహ్యూ", "strongs": "H1961", "telugu_gloss": "ఉండిరి", "grammar": "conj-w | v-qal-consecutive imperfect-3mp" },
-                        { "order": 2, "original": "שְׁנֵיהֶם", "translit_telugu": "షెనేహెమ్", "strongs": "H8147", "telugu_gloss": "వారిద్దరు", "grammar": "adj-mdc | 3mp" },
-                        { "order": 3, "original": "עֲרוּמִּים", "translit_telugu": "అరుమ్మీమ్", "strongs": "H6174", "telugu_gloss": "దిగంబరులుగా", "grammar": "adj-mp" },
-                        { "order": 4, "original": "הָאָדָם", "translit_telugu": "హాఆదామ్", "strongs": "H120", "telugu_gloss": "ఆదాము", "grammar": "art | n-ms" },
-                        { "order": 5, "original": "וְאִשְׁתּוֹ", "translit_telugu": "వెఇష్తో", "strongs": "H802", "telugu_gloss": "మరియు అతని భార్య", "grammar": "conj-w | n-fsc | 3ms" },
-                        { "order": 6, "original": "וְלֹא", "translit_telugu": "వెలో", "strongs": "H3808", "telugu_gloss": "మరియు లేదు", "grammar": "conj-w | adv-neg" },
-                        { "order": 7, "original": "יִתְבֹּשָׁשׁוּ", "translit_telugu": "యిత్బోషాషూ", "strongs": "H954", "telugu_gloss": "సిగ్గుపడిరి", "grammar": "v-hitpael-imperfect-3mp" }
-                    ]
-                }
-            ]
+          "hb": "וַ/יְכֻלּ֛וּ",
+          "tr": "kâlâh",
+          "te": "ఆకాశమును",
+          "gr": "HC/VPw3mp",
+          "strongs": "H3615"
+        },
+        {
+          "hb": "הַ/שָּׁמַ֥יִם",
+          "tr": "shâmayim",
+          "te": "ఆకాశమును",
+          "gr": "HTd/Ncmpa",
+          "strongs": "H8064"
+        },
+        {
+          "hb": "וְ/הָ/אָ֖רֶץ",
+          "tr": "H0776",
+          "te": "భూమిని",
+          "gr": "HC/Td/Ncbsa",
+          "strongs": "H0776"
+        },
+        {
+          "hb": "וְ/כָל",
+          "tr": "kôl",
+          "te": "సమూ",
+          "gr": "HC/Ncmsc",
+          "strongs": "H3605"
+        },
+        {
+          "hb": "צְבָאָֽ/ם",
+          "tr": "tsâbâʼ",
+          "te": "సంపూర్తి",
+          "gr": "HNcbsc/Sp3mp",
+          "strongs": "H6635"
         }
-    ]
+      ]
+    },
+    {
+      "v": 2,
+      "words": [
+        {
+          "hb": "וַ/יְכַ֤ל",
+          "tr": "kâlâh",
+          "te": "దేవుడు",
+          "gr": "HC/Vpw3ms",
+          "strongs": "H3615"
+        },
+        {
+          "hb": "אֱלֹהִים֙",
+          "tr": "H0430",
+          "te": "దేవుడు",
+          "gr": "HNcmpa",
+          "strongs": "H0430"
+        },
+        {
+          "hb": "בַּ/יּ֣וֹם",
+          "tr": "yôwm",
+          "te": "దినము",
+          "gr": "HRd/Ncmsa",
+          "strongs": "H3117"
+        },
+        {
+          "hb": "הַ/שְּׁבִיעִ֔י",
+          "tr": "shᵉbîyʻîy",
+          "te": "తనపని",
+          "gr": "HTd/Aomsa",
+          "strongs": "H7637"
+        },
+        {
+          "hb": "מְלַאכְתּ֖/וֹ",
+          "tr": "mᵉlâʼkâh",
+          "te": "యేడవదినములోగా",
+          "gr": "HNcfsc/Sp3ms",
+          "strongs": "H4399"
+        },
+        {
+          "hb": "אֲשֶׁ֣ר",
+          "tr": "H0834",
+          "te": "సంపూర్తిచేసి",
+          "gr": "HTr",
+          "strongs": "H0834"
+        },
+        {
+          "hb": "עָשָׂ֑ה",
+          "tr": "ʻâsâh",
+          "te": "తాను",
+          "gr": "HVqp3ms",
+          "strongs": "H6213"
+        },
+        {
+          "hb": "וַ/יִּשְׁבֹּת֙",
+          "tr": "shâbath",
+          "te": "చేసిన",
+          "gr": "HC/Vqw3ms",
+          "strongs": "H7673"
+        },
+        {
+          "hb": "בַּ/יּ֣וֹם",
+          "tr": "yôwm",
+          "te": "దినము",
+          "gr": "HRd/Ncmsa",
+          "strongs": "H3117"
+        },
+        {
+          "hb": "הַ/שְּׁבִיעִ֔י",
+          "tr": "shᵉbîyʻîy",
+          "te": "పని",
+          "gr": "HTd/Aomsa",
+          "strongs": "H7637"
+        },
+        {
+          "hb": "מִ/כָּל",
+          "tr": "kôl",
+          "te": "యంతటినుండి",
+          "gr": "HR/Ncmsc",
+          "strongs": "H3605"
+        },
+        {
+          "hb": "מְלַאכְתּ֖/וֹ",
+          "tr": "mᵉlâʼkâh",
+          "te": "యేడవ",
+          "gr": "HNcfsc/Sp3ms",
+          "strongs": "H4399"
+        },
+        {
+          "hb": "אֲשֶׁ֥ר",
+          "tr": "H0834",
+          "te": "దినమున",
+          "gr": "HTr",
+          "strongs": "H0834"
+        },
+        {
+          "hb": "עָשָֽׂה",
+          "tr": "ʻâsâh",
+          "te": "విశ్రమించెను",
+          "gr": "HVqp3ms",
+          "strongs": "H6213"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "words": [
+        {
+          "hb": "וַ/יְבָ֤רֶךְ",
+          "tr": "bârak",
+          "te": "కాబట్టి",
+          "gr": "HC/Vpw3ms",
+          "strongs": "H1288"
+        },
+        {
+          "hb": "אֱלֹהִים֙",
+          "tr": "H0430",
+          "te": "దేవుడు",
+          "gr": "HNcmpa",
+          "strongs": "H0430"
+        },
+        {
+          "hb": "אֶת",
+          "tr": "H0853",
+          "te": "ఆ",
+          "gr": "HTo",
+          "strongs": "H0853"
+        },
+        {
+          "hb": "י֣וֹם",
+          "tr": "yôwm",
+          "te": "దినము",
+          "gr": "HNcmsc",
+          "strongs": "H3117"
+        },
+        {
+          "hb": "הַ/שְּׁבִיעִ֔י",
+          "tr": "shᵉbîyʻîy",
+          "te": "దినమును",
+          "gr": "HTd/Aomsa",
+          "strongs": "H7637"
+        },
+        {
+          "hb": "וַ/יְקַדֵּ֖שׁ",
+          "tr": "qâdash",
+          "te": "ఆశీర్వదించి",
+          "gr": "HC/Vpw3ms",
+          "strongs": "H6942"
+        },
+        {
+          "hb": "אֹת֑/וֹ",
+          "tr": "H0853",
+          "te": "పరిశుద్ధపరచెను",
+          "gr": "HTo/Sp3ms",
+          "strongs": "H0853"
+        },
+        {
+          "hb": "כִּ֣י",
+          "tr": "kîy",
+          "te": "ఏలయనగా",
+          "gr": "HC",
+          "strongs": "H3588"
+        },
+        {
+          "hb": "ב֤/וֹ",
+          "tr": "",
+          "te": "దేవుడు",
+          "gr": "HR/Sp3ms",
+          "strongs": ""
+        },
+        {
+          "hb": "שָׁבַת֙",
+          "tr": "shâbath",
+          "te": "తాను",
+          "gr": "HVqp3ms",
+          "strongs": "H7673"
+        },
+        {
+          "hb": "מִ/כָּל",
+          "tr": "kôl",
+          "te": "చేసినట్టియు",
+          "gr": "HR/Ncmsc",
+          "strongs": "H3605"
+        },
+        {
+          "hb": "מְלַאכְתּ֔/וֹ",
+          "tr": "mᵉlâʼkâh",
+          "te": "సృజించి",
+          "gr": "HNcfsc/Sp3ms",
+          "strongs": "H4399"
+        },
+        {
+          "hb": "אֲשֶׁר",
+          "tr": "H0834",
+          "te": "నట్టియు",
+          "gr": "HTr",
+          "strongs": "H0834"
+        },
+        {
+          "hb": "בָּרָ֥א",
+          "tr": "bârâʼ",
+          "te": "సృజించెను",
+          "gr": "HVqp3ms",
+          "strongs": "H1254"
+        },
+        {
+          "hb": "אֱלֹהִ֖ים",
+          "tr": "H0430",
+          "te": "దేవుడు",
+          "gr": "HNcmpa",
+          "strongs": "H0430"
+        },
+        {
+          "hb": "לַ/עֲשֽׂוֹת",
+          "tr": "ʻâsâh",
+          "te": "అంతటినుండి",
+          "gr": "HR/Vqc",
+          "strongs": "H6213"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "words": [
+        {
+          "hb": "אֵ֣לֶּה",
+          "tr": "H0428",
+          "te": "దేవుడైన",
+          "gr": "HPdxcp",
+          "strongs": "H0428"
+        },
+        {
+          "hb": "תוֹלְד֧וֹת",
+          "tr": "tôwlᵉdâh",
+          "te": "యెహోవా",
+          "gr": "HNcfpc",
+          "strongs": "H8435"
+        },
+        {
+          "hb": "הַ/שָּׁמַ֛יִם",
+          "tr": "shâmayim",
+          "te": "ఆకాశమును",
+          "gr": "HTd/Ncmpa",
+          "strongs": "H8064"
+        },
+        {
+          "hb": "וְ/הָ/אָ֖רֶץ",
+          "tr": "H0776",
+          "te": "భూమిని",
+          "gr": "HC/Td/Ncbsa",
+          "strongs": "H0776"
+        },
+        {
+          "hb": "בְּ/הִבָּֽרְאָ֑/ם",
+          "tr": "bârâʼ",
+          "te": "సృజించెను",
+          "gr": "HR/VNc/Sp3mp",
+          "strongs": "H1254"
+        },
+        {
+          "hb": "בְּ/י֗וֹם",
+          "tr": "yôwm",
+          "te": "దినము",
+          "gr": "HR/Ncmsc",
+          "strongs": "H3117"
+        },
+        {
+          "hb": "עֲשׂ֛וֹת",
+          "tr": "ʻâsâh",
+          "te": "భూమ్యాకాశములు",
+          "gr": "HVqc",
+          "strongs": "H6213"
+        },
+        {
+          "hb": "יְהוָ֥ה",
+          "tr": "Yᵉhôvâh",
+          "te": "సృజించబడినప్పుడు",
+          "gr": "HNp",
+          "strongs": "H3068"
+        },
+        {
+          "hb": "אֱלֹהִ֖ים",
+          "tr": "H0430",
+          "te": "దేవుడు",
+          "gr": "HNcmpa",
+          "strongs": "H0430"
+        },
+        {
+          "hb": "אֶ֥רֶץ",
+          "tr": "H0776",
+          "te": "భూమిని",
+          "gr": "HNcbsa",
+          "strongs": "H0776"
+        },
+        {
+          "hb": "וְ/שָׁמָֽיִם",
+          "tr": "shâmayim",
+          "te": "ఆకాశమును",
+          "gr": "HC/Ncmpa",
+          "strongs": "H8064"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "words": [
+        {
+          "hb": "וְ/כֹ֣ל",
+          "tr": "kôl",
+          "te": "అదివరకు",
+          "gr": "HC/Ncmsc",
+          "strongs": "H3605"
+        },
+        {
+          "hb": "שִׂ֣יחַ",
+          "tr": "sîyach",
+          "te": "అదివరకు",
+          "gr": "HNcmsc",
+          "strongs": "H7880"
+        },
+        {
+          "hb": "הַ/שָּׂדֶ֗ה",
+          "tr": "sâdeh",
+          "te": "పొలమందలియే",
+          "gr": "HTd/Ncmsa",
+          "strongs": "H7704"
+        },
+        {
+          "hb": "טֶ֚רֶם",
+          "tr": "ṭerem",
+          "te": "పొదయు",
+          "gr": "HD",
+          "strongs": "H2962"
+        },
+        {
+          "hb": "יִֽהְיֶ֣ה",
+          "tr": "hâyâh",
+          "te": "ఆయెను",
+          "gr": "HVqi3ms",
+          "strongs": "H1961"
+        },
+        {
+          "hb": "בָ/אָ֔רֶץ",
+          "tr": "H0776",
+          "te": "భూమిని",
+          "gr": "HRd/Ncbsa",
+          "strongs": "H0776"
+        },
+        {
+          "hb": "וְ/כָל",
+          "tr": "kôl",
+          "te": "నుండలేదు",
+          "gr": "HC/Ncmsc",
+          "strongs": "H3605"
+        },
+        {
+          "hb": "עֵ֥שֶׂב",
+          "tr": "ʻeseb",
+          "te": "పొలమందలి",
+          "gr": "HNcmsc",
+          "strongs": "H6212"
+        },
+        {
+          "hb": "הַ/שָּׂדֶ֖ה",
+          "tr": "sâdeh",
+          "te": "పొలమందలి",
+          "gr": "HTd/Ncmsa",
+          "strongs": "H7704"
+        },
+        {
+          "hb": "טֶ֣רֶם",
+          "tr": "ṭerem",
+          "te": "యే",
+          "gr": "HD",
+          "strongs": "H2962"
+        },
+        {
+          "hb": "יִצְמָ֑ח",
+          "tr": "tsâmach",
+          "te": "చెట్టును",
+          "gr": "HVqi3ms",
+          "strongs": "H6779"
+        },
+        {
+          "hb": "כִּי֩",
+          "tr": "kîy",
+          "te": "మొలవలేదు",
+          "gr": "HC",
+          "strongs": "H3588"
+        },
+        {
+          "hb": "לֹ֨א",
+          "tr": "lôʼ",
+          "te": "మొలవలేదు",
+          "gr": "HTn",
+          "strongs": "H3808"
+        },
+        {
+          "hb": "הִמְטִ֜יר",
+          "tr": "mâṭar",
+          "te": "ఏలయనగా",
+          "gr": "HVhp3ms",
+          "strongs": "H4305"
+        },
+        {
+          "hb": "יְהוָ֤ה",
+          "tr": "Yᵉhôvâh",
+          "te": "దేవుడైన",
+          "gr": "HNp",
+          "strongs": "H3068"
+        },
+        {
+          "hb": "אֱלֹהִים֙",
+          "tr": "H0430",
+          "te": "దేవుడు",
+          "gr": "HNcmpa",
+          "strongs": "H0430"
+        },
+        {
+          "hb": "עַל",
+          "tr": "ʻal",
+          "te": "యెహోవా",
+          "gr": "HR",
+          "strongs": "H5921"
+        },
+        {
+          "hb": "הָ/אָ֔רֶץ",
+          "tr": "H0776",
+          "te": "భూమిని",
+          "gr": "HTd/Ncbsa",
+          "strongs": "H0776"
+        },
+        {
+          "hb": "וְ/אָדָ֣ם",
+          "tr": "H0120",
+          "te": "వాన",
+          "gr": "HC/Ncmsa",
+          "strongs": "H0120"
+        },
+        {
+          "hb": "אַ֔יִן",
+          "tr": "H0369",
+          "te": "కురిపించలేదు",
+          "gr": "HTn",
+          "strongs": "H0369"
+        },
+        {
+          "hb": "לַֽ/עֲבֹ֖ד",
+          "tr": "ʻâbad",
+          "te": "కురిపించలేదు",
+          "gr": "HR/Vqc",
+          "strongs": "H5647"
+        },
+        {
+          "hb": "אֶת",
+          "tr": "H0853",
+          "te": "నేలను",
+          "gr": "HTo",
+          "strongs": "H0853"
+        },
+        {
+          "hb": "הָֽ/אֲדָמָֽה",
+          "tr": "H0127",
+          "te": "సేద్యపరచుటక",
+          "gr": "HTd/Ncfsa",
+          "strongs": "H0127"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "words": [
+        {
+          "hb": "וְ/אֵ֖ד",
+          "tr": "H0108",
+          "te": "అయితే",
+          "gr": "HC/Ncmsa",
+          "strongs": "H0108"
+        },
+        {
+          "hb": "יַֽעֲלֶ֣ה",
+          "tr": "ʻâlâh",
+          "te": "అయితే",
+          "gr": "HVqi3ms",
+          "strongs": "H5927"
+        },
+        {
+          "hb": "מִן",
+          "tr": "min",
+          "te": "ఆవిరి",
+          "gr": "HR",
+          "strongs": "H4480"
+        },
+        {
+          "hb": "הָ/אָ֑רֶץ",
+          "tr": "H0776",
+          "te": "భూమిని",
+          "gr": "HTd/Ncbsa",
+          "strongs": "H0776"
+        },
+        {
+          "hb": "וְ/הִשְׁקָ֖ה",
+          "tr": "shâqâh",
+          "te": "లేచి",
+          "gr": "HC/Vhq3ms",
+          "strongs": "H8248"
+        },
+        {
+          "hb": "אֶֽת",
+          "tr": "H0853",
+          "te": "నేల",
+          "gr": "HTo",
+          "strongs": "H0853"
+        },
+        {
+          "hb": "כָּל",
+          "tr": "kôl",
+          "te": "అంత",
+          "gr": "HNcmsc",
+          "strongs": "H3605"
+        },
+        {
+          "hb": "פְּנֵֽי",
+          "tr": "pânîym",
+          "te": "టిని",
+          "gr": "HNcbpc",
+          "strongs": "H6440"
+        },
+        {
+          "hb": "הָֽ/אֲדָמָֽה",
+          "tr": "H0127",
+          "te": "తడిపెను",
+          "gr": "HTd/Ncfsa",
+          "strongs": "H0127"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "words": [
+        {
+          "hb": "וַ/יִּיצֶר֩",
+          "tr": "yâtsar",
+          "te": "దేవుడైన",
+          "gr": "HC/Vqw3ms",
+          "strongs": "H3335"
+        },
+        {
+          "hb": "יְהוָ֨ה",
+          "tr": "Yᵉhôvâh",
+          "te": "దేవుడైన",
+          "gr": "HNp",
+          "strongs": "H3068"
+        },
+        {
+          "hb": "אֱלֹהִ֜ים",
+          "tr": "H0430",
+          "te": "దేవుడు",
+          "gr": "HNcmpa",
+          "strongs": "H0430"
+        },
+        {
+          "hb": "אֶת",
+          "tr": "H0853",
+          "te": "నేలమంటితో",
+          "gr": "HTo",
+          "strongs": "H0853"
+        },
+        {
+          "hb": "הָֽ/אָדָ֗ם",
+          "tr": "H0120",
+          "te": "నరుని",
+          "gr": "HTd/Ncmsa",
+          "strongs": "H0120"
+        },
+        {
+          "hb": "עָפָר֙",
+          "tr": "ʻâphâr",
+          "te": "నిర్మించి",
+          "gr": "HNcmsa",
+          "strongs": "H6083"
+        },
+        {
+          "hb": "מִן",
+          "tr": "min",
+          "te": "నిర్మించి",
+          "gr": "HR",
+          "strongs": "H4480"
+        },
+        {
+          "hb": "הָ֣/אֲדָמָ֔ה",
+          "tr": "H0127",
+          "te": "వాని",
+          "gr": "HTd/Ncfsa",
+          "strongs": "H0127"
+        },
+        {
+          "hb": "וַ/יִּפַּ֥ח",
+          "tr": "nâphach",
+          "te": "నాసికా",
+          "gr": "HC/Vqw3ms",
+          "strongs": "H5301"
+        },
+        {
+          "hb": "בְּ/אַפָּ֖י/ו",
+          "tr": "H0639",
+          "te": "రంధ్రములలో",
+          "gr": "HR/Ncmdc/Sp3ms",
+          "strongs": "H0639"
+        },
+        {
+          "hb": "נִשְׁמַ֣ת",
+          "tr": "nᵉshâmâh",
+          "te": "జీవవాయువును",
+          "gr": "HNcfsc",
+          "strongs": "H5397"
+        },
+        {
+          "hb": "חַיִּ֑ים",
+          "tr": "chay",
+          "te": "జీవవాయువును",
+          "gr": "HNcmpa",
+          "strongs": "H2416"
+        },
+        {
+          "hb": "וַֽ/יְהִ֥י",
+          "tr": "hâyâh",
+          "te": "ఆయెను",
+          "gr": "HC/Vqw3ms",
+          "strongs": "H1961"
+        },
+        {
+          "hb": "הָֽ/אָדָ֖ם",
+          "tr": "H0120",
+          "te": "నరుడు",
+          "gr": "HTd/Ncmsa",
+          "strongs": "H0120"
+        },
+        {
+          "hb": "לְ/נֶ֥פֶשׁ",
+          "tr": "nephesh",
+          "te": "జీవాత్మ",
+          "gr": "HR/Ncbsa",
+          "strongs": "H5315"
+        },
+        {
+          "hb": "חַיָּֽה",
+          "tr": "chay",
+          "te": "ఆయెను",
+          "gr": "HAafsa",
+          "strongs": "H2416"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "words": [
+        {
+          "hb": "וַ/יִּטַּ֞ע",
+          "tr": "nâṭaʻ",
+          "te": "దేవుడైన",
+          "gr": "HC/Vqw3ms",
+          "strongs": "H5193"
+        },
+        {
+          "hb": "יְהוָ֧ה",
+          "tr": "Yᵉhôvâh",
+          "te": "దేవుడైన",
+          "gr": "HNp",
+          "strongs": "H3068"
+        },
+        {
+          "hb": "אֱלֹהִ֛ים",
+          "tr": "H0430",
+          "te": "దేవుడు",
+          "gr": "HNcmpa",
+          "strongs": "H0430"
+        },
+        {
+          "hb": "גַּן",
+          "tr": "gan",
+          "te": "తూర్పున",
+          "gr": "HNcbsa",
+          "strongs": "H1588"
+        },
+        {
+          "hb": "בְ/עֵ֖דֶן",
+          "tr": "ʻÊden",
+          "te": "ఏదెనులో",
+          "gr": "HR/Np",
+          "strongs": "H5731"
+        },
+        {
+          "hb": "מִ/קֶּ֑דֶם",
+          "tr": "qedem",
+          "te": "ఒక",
+          "gr": "HR/Ncmsa",
+          "strongs": "H6924"
+        },
+        {
+          "hb": "וַ/יָּ֣שֶׂם",
+          "tr": "sûwm",
+          "te": "తోటవేసి",
+          "gr": "HC/Vqw3ms",
+          "strongs": "H7760"
+        },
+        {
+          "hb": "שָׁ֔ם",
+          "tr": "shâm",
+          "te": "తాను",
+          "gr": "HD",
+          "strongs": "H8033"
+        },
+        {
+          "hb": "אֶת",
+          "tr": "H0853",
+          "te": "నిర్మించిన",
+          "gr": "HTo",
+          "strongs": "H0853"
+        },
+        {
+          "hb": "הָֽ/אָדָ֖ם",
+          "tr": "H0120",
+          "te": "నరుని",
+          "gr": "HTd/Ncmsa",
+          "strongs": "H0120"
+        },
+        {
+          "hb": "אֲשֶׁ֥ר",
+          "tr": "H0834",
+          "te": "దానిలో",
+          "gr": "HTr",
+          "strongs": "H0834"
+        },
+        {
+          "hb": "יָצָֽר",
+          "tr": "yâtsar",
+          "te": "ఉంచెను",
+          "gr": "HVqp3ms",
+          "strongs": "H3335"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "words": [
+        {
+          "hb": "וַ/יַּצְמַ֞ח",
+          "tr": "tsâmach",
+          "te": "మరియు",
+          "gr": "HC/Vhw3ms",
+          "strongs": "H6779"
+        },
+        {
+          "hb": "יְהוָ֤ה",
+          "tr": "Yᵉhôvâh",
+          "te": "దేవుడైన",
+          "gr": "HNp",
+          "strongs": "H3068"
+        },
+        {
+          "hb": "אֱלֹהִים֙",
+          "tr": "H0430",
+          "te": "దేవుడు",
+          "gr": "HNcmpa",
+          "strongs": "H0430"
+        },
+        {
+          "hb": "מִן",
+          "tr": "min",
+          "te": "చూపు",
+          "gr": "HR",
+          "strongs": "H4480"
+        },
+        {
+          "hb": "הָ֣/אֲדָמָ֔ה",
+          "tr": "H0127",
+          "te": "నకు",
+          "gr": "HTd/Ncfsa",
+          "strongs": "H0127"
+        },
+        {
+          "hb": "כָּל",
+          "tr": "kôl",
+          "te": "రమ్యమైనదియు",
+          "gr": "HNcmsc",
+          "strongs": "H3605"
+        },
+        {
+          "hb": "עֵ֛ץ",
+          "tr": "ʻêts",
+          "te": "ఆహారమునకు",
+          "gr": "HNcmsa",
+          "strongs": "H6086"
+        },
+        {
+          "hb": "נֶחְמָ֥ד",
+          "tr": "châmad",
+          "te": "మంచిదియునైన",
+          "gr": "HVNrmsa",
+          "strongs": "H2530"
+        },
+        {
+          "hb": "לְ/מַרְאֶ֖ה",
+          "tr": "marʼeh",
+          "te": "ప్రతి",
+          "gr": "HR/Ncmsa",
+          "strongs": "H4758"
+        },
+        {
+          "hb": "וְ/ט֣וֹב",
+          "tr": "ṭôwb",
+          "te": "వృక్షమును",
+          "gr": "HC/Aamsa",
+          "strongs": "H2896"
+        },
+        {
+          "hb": "לְ/מַאֲכָ֑ל",
+          "tr": "maʼăkâl",
+          "te": "ఆ",
+          "gr": "HR/Ncmsa",
+          "strongs": "H3978"
+        },
+        {
+          "hb": "וְ/עֵ֤ץ",
+          "tr": "ʻêts",
+          "te": "తోటమధ్యను",
+          "gr": "HC/Ncmsc",
+          "strongs": "H6086"
+        },
+        {
+          "hb": "הַֽ/חַיִּים֙",
+          "tr": "chay",
+          "te": "జీవవృక్షమును",
+          "gr": "HTd/Ncmpa",
+          "strongs": "H2416"
+        },
+        {
+          "hb": "בְּ/ת֣וֹךְ",
+          "tr": "tâvek",
+          "te": "మంచి",
+          "gr": "HR/Ncmsc",
+          "strongs": "H8432"
+        },
+        {
+          "hb": "הַ/גָּ֔ן",
+          "tr": "gan",
+          "te": "చెడ్డల",
+          "gr": "HTd/Ncbsa",
+          "strongs": "H1588"
+        },
+        {
+          "hb": "וְ/עֵ֕ץ",
+          "tr": "ʻêts",
+          "te": "తెలివినిచ్చు",
+          "gr": "HC/Ncmsc",
+          "strongs": "H6086"
+        },
+        {
+          "hb": "הַ/דַּ֖עַת",
+          "tr": "daʻath",
+          "te": "వృక్షమును",
+          "gr": "HTd/Ncfsa",
+          "strongs": "H1847"
+        },
+        {
+          "hb": "ט֥וֹב",
+          "tr": "ṭôwb",
+          "te": "నేలనుండి",
+          "gr": "HAamsa",
+          "strongs": "H2896"
+        },
+        {
+          "hb": "וָ/רָֽע",
+          "tr": "raʻ",
+          "te": "మొలిపించెను",
+          "gr": "HC/Aamsa",
+          "strongs": "H7451"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "words": [
+        {
+          "hb": "וְ/נָהָרּ֙",
+          "tr": "nâhâr",
+          "te": "మరియు",
+          "gr": "HC/Ncmsa",
+          "strongs": "H5104"
+        },
+        {
+          "hb": "יֹצֵ֣א",
+          "tr": "yâtsâʼ",
+          "te": "ఆ",
+          "gr": "HVqrmsa",
+          "strongs": "H3318"
+        },
+        {
+          "hb": "מֵ/עֵ֔דֶן",
+          "tr": "ʻÊden",
+          "te": "తోటను",
+          "gr": "HR/Np",
+          "strongs": "H5731"
+        },
+        {
+          "hb": "לְ/הַשְׁק֖וֹת",
+          "tr": "shâqâh",
+          "te": "తడుపుటకు",
+          "gr": "HR/Vhc",
+          "strongs": "H8248"
+        },
+        {
+          "hb": "אֶת",
+          "tr": "H0853",
+          "te": "ఏదెనులోనుండి",
+          "gr": "HTo",
+          "strongs": "H0853"
+        },
+        {
+          "hb": "הַ/גָּ֑ן",
+          "tr": "gan",
+          "te": "ఒక",
+          "gr": "HTd/Ncbsa",
+          "strongs": "H1588"
+        },
+        {
+          "hb": "וּ/מִ/שָּׁם֙",
+          "tr": "shâm",
+          "te": "బయలు",
+          "gr": "HC/R/D",
+          "strongs": "H8033"
+        },
+        {
+          "hb": "יִפָּרֵ֔ד",
+          "tr": "pârad",
+          "te": "దేరి",
+          "gr": "HVNi3ms",
+          "strongs": "H6504"
+        },
+        {
+          "hb": "וְ/הָיָ֖ה",
+          "tr": "hâyâh",
+          "te": "ఆయెను",
+          "gr": "HC/Vqp3ms",
+          "strongs": "H1961"
+        },
+        {
+          "hb": "לְ/אַרְבָּעָ֥ה",
+          "tr": "H0702",
+          "te": "చీలిపోయి",
+          "gr": "HR/Acmsa",
+          "strongs": "H0702"
+        },
+        {
+          "hb": "רָאשִֽׁים",
+          "tr": "rôʼsh",
+          "te": "నాలుగు",
+          "gr": "HNcmpa",
+          "strongs": "H7218"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "words": [
+        {
+          "hb": "שֵׁ֥ם",
+          "tr": "shêm",
+          "te": "మొదటిదాని",
+          "gr": "HNcmsc",
+          "strongs": "H8034"
+        },
+        {
+          "hb": "הָֽ/אֶחָ֖ד",
+          "tr": "H0259",
+          "te": "మొదటిదాని",
+          "gr": "HTd/Acmsa",
+          "strongs": "H0259"
+        },
+        {
+          "hb": "פִּישׁ֑וֹן",
+          "tr": "Pîyshôwn",
+          "te": "పేరు",
+          "gr": "HNp",
+          "strongs": "H6376"
+        },
+        {
+          "hb": "ה֣וּא",
+          "tr": "hûwʼ",
+          "te": "పీషోను",
+          "gr": "HPp3ms",
+          "strongs": "H1931"
+        },
+        {
+          "hb": "הַ/סֹּבֵ֗ב",
+          "tr": "çâbab",
+          "te": "అది",
+          "gr": "HTd/Vqrmsa",
+          "strongs": "H5437"
+        },
+        {
+          "hb": "אֵ֚ת",
+          "tr": "H0853",
+          "te": "హవీలా",
+          "gr": "HTo",
+          "strongs": "H0853"
+        },
+        {
+          "hb": "כָּל",
+          "tr": "kôl",
+          "te": "దేశమంతటి",
+          "gr": "HNcmsc",
+          "strongs": "H3605"
+        },
+        {
+          "hb": "אֶ֣רֶץ",
+          "tr": "H0776",
+          "te": "భూమిని",
+          "gr": "HNcbsc",
+          "strongs": "H0776"
+        },
+        {
+          "hb": "הַֽ/חֲוִילָ֔ה",
+          "tr": "Chăvîylâh",
+          "te": "చుట్టు",
+          "gr": "HTd/Np",
+          "strongs": "H2341"
+        },
+        {
+          "hb": "אֲשֶׁר",
+          "tr": "H0834",
+          "te": "పారుచున్నది",
+          "gr": "HTr",
+          "strongs": "H0834"
+        },
+        {
+          "hb": "שָׁ֖ם",
+          "tr": "shâm",
+          "te": "అక్కడ",
+          "gr": "HD",
+          "strongs": "H8033"
+        },
+        {
+          "hb": "הַ/זָּהָֽב",
+          "tr": "zâhâb",
+          "te": "బంగారమున్నది",
+          "gr": "HTd/Ncmsa",
+          "strongs": "H2091"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "words": [
+        {
+          "hb": "וּֽ/זֲהַ֛ב",
+          "tr": "zâhâb",
+          "te": "ఆ",
+          "gr": "HC/Ncmsc",
+          "strongs": "H2091"
+        },
+        {
+          "hb": "הָ/אָ֥רֶץ",
+          "tr": "H0776",
+          "te": "భూమిని",
+          "gr": "HTd/Ncbsa",
+          "strongs": "H0776"
+        },
+        {
+          "hb": "הַ/הִ֖וא",
+          "tr": "hûwʼ",
+          "te": "బంగారము",
+          "gr": "HTd/Pp3fs",
+          "strongs": "H1931"
+        },
+        {
+          "hb": "ט֑וֹב",
+          "tr": "ṭôwb",
+          "te": "శ్రేష్ఠమైనది",
+          "gr": "HAamsa",
+          "strongs": "H2896"
+        },
+        {
+          "hb": "שָׁ֥ם",
+          "tr": "shâm",
+          "te": "అక్కడ",
+          "gr": "HD",
+          "strongs": "H8033"
+        },
+        {
+          "hb": "הַ/בְּדֹ֖לַח",
+          "tr": "H0916",
+          "te": "బోళమును",
+          "gr": "HTd/Ncmsa",
+          "strongs": "H0916"
+        },
+        {
+          "hb": "וְ/אֶ֥בֶן",
+          "tr": "H0068",
+          "te": "గోమేధికము",
+          "gr": "HC/Ncfsc",
+          "strongs": "H0068"
+        },
+        {
+          "hb": "הַ/שֹּֽׁהַם",
+          "tr": "shôham",
+          "te": "లును",
+          "gr": "HTd/Ncmsa",
+          "strongs": "H7718"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "words": [
+        {
+          "hb": "וְ/שֵֽׁם",
+          "tr": "shêm",
+          "te": "రెండవ",
+          "gr": "HC/Ncmsc",
+          "strongs": "H8034"
+        },
+        {
+          "hb": "הַ/נָּהָ֥ר",
+          "tr": "nâhâr",
+          "te": "రెండవ",
+          "gr": "HTd/Ncmsa",
+          "strongs": "H5104"
+        },
+        {
+          "hb": "הַ/שֵּׁנִ֖י",
+          "tr": "shênîy",
+          "te": "నది",
+          "gr": "HTd/Aomsa",
+          "strongs": "H8145"
+        },
+        {
+          "hb": "גִּיח֑וֹן",
+          "tr": "Gîychôwn",
+          "te": "పేరు",
+          "gr": "HNp",
+          "strongs": "H1521"
+        },
+        {
+          "hb": "ה֣וּא",
+          "tr": "hûwʼ",
+          "te": "గీహోను",
+          "gr": "HPp3ms",
+          "strongs": "H1931"
+        },
+        {
+          "hb": "הַ/סּוֹבֵ֔ב",
+          "tr": "çâbab",
+          "te": "అది",
+          "gr": "HTd/Vqrmsa",
+          "strongs": "H5437"
+        },
+        {
+          "hb": "אֵ֖ת",
+          "tr": "H0853",
+          "te": "కూషు",
+          "gr": "HTo",
+          "strongs": "H0853"
+        },
+        {
+          "hb": "כָּל",
+          "tr": "kôl",
+          "te": "దేశమంతటి",
+          "gr": "HNcmsc",
+          "strongs": "H3605"
+        },
+        {
+          "hb": "אֶ֥רֶץ",
+          "tr": "H0776",
+          "te": "భూమిని",
+          "gr": "HNcbsc",
+          "strongs": "H0776"
+        },
+        {
+          "hb": "כּֽוּשׁ",
+          "tr": "Kûwsh",
+          "te": "పారుచున్నది",
+          "gr": "HNp",
+          "strongs": "H3568"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "words": [
+        {
+          "hb": "וְ/שֵׁ֨ם",
+          "tr": "shêm",
+          "te": "మూడవ",
+          "gr": "HC/Ncmsc",
+          "strongs": "H8034"
+        },
+        {
+          "hb": "הַ/נָּהָ֤ר",
+          "tr": "nâhâr",
+          "te": "నది",
+          "gr": "HTd/Ncmsa",
+          "strongs": "H5104"
+        },
+        {
+          "hb": "הַ/שְּׁלִישִׁי֙",
+          "tr": "shᵉlîyshîy",
+          "te": "పేరు",
+          "gr": "HTd/Aomsa",
+          "strongs": "H7992"
+        },
+        {
+          "hb": "חִדֶּ֔קֶל",
+          "tr": "Chiddeqel",
+          "te": "హిద్దెకెలు",
+          "gr": "HNp",
+          "strongs": "H2313"
+        },
+        {
+          "hb": "ה֥וּא",
+          "tr": "hûwʼ",
+          "te": "అది",
+          "gr": "HPp3ms",
+          "strongs": "H1931"
+        },
+        {
+          "hb": "הַֽ/הֹלֵ֖ךְ",
+          "tr": "hâlak",
+          "te": "అష్షూరు",
+          "gr": "HTd/Vqrmsa",
+          "strongs": "H1980"
+        },
+        {
+          "hb": "קִדְמַ֣ת",
+          "tr": "qidmâh",
+          "te": "తూర్పు",
+          "gr": "HNcfsc",
+          "strongs": "H6926"
+        },
+        {
+          "hb": "אַשּׁ֑וּר",
+          "tr": "H0804",
+          "te": "వైపున",
+          "gr": "HNp",
+          "strongs": "H0804"
+        },
+        {
+          "hb": "וְ/הַ/נָּהָ֥ר",
+          "tr": "nâhâr",
+          "te": "పారుచున్నది",
+          "gr": "HC/Td/Ncmsa",
+          "strongs": "H5104"
+        },
+        {
+          "hb": "הָֽ/רְבִיעִ֖י",
+          "tr": "rᵉbîyʻîy",
+          "te": "నాలుగవ",
+          "gr": "HTd/Aomsa",
+          "strongs": "H7243"
+        },
+        {
+          "hb": "ה֥וּא",
+          "tr": "hûwʼ",
+          "te": "నది",
+          "gr": "HPp3ms",
+          "strongs": "H1931"
+        },
+        {
+          "hb": "פְרָֽת",
+          "tr": "Pᵉrâth",
+          "te": "యూఫ్రటీసు",
+          "gr": "HNp",
+          "strongs": "H6578"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "words": [
+        {
+          "hb": "וַ/יִּקַּ֛ח",
+          "tr": "lâqach",
+          "te": "మరియు",
+          "gr": "HC/Vqw3ms",
+          "strongs": "H3947"
+        },
+        {
+          "hb": "יְהוָ֥ה",
+          "tr": "Yᵉhôvâh",
+          "te": "దేవుడైన",
+          "gr": "HNp",
+          "strongs": "H3068"
+        },
+        {
+          "hb": "אֱלֹהִ֖ים",
+          "tr": "H0430",
+          "te": "దేవుడు",
+          "gr": "HNcmpa",
+          "strongs": "H0430"
+        },
+        {
+          "hb": "אֶת",
+          "tr": "H0853",
+          "te": "నరుని",
+          "gr": "HTo",
+          "strongs": "H0853"
+        },
+        {
+          "hb": "הָֽ/אָדָ֑ם",
+          "tr": "H0120",
+          "te": "తీసికొని",
+          "gr": "HTd/Ncmsa",
+          "strongs": "H0120"
+        },
+        {
+          "hb": "וַ/יַּנִּחֵ֣/הוּ",
+          "tr": "yânach",
+          "te": "తోటను",
+          "gr": "HC/Vhw3ms/Sp3ms",
+          "strongs": "H3240"
+        },
+        {
+          "hb": "בְ/גַן",
+          "tr": "gan",
+          "te": "సేద్యపరచుటకును",
+          "gr": "HR/Ncbsc",
+          "strongs": "H1588"
+        },
+        {
+          "hb": "עֵ֔דֶן",
+          "tr": "ʻÊden",
+          "te": "దాని",
+          "gr": "HNp",
+          "strongs": "H5731"
+        },
+        {
+          "hb": "לְ/עָבְדָ֖/הּ",
+          "tr": "ʻâbad",
+          "te": "కాచుటకును",
+          "gr": "HR/Vqc/Sp3fs",
+          "strongs": "H5647"
+        },
+        {
+          "hb": "וּ/לְ/שָׁמְרָֽ/הּ",
+          "tr": "shâmar",
+          "te": "దానిలో",
+          "gr": "HC/R/Vqc/Sp3fs",
+          "strongs": "H8104"
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "words": [
+        {
+          "hb": "וַ/יְצַו֙",
+          "tr": "tsâvâh",
+          "te": "మరియు",
+          "gr": "HC/Vpw3ms",
+          "strongs": "H6680"
+        },
+        {
+          "hb": "יְהוָ֣ה",
+          "tr": "Yᵉhôvâh",
+          "te": "మరియు",
+          "gr": "HNp",
+          "strongs": "H3068"
+        },
+        {
+          "hb": "אֱלֹהִ֔ים",
+          "tr": "H0430",
+          "te": "దేవుడు",
+          "gr": "HNcmpa",
+          "strongs": "H0430"
+        },
+        {
+          "hb": "עַל",
+          "tr": "ʻal",
+          "te": "యెహోవాఈ",
+          "gr": "HR",
+          "strongs": "H5921"
+        },
+        {
+          "hb": "הָֽ/אָדָ֖ם",
+          "tr": "H0120",
+          "te": "తోటలోనున్న",
+          "gr": "HTd/Ncmsa",
+          "strongs": "H0120"
+        },
+        {
+          "hb": "לֵ/אמֹ֑ר",
+          "tr": "H0559",
+          "te": "ప్రతి",
+          "gr": "HR/Vqc",
+          "strongs": "H0559"
+        },
+        {
+          "hb": "מִ/כֹּ֥ל",
+          "tr": "kôl",
+          "te": "వృక్ష",
+          "gr": "HR/Ncmsc",
+          "strongs": "H3605"
+        },
+        {
+          "hb": "עֵֽץ",
+          "tr": "ʻêts",
+          "te": "ఫలములను",
+          "gr": "HNcmsc",
+          "strongs": "H6086"
+        },
+        {
+          "hb": "הַ/גָּ֖ן",
+          "tr": "gan",
+          "te": "నీవు",
+          "gr": "HTd/Ncbsa",
+          "strongs": "H1588"
+        },
+        {
+          "hb": "אָכֹ֥ל",
+          "tr": "H0398",
+          "te": "నిరభ్యంతరముగా",
+          "gr": "HVqa",
+          "strongs": "H0398"
+        },
+        {
+          "hb": "תֹּאכֵֽל",
+          "tr": "H0398",
+          "te": "తినవచ్చును",
+          "gr": "HVqi2ms",
+          "strongs": "H0398"
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "words": [
+        {
+          "hb": "וּ/מֵ/עֵ֗ץ",
+          "tr": "ʻêts",
+          "te": "అయితే",
+          "gr": "HC/R/Ncmsc",
+          "strongs": "H6086"
+        },
+        {
+          "hb": "הַ/דַּ֨עַת֙",
+          "tr": "daʻath",
+          "te": "మంచి",
+          "gr": "HTd/Ncfsa",
+          "strongs": "H1847"
+        },
+        {
+          "hb": "ט֣וֹב",
+          "tr": "ṭôwb",
+          "te": "చెడ్డల",
+          "gr": "HAamsa",
+          "strongs": "H2896"
+        },
+        {
+          "hb": "וָ/רָ֔ע",
+          "tr": "raʻ",
+          "te": "తెలివినిచ్చు",
+          "gr": "HC/Aamsa",
+          "strongs": "H7451"
+        },
+        {
+          "hb": "לֹ֥א",
+          "tr": "lôʼ",
+          "te": "వృక్ష",
+          "gr": "HTn",
+          "strongs": "H3808"
+        },
+        {
+          "hb": "תֹאכַ֖ל",
+          "tr": "H0398",
+          "te": "ఫలములను",
+          "gr": "HVqi2ms",
+          "strongs": "H0398"
+        },
+        {
+          "hb": "מִמֶּ֑/נּוּ",
+          "tr": "min",
+          "te": "తినకూడదు",
+          "gr": "HR/Sp1cp",
+          "strongs": "H4480"
+        },
+        {
+          "hb": "כִּ֗י",
+          "tr": "kîy",
+          "te": "వాటిని",
+          "gr": "HC",
+          "strongs": "H3588"
+        },
+        {
+          "hb": "בְּ/י֛וֹם",
+          "tr": "yôwm",
+          "te": "దినము",
+          "gr": "HR/Ncmsc",
+          "strongs": "H3117"
+        },
+        {
+          "hb": "אֲכָלְ/ךָ֥",
+          "tr": "H0398",
+          "te": "దినమున",
+          "gr": "HVqc/Sp2ms",
+          "strongs": "H0398"
+        },
+        {
+          "hb": "מִמֶּ֖/נּוּ",
+          "tr": "min",
+          "te": "నిశ్చయముగా",
+          "gr": "HR/Sp1cp",
+          "strongs": "H4480"
+        },
+        {
+          "hb": "מ֥וֹת",
+          "tr": "mûwth",
+          "te": "చచ్చెదవని",
+          "gr": "HVqa",
+          "strongs": "H4191"
+        },
+        {
+          "hb": "תָּמֽוּת",
+          "tr": "mûwth",
+          "te": "నరుని",
+          "gr": "HVqi2ms",
+          "strongs": "H4191"
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "words": [
+        {
+          "hb": "וַ/יֹּ֨אמֶר֙",
+          "tr": "H0559",
+          "te": "మరియు",
+          "gr": "HC/Vqw3ms",
+          "strongs": "H0559"
+        },
+        {
+          "hb": "יְהוָ֣ה",
+          "tr": "Yᵉhôvâh",
+          "te": "దేవుడైన",
+          "gr": "HNp",
+          "strongs": "H3068"
+        },
+        {
+          "hb": "אֱלֹהִ֔ים",
+          "tr": "H0430",
+          "te": "దేవుడు",
+          "gr": "HNcmpa",
+          "strongs": "H0430"
+        },
+        {
+          "hb": "לֹא",
+          "tr": "lôʼ",
+          "te": "ఒంటరిగా",
+          "gr": "HTn",
+          "strongs": "H3808"
+        },
+        {
+          "hb": "ט֛וֹב",
+          "tr": "ṭôwb",
+          "te": "నుండుట",
+          "gr": "HAamsa",
+          "strongs": "H2896"
+        },
+        {
+          "hb": "הֱי֥וֹת",
+          "tr": "hâyâh",
+          "te": "ఆయెను",
+          "gr": "HVqc",
+          "strongs": "H1961"
+        },
+        {
+          "hb": "הָֽ/אָדָ֖ם",
+          "tr": "H0120",
+          "te": "కాదు",
+          "gr": "HTd/Ncmsa",
+          "strongs": "H0120"
+        },
+        {
+          "hb": "לְ/בַדּ֑/וֹ",
+          "tr": "H0905",
+          "te": "వానికి",
+          "gr": "HR/Ncmsc/Sp3ms",
+          "strongs": "H0905"
+        },
+        {
+          "hb": "אֶֽעֱשֶׂהּ",
+          "tr": "ʻâsâh",
+          "te": "సాటియైన",
+          "gr": "HVqi1cs",
+          "strongs": "H6213"
+        },
+        {
+          "hb": "לּ֥/וֹ",
+          "tr": "",
+          "te": "సహాయ",
+          "gr": "HR/Sp3ms",
+          "strongs": ""
+        },
+        {
+          "hb": "עֵ֖זֶר",
+          "tr": "ʻêzer",
+          "te": "మును",
+          "gr": "HNcmsa",
+          "strongs": "H5828"
+        },
+        {
+          "hb": "כְּ/נֶגְדּֽ/וֹ",
+          "tr": "neged",
+          "te": "వానికొరకు",
+          "gr": "HR/R/Sp3ms",
+          "strongs": "H5048"
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "words": [
+        {
+          "hb": "וַ/יִּצֶר֩",
+          "tr": "yâtsar",
+          "te": "దేవుడైన",
+          "gr": "HC/Vqw3ms",
+          "strongs": "H3335"
+        },
+        {
+          "hb": "יְהוָ֨ה",
+          "tr": "Yᵉhôvâh",
+          "te": "యెహోవా",
+          "gr": "HNp",
+          "strongs": "H3068"
+        },
+        {
+          "hb": "אֱלֹהִ֜ים",
+          "tr": "H0430",
+          "te": "దేవుడు",
+          "gr": "HNcmpa",
+          "strongs": "H0430"
+        },
+        {
+          "hb": "מִן",
+          "tr": "min",
+          "te": "భూజంతువును",
+          "gr": "HR",
+          "strongs": "H4480"
+        },
+        {
+          "hb": "הָֽ/אֲדָמָ֗ה",
+          "tr": "H0127",
+          "te": "ప్రతి",
+          "gr": "HTd/Ncfsa",
+          "strongs": "H0127"
+        },
+        {
+          "hb": "כָּל",
+          "tr": "kôl",
+          "te": "ఆకాశపక్షిని",
+          "gr": "HNcmsc",
+          "strongs": "H3605"
+        },
+        {
+          "hb": "חַיַּ֤ת",
+          "tr": "chay",
+          "te": "నేలనుండి",
+          "gr": "HNcfsc",
+          "strongs": "H2416"
+        },
+        {
+          "hb": "הַ/שָּׂדֶה֙",
+          "tr": "sâdeh",
+          "te": "నిర్మించి",
+          "gr": "HTd/Ncmsa",
+          "strongs": "H7704"
+        },
+        {
+          "hb": "וְ/אֵת֙",
+          "tr": "H0853",
+          "te": "ఆదాము",
+          "gr": "HC/To",
+          "strongs": "H0853"
+        },
+        {
+          "hb": "כָּל",
+          "tr": "kôl",
+          "te": "వాటికి",
+          "gr": "HNcmsc",
+          "strongs": "H3605"
+        },
+        {
+          "hb": "ע֣וֹף",
+          "tr": "ʻôwph",
+          "te": "ఏ",
+          "gr": "HNcmsc",
+          "strongs": "H5775"
+        },
+        {
+          "hb": "הַ/שָּׁמַ֔יִם",
+          "tr": "shâmayim",
+          "te": "ఆకాశమును",
+          "gr": "HTd/Ncmpa",
+          "strongs": "H8064"
+        },
+        {
+          "hb": "וַ/יָּבֵא֙",
+          "tr": "H0935",
+          "te": "పెట్టునో",
+          "gr": "HC/Vhw3ms",
+          "strongs": "H0935"
+        },
+        {
+          "hb": "אֶל",
+          "tr": "H0413",
+          "te": "చూచుటకు",
+          "gr": "HR",
+          "strongs": "H0413"
+        },
+        {
+          "hb": "הָ֣/אָדָ֔ם",
+          "tr": "H0120",
+          "te": "అతని",
+          "gr": "HTd/Ncmsa",
+          "strongs": "H0120"
+        },
+        {
+          "hb": "לִ/רְא֖וֹת",
+          "tr": "râʼâh",
+          "te": "యొద్దకు",
+          "gr": "HR/Vqc",
+          "strongs": "H7200"
+        },
+        {
+          "hb": "מַה",
+          "tr": "mâh",
+          "te": "వాటిని",
+          "gr": "HTi",
+          "strongs": "H4100"
+        },
+        {
+          "hb": "יִּקְרָא",
+          "tr": "qârâʼ",
+          "te": "రప్పించెను",
+          "gr": "HVqi3ms",
+          "strongs": "H7121"
+        },
+        {
+          "hb": "ל֑/וֹ",
+          "tr": "",
+          "te": "జీవముగల",
+          "gr": "HR/Sp3ms",
+          "strongs": ""
+        },
+        {
+          "hb": "וְ/כֹל֩",
+          "tr": "kôl",
+          "te": "ప్రతిదానికి",
+          "gr": "HC/Ncmsa",
+          "strongs": "H3605"
+        },
+        {
+          "hb": "אֲשֶׁ֨ר",
+          "tr": "H0834",
+          "te": "ఆదాము",
+          "gr": "HTr",
+          "strongs": "H0834"
+        },
+        {
+          "hb": "יִקְרָא",
+          "tr": "qârâʼ",
+          "te": "ఏ",
+          "gr": "HVqi3ms",
+          "strongs": "H7121"
+        },
+        {
+          "hb": "ל֧/וֹ",
+          "tr": "",
+          "te": "పేరు",
+          "gr": "HR/Sp3ms",
+          "strongs": ""
+        },
+        {
+          "hb": "הָֽ/אָדָ֛ם",
+          "tr": "H0120",
+          "te": "పెట్టెనో",
+          "gr": "HTd/Ncmsa",
+          "strongs": "H0120"
+        },
+        {
+          "hb": "נֶ֥פֶשׁ",
+          "tr": "nephesh",
+          "te": "ఆ",
+          "gr": "HNcbsa",
+          "strongs": "H5315"
+        },
+        {
+          "hb": "חַיָּ֖ה",
+          "tr": "chay",
+          "te": "పేరు",
+          "gr": "HAafsa",
+          "strongs": "H2416"
+        },
+        {
+          "hb": "ה֥וּא",
+          "tr": "hûwʼ",
+          "te": "దానికి",
+          "gr": "HPp3ms",
+          "strongs": "H1931"
+        },
+        {
+          "hb": "שְׁמֽ/וֹ",
+          "tr": "shêm",
+          "te": "కలిగెను",
+          "gr": "HNcmsc/Sp3ms",
+          "strongs": "H8034"
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "words": [
+        {
+          "hb": "וַ/יִּקְרָ֨א",
+          "tr": "qârâʼ",
+          "te": "అప్పుడు",
+          "gr": "HC/Vqw3ms",
+          "strongs": "H7121"
+        },
+        {
+          "hb": "הָֽ/אָדָ֜ם",
+          "tr": "H0120",
+          "te": "ఆదాము",
+          "gr": "HTd/Ncmsa",
+          "strongs": "H0120"
+        },
+        {
+          "hb": "שֵׁמ֗וֹת",
+          "tr": "shêm",
+          "te": "సమస్త",
+          "gr": "HNcmpa",
+          "strongs": "H8034"
+        },
+        {
+          "hb": "לְ/כָל",
+          "tr": "kôl",
+          "te": "పశువులకును",
+          "gr": "HR/Ncmsc",
+          "strongs": "H3605"
+        },
+        {
+          "hb": "הַ/בְּהֵמָה֙",
+          "tr": "H0929",
+          "te": "ఆకాశ",
+          "gr": "HTd/Ncfsa",
+          "strongs": "H0929"
+        },
+        {
+          "hb": "וּ/לְ/ע֣וֹף",
+          "tr": "ʻôwph",
+          "te": "పక్షులకును",
+          "gr": "HC/R/Ncmsc",
+          "strongs": "H5775"
+        },
+        {
+          "hb": "הַ/שָּׁמַ֔יִם",
+          "tr": "shâmayim",
+          "te": "ఆకాశమును",
+          "gr": "HTd/Ncmpa",
+          "strongs": "H8064"
+        },
+        {
+          "hb": "וּ/לְ/כֹ֖ל",
+          "tr": "kôl",
+          "te": "భూజంతువులకును",
+          "gr": "HC/R/Ncmsc",
+          "strongs": "H3605"
+        },
+        {
+          "hb": "חַיַּ֣ת",
+          "tr": "chay",
+          "te": "పెట్టెను",
+          "gr": "HNcfsc",
+          "strongs": "H2416"
+        },
+        {
+          "hb": "הַ/שָּׂדֶ֑ה",
+          "tr": "sâdeh",
+          "te": "అయినను",
+          "gr": "HTd/Ncmsa",
+          "strongs": "H7704"
+        },
+        {
+          "hb": "וּ/לְ/אָדָ֕ם",
+          "tr": "H0120",
+          "te": "ఆదామునకు",
+          "gr": "HC/R/Ncmsa",
+          "strongs": "H0120"
+        },
+        {
+          "hb": "לֹֽא",
+          "tr": "lôʼ",
+          "te": "సాటియైన",
+          "gr": "HTn",
+          "strongs": "H3808"
+        },
+        {
+          "hb": "מָצָ֥א",
+          "tr": "mâtsâʼ",
+          "te": "సహాయము",
+          "gr": "HVqp3ms",
+          "strongs": "H4672"
+        },
+        {
+          "hb": "עֵ֖זֶר",
+          "tr": "ʻêzer",
+          "te": "అతనికి",
+          "gr": "HNcmsa",
+          "strongs": "H5828"
+        },
+        {
+          "hb": "כְּ/נֶגְדּֽ/וֹ",
+          "tr": "neged",
+          "te": "లేక",
+          "gr": "HR/R/Sp3ms",
+          "strongs": "H5048"
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "words": [
+        {
+          "hb": "וַ/יַּפֵּל֩",
+          "tr": "nâphal",
+          "te": "అప్పుడు",
+          "gr": "HC/Vhw3ms",
+          "strongs": "H5307"
+        },
+        {
+          "hb": "יְהוָ֨ה",
+          "tr": "Yᵉhôvâh",
+          "te": "దేవుడైన",
+          "gr": "HNp",
+          "strongs": "H3068"
+        },
+        {
+          "hb": "אֱלֹהִ֧ים",
+          "tr": "H0430",
+          "te": "దేవుడు",
+          "gr": "HNcmpa",
+          "strongs": "H0430"
+        },
+        {
+          "hb": "תַּרְדֵּמָ֛ה",
+          "tr": "tardêmâh",
+          "te": "గాఢనిద్ర",
+          "gr": "HNcfsa",
+          "strongs": "H8639"
+        },
+        {
+          "hb": "עַל",
+          "tr": "ʻal",
+          "te": "కలుగజేసి",
+          "gr": "HR",
+          "strongs": "H5921"
+        },
+        {
+          "hb": "הָ/אָדָ֖ם",
+          "tr": "H0120",
+          "te": "నిద్రించినప్పుడు",
+          "gr": "HTd/Ncmsa",
+          "strongs": "H0120"
+        },
+        {
+          "hb": "וַ/יִּישָׁ֑ן",
+          "tr": "yâshên",
+          "te": "అతని",
+          "gr": "HC/Vqw3ms",
+          "strongs": "H3462"
+        },
+        {
+          "hb": "וַ/יִּקַּ֗ח",
+          "tr": "lâqach",
+          "te": "టముకలలో",
+          "gr": "HC/Vqw3ms",
+          "strongs": "H3947"
+        },
+        {
+          "hb": "אַחַת֙",
+          "tr": "H0259",
+          "te": "ఒక",
+          "gr": "HAcfsa",
+          "strongs": "H0259"
+        },
+        {
+          "hb": "מִ/צַּלְעֹתָ֔י/ו",
+          "tr": "tsêlâʻ",
+          "te": "తీసి",
+          "gr": "HR/Ncbpc/Sp3ms",
+          "strongs": "H6763"
+        },
+        {
+          "hb": "וַ/יִּסְגֹּ֥ר",
+          "tr": "çâgar",
+          "te": "ఆ",
+          "gr": "HC/Vqw3ms",
+          "strongs": "H5462"
+        },
+        {
+          "hb": "בָּשָׂ֖ר",
+          "tr": "bâsâr",
+          "te": "మాంసముతో",
+          "gr": "HNcmsa",
+          "strongs": "H1320"
+        },
+        {
+          "hb": "תַּחְתֶּֽ/נָּה",
+          "tr": "tachath",
+          "te": "పూడ్చి",
+          "gr": "HR/Sp3fs",
+          "strongs": "H8478"
+        }
+      ]
+    },
+    {
+      "v": 22,
+      "words": [
+        {
+          "hb": "וַ/יִּבֶן֩",
+          "tr": "bânâh",
+          "te": "తరువాత",
+          "gr": "HC/Vqw3ms",
+          "strongs": "H1129"
+        },
+        {
+          "hb": "יְהוָ֨ה",
+          "tr": "Yᵉhôvâh",
+          "te": "దేవుడైన",
+          "gr": "HNp",
+          "strongs": "H3068"
+        },
+        {
+          "hb": "אֱלֹהִ֧ים",
+          "tr": "H0430",
+          "te": "దేవుడు",
+          "gr": "HNcmpa",
+          "strongs": "H0430"
+        },
+        {
+          "hb": "אֶֽת",
+          "tr": "H0853",
+          "te": "తాను",
+          "gr": "HTo",
+          "strongs": "H0853"
+        },
+        {
+          "hb": "הַ/צֵּלָ֛ע",
+          "tr": "tsêlâʻ",
+          "te": "ఆదాము",
+          "gr": "HTd/Ncbsa",
+          "strongs": "H6763"
+        },
+        {
+          "hb": "אֲשֶׁר",
+          "tr": "H0834",
+          "te": "నుండి",
+          "gr": "HTr",
+          "strongs": "H0834"
+        },
+        {
+          "hb": "לָקַ֥ח",
+          "tr": "lâqach",
+          "te": "తీసిన",
+          "gr": "HVqp3ms",
+          "strongs": "H3947"
+        },
+        {
+          "hb": "מִן",
+          "tr": "min",
+          "te": "ప్రక్కటెముకను",
+          "gr": "HR",
+          "strongs": "H4480"
+        },
+        {
+          "hb": "הָֽ/אָדָ֖ם",
+          "tr": "H0120",
+          "te": "స్త్రీనిగా",
+          "gr": "HTd/Ncmsa",
+          "strongs": "H0120"
+        },
+        {
+          "hb": "לְ/אִשָּׁ֑ה",
+          "tr": "H0802",
+          "te": "నిర్మించి",
+          "gr": "HR/Ncfsa",
+          "strongs": "H0802"
+        },
+        {
+          "hb": "וַ/יְבִאֶ֖/הָ",
+          "tr": "H0935",
+          "te": "ఆమెను",
+          "gr": "HC/Vhw3ms/Sp3fs",
+          "strongs": "H0935"
+        },
+        {
+          "hb": "אֶל",
+          "tr": "H0413",
+          "te": "ఆదాము",
+          "gr": "HR",
+          "strongs": "H0413"
+        },
+        {
+          "hb": "הָֽ/אָדָֽם",
+          "tr": "H0120",
+          "te": "నొద్దకు",
+          "gr": "HTd/Ncmsa",
+          "strongs": "H0120"
+        }
+      ]
+    },
+    {
+      "v": 23,
+      "words": [
+        {
+          "hb": "וַ/יֹּאמֶר֮",
+          "tr": "H0559",
+          "te": "అప్పుడు",
+          "gr": "HC/Vqw3ms",
+          "strongs": "H0559"
+        },
+        {
+          "hb": "הָֽ/אָדָם֒",
+          "tr": "H0120",
+          "te": "ఆదాము",
+          "gr": "HTd/Ncmsa",
+          "strongs": "H0120"
+        },
+        {
+          "hb": "זֹ֣את",
+          "tr": "zôʼth",
+          "te": "ఇట్లనెను",
+          "gr": "HPdxfs",
+          "strongs": "H2063"
+        },
+        {
+          "hb": "הַ/פַּ֗עַם",
+          "tr": "paʻam",
+          "te": "నా",
+          "gr": "HTd/Ncfsa",
+          "strongs": "H6471"
+        },
+        {
+          "hb": "עֶ֚צֶם",
+          "tr": "ʻetsem",
+          "te": "యెముకలలో",
+          "gr": "HNcfsa",
+          "strongs": "H6106"
+        },
+        {
+          "hb": "מֵֽ/עֲצָמַ֔/י",
+          "tr": "ʻetsem",
+          "te": "ఒక",
+          "gr": "HR/Ncfpc/Sp1cs",
+          "strongs": "H6106"
+        },
+        {
+          "hb": "וּ/בָשָׂ֖ר",
+          "tr": "bâsâr",
+          "te": "యెముక",
+          "gr": "HC/Ncmsa",
+          "strongs": "H1320"
+        },
+        {
+          "hb": "מִ/בְּשָׂרִ֑/י",
+          "tr": "bâsâr",
+          "te": "నా",
+          "gr": "HR/Ncmsc/Sp1cs",
+          "strongs": "H1320"
+        },
+        {
+          "hb": "לְ/זֹאת֙",
+          "tr": "zôʼth",
+          "te": "మాంసము",
+          "gr": "HR/Pdxfs",
+          "strongs": "H2063"
+        },
+        {
+          "hb": "יִקָּרֵ֣א",
+          "tr": "qârâʼ",
+          "te": "ఇది",
+          "gr": "HVNi3ms",
+          "strongs": "H7121"
+        },
+        {
+          "hb": "אִשָּׁ֔ה",
+          "tr": "H0802",
+          "te": "నరునిలోనుండి",
+          "gr": "HNcfsa",
+          "strongs": "H0802"
+        },
+        {
+          "hb": "כִּ֥י",
+          "tr": "kîy",
+          "te": "తీయబడెను",
+          "gr": "HC",
+          "strongs": "H3588"
+        },
+        {
+          "hb": "מֵ/אִ֖ישׁ",
+          "tr": "H0376",
+          "te": "గనుక",
+          "gr": "HR/Ncmsa",
+          "strongs": "H0376"
+        },
+        {
+          "hb": "לֻֽקֳחָה",
+          "tr": "lâqach",
+          "te": "నారి",
+          "gr": "HVPp3fs",
+          "strongs": "H3947"
+        },
+        {
+          "hb": "זֹּֽאת",
+          "tr": "zôʼth",
+          "te": "అన",
+          "gr": "HPdxfs",
+          "strongs": "H2063"
+        }
+      ]
+    },
+    {
+      "v": 24,
+      "words": [
+        {
+          "hb": "עַל",
+          "tr": "ʻal",
+          "te": "కాబట్టి",
+          "gr": "HR",
+          "strongs": "H5921"
+        },
+        {
+          "hb": "כֵּן֙",
+          "tr": "kên",
+          "te": "పురుషుడు",
+          "gr": "HTm",
+          "strongs": "H3651"
+        },
+        {
+          "hb": "יַֽעֲזָב",
+          "tr": "ʻâzab",
+          "te": "తన",
+          "gr": "HVqi3ms",
+          "strongs": "H5800"
+        },
+        {
+          "hb": "אִ֔ישׁ",
+          "tr": "H0376",
+          "te": "తండ్రిని",
+          "gr": "HNcmsa",
+          "strongs": "H0376"
+        },
+        {
+          "hb": "אֶת",
+          "tr": "H0853",
+          "te": "తన",
+          "gr": "HTo",
+          "strongs": "H0853"
+        },
+        {
+          "hb": "אָבִ֖י/ו",
+          "tr": "H0001",
+          "te": "తల్లిని",
+          "gr": "HNcmsc/Sp3ms",
+          "strongs": "H0001"
+        },
+        {
+          "hb": "וְ/אֶת",
+          "tr": "H0853",
+          "te": "విడిచి",
+          "gr": "HC/To",
+          "strongs": "H0853"
+        },
+        {
+          "hb": "אִמּ֑/וֹ",
+          "tr": "H0517",
+          "te": "తన",
+          "gr": "HNcfsc/Sp3ms",
+          "strongs": "H0517"
+        },
+        {
+          "hb": "וְ/דָבַ֣ק",
+          "tr": "dâbaq",
+          "te": "భార్యను",
+          "gr": "HC/Vqq3ms",
+          "strongs": "H1692"
+        },
+        {
+          "hb": "בְּ/אִשְׁתּ֔/וֹ",
+          "tr": "H0802",
+          "te": "హత్తుకొనును",
+          "gr": "HR/Ncfsc/Sp3ms",
+          "strongs": "H0802"
+        },
+        {
+          "hb": "וְ/הָי֖וּ",
+          "tr": "hâyâh",
+          "te": "ఆయెను",
+          "gr": "HC/Vqq3cp",
+          "strongs": "H1961"
+        },
+        {
+          "hb": "לְ/בָשָׂ֥ר",
+          "tr": "bâsâr",
+          "te": "ఏక",
+          "gr": "HR/Ncmsa",
+          "strongs": "H1320"
+        },
+        {
+          "hb": "אֶחָֽד",
+          "tr": "H0259",
+          "te": "శరీరమైయుందురు",
+          "gr": "HAcmsa",
+          "strongs": "H0259"
+        }
+      ]
+    },
+    {
+      "v": 25,
+      "words": [
+        {
+          "hb": "וַ/יִּֽהְי֤וּ",
+          "tr": "hâyâh",
+          "te": "ఆయెను",
+          "gr": "HC/Vqw3mp",
+          "strongs": "H1961"
+        },
+        {
+          "hb": "שְׁנֵי/הֶם֙",
+          "tr": "shᵉnayim",
+          "te": "ఆదామును",
+          "gr": "HAcmdc/Sp3mp",
+          "strongs": "H8147"
+        },
+        {
+          "hb": "עֲרוּמִּ֔ים",
+          "tr": "ʻârôwm",
+          "te": "భార్యయు",
+          "gr": "HAampa",
+          "strongs": "H6174"
+        },
+        {
+          "hb": "הָֽ/אָדָ֖ם",
+          "tr": "H0120",
+          "te": "దిగం",
+          "gr": "HTd/Ncmsa",
+          "strongs": "H0120"
+        },
+        {
+          "hb": "וְ/אִשְׁתּ֑/וֹ",
+          "tr": "H0802",
+          "te": "నుండిరి",
+          "gr": "HC/Ncfsc/Sp3ms",
+          "strongs": "H0802"
+        },
+        {
+          "hb": "וְ/לֹ֖א",
+          "tr": "lôʼ",
+          "te": "వారు",
+          "gr": "HC/Tn",
+          "strongs": "H3808"
+        },
+        {
+          "hb": "יִתְבֹּשָֽׁשׁוּ",
+          "tr": "H0954",
+          "te": "ఎరుగక",
+          "gr": "HVri3mp",
+          "strongs": "H0954"
+        }
+      ]
+    }
+  ]
 }

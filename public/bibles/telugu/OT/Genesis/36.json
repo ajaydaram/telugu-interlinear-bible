@@ -1,5 +1,5 @@
 {
-  "book": "Genesis",
+  "book": "ఆదికాండము",
   "chapter": 36,
   "language": "Telugu",
   "data": [
@@ -7,28 +7,39 @@
       "v": 1,
       "words": [
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "וְ/אֵ֛לֶּה",
+          "tr": "H0428",
           "te": "ఎదోమను",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HC/Pdxcp",
+          "strongs": "H0428"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "תֹּלְד֥וֹת",
+          "tr": "tôwlᵉdâh",
+          "te": "ఎదోమను",
+          "gr": "HNcfpc",
+          "strongs": "H8435"
+        },
+        {
+          "hb": "עֵשָׂ֖ו",
+          "tr": "ʻÊsâv",
           "te": "ఏశావు",
-          "gr": "N-mp"
+          "gr": "HNp",
+          "strongs": "H6215"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "ה֥וּא",
+          "tr": "hûwʼ",
           "te": "వంశావళి",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HPp3ms",
+          "strongs": "H1931"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "אֱדֽוֹם",
+          "tr": "H0123",
           "te": "ఇదే",
-          "gr": "N-mp"
+          "gr": "HNp",
+          "strongs": "H0123"
         }
       ]
     },
@@ -36,82 +47,130 @@
       "v": 2,
       "words": [
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "עֵשָׂ֛ו",
+          "tr": "ʻÊsâv",
           "te": "ఏశావు",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNp",
+          "strongs": "H6215"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "לָקַ֥ח",
+          "tr": "lâqach",
+          "te": "ఏశావు",
+          "gr": "HVqp3ms",
+          "strongs": "H3947"
+        },
+        {
+          "hb": "אֶת",
+          "tr": "H0853",
           "te": "కనాను",
-          "gr": "N-mp"
+          "gr": "HTo",
+          "strongs": "H0853"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "נָשָׁ֖י/ו",
+          "tr": "H0802",
           "te": "కుమార్తెలలో",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNcfpc/Sp3ms",
+          "strongs": "H0802"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "מִ/בְּנ֣וֹת",
+          "tr": "bath",
+          "te": "కుమార్తెలలో",
+          "gr": "HR/Ncfpc",
+          "strongs": "H1323"
+        },
+        {
+          "hb": "כְּנָ֑עַן",
+          "tr": "Kᵉnaʻan",
           "te": "హిత్తీయుడైన",
-          "gr": "N-mp"
+          "gr": "HNp",
+          "strongs": "H3667"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "אֶת",
+          "tr": "H0853",
           "te": "ఏలోను",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HTo",
+          "strongs": "H0853"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "עָדָ֗ה",
+          "tr": "ʻÂdâh",
           "te": "కుమార్తెయగు",
-          "gr": "N-mp"
+          "gr": "HNp",
+          "strongs": "H5711"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "בַּת",
+          "tr": "bath",
+          "te": "కుమార్తెయగు",
+          "gr": "HNcfsc",
+          "strongs": "H1323"
+        },
+        {
+          "hb": "אֵילוֹן֙",
+          "tr": "H0356",
           "te": "ఆదాను",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNp",
+          "strongs": "H0356"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "הַֽ/חִתִּ֔י",
+          "tr": "Chittîy",
           "te": "హివ్వీయుడైన",
-          "gr": "N-mp"
+          "gr": "HTd/Ngmsa",
+          "strongs": "H2850"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "וְ/אֶת",
+          "tr": "H0853",
+          "te": "హివ్వీయుడైన",
+          "gr": "HC/To",
+          "strongs": "H0853"
+        },
+        {
+          "hb": "אָהֳלִֽיבָמָה֙",
+          "tr": "H0173",
           "te": "సిబ్యోను",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNp",
+          "strongs": "H0173"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "בַּת",
+          "tr": "bath",
           "te": "కుమార్తెయైన",
-          "gr": "N-mp"
+          "gr": "HNcfsc",
+          "strongs": "H1323"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "עֲנָ֔ה",
+          "tr": "ʻĂnâh",
           "te": "అనా",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNp",
+          "strongs": "H6034"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "בַּת",
+          "tr": "bath",
+          "te": "అనా",
+          "gr": "HNcfsc",
+          "strongs": "H1323"
+        },
+        {
+          "hb": "צִבְע֖וֹן",
+          "tr": "Tsibʻôwn",
           "te": "కుమార్తెయగు",
-          "gr": "N-mp"
+          "gr": "HNp",
+          "strongs": "H6649"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "הַֽ/חִוִּֽי",
+          "tr": "Chivvîy",
           "te": "అహోలీబామాను",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HTd/Ngmsa",
+          "strongs": "H2340"
         }
       ]
     },
@@ -119,46 +178,46 @@
       "v": 3,
       "words": [
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "וְ/אֶת",
+          "tr": "H0853",
           "te": "ఇష్మాయేలు",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HC/To",
+          "strongs": "H0853"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "בָּשְׂמַ֥ת",
+          "tr": "Bosmath",
           "te": "కుమార్తెయు",
-          "gr": "N-mp"
+          "gr": "HNp",
+          "strongs": "H1315"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "בַּת",
+          "tr": "bath",
           "te": "నెబాయోతు",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNcfsc",
+          "strongs": "H1323"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "יִשְׁמָעֵ֖אל",
+          "tr": "Yishmâʻêʼl",
           "te": "సహోదరియు",
-          "gr": "N-mp"
+          "gr": "HNp",
+          "strongs": "H3458"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "אֲח֥וֹת",
+          "tr": "H0269",
           "te": "నైన",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNcfsc",
+          "strongs": "H0269"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "נְבָיֽוֹת",
+          "tr": "Nᵉbâyôwth",
           "te": "బాశెమతును",
-          "gr": "N-mp"
-        },
-        {
-          "hb": "בָּרָא",
-          "tr": "bara",
-          "te": "పెండ్లియాడెను",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNp",
+          "strongs": "H5032"
         }
       ]
     },
@@ -166,46 +225,67 @@
       "v": 4,
       "words": [
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "וַ/תֵּ֧לֶד",
+          "tr": "yâlad",
           "te": "ఆదా",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HC/Vqw3fs",
+          "strongs": "H3205"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "עָדָ֛ה",
+          "tr": "ʻÂdâh",
+          "te": "ఆదా",
+          "gr": "HNp",
+          "strongs": "H5711"
+        },
+        {
+          "hb": "לְ/עֵשָׂ֖ו",
+          "tr": "ʻÊsâv",
           "te": "ఏశావునకు",
-          "gr": "N-mp"
+          "gr": "HR/Np",
+          "strongs": "H6215"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "אֶת",
+          "tr": "H0853",
           "te": "ఎలీఫజును",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HTo",
+          "strongs": "H0853"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "אֱלִיפָ֑ז",
+          "tr": "H0464",
           "te": "కనెను",
-          "gr": "N-mp"
+          "gr": "HNp",
+          "strongs": "H0464"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "וּ/בָ֣שְׂמַ֔ת",
+          "tr": "Bosmath",
+          "te": "కనెను",
+          "gr": "HC/Np",
+          "strongs": "H1315"
+        },
+        {
+          "hb": "יָלְדָ֖ה",
+          "tr": "yâlad",
           "te": "బాశెమతు",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HVqp3fs",
+          "strongs": "H3205"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "אֶת",
+          "tr": "H0853",
           "te": "రగూయేలును",
-          "gr": "N-mp"
+          "gr": "HTo",
+          "strongs": "H0853"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "רְעוּאֵֽל",
+          "tr": "Rᵉʻûwʼêl",
           "te": "కనెను",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNp",
+          "strongs": "H7467"
         }
       ]
     },
@@ -213,70 +293,123 @@
       "v": 5,
       "words": [
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "וְ/אָהֳלִֽיבָמָה֙",
+          "tr": "H0173",
           "te": "అహోలీబామా",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HC/Np",
+          "strongs": "H0173"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "יָֽלְדָ֔ה",
+          "tr": "yâlad",
+          "te": "అహోలీబామా",
+          "gr": "HVqp3fs",
+          "strongs": "H3205"
+        },
+        {
+          "hb": "אֶת",
+          "tr": "H0853",
           "te": "యూషును",
-          "gr": "N-mp"
+          "gr": "HTo",
+          "strongs": "H0853"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "יעיש",
+          "tr": "Yᵉʻîysh",
+          "te": "యూషును",
+          "gr": "HNp",
+          "strongs": "H3274"
+        },
+        {
+          "hb": "יְע֥וּשׁ",
+          "tr": "Yᵉʻûwsh",
           "te": "యాలామును",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNp",
+          "strongs": "H3266"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "וְ/אֶת",
+          "tr": "H0853",
           "te": "కోరహును",
-          "gr": "N-mp"
+          "gr": "HC/To",
+          "strongs": "H0853"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "יַעְלָ֖ם",
+          "tr": "Yaʻlâm",
+          "te": "కోరహును",
+          "gr": "HNp",
+          "strongs": "H3281"
+        },
+        {
+          "hb": "וְ/אֶת",
+          "tr": "H0853",
           "te": "కనెను",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HC/To",
+          "strongs": "H0853"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "קֹ֑רַח",
+          "tr": "Qôrach",
           "te": "కనాను",
-          "gr": "N-mp"
+          "gr": "HNp",
+          "strongs": "H7141"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "אֵ֚לֶּה",
+          "tr": "H0428",
+          "te": "కనాను",
+          "gr": "HPdxcp",
+          "strongs": "H0428"
+        },
+        {
+          "hb": "בְּנֵ֣י",
+          "tr": "bên",
           "te": "దేశములో",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNcmpc",
+          "strongs": "H1121"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "עֵשָׂ֔ו",
+          "tr": "ʻÊsâv",
           "te": "ఏశావునకు",
-          "gr": "N-mp"
+          "gr": "HNp",
+          "strongs": "H6215"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "אֲשֶׁ֥ר",
+          "tr": "H0834",
+          "te": "ఏశావునకు",
+          "gr": "HTr",
+          "strongs": "H0834"
+        },
+        {
+          "hb": "יֻלְּדוּ",
+          "tr": "yâlad",
           "te": "పుట్టిన",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HVPp3cp",
+          "strongs": "H3205"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "ל֖/וֹ",
+          "tr": "",
           "te": "కుమారులు",
-          "gr": "N-mp"
+          "gr": "HR/Sp3ms",
+          "strongs": ""
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "בְּ/אֶ֥רֶץ",
+          "tr": "H0776",
+          "te": "భూమిని",
+          "gr": "HR/Ncbsc",
+          "strongs": "H0776"
+        },
+        {
+          "hb": "כְּנָֽעַן",
+          "tr": "Kᵉnaʻan",
           "te": "వీరే",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNp",
+          "strongs": "H3667"
         }
       ]
     },
@@ -284,184 +417,214 @@
       "v": 6,
       "words": [
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "וַ/יִּקַּ֣ח",
+          "tr": "lâqach",
           "te": "ఏశావు",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HC/Vqw3ms",
+          "strongs": "H3947"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "עֵשָׂ֡ו",
+          "tr": "ʻÊsâv",
           "te": "తన",
-          "gr": "N-mp"
+          "gr": "HNp",
+          "strongs": "H6215"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "אֶת",
+          "tr": "H0853",
           "te": "భార్యలను",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HTo",
+          "strongs": "H0853"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "נָ֠שָׁי/ו",
+          "tr": "H0802",
           "te": "తన",
-          "gr": "N-mp"
+          "gr": "HNcfpc/Sp3ms",
+          "strongs": "H0802"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "וְ/אֶת",
+          "tr": "H0853",
           "te": "కుమారులను",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HC/To",
+          "strongs": "H0853"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "בָּנָ֣י/ו",
+          "tr": "bên",
           "te": "తన",
-          "gr": "N-mp"
+          "gr": "HNcmpc/Sp3ms",
+          "strongs": "H1121"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "וְ/אֶת",
+          "tr": "H0853",
           "te": "కుమార్తె",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HC/To",
+          "strongs": "H0853"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "בְּנֹתָי/ו֮",
+          "tr": "bath",
           "te": "లను",
-          "gr": "N-mp"
+          "gr": "HNcfpc/Sp3ms",
+          "strongs": "H1323"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "וְ/אֶת",
+          "tr": "H0853",
           "te": "తన",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HC/To",
+          "strongs": "H0853"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "כָּל",
+          "tr": "kôl",
           "te": "యింటివారినందరిని",
-          "gr": "N-mp"
+          "gr": "HNcmsc",
+          "strongs": "H3605"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "נַפְשׁ֣וֹת",
+          "tr": "nephesh",
           "te": "తన",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNcbpc",
+          "strongs": "H5315"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "בֵּית/וֹ֒",
+          "tr": "bayith",
           "te": "మంద",
-          "gr": "N-mp"
+          "gr": "HNcmsc/Sp3ms",
+          "strongs": "H1004"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "וְ/אֶת",
+          "tr": "H0853",
           "te": "లను",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HC/To",
+          "strongs": "H0853"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "מִקְנֵ֣/הוּ",
+          "tr": "miqneh",
           "te": "తన",
-          "gr": "N-mp"
+          "gr": "HNcmsc/Sp3ms",
+          "strongs": "H4735"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "וְ/אֶת",
+          "tr": "H0853",
           "te": "సమస్త",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HC/To",
+          "strongs": "H0853"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "כָּל",
+          "tr": "kôl",
           "te": "పశువులను",
-          "gr": "N-mp"
+          "gr": "HNcmsc",
+          "strongs": "H3605"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "בְּהֶמְתּ֗/וֹ",
+          "tr": "H0929",
           "te": "తాను",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNcfsc/Sp3ms",
+          "strongs": "H0929"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "וְ/אֵת֙",
+          "tr": "H0853",
           "te": "కనాను",
-          "gr": "N-mp"
+          "gr": "HC/To",
+          "strongs": "H0853"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "כָּל",
+          "tr": "kôl",
           "te": "దేశములో",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNcmsc",
+          "strongs": "H3605"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "קִנְיָנ֔/וֹ",
+          "tr": "qinyân",
           "te": "సంపాదించిన",
-          "gr": "N-mp"
+          "gr": "HNcmsc/Sp3ms",
+          "strongs": "H7075"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "אֲשֶׁ֥ר",
+          "tr": "H0834",
           "te": "ఆస్తి",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HTr",
+          "strongs": "H0834"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "רָכַ֖שׁ",
+          "tr": "râkash",
           "te": "యావత్తును",
-          "gr": "N-mp"
+          "gr": "HVqp3ms",
+          "strongs": "H7408"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
-          "te": "తీసికొని",
-          "gr": "V-Qal-Perf-3ms"
+          "hb": "בְּ/אֶ֣רֶץ",
+          "tr": "H0776",
+          "te": "భూమిని",
+          "gr": "HR/Ncbsc",
+          "strongs": "H0776"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "כְּנָ֑עַן",
+          "tr": "Kᵉnaʻan",
           "te": "తన",
-          "gr": "N-mp"
+          "gr": "HNp",
+          "strongs": "H3667"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "וַ/יֵּ֣לֶךְ",
+          "tr": "yâlak",
           "te": "తమ్ముడైన",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HC/Vqw3ms",
+          "strongs": "H3212"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "אֶל",
+          "tr": "H0413",
           "te": "యాకోబు",
-          "gr": "N-mp"
+          "gr": "HR",
+          "strongs": "H0413"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
-          "te": "ఎదుటనుండి",
-          "gr": "V-Qal-Perf-3ms"
+          "hb": "אֶ֔רֶץ",
+          "tr": "H0776",
+          "te": "భూమిని",
+          "gr": "HNcbsa",
+          "strongs": "H0776"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "מִ/פְּנֵ֖י",
+          "tr": "pânîym",
           "te": "మరియొక",
-          "gr": "N-mp"
+          "gr": "HR/Ncbpc",
+          "strongs": "H6440"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "יַעֲקֹ֥ב",
+          "tr": "Yaʻăqôb",
           "te": "దేశమునకు",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNp",
+          "strongs": "H3290"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "אָחִֽי/ו",
+          "tr": "H0251",
           "te": "వెళ్లిపోయెను",
-          "gr": "N-mp"
+          "gr": "HNcmsc/Sp3ms",
+          "strongs": "H0251"
         }
       ]
     },
@@ -469,112 +632,102 @@
       "v": 7,
       "words": [
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "כִּֽי",
+          "tr": "kîy",
           "te": "వారు",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HC",
+          "strongs": "H3588"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
-          "te": "విస్తారమయిన",
-          "gr": "N-mp"
+          "hb": "הָיָ֧ה",
+          "tr": "hâyâh",
+          "te": "ఆయెను",
+          "gr": "HVqp3ms",
+          "strongs": "H1961"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "רְכוּשָׁ֛/ם",
+          "tr": "rᵉkûwsh",
           "te": "సంపదగలవారు",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNcmsc/Sp3mp",
+          "strongs": "H7399"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "רָ֖ב",
+          "tr": "rab",
           "te": "గనుక",
-          "gr": "N-mp"
+          "gr": "HAamsa",
+          "strongs": "H7227"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
-          "te": "వారు",
-          "gr": "V-Qal-Perf-3ms"
-        },
-        {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "מִ/שֶּׁ֣בֶת",
+          "tr": "yâshab",
           "te": "కలిసి",
-          "gr": "N-mp"
+          "gr": "HR/Vqc",
+          "strongs": "H3427"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "יַחְדָּ֑ו",
+          "tr": "yachad",
           "te": "నివసింపలేక",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HD",
+          "strongs": "H3162"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "וְ/לֹ֨א",
+          "tr": "lôʼ",
           "te": "పోయిరి",
-          "gr": "N-mp"
+          "gr": "HC/Tn",
+          "strongs": "H3808"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
-          "te": "వారి",
-          "gr": "V-Qal-Perf-3ms"
-        },
-        {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "יָֽכְלָ֜ה",
+          "tr": "yâkôl",
           "te": "పశువులు",
-          "gr": "N-mp"
+          "gr": "HVqp3fs",
+          "strongs": "H3201"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
-          "te": "విశేషమైయున్నందున",
-          "gr": "V-Qal-Perf-3ms"
+          "hb": "אֶ֤רֶץ",
+          "tr": "H0776",
+          "te": "భూమిని",
+          "gr": "HNcbsc",
+          "strongs": "H0776"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "מְגֽוּרֵי/הֶם֙",
+          "tr": "mâgûwr",
           "te": "వారు",
-          "gr": "N-mp"
+          "gr": "HNcmpc/Sp3mp",
+          "strongs": "H4033"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "לָ/שֵׂ֣את",
+          "tr": "nâsâʼ",
           "te": "పరదేశులై",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HR/Vqc",
+          "strongs": "H5375"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
-          "te": "యుండిన",
-          "gr": "N-mp"
-        },
-        {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "אֹתָ֔/ם",
+          "tr": "H0853",
           "te": "భూమి",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HTo/Sp3mp",
+          "strongs": "H0853"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "מִ/פְּנֵ֖י",
+          "tr": "pânîym",
           "te": "వారిని",
-          "gr": "N-mp"
+          "gr": "HR/Ncbpc",
+          "strongs": "H6440"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "מִקְנֵי/הֶֽם",
+          "tr": "miqneh",
           "te": "భరింపలేక",
-          "gr": "V-Qal-Perf-3ms"
-        },
-        {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
-          "te": "పోయెను",
-          "gr": "N-mp"
+          "gr": "HNcmsc/Sp3mp",
+          "strongs": "H4735"
         }
       ]
     },
@@ -582,52 +735,53 @@
       "v": 8,
       "words": [
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "וַ/יֵּ֤שֶׁב",
+          "tr": "yâshab",
           "te": "అప్పుడు",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HC/Vqw3ms",
+          "strongs": "H3427"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "עֵשָׂו֙",
+          "tr": "ʻÊsâv",
           "te": "ఏశావు",
-          "gr": "N-mp"
+          "gr": "HNp",
+          "strongs": "H6215"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "בְּ/הַ֣ר",
+          "tr": "har",
           "te": "శేయీరు",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HR/Ncmsc",
+          "strongs": "H2022"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "שֵׂעִ֔יר",
+          "tr": "Sêʻîyr",
           "te": "మన్యములో",
-          "gr": "N-mp"
+          "gr": "HNp",
+          "strongs": "H8165"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "עֵשָׂ֖ו",
+          "tr": "ʻÊsâv",
           "te": "నివసించెను",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNp",
+          "strongs": "H6215"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "ה֥וּא",
+          "tr": "hûwʼ",
           "te": "ఏశావు",
-          "gr": "N-mp"
+          "gr": "HPp3ms",
+          "strongs": "H1931"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "אֱדֽוֹם",
+          "tr": "H0123",
           "te": "అనగా",
-          "gr": "V-Qal-Perf-3ms"
-        },
-        {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
-          "te": "ఎదోము",
-          "gr": "N-mp"
+          "gr": "HNp",
+          "strongs": "H0123"
         }
       ]
     },
@@ -635,52 +789,53 @@
       "v": 9,
       "words": [
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "וְ/אֵ֛לֶּה",
+          "tr": "H0428",
           "te": "శేయీరు",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HC/Pdxcp",
+          "strongs": "H0428"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "תֹּלְד֥וֹת",
+          "tr": "tôwlᵉdâh",
           "te": "మన్యములో",
-          "gr": "N-mp"
+          "gr": "HNcfpc",
+          "strongs": "H8435"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "עֵשָׂ֖ו",
+          "tr": "ʻÊsâv",
           "te": "నివసించిన",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNp",
+          "strongs": "H6215"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "אֲבִ֣י",
+          "tr": "H0001",
           "te": "ఎదోమీయుల",
-          "gr": "N-mp"
+          "gr": "HNcmsc",
+          "strongs": "H0001"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "אֱד֑וֹם",
+          "tr": "H0123",
           "te": "తండ్రియైన",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNp",
+          "strongs": "H0123"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "בְּ/הַ֖ר",
+          "tr": "har",
           "te": "ఏశావు",
-          "gr": "N-mp"
+          "gr": "HR/Ncmsc",
+          "strongs": "H2022"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "שֵׂעִֽיר",
+          "tr": "Sêʻîyr",
           "te": "వంశావళి",
-          "gr": "V-Qal-Perf-3ms"
-        },
-        {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
-          "te": "ఇదే",
-          "gr": "N-mp"
+          "gr": "HNp",
+          "strongs": "H8165"
         }
       ]
     },
@@ -688,94 +843,102 @@
       "v": 10,
       "words": [
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "אֵ֖לֶּה",
+          "tr": "H0428",
           "te": "ఏశావు",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HPdxcp",
+          "strongs": "H0428"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "שְׁמ֣וֹת",
+          "tr": "shêm",
           "te": "కుమా",
-          "gr": "N-mp"
+          "gr": "HNcmpc",
+          "strongs": "H8034"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "בְּנֵֽי",
+          "tr": "bên",
           "te": "రుల",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNcmpc",
+          "strongs": "H1121"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "עֵשָׂ֑ו",
+          "tr": "ʻÊsâv",
           "te": "పేరులు",
-          "gr": "N-mp"
+          "gr": "HNp",
+          "strongs": "H6215"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "אֱלִיפַ֗ז",
+          "tr": "H0464",
           "te": "ఇవే",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNp",
+          "strongs": "H0464"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "בֶּן",
+          "tr": "bên",
           "te": "ఏశావు",
-          "gr": "N-mp"
+          "gr": "HNcmsc",
+          "strongs": "H1121"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "עָדָה֙",
+          "tr": "ʻÂdâh",
           "te": "భార్యయైన",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNp",
+          "strongs": "H5711"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "אֵ֣שֶׁת",
+          "tr": "H0802",
           "te": "ఆదా",
-          "gr": "N-mp"
+          "gr": "HNcfsc",
+          "strongs": "H0802"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "עֵשָׂ֔ו",
+          "tr": "ʻÊsâv",
           "te": "కుమారుడగు",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNp",
+          "strongs": "H6215"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "רְעוּאֵ֕ל",
+          "tr": "Rᵉʻûwʼêl",
           "te": "ఎలీఫజును",
-          "gr": "N-mp"
+          "gr": "HNp",
+          "strongs": "H7467"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "בֶּן",
+          "tr": "bên",
           "te": "ఏశావు",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNcmsc",
+          "strongs": "H1121"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "בָּשְׂמַ֖ת",
+          "tr": "Bosmath",
           "te": "భార్యయైన",
-          "gr": "N-mp"
+          "gr": "HNp",
+          "strongs": "H1315"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "אֵ֥שֶׁת",
+          "tr": "H0802",
           "te": "బాశెమతు",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNcfsc",
+          "strongs": "H0802"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "עֵשָֽׂו",
+          "tr": "ʻÊsâv",
           "te": "కుమారుడగు",
-          "gr": "N-mp"
-        },
-        {
-          "hb": "בָּרָא",
-          "tr": "bara",
-          "te": "రగూయేలును",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNp",
+          "strongs": "H6215"
         }
       ]
     },
@@ -783,76 +946,60 @@
       "v": 11,
       "words": [
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
-          "te": "ఎలీఫజు",
-          "gr": "V-Qal-Perf-3ms"
+          "hb": "וַ/יִּהְי֖וּ",
+          "tr": "hâyâh",
+          "te": "ఆయెను",
+          "gr": "HC/Vqw3mp",
+          "strongs": "H1961"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "בְּנֵ֣י",
+          "tr": "bên",
           "te": "కుమారులు",
-          "gr": "N-mp"
+          "gr": "HNcmpc",
+          "strongs": "H1121"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
-          "te": "తేమాను",
-          "gr": "V-Qal-Perf-3ms"
-        },
-        {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "אֱלִיפָ֑ז",
+          "tr": "H0464",
           "te": "ఓమారు",
-          "gr": "N-mp"
+          "gr": "HNp",
+          "strongs": "H0464"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "תֵּימָ֣ן",
+          "tr": "Têymân",
           "te": "సెపో",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNp",
+          "strongs": "H8487"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
-          "te": "గాతాము",
-          "gr": "N-mp"
-        },
-        {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "אוֹמָ֔ר",
+          "tr": "H0201",
           "te": "కనజు",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNp",
+          "strongs": "H0201"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "צְפ֥וֹ",
+          "tr": "Tsᵉphôw",
           "te": "తిమ్నా",
-          "gr": "N-mp"
+          "gr": "HNp",
+          "strongs": "H6825"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
-          "te": "ఏశావు",
-          "gr": "V-Qal-Perf-3ms"
-        },
-        {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "וְ/גַעְתָּ֖ם",
+          "tr": "Gaʻtâm",
           "te": "కుమారుడైన",
-          "gr": "N-mp"
+          "gr": "HC/Np",
+          "strongs": "H1609"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "וּ/קְנַֽז",
+          "tr": "Qᵉnaz",
           "te": "ఎలీఫజునకు",
-          "gr": "V-Qal-Perf-3ms"
-        },
-        {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
-          "te": "ఉపపత్ని",
-          "gr": "N-mp"
+          "gr": "HC/Np",
+          "strongs": "H7073"
         }
       ]
     },
@@ -860,58 +1007,109 @@
       "v": 12,
       "words": [
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "וְ/תִמְנַ֣ע",
+          "tr": "Timnâʻ",
           "te": "ఆమె",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HC/Np",
+          "strongs": "H8555"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "הָיְתָ֣ה",
+          "tr": "hâyâh",
+          "te": "ఆయెను",
+          "gr": "HVqp3fs",
+          "strongs": "H1961"
+        },
+        {
+          "hb": "פִילֶ֗גֶשׁ",
+          "tr": "pîylegesh",
           "te": "ఎలీఫజుకు",
-          "gr": "N-mp"
+          "gr": "HNcfsa",
+          "strongs": "H6370"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "לֶֽ/אֱלִיפַז֙",
+          "tr": "H0464",
+          "te": "ఎలీఫజుకు",
+          "gr": "HR/Np",
+          "strongs": "H0464"
+        },
+        {
+          "hb": "בֶּן",
+          "tr": "bên",
           "te": "అమాలేకును",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNcmsc",
+          "strongs": "H1121"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "עֵשָׂ֔ו",
+          "tr": "ʻÊsâv",
           "te": "కనెను",
-          "gr": "N-mp"
+          "gr": "HNp",
+          "strongs": "H6215"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "וַ/תֵּ֥לֶד",
+          "tr": "yâlad",
+          "te": "కనెను",
+          "gr": "HC/Vqw3fs",
+          "strongs": "H3205"
+        },
+        {
+          "hb": "לֶ/אֱלִיפַ֖ז",
+          "tr": "H0464",
           "te": "వీరు",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HR/Np",
+          "strongs": "H0464"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "אֶת",
+          "tr": "H0853",
+          "te": "వీరు",
+          "gr": "HTo",
+          "strongs": "H0853"
+        },
+        {
+          "hb": "עֲמָלֵ֑ק",
+          "tr": "ʻĂmâlêq",
           "te": "ఏశావు",
-          "gr": "N-mp"
+          "gr": "HNp",
+          "strongs": "H6002"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "אֵ֕לֶּה",
+          "tr": "H0428",
           "te": "భార్యయైన",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HPdxcp",
+          "strongs": "H0428"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "בְּנֵ֥י",
+          "tr": "bên",
+          "te": "భార్యయైన",
+          "gr": "HNcmpc",
+          "strongs": "H1121"
+        },
+        {
+          "hb": "עָדָ֖ה",
+          "tr": "ʻÂdâh",
           "te": "ఆదా",
-          "gr": "N-mp"
+          "gr": "HNp",
+          "strongs": "H5711"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "אֵ֥שֶׁת",
+          "tr": "H0802",
+          "te": "ఆదా",
+          "gr": "HNcfsc",
+          "strongs": "H0802"
+        },
+        {
+          "hb": "עֵשָֽׂו",
+          "tr": "ʻÊsâv",
           "te": "కుమారులు",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNp",
+          "strongs": "H6215"
         }
       ]
     },
@@ -919,70 +1117,95 @@
       "v": 13,
       "words": [
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "וְ/אֵ֨לֶּה֙",
+          "tr": "H0428",
           "te": "రగూయేలు",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HC/Pdxcp",
+          "strongs": "H0428"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "בְּנֵ֣י",
+          "tr": "bên",
+          "te": "రగూయేలు",
+          "gr": "HNcmpc",
+          "strongs": "H1121"
+        },
+        {
+          "hb": "רְעוּאֵ֔ל",
+          "tr": "Rᵉʻûwʼêl",
           "te": "కుమారులు",
-          "gr": "N-mp"
+          "gr": "HNp",
+          "strongs": "H7467"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "נַ֥חַת",
+          "tr": "Nachath",
           "te": "నహతు",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNp",
+          "strongs": "H5184"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "וָ/זֶ֖רַח",
+          "tr": "Zerach",
           "te": "జెరహు",
-          "gr": "N-mp"
+          "gr": "HC/Np",
+          "strongs": "H2226"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "שַׁמָּ֣ה",
+          "tr": "Shammâh",
           "te": "షమ్మా",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNp",
+          "strongs": "H8048"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "וּ/מִזָּ֑ה",
+          "tr": "Mizzâh",
           "te": "మిజ్జ",
-          "gr": "N-mp"
+          "gr": "HC/Np",
+          "strongs": "H4199"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
-          "te": "వీరు",
-          "gr": "V-Qal-Perf-3ms"
+          "hb": "אֵ֣לֶּ֣ה",
+          "tr": "H0428",
+          "te": "మిజ్జ",
+          "gr": "HPdxcp",
+          "strongs": "H0428"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "הָי֔וּ",
+          "tr": "hâyâh",
+          "te": "ఆయెను",
+          "gr": "HVqp3cp",
+          "strongs": "H1961"
+        },
+        {
+          "hb": "בְּנֵ֥י",
+          "tr": "bên",
           "te": "ఏశావు",
-          "gr": "N-mp"
+          "gr": "HNcmpc",
+          "strongs": "H1121"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "בָשְׂמַ֖ת",
+          "tr": "Bosmath",
           "te": "భార్యయైన",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNp",
+          "strongs": "H1315"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "אֵ֥שֶׁת",
+          "tr": "H0802",
           "te": "బాశెమతు",
-          "gr": "N-mp"
+          "gr": "HNcfsc",
+          "strongs": "H0802"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "עֵשָֽׂו",
+          "tr": "ʻÊsâv",
           "te": "కుమారులు",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNp",
+          "strongs": "H6215"
         }
       ]
     },
@@ -990,94 +1213,137 @@
       "v": 14,
       "words": [
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "וְ/אֵ֣לֶּה",
+          "tr": "H0428",
           "te": "ఏశావు",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HC/Pdxcp",
+          "strongs": "H0428"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "הָי֗וּ",
+          "tr": "hâyâh",
+          "te": "ఆయెను",
+          "gr": "HVqp3cp",
+          "strongs": "H1961"
+        },
+        {
+          "hb": "בְּנֵ֨י",
+          "tr": "bên",
           "te": "భార్యయు",
-          "gr": "N-mp"
+          "gr": "HNcmpc",
+          "strongs": "H1121"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "אָהֳלִיבָמָ֧ה",
+          "tr": "H0173",
           "te": "సిబ్యోను",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNp",
+          "strongs": "H0173"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "בַת",
+          "tr": "bath",
           "te": "కుమార్తెయగు",
-          "gr": "N-mp"
+          "gr": "HNcfsc",
+          "strongs": "H1323"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "עֲנָ֛ה",
+          "tr": "ʻĂnâh",
+          "te": "కుమార్తెయగు",
+          "gr": "HNp",
+          "strongs": "H6034"
+        },
+        {
+          "hb": "בַּת",
+          "tr": "bath",
           "te": "అనా",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNcfsc",
+          "strongs": "H1323"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "צִבְע֖וֹן",
+          "tr": "Tsibʻôwn",
           "te": "కుమార్తెయునైన",
-          "gr": "N-mp"
+          "gr": "HNp",
+          "strongs": "H6649"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "אֵ֣שֶׁת",
+          "tr": "H0802",
           "te": "అహొలీబామా",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNcfsc",
+          "strongs": "H0802"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "עֵשָׂ֑ו",
+          "tr": "ʻÊsâv",
           "te": "కుమారులు",
-          "gr": "N-mp"
+          "gr": "HNp",
+          "strongs": "H6215"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "וַ/תֵּ֣לֶד",
+          "tr": "yâlad",
+          "te": "కుమారులు",
+          "gr": "HC/Vqw3fs",
+          "strongs": "H3205"
+        },
+        {
+          "hb": "לְ/עֵשָׂ֔ו",
+          "tr": "ʻÊsâv",
           "te": "ఎవరనగా",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HR/Np",
+          "strongs": "H6215"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "אֶת",
+          "tr": "H0853",
           "te": "ఆమె",
-          "gr": "N-mp"
+          "gr": "HTo",
+          "strongs": "H0853"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "יעיש",
+          "tr": "Yᵉʻîysh",
           "te": "ఏశావునకు",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNp",
+          "strongs": "H3274"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "יְע֥וּשׁ",
+          "tr": "Yᵉʻûwsh",
           "te": "కనిన",
-          "gr": "N-mp"
+          "gr": "HNp",
+          "strongs": "H3266"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "וְ/אֶת",
+          "tr": "H0853",
+          "te": "కనిన",
+          "gr": "HC/To",
+          "strongs": "H0853"
+        },
+        {
+          "hb": "יַעְלָ֖ם",
+          "tr": "Yaʻlâm",
           "te": "యూషు",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNp",
+          "strongs": "H3281"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "וְ/אֶת",
+          "tr": "H0853",
           "te": "యాలాము",
-          "gr": "N-mp"
+          "gr": "HC/To",
+          "strongs": "H0853"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "קֹֽרַח",
+          "tr": "Qôrach",
           "te": "కోరహు",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNp",
+          "strongs": "H7141"
         }
       ]
     },
@@ -1085,106 +1351,116 @@
       "v": 15,
       "words": [
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "אֵ֖לֶּה",
+          "tr": "H0428",
           "te": "ఏశావు",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HPdxcp",
+          "strongs": "H0428"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "אַלּוּפֵ֣י",
+          "tr": "H0441",
           "te": "కుమారులలో",
-          "gr": "N-mp"
+          "gr": "HNcmpc",
+          "strongs": "H0441"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "בְנֵֽי",
+          "tr": "bên",
           "te": "వీరు",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNcmpc",
+          "strongs": "H1121"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "עֵשָׂ֑ו",
+          "tr": "ʻÊsâv",
           "te": "నాయకులు",
-          "gr": "N-mp"
+          "gr": "HNp",
+          "strongs": "H6215"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "בְּנֵ֤י",
+          "tr": "bên",
           "te": "ఏశావు",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNcmpc",
+          "strongs": "H1121"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "אֱלִיפַז֙",
+          "tr": "H0464",
           "te": "ప్రథమ",
-          "gr": "N-mp"
+          "gr": "HNp",
+          "strongs": "H0464"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "בְּכ֣וֹר",
+          "tr": "bᵉkôwr",
           "te": "కుమారుడైన",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNcmsc",
+          "strongs": "H1060"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "עֵשָׂ֔ו",
+          "tr": "ʻÊsâv",
           "te": "ఎలీఫజు",
-          "gr": "N-mp"
+          "gr": "HNp",
+          "strongs": "H6215"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "אַלּ֤וּף",
+          "tr": "H0441",
           "te": "కుమారులు",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNcmsa",
+          "strongs": "H0441"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "תֵּימָן֙",
+          "tr": "Têymân",
           "te": "తేమాను",
-          "gr": "N-mp"
+          "gr": "HNp",
+          "strongs": "H8487"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "אַלּ֣וּף",
+          "tr": "H0441",
           "te": "నాయకుడు",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNcmsa",
+          "strongs": "H0441"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "אוֹמָ֔ר",
+          "tr": "H0201",
           "te": "ఓమారు",
-          "gr": "N-mp"
+          "gr": "HNp",
+          "strongs": "H0201"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "אַלּ֥וּף",
+          "tr": "H0441",
           "te": "నాయకుడు",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNcmsa",
+          "strongs": "H0441"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "צְפ֖וֹ",
+          "tr": "Tsᵉphôw",
           "te": "సెపో",
-          "gr": "N-mp"
+          "gr": "HNp",
+          "strongs": "H6825"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "אַלּ֥וּף",
+          "tr": "H0441",
           "te": "నాయకుడు",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNcmsa",
+          "strongs": "H0441"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "קְנַֽז",
+          "tr": "Qᵉnaz",
           "te": "కనజు",
-          "gr": "N-mp"
-        },
-        {
-          "hb": "בָּרָא",
-          "tr": "bara",
-          "te": "నాయకుడు",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNp",
+          "strongs": "H7073"
         }
       ]
     },
@@ -1192,94 +1468,102 @@
       "v": 16,
       "words": [
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "אַלּֽוּף",
+          "tr": "H0441",
           "te": "కోరహు",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNcmsa",
+          "strongs": "H0441"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "קֹ֛רַח",
+          "tr": "Qôrach",
           "te": "నాయకుడు",
-          "gr": "N-mp"
+          "gr": "HNp",
+          "strongs": "H7141"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "אַלּ֥וּף",
+          "tr": "H0441",
           "te": "గాతాము",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNcmsa",
+          "strongs": "H0441"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "גַּעְתָּ֖ם",
+          "tr": "Gaʻtâm",
           "te": "నాయకుడు",
-          "gr": "N-mp"
+          "gr": "HNp",
+          "strongs": "H1609"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "אַלּ֣וּף",
+          "tr": "H0441",
           "te": "అమాలేకు",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNcmsa",
+          "strongs": "H0441"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "עֲמָלֵ֑ק",
+          "tr": "ʻĂmâlêq",
           "te": "నాయకుడు",
-          "gr": "N-mp"
+          "gr": "HNp",
+          "strongs": "H6002"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "אֵ֣לֶּה",
+          "tr": "H0428",
           "te": "వీరు",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HPdxcp",
+          "strongs": "H0428"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "אַלּוּפֵ֤י",
+          "tr": "H0441",
           "te": "ఎదోము",
-          "gr": "N-mp"
+          "gr": "HNcmpc",
+          "strongs": "H0441"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "אֱלִיפַז֙",
+          "tr": "H0464",
           "te": "దేశమందు",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNp",
+          "strongs": "H0464"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
-          "te": "ఎలీఫజు",
-          "gr": "N-mp"
+          "hb": "בְּ/אֶ֣רֶץ",
+          "tr": "H0776",
+          "te": "భూమిని",
+          "gr": "HR/Ncbsc",
+          "strongs": "H0776"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "אֱד֔וֹם",
+          "tr": "H0123",
           "te": "నాయ",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNp",
+          "strongs": "H0123"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "אֵ֖לֶּה",
+          "tr": "H0428",
           "te": "కులు",
-          "gr": "N-mp"
+          "gr": "HPdxcp",
+          "strongs": "H0428"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "בְּנֵ֥י",
+          "tr": "bên",
           "te": "వీరు",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNcmpc",
+          "strongs": "H1121"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "עָדָֽה",
+          "tr": "ʻÂdâh",
           "te": "ఆదా",
-          "gr": "N-mp"
-        },
-        {
-          "hb": "בָּרָא",
-          "tr": "bara",
-          "te": "కుమారులు",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNp",
+          "strongs": "H5711"
         }
       ]
     },
@@ -1287,148 +1571,165 @@
       "v": 17,
       "words": [
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "וְ/אֵ֗לֶּה",
+          "tr": "H0428",
           "te": "వీరు",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HC/Pdxcp",
+          "strongs": "H0428"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "בְּנֵ֤י",
+          "tr": "bên",
           "te": "ఏశావు",
-          "gr": "N-mp"
+          "gr": "HNcmpc",
+          "strongs": "H1121"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "רְעוּאֵל֙",
+          "tr": "Rᵉʻûwʼêl",
           "te": "కుమారుడైన",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNp",
+          "strongs": "H7467"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "בֶּן",
+          "tr": "bên",
           "te": "రగూయేలు",
-          "gr": "N-mp"
+          "gr": "HNcmsc",
+          "strongs": "H1121"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "עֵשָׂ֔ו",
+          "tr": "ʻÊsâv",
           "te": "కుమారులు",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNp",
+          "strongs": "H6215"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "אַלּ֥וּף",
+          "tr": "H0441",
           "te": "నహతు",
-          "gr": "N-mp"
+          "gr": "HNcmsa",
+          "strongs": "H0441"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "נַ֨חַת֙",
+          "tr": "Nachath",
           "te": "నాయకుడు",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNp",
+          "strongs": "H5184"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "אַלּ֣וּף",
+          "tr": "H0441",
           "te": "జెరహు",
-          "gr": "N-mp"
+          "gr": "HNcmsa",
+          "strongs": "H0441"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "זֶ֔רַח",
+          "tr": "Zerach",
           "te": "నాయకుడు",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNp",
+          "strongs": "H2226"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "אַלּ֥וּף",
+          "tr": "H0441",
           "te": "షమ్మా",
-          "gr": "N-mp"
+          "gr": "HNcmsa",
+          "strongs": "H0441"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "שַׁמָּ֖ה",
+          "tr": "Shammâh",
           "te": "నాయకుడు",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNp",
+          "strongs": "H8048"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "אַלּ֣וּף",
+          "tr": "H0441",
           "te": "మిజ్జ",
-          "gr": "N-mp"
+          "gr": "HNcmsa",
+          "strongs": "H0441"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "מִזָּ֑ה",
+          "tr": "Mizzâh",
           "te": "నాయకుడు",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNp",
+          "strongs": "H4199"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "אֵ֣לֶּה",
+          "tr": "H0428",
           "te": "వీరు",
-          "gr": "N-mp"
+          "gr": "HPdxcp",
+          "strongs": "H0428"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "אַלּוּפֵ֤י",
+          "tr": "H0441",
           "te": "ఎదోము",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNcmpc",
+          "strongs": "H0441"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "רְעוּאֵל֙",
+          "tr": "Rᵉʻûwʼêl",
           "te": "దేశమందు",
-          "gr": "N-mp"
+          "gr": "HNp",
+          "strongs": "H7467"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
-          "te": "రగూయేలు",
-          "gr": "V-Qal-Perf-3ms"
+          "hb": "בְּ/אֶ֣רֶץ",
+          "tr": "H0776",
+          "te": "భూమిని",
+          "gr": "HR/Ncbsc",
+          "strongs": "H0776"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "אֱד֔וֹם",
+          "tr": "H0123",
           "te": "సంతానపు",
-          "gr": "N-mp"
+          "gr": "HNp",
+          "strongs": "H0123"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "אֵ֕לֶּה",
+          "tr": "H0428",
           "te": "నాయకులు",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HPdxcp",
+          "strongs": "H0428"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "בְּנֵ֥י",
+          "tr": "bên",
           "te": "వీరు",
-          "gr": "N-mp"
+          "gr": "HNcmpc",
+          "strongs": "H1121"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "בָשְׂמַ֖ת",
+          "tr": "Bosmath",
           "te": "ఏశావు",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNp",
+          "strongs": "H1315"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "אֵ֥שֶׁת",
+          "tr": "H0802",
           "te": "భార్యయైన",
-          "gr": "N-mp"
+          "gr": "HNcfsc",
+          "strongs": "H0802"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "עֵשָֽׂו",
+          "tr": "ʻÊsâv",
           "te": "బాశెమతు",
-          "gr": "V-Qal-Perf-3ms"
-        },
-        {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
-          "te": "కుమారులు",
-          "gr": "N-mp"
+          "gr": "HNp",
+          "strongs": "H6215"
         }
       ]
     },
@@ -1436,124 +1737,130 @@
       "v": 18,
       "words": [
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "וְ/אֵ֗לֶּה",
+          "tr": "H0428",
           "te": "వీరు",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HC/Pdxcp",
+          "strongs": "H0428"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "בְּנֵ֤י",
+          "tr": "bên",
           "te": "ఏశావు",
-          "gr": "N-mp"
+          "gr": "HNcmpc",
+          "strongs": "H1121"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "אָהֳלִֽיבָמָה֙",
+          "tr": "H0173",
           "te": "భార్యయైన",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNp",
+          "strongs": "H0173"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "אֵ֣שֶׁת",
+          "tr": "H0802",
           "te": "అహొలీబామా",
-          "gr": "N-mp"
+          "gr": "HNcfsc",
+          "strongs": "H0802"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "עֵשָׂ֔ו",
+          "tr": "ʻÊsâv",
           "te": "కుమారులు",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNp",
+          "strongs": "H6215"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "אַלּ֥וּף",
+          "tr": "H0441",
           "te": "యూషు",
-          "gr": "N-mp"
+          "gr": "HNcmsa",
+          "strongs": "H0441"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "יְע֛וּשׁ",
+          "tr": "Yᵉʻûwsh",
           "te": "నాయకుడు",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNp",
+          "strongs": "H3266"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "אַלּ֥וּף",
+          "tr": "H0441",
           "te": "యగ్లాము",
-          "gr": "N-mp"
+          "gr": "HNcmsa",
+          "strongs": "H0441"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "יַעְלָ֖ם",
+          "tr": "Yaʻlâm",
           "te": "నాయకుడు",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNp",
+          "strongs": "H3281"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
-          "te": "కోరహు",
-          "gr": "N-mp"
-        },
-        {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "אַלּ֣וּף",
+          "tr": "H0441",
           "te": "నాయకుడు",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNcmsa",
+          "strongs": "H0441"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "קֹ֑רַח",
+          "tr": "Qôrach",
           "te": "వీరు",
-          "gr": "N-mp"
+          "gr": "HNp",
+          "strongs": "H7141"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "אֵ֣לֶּה",
+          "tr": "H0428",
           "te": "అనా",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HPdxcp",
+          "strongs": "H0428"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "אַלּוּפֵ֞י",
+          "tr": "H0441",
           "te": "కుమార్తెయు",
-          "gr": "N-mp"
+          "gr": "HNcmpc",
+          "strongs": "H0441"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "אָֽהֳלִיבָמָ֛ה",
+          "tr": "H0173",
           "te": "ఏశావు",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNp",
+          "strongs": "H0173"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "בַּת",
+          "tr": "bath",
           "te": "భార్యయునైన",
-          "gr": "N-mp"
+          "gr": "HNcfsc",
+          "strongs": "H1323"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "עֲנָ֖ה",
+          "tr": "ʻĂnâh",
           "te": "అహొలీ",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNp",
+          "strongs": "H6034"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "אֵ֥שֶׁת",
+          "tr": "H0802",
           "te": "బామా",
-          "gr": "N-mp"
+          "gr": "HNcfsc",
+          "strongs": "H0802"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "עֵשָֽׂו",
+          "tr": "ʻÊsâv",
           "te": "పుత్రసంతానపు",
-          "gr": "V-Qal-Perf-3ms"
-        },
-        {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
-          "te": "నాయకులు",
-          "gr": "N-mp"
+          "gr": "HNp",
+          "strongs": "H6215"
         }
       ]
     },
@@ -1561,58 +1868,53 @@
       "v": 19,
       "words": [
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "אֵ֧לֶּה",
+          "tr": "H0428",
           "te": "ఎదోమను",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HPdxcp",
+          "strongs": "H0428"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "בְנֵי",
+          "tr": "bên",
           "te": "ఏశావు",
-          "gr": "N-mp"
+          "gr": "HNcmpc",
+          "strongs": "H1121"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "עֵשָׂ֛ו",
+          "tr": "ʻÊsâv",
           "te": "కుమారులు",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNp",
+          "strongs": "H6215"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "וְ/אֵ֥לֶּה",
+          "tr": "H0428",
           "te": "వీరు",
-          "gr": "N-mp"
+          "gr": "HC/Pdxcp",
+          "strongs": "H0428"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "אַלּוּפֵי/הֶ֖ם",
+          "tr": "H0441",
           "te": "వారి",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNcmpc/Sp3mp",
+          "strongs": "H0441"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
-          "te": "వారి",
-          "gr": "N-mp"
-        },
-        {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "ה֥וּא",
+          "tr": "hûwʼ",
           "te": "సంతానపు",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HPp3ms",
+          "strongs": "H1931"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "אֱדֽוֹם",
+          "tr": "H0123",
           "te": "నాయకులు",
-          "gr": "N-mp"
-        },
-        {
-          "hb": "בָּרָא",
-          "tr": "bara",
-          "te": "వీరు",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNp",
+          "strongs": "H0123"
         }
       ]
     },
@@ -1620,70 +1922,74 @@
       "v": 20,
       "words": [
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "אֵ֤לֶּה",
+          "tr": "H0428",
           "te": "ఆ",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HPdxcp",
+          "strongs": "H0428"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "בְנֵֽי",
+          "tr": "bên",
           "te": "దేశ",
-          "gr": "N-mp"
+          "gr": "HNcmpc",
+          "strongs": "H1121"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "שֵׂעִיר֙",
+          "tr": "Sêʻîyr",
           "te": "నివాసులైన",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNp",
+          "strongs": "H8165"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "הַ/חֹרִ֔י",
+          "tr": "Chôrîy",
           "te": "హోరీయుడైన",
-          "gr": "N-mp"
+          "gr": "HTd/Ngmsa",
+          "strongs": "H2752"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "יֹשְׁבֵ֖י",
+          "tr": "yâshab",
           "te": "శేయీరు",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HVqrmpc",
+          "strongs": "H3427"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
-          "te": "కుమా",
-          "gr": "N-mp"
+          "hb": "הָ/אָ֑רֶץ",
+          "tr": "H0776",
+          "te": "భూమిని",
+          "gr": "HTd/Ncbsa",
+          "strongs": "H0776"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "לוֹטָ֥ן",
+          "tr": "Lôwṭân",
           "te": "రులు",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNp",
+          "strongs": "H3877"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "וְ/שׁוֹבָ֖ל",
+          "tr": "Shôwbâl",
           "te": "లోతాను",
-          "gr": "N-mp"
+          "gr": "HC/Np",
+          "strongs": "H7732"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "וְ/צִבְע֥וֹן",
+          "tr": "Tsibʻôwn",
           "te": "శోబాలు",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HC/Np",
+          "strongs": "H6649"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "וַ/עֲנָֽה",
+          "tr": "ʻĂnâh",
           "te": "సిబ్యోను",
-          "gr": "N-mp"
-        },
-        {
-          "hb": "בָּרָא",
-          "tr": "bara",
-          "te": "అనా",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HC/Np",
+          "strongs": "H6034"
         }
       ]
     },
@@ -1691,64 +1997,74 @@
       "v": 21,
       "words": [
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "וְ/דִשׁ֥וֹן",
+          "tr": "Dîyshôwn",
           "te": "దిషోను",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HC/Np",
+          "strongs": "H1787"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "וְ/אֵ֖צֶר",
+          "tr": "H0687",
           "te": "ఏసెరు",
-          "gr": "N-mp"
+          "gr": "HC/Np",
+          "strongs": "H0687"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "וְ/דִישָׁ֑ן",
+          "tr": "Dîyshân",
           "te": "దీషాను",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HC/Np",
+          "strongs": "H1789"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "אֵ֣לֶּה",
+          "tr": "H0428",
           "te": "వీరు",
-          "gr": "N-mp"
+          "gr": "HPdxcp",
+          "strongs": "H0428"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "אַלּוּפֵ֧י",
+          "tr": "H0441",
           "te": "ఎదోము",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNcmpc",
+          "strongs": "H0441"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "הַ/חֹרִ֛י",
+          "tr": "Chôrîy",
           "te": "దేశమందు",
-          "gr": "N-mp"
+          "gr": "HTd/Ngmsa",
+          "strongs": "H2752"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "בְּנֵ֥י",
+          "tr": "bên",
           "te": "శేయీరు",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNcmpc",
+          "strongs": "H1121"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "שֵׂעִ֖יר",
+          "tr": "Sêʻîyr",
           "te": "పుత్రులైన",
-          "gr": "N-mp"
+          "gr": "HNp",
+          "strongs": "H8165"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
-          "te": "హోరీయుల",
-          "gr": "V-Qal-Perf-3ms"
+          "hb": "בְּ/אֶ֥רֶץ",
+          "tr": "H0776",
+          "te": "భూమిని",
+          "gr": "HR/Ncbsc",
+          "strongs": "H0776"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "אֱדֽוֹם",
+          "tr": "H0123",
           "te": "నాయకులు",
-          "gr": "N-mp"
+          "gr": "HNp",
+          "strongs": "H0123"
         }
       ]
     },
@@ -1756,46 +2072,60 @@
       "v": 22,
       "words": [
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
-          "te": "లోతాను",
-          "gr": "V-Qal-Perf-3ms"
+          "hb": "וַ/יִּהְי֥וּ",
+          "tr": "hâyâh",
+          "te": "ఆయెను",
+          "gr": "HC/Vqw3mp",
+          "strongs": "H1961"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "בְנֵי",
+          "tr": "bên",
+          "te": "లోతాను",
+          "gr": "HNcmpc",
+          "strongs": "H1121"
+        },
+        {
+          "hb": "לוֹטָ֖ן",
+          "tr": "Lôwṭân",
           "te": "కుమారులు",
-          "gr": "N-mp"
+          "gr": "HNp",
+          "strongs": "H3877"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "חֹרִ֣י",
+          "tr": "Chôrîy",
           "te": "హోరీ",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNp",
+          "strongs": "H2753"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "וְ/הֵימָ֑ם",
+          "tr": "Hêymâm",
           "te": "హేమీము",
-          "gr": "N-mp"
+          "gr": "HC/Np",
+          "strongs": "H1967"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "וַ/אֲח֥וֹת",
+          "tr": "H0269",
           "te": "లోతాను",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HC/Ncfsc",
+          "strongs": "H0269"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "לוֹטָ֖ן",
+          "tr": "Lôwṭân",
           "te": "సహోదరి",
-          "gr": "N-mp"
+          "gr": "HNp",
+          "strongs": "H3877"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "תִּמְנָֽע",
+          "tr": "Timnâʻ",
           "te": "తిమ్నా",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNp",
+          "strongs": "H8555"
         }
       ]
     },
@@ -1803,46 +2133,60 @@
       "v": 23,
       "words": [
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "וְ/אֵ֨לֶּה֙",
+          "tr": "H0428",
           "te": "శోబాలు",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HC/Pdxcp",
+          "strongs": "H0428"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "בְּנֵ֣י",
+          "tr": "bên",
+          "te": "శోబాలు",
+          "gr": "HNcmpc",
+          "strongs": "H1121"
+        },
+        {
+          "hb": "שׁוֹבָ֔ל",
+          "tr": "Shôwbâl",
           "te": "కుమారులు",
-          "gr": "N-mp"
+          "gr": "HNp",
+          "strongs": "H7732"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "עַלְוָ֥ן",
+          "tr": "ʻAlvân",
           "te": "అల్వాను",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNp",
+          "strongs": "H5935"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "וּ/מָנַ֖חַת",
+          "tr": "Mânachath",
           "te": "మానహదు",
-          "gr": "N-mp"
+          "gr": "HC/Np",
+          "strongs": "H4506"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "וְ/עֵיבָ֑ל",
+          "tr": "ʻÊybâl",
           "te": "ఏబాలు",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HC/Np",
+          "strongs": "H5858"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "שְׁפ֖וֹ",
+          "tr": "Shᵉphôw",
           "te": "షపో",
-          "gr": "N-mp"
+          "gr": "HNp",
+          "strongs": "H8195"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "וְ/אוֹנָֽם",
+          "tr": "H0208",
           "te": "ఓనాము",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HC/Np",
+          "strongs": "H0208"
         }
       ]
     },
@@ -1850,100 +2194,123 @@
       "v": 24,
       "words": [
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "וְ/אֵ֥לֶּה",
+          "tr": "H0428",
           "te": "సిబ్యోను",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HC/Pdxcp",
+          "strongs": "H0428"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "בְנֵֽי",
+          "tr": "bên",
+          "te": "సిబ్యోను",
+          "gr": "HNcmpc",
+          "strongs": "H1121"
+        },
+        {
+          "hb": "צִבְע֖וֹן",
+          "tr": "Tsibʻôwn",
           "te": "కుమారులు",
-          "gr": "N-mp"
+          "gr": "HNp",
+          "strongs": "H6649"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "וְ/אַיָּ֣ה",
+          "tr": "H0345",
           "te": "అయ్యా",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HC/Np",
+          "strongs": "H0345"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "וַ/עֲנָ֑ה",
+          "tr": "ʻĂnâh",
           "te": "అనా",
-          "gr": "N-mp"
+          "gr": "HC/Np",
+          "strongs": "H6034"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "ה֣וּא",
+          "tr": "hûwʼ",
           "te": "ఆ",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HPp3ms",
+          "strongs": "H1931"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "עֲנָ֗ה",
+          "tr": "ʻĂnâh",
           "te": "అనా",
-          "gr": "N-mp"
+          "gr": "HNp",
+          "strongs": "H6034"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "אֲשֶׁ֨ר",
+          "tr": "H0834",
           "te": "తన",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HTr",
+          "strongs": "H0834"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "מָצָ֤א",
+          "tr": "mâtsâʼ",
           "te": "తండ్రియైన",
-          "gr": "N-mp"
+          "gr": "HVqp3ms",
+          "strongs": "H4672"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "אֶת",
+          "tr": "H0853",
           "te": "సిబ్యోను",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HTo",
+          "strongs": "H0853"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "הַ/יֵּמִם֙",
+          "tr": "yêm",
           "te": "గాడిదలను",
-          "gr": "N-mp"
+          "gr": "HTd/Ncmpa",
+          "strongs": "H3222"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "בַּ/מִּדְבָּ֔ר",
+          "tr": "midbâr",
           "te": "మేపుచుండి",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HRd/Ncmsa",
+          "strongs": "H4057"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "בִּ/רְעֹת֥/וֹ",
+          "tr": "râʻâh",
           "te": "అరణ్య",
-          "gr": "N-mp"
+          "gr": "HR/Vqc/Sp3ms",
+          "strongs": "H7462"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "אֶת",
+          "tr": "H0853",
           "te": "ములో",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HTo",
+          "strongs": "H0853"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "הַ/חֲמֹרִ֖ים",
+          "tr": "chămôwr",
           "te": "ఉష్ణధారలు",
-          "gr": "N-mp"
+          "gr": "HTd/Ncbpa",
+          "strongs": "H2543"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "לְ/צִבְע֥וֹן",
+          "tr": "Tsibʻôwn",
           "te": "కనుగొనిన",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HR/Np",
+          "strongs": "H6649"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "אָבִֽי/ו",
+          "tr": "H0001",
           "te": "వాడు",
-          "gr": "N-mp"
+          "gr": "HNcmsc/Sp3ms",
+          "strongs": "H0001"
         }
       ]
     },
@@ -1951,40 +2318,53 @@
       "v": 25,
       "words": [
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "וְ/אֵ֥לֶּה",
+          "tr": "H0428",
           "te": "అనా",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HC/Pdxcp",
+          "strongs": "H0428"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "בְנֵֽי",
+          "tr": "bên",
+          "te": "అనా",
+          "gr": "HNcmpc",
+          "strongs": "H1121"
+        },
+        {
+          "hb": "עֲנָ֖ה",
+          "tr": "ʻĂnâh",
           "te": "సంతానము",
-          "gr": "N-mp"
+          "gr": "HNp",
+          "strongs": "H6034"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "דִּשֹׁ֑ן",
+          "tr": "Dîyshôwn",
           "te": "దిషోను",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNp",
+          "strongs": "H1787"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "וְ/אָהֳלִיבָמָ֖ה",
+          "tr": "H0173",
           "te": "అనా",
-          "gr": "N-mp"
+          "gr": "HC/Np",
+          "strongs": "H0173"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "בַּת",
+          "tr": "bath",
           "te": "కుమార్తెయైన",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNcfsc",
+          "strongs": "H1323"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "עֲנָֽה",
+          "tr": "ʻĂnâh",
           "te": "అహొలీబామా",
-          "gr": "N-mp"
+          "gr": "HNp",
+          "strongs": "H6034"
         }
       ]
     },
@@ -1992,40 +2372,53 @@
       "v": 26,
       "words": [
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "וְ/אֵ֖לֶּה",
+          "tr": "H0428",
           "te": "దిషోను",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HC/Pdxcp",
+          "strongs": "H0428"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "בְּנֵ֣י",
+          "tr": "bên",
+          "te": "దిషోను",
+          "gr": "HNcmpc",
+          "strongs": "H1121"
+        },
+        {
+          "hb": "דִישָׁ֑ן",
+          "tr": "Dîyshân",
           "te": "కుమారులు",
-          "gr": "N-mp"
+          "gr": "HNp",
+          "strongs": "H1789"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "חֶמְדָּ֥ן",
+          "tr": "Chemdân",
           "te": "హెవ్దూను",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNp",
+          "strongs": "H2533"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "וְ/אֶשְׁבָּ֖ן",
+          "tr": "H0790",
           "te": "ఎష్బాను",
-          "gr": "N-mp"
+          "gr": "HC/Np",
+          "strongs": "H0790"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "וְ/יִתְרָ֥ן",
+          "tr": "Yithrân",
           "te": "ఇత్రాను",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HC/Np",
+          "strongs": "H3506"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "וּ/כְרָֽן",
+          "tr": "Kᵉrân",
           "te": "కెరాను",
-          "gr": "N-mp"
+          "gr": "HC/Np",
+          "strongs": "H3763"
         }
       ]
     },
@@ -2033,34 +2426,46 @@
       "v": 27,
       "words": [
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "אֵ֖לֶּה",
+          "tr": "H0428",
           "te": "ఏసెరు",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HPdxcp",
+          "strongs": "H0428"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "בְּנֵי",
+          "tr": "bên",
+          "te": "ఏసెరు",
+          "gr": "HNcmpc",
+          "strongs": "H1121"
+        },
+        {
+          "hb": "אֵ֑צֶר",
+          "tr": "H0687",
           "te": "కుమారులు",
-          "gr": "N-mp"
+          "gr": "HNp",
+          "strongs": "H0687"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "בִּלְהָ֥ן",
+          "tr": "Bilhân",
           "te": "బిల్హాను",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNp",
+          "strongs": "H1092"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "וְ/זַעֲוָ֖ן",
+          "tr": "Zaʻăvân",
           "te": "జవాను",
-          "gr": "N-mp"
+          "gr": "HC/Np",
+          "strongs": "H2190"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "וַ/עֲקָֽן",
+          "tr": "ʻÂqân",
           "te": "అకాను",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HC/Np",
+          "strongs": "H6130"
         }
       ]
     },
@@ -2068,28 +2473,39 @@
       "v": 28,
       "words": [
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "אֵ֥לֶּה",
+          "tr": "H0428",
           "te": "దీషాను",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HPdxcp",
+          "strongs": "H0428"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "בְנֵֽי",
+          "tr": "bên",
+          "te": "దీషాను",
+          "gr": "HNcmpc",
+          "strongs": "H1121"
+        },
+        {
+          "hb": "דִישָׁ֖ן",
+          "tr": "Dîyshân",
           "te": "కుమారులు",
-          "gr": "N-mp"
+          "gr": "HNp",
+          "strongs": "H1789"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "ע֥וּץ",
+          "tr": "ʻÛwts",
           "te": "ఊజు",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNp",
+          "strongs": "H5780"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "וַ/אֲרָֽן",
+          "tr": "H0765",
           "te": "అరాను",
-          "gr": "N-mp"
+          "gr": "HC/Np",
+          "strongs": "H0765"
         }
       ]
     },
@@ -2097,64 +2513,81 @@
       "v": 29,
       "words": [
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "אֵ֖לֶּה",
+          "tr": "H0428",
           "te": "హోరీయుల",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HPdxcp",
+          "strongs": "H0428"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "אַלּוּפֵ֣י",
+          "tr": "H0441",
+          "te": "హోరీయుల",
+          "gr": "HNcmpc",
+          "strongs": "H0441"
+        },
+        {
+          "hb": "הַ/חֹרִ֑י",
+          "tr": "Chôrîy",
           "te": "నాయకులు",
-          "gr": "N-mp"
+          "gr": "HTd/Ngmsa",
+          "strongs": "H2752"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "אַלּ֤וּף",
+          "tr": "H0441",
           "te": "లోతాను",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNcmsa",
+          "strongs": "H0441"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "לוֹטָן֙",
+          "tr": "Lôwṭân",
           "te": "నాయకుడు",
-          "gr": "N-mp"
+          "gr": "HNp",
+          "strongs": "H3877"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "אַלּ֣וּף",
+          "tr": "H0441",
           "te": "శోబాలు",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNcmsa",
+          "strongs": "H0441"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "שׁוֹבָ֔ל",
+          "tr": "Shôwbâl",
           "te": "నాయకుడు",
-          "gr": "N-mp"
+          "gr": "HNp",
+          "strongs": "H7732"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "אַלּ֥וּף",
+          "tr": "H0441",
           "te": "సిబ్యోను",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNcmsa",
+          "strongs": "H0441"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "צִבְע֖וֹן",
+          "tr": "Tsibʻôwn",
           "te": "నాయకుడు",
-          "gr": "N-mp"
+          "gr": "HNp",
+          "strongs": "H6649"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "אַלּ֥וּף",
+          "tr": "H0441",
           "te": "అనా",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNcmsa",
+          "strongs": "H0441"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "עֲנָֽה",
+          "tr": "ʻĂnâh",
           "te": "నాయకుడు",
-          "gr": "N-mp"
+          "gr": "HNp",
+          "strongs": "H6034"
         }
       ]
     },
@@ -2162,88 +2595,88 @@
       "v": 30,
       "words": [
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "אַלּ֥וּף",
+          "tr": "H0441",
           "te": "దిషోను",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNcmsa",
+          "strongs": "H0441"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "דִּשֹׁ֛ן",
+          "tr": "Dîyshôwn",
           "te": "నాయకుడు",
-          "gr": "N-mp"
+          "gr": "HNp",
+          "strongs": "H1787"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "אַלּ֥וּף",
+          "tr": "H0441",
           "te": "ఏసెరు",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNcmsa",
+          "strongs": "H0441"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "אֵ֖צֶר",
+          "tr": "H0687",
           "te": "నాయకుడు",
-          "gr": "N-mp"
+          "gr": "HNp",
+          "strongs": "H0687"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "אַלּ֣וּף",
+          "tr": "H0441",
           "te": "దీషాను",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNcmsa",
+          "strongs": "H0441"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "דִּישָׁ֑ן",
+          "tr": "Dîyshân",
           "te": "నాయకుడు",
-          "gr": "N-mp"
+          "gr": "HNp",
+          "strongs": "H1789"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
-          "te": "శేయీరు",
-          "gr": "V-Qal-Perf-3ms"
-        },
-        {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "אֵ֣לֶּה",
+          "tr": "H0428",
           "te": "దేశమందలి",
-          "gr": "N-mp"
+          "gr": "HPdxcp",
+          "strongs": "H0428"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "אַלּוּפֵ֧י",
+          "tr": "H0441",
           "te": "వారి",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNcmpc",
+          "strongs": "H0441"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "הַ/חֹרִ֛י",
+          "tr": "Chôrîy",
           "te": "నాయకుల",
-          "gr": "N-mp"
+          "gr": "HTd/Ngmsa",
+          "strongs": "H2753"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "לְ/אַלֻּפֵי/הֶ֖ם",
+          "tr": "H0441",
           "te": "చొప్పున",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HR/Ncmpc/Sp3mp",
+          "strongs": "H0441"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
-          "te": "వీరు",
-          "gr": "N-mp"
+          "hb": "בְּ/אֶ֥רֶץ",
+          "tr": "H0776",
+          "te": "భూమిని",
+          "gr": "HR/Ncbsc",
+          "strongs": "H0776"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "שֵׂעִֽיר",
+          "tr": "Sêʻîyr",
           "te": "హోరీయుల",
-          "gr": "V-Qal-Perf-3ms"
-        },
-        {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
-          "te": "నాయకులు",
-          "gr": "N-mp"
+          "gr": "HNp",
+          "strongs": "H8165"
         }
       ]
     },
@@ -2251,88 +2684,81 @@
       "v": 31,
       "words": [
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "וְ/אֵ֨לֶּה֙",
+          "tr": "H0428",
           "te": "మరియు",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HC/Pdxcp",
+          "strongs": "H0428"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "הַ/מְּלָכִ֔ים",
+          "tr": "melek",
           "te": "ఏ",
-          "gr": "N-mp"
+          "gr": "HTd/Ncmpa",
+          "strongs": "H4428"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "אֲשֶׁ֥ר",
+          "tr": "H0834",
           "te": "రాజైనను",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HTr",
+          "strongs": "H0834"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "מָלְכ֖וּ",
+          "tr": "mâlak",
           "te": "ఇశ్రాయేలీయుల",
-          "gr": "N-mp"
+          "gr": "HVqp3cp",
+          "strongs": "H4427"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
-          "te": "మీద",
-          "gr": "V-Qal-Perf-3ms"
+          "hb": "בְּ/אֶ֣רֶץ",
+          "tr": "H0776",
+          "te": "భూమిని",
+          "gr": "HR/Ncbsc",
+          "strongs": "H0776"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
-          "te": "రాజ్య",
-          "gr": "N-mp"
-        },
-        {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "אֱד֑וֹם",
+          "tr": "H0123",
           "te": "పరిపాలన",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNp",
+          "strongs": "H0123"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "לִ/פְנֵ֥י",
+          "tr": "pânîym",
           "te": "చేయకమునుపు",
-          "gr": "N-mp"
+          "gr": "HR/Ncbpc",
+          "strongs": "H6440"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "מְלָךְ",
+          "tr": "mâlak",
           "te": "ఎదోము",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HVqc",
+          "strongs": "H4427"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
-          "te": "దేశములో",
-          "gr": "N-mp"
-        },
-        {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "מֶ֖לֶךְ",
+          "tr": "melek",
           "te": "రాజ్యపరి",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNcmsa",
+          "strongs": "H4428"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "לִ/בְנֵ֥י",
+          "tr": "bên",
           "te": "పాలన",
-          "gr": "N-mp"
+          "gr": "HR/Ncmpc",
+          "strongs": "H1121"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "יִשְׂרָאֵֽל",
+          "tr": "Yisrâʼêl",
           "te": "చేసినరాజు",
-          "gr": "V-Qal-Perf-3ms"
-        },
-        {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
-          "te": "లెవరనగా",
-          "gr": "N-mp"
+          "gr": "HNp",
+          "strongs": "H3478"
         }
       ]
     },
@@ -2340,64 +2766,60 @@
       "v": 32,
       "words": [
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "וַ/יִּמְלֹ֣ךְ",
+          "tr": "mâlak",
           "te": "బెయారు",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HC/Vqw3ms",
+          "strongs": "H4427"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "בֶּ/אֱד֔וֹם",
+          "tr": "H0123",
           "te": "కుమారుడైన",
-          "gr": "N-mp"
+          "gr": "HR/Np",
+          "strongs": "H0123"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "בֶּ֖לַע",
+          "tr": "Belaʻ",
           "te": "బెల",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNp",
+          "strongs": "H1106"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "בֶּן",
+          "tr": "bên",
           "te": "ఎదోములో",
-          "gr": "N-mp"
+          "gr": "HNcmsc",
+          "strongs": "H1121"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
-          "te": "రాజ్యపరిపాలన",
-          "gr": "V-Qal-Perf-3ms"
-        },
-        {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "בְּע֑וֹר",
+          "tr": "Bᵉʻôwr",
           "te": "చేసెను",
-          "gr": "N-mp"
+          "gr": "HNp",
+          "strongs": "H1160"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "וְ/שֵׁ֥ם",
+          "tr": "shêm",
           "te": "అతని",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HC/Ncmsc",
+          "strongs": "H8034"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "עִיר֖/וֹ",
+          "tr": "ʻîyr",
           "te": "ఊరి",
-          "gr": "N-mp"
+          "gr": "HNcfsc/Sp3ms",
+          "strongs": "H5892"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "דִּנְהָֽבָה",
+          "tr": "Dinhâbâh",
           "te": "పేరు",
-          "gr": "V-Qal-Perf-3ms"
-        },
-        {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
-          "te": "దిన్హాబా",
-          "gr": "N-mp"
+          "gr": "HNp",
+          "strongs": "H1838"
         }
       ]
     },
@@ -2405,76 +2827,60 @@
       "v": 33,
       "words": [
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "וַ/יָּ֖מָת",
+          "tr": "mûwth",
           "te": "బెల",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HC/Vqw3ms",
+          "strongs": "H4191"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "בָּ֑לַע",
+          "tr": "Belaʻ",
           "te": "చనిపోయిన",
-          "gr": "N-mp"
+          "gr": "HNp",
+          "strongs": "H1106"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
-          "te": "తరువాత",
-          "gr": "V-Qal-Perf-3ms"
-        },
-        {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "וַ/יִּמְלֹ֣ךְ",
+          "tr": "mâlak",
           "te": "బొస్రా",
-          "gr": "N-mp"
+          "gr": "HC/Vqw3ms",
+          "strongs": "H4427"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "תַּחְתָּ֔י/ו",
+          "tr": "tachath",
           "te": "వాడైన",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HR/Sp3ms",
+          "strongs": "H8478"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
-          "te": "జెరహు",
-          "gr": "N-mp"
-        },
-        {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "יוֹבָ֥ב",
+          "tr": "Yôwbâb",
           "te": "కుమారుడగు",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNp",
+          "strongs": "H3103"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "בֶּן",
+          "tr": "bên",
           "te": "యోబాబు",
-          "gr": "N-mp"
+          "gr": "HNcmsc",
+          "strongs": "H1121"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
-          "te": "అత",
-          "gr": "V-Qal-Perf-3ms"
-        },
-        {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "זֶ֖רַח",
+          "tr": "Zerach",
           "te": "నికి",
-          "gr": "N-mp"
+          "gr": "HNp",
+          "strongs": "H2226"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "מִ/בָּצְרָֽה",
+          "tr": "Botsrâh",
           "te": "ప్రతిగా",
-          "gr": "V-Qal-Perf-3ms"
-        },
-        {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
-          "te": "రాజాయెను",
-          "gr": "N-mp"
+          "gr": "HR/Np",
+          "strongs": "H1224"
         }
       ]
     },
@@ -2482,58 +2888,53 @@
       "v": 34,
       "words": [
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "וַ/יָּ֖מָת",
+          "tr": "mûwth",
           "te": "యోబాబు",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HC/Vqw3ms",
+          "strongs": "H4191"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "יוֹבָ֑ב",
+          "tr": "Yôwbâb",
           "te": "చనిపోయిన",
-          "gr": "N-mp"
+          "gr": "HNp",
+          "strongs": "H3103"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "וַ/יִּמְלֹ֣ךְ",
+          "tr": "mâlak",
           "te": "తరువాత",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HC/Vqw3ms",
+          "strongs": "H4427"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "תַּחְתָּ֔י/ו",
+          "tr": "tachath",
           "te": "తేమనీయుల",
-          "gr": "N-mp"
+          "gr": "HR/Sp3ms",
+          "strongs": "H8478"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
-          "te": "దేశస్థుడైన",
-          "gr": "V-Qal-Perf-3ms"
-        },
-        {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "חֻשָׁ֖ם",
+          "tr": "Chûwshâm",
           "te": "హుషాము",
-          "gr": "N-mp"
+          "gr": "HNp",
+          "strongs": "H2367"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
-          "te": "అతనికి",
-          "gr": "V-Qal-Perf-3ms"
+          "hb": "מֵ/אֶ֥רֶץ",
+          "tr": "H0776",
+          "te": "భూమిని",
+          "gr": "HR/Ncbsc",
+          "strongs": "H0776"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "הַ/תֵּימָנִֽי",
+          "tr": "Têymânîy",
           "te": "ప్రతిగా",
-          "gr": "N-mp"
-        },
-        {
-          "hb": "בָּרָא",
-          "tr": "bara",
-          "te": "రాజాయెను",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HTd/Ngmsa",
+          "strongs": "H8489"
         }
       ]
     },
@@ -2541,106 +2942,109 @@
       "v": 35,
       "words": [
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "וַ/יָּ֖מָת",
+          "tr": "mûwth",
           "te": "హుషాము",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HC/Vqw3ms",
+          "strongs": "H4191"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "חֻשָׁ֑ם",
+          "tr": "Chûwshâm",
           "te": "చనిపోయిన",
-          "gr": "N-mp"
+          "gr": "HNp",
+          "strongs": "H2367"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "וַ/יִּמְלֹ֨ךְ",
+          "tr": "mâlak",
           "te": "తరువాత",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HC/Vqw3ms",
+          "strongs": "H4427"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "תַּחְתָּ֜י/ו",
+          "tr": "tachath",
           "te": "మోయాబు",
-          "gr": "N-mp"
+          "gr": "HR/Sp3ms",
+          "strongs": "H8478"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "הֲדַ֣ד",
+          "tr": "Hădad",
           "te": "దేశమందు",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNp",
+          "strongs": "H1908"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "בֶּן",
+          "tr": "bên",
           "te": "మిద్యానును",
-          "gr": "N-mp"
+          "gr": "HNcmsc",
+          "strongs": "H1121"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "בְּדַ֗ד",
+          "tr": "H0911",
           "te": "కొట్టివేసిన",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNp",
+          "strongs": "H0911"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "הַ/מַּכֶּ֤ה",
+          "tr": "nâkâh",
           "te": "బదదు",
-          "gr": "N-mp"
+          "gr": "HTd/Vhrmsa",
+          "strongs": "H5221"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
-          "te": "కుమారుడైన",
-          "gr": "V-Qal-Perf-3ms"
-        },
-        {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "אֶת",
+          "tr": "H0853",
           "te": "హదదు",
-          "gr": "N-mp"
+          "gr": "HTo",
+          "strongs": "H0853"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "מִדְיָן֙",
+          "tr": "Midyân",
           "te": "అతనికి",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNp",
+          "strongs": "H4080"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "בִּ/שְׂדֵ֣ה",
+          "tr": "sâdeh",
           "te": "ప్రతిగా",
-          "gr": "N-mp"
+          "gr": "HR/Ncmsc",
+          "strongs": "H7704"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "מוֹאָ֔ב",
+          "tr": "Môwʼâb",
           "te": "రాజాయెను",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNp",
+          "strongs": "H4124"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "וְ/שֵׁ֥ם",
+          "tr": "shêm",
           "te": "అతని",
-          "gr": "N-mp"
+          "gr": "HC/Ncmsc",
+          "strongs": "H8034"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "עִיר֖/וֹ",
+          "tr": "ʻîyr",
           "te": "ఊరి",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNcfsc/Sp3ms",
+          "strongs": "H5892"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "עֲוִֽית",
+          "tr": "ʻĂvîyth",
           "te": "పేరు",
-          "gr": "N-mp"
-        },
-        {
-          "hb": "בָּרָא",
-          "tr": "bara",
-          "te": "అవీతు",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNp",
+          "strongs": "H5762"
         }
       ]
     },
@@ -2648,52 +3052,46 @@
       "v": 36,
       "words": [
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "וַ/יָּ֖מָת",
+          "tr": "mûwth",
           "te": "హదదు",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HC/Vqw3ms",
+          "strongs": "H4191"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "הֲדָ֑ד",
+          "tr": "Hădad",
           "te": "చనిపోయిన",
-          "gr": "N-mp"
+          "gr": "HNp",
+          "strongs": "H1908"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "וַ/יִּמְלֹ֣ךְ",
+          "tr": "mâlak",
           "te": "తరువాత",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HC/Vqw3ms",
+          "strongs": "H4427"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
-          "te": "మశ్రేకావాడైన",
-          "gr": "N-mp"
-        },
-        {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "תַּחְתָּ֔י/ו",
+          "tr": "tachath",
           "te": "శవ్లూ",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HR/Sp3ms",
+          "strongs": "H8478"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "שַׂמְלָ֖ה",
+          "tr": "Samlâh",
           "te": "అతనికి",
-          "gr": "N-mp"
+          "gr": "HNp",
+          "strongs": "H8072"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "מִ/מַּשְׂרֵקָֽה",
+          "tr": "Masrêqâh",
           "te": "ప్రతిగా",
-          "gr": "V-Qal-Perf-3ms"
-        },
-        {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
-          "te": "రాజాయెను",
-          "gr": "N-mp"
+          "gr": "HR/Np",
+          "strongs": "H4957"
         }
       ]
     },
@@ -2701,64 +3099,53 @@
       "v": 37,
       "words": [
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "וַ/יָּ֖מָת",
+          "tr": "mûwth",
           "te": "శవ్లూ",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HC/Vqw3ms",
+          "strongs": "H4191"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "שַׂמְלָ֑ה",
+          "tr": "Samlâh",
           "te": "చనిపోయిన",
-          "gr": "N-mp"
+          "gr": "HNp",
+          "strongs": "H8072"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "וַ/יִּמְלֹ֣ךְ",
+          "tr": "mâlak",
           "te": "తరువాత",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HC/Vqw3ms",
+          "strongs": "H4427"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
-          "te": "నదీతీర",
-          "gr": "N-mp"
-        },
-        {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "תַּחְתָּ֔י/ו",
+          "tr": "tachath",
           "te": "మందలి",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HR/Sp3ms",
+          "strongs": "H8478"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "שָׁא֖וּל",
+          "tr": "Shâʼûwl",
           "te": "రహెబోతువాడైన",
-          "gr": "N-mp"
+          "gr": "HNp",
+          "strongs": "H7586"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
-          "te": "షావూలు",
-          "gr": "V-Qal-Perf-3ms"
-        },
-        {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "מֵ/רְחֹב֥וֹת",
+          "tr": "Rᵉchôbôwth",
           "te": "అతనికి",
-          "gr": "N-mp"
+          "gr": "HR/Np",
+          "strongs": "H7344"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "הַ/נָּהָֽר",
+          "tr": "nâhâr",
           "te": "ప్రతిగా",
-          "gr": "V-Qal-Perf-3ms"
-        },
-        {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
-          "te": "రాజాయెను",
-          "gr": "N-mp"
+          "gr": "HTd/Ncmsa",
+          "strongs": "H5104"
         }
       ]
     },
@@ -2766,64 +3153,60 @@
       "v": 38,
       "words": [
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "וַ/יָּ֖מָת",
+          "tr": "mûwth",
           "te": "షావూలు",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HC/Vqw3ms",
+          "strongs": "H4191"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "שָׁא֑וּל",
+          "tr": "Shâʼûwl",
           "te": "చనిపోయిన",
-          "gr": "N-mp"
+          "gr": "HNp",
+          "strongs": "H7586"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "וַ/יִּמְלֹ֣ךְ",
+          "tr": "mâlak",
           "te": "తరువాత",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HC/Vqw3ms",
+          "strongs": "H4427"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "תַּחְתָּ֔י/ו",
+          "tr": "tachath",
           "te": "అక్బోరు",
-          "gr": "N-mp"
+          "gr": "HR/Sp3ms",
+          "strongs": "H8478"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
-          "te": "కుమారుడైన",
-          "gr": "V-Qal-Perf-3ms"
-        },
-        {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "בַּ֥עַל",
+          "tr": "Baʻal Chânân",
           "te": "బయల్‌",
-          "gr": "N-mp"
+          "gr": "HNp",
+          "strongs": "H1177"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "חָנָ֖ן",
+          "tr": "Baʻal Chânân",
           "te": "హానాను",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNp",
+          "strongs": "H1177"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "בֶּן",
+          "tr": "bên",
           "te": "అతనికి",
-          "gr": "N-mp"
+          "gr": "HNcmsc",
+          "strongs": "H1121"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "עַכְבּֽוֹר",
+          "tr": "ʻAkbôwr",
           "te": "ప్రతిగా",
-          "gr": "V-Qal-Perf-3ms"
-        },
-        {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
-          "te": "రాజాయెను",
-          "gr": "N-mp"
+          "gr": "HNp",
+          "strongs": "H5907"
         }
       ]
     },
@@ -2831,136 +3214,137 @@
       "v": 39,
       "words": [
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "וַ/יָּמָת֮",
+          "tr": "mûwth",
           "te": "అక్బోరు",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HC/Vqw3ms",
+          "strongs": "H4191"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "בַּ֣עַל",
+          "tr": "Baʻal Chânân",
           "te": "కుమారుడైన",
-          "gr": "N-mp"
+          "gr": "HNp",
+          "strongs": "H1177"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "חָנָ֣ן",
+          "tr": "Baʻal Chânân",
           "te": "బయల్‌",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNp",
+          "strongs": "H1177"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "בֶּן",
+          "tr": "bên",
           "te": "హానాను",
-          "gr": "N-mp"
+          "gr": "HNcmsc",
+          "strongs": "H1121"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "עַכְבּוֹר֒",
+          "tr": "ʻAkbôwr",
           "te": "చనిపోయినతరువాత",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNp",
+          "strongs": "H5907"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "וַ/יִּמְלֹ֤ךְ",
+          "tr": "mâlak",
           "te": "హదరు",
-          "gr": "N-mp"
+          "gr": "HC/Vqw3ms",
+          "strongs": "H4427"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "תַּחְתָּי/ו֙",
+          "tr": "tachath",
           "te": "అతనికి",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HR/Sp3ms",
+          "strongs": "H8478"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
-          "te": "ప్రతిగా",
-          "gr": "N-mp"
-        },
-        {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "הֲדַ֔ר",
+          "tr": "Hădar",
           "te": "రాజాయెను",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNp",
+          "strongs": "H1924"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "וְ/שֵׁ֥ם",
+          "tr": "shêm",
           "te": "అతని",
-          "gr": "N-mp"
+          "gr": "HC/Ncmsc",
+          "strongs": "H8034"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "עִיר֖/וֹ",
+          "tr": "ʻîyr",
           "te": "ఊరి",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNcfsc/Sp3ms",
+          "strongs": "H5892"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "פָּ֑עוּ",
+          "tr": "Pâʻûw",
           "te": "పేరు",
-          "gr": "N-mp"
+          "gr": "HNp",
+          "strongs": "H6464"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "וְ/שֵׁ֨ם",
+          "tr": "shêm",
           "te": "పాయు",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HC/Ncmsc",
+          "strongs": "H8034"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "אִשְׁתּ֤/וֹ",
+          "tr": "H0802",
           "te": "అతని",
-          "gr": "N-mp"
+          "gr": "HNcfsc/Sp3ms",
+          "strongs": "H0802"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
-          "te": "భార్య",
-          "gr": "V-Qal-Perf-3ms"
-        },
-        {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "מְהֵֽיטַבְאֵל֙",
+          "tr": "Mᵉhêyṭabʼêl",
           "te": "పేరు",
-          "gr": "N-mp"
+          "gr": "HNp",
+          "strongs": "H4105"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "בַּת",
+          "tr": "bath",
           "te": "మహేతబేలు",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNcfsc",
+          "strongs": "H1323"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "מַטְרֵ֔ד",
+          "tr": "Maṭrêd",
           "te": "ఆమె",
-          "gr": "N-mp"
+          "gr": "HNp",
+          "strongs": "H4308"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "בַּ֖ת",
+          "tr": "bath",
           "te": "మేజాహాబు",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNcfsc",
+          "strongs": "H1323"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "מֵ֥י",
+          "tr": "Mêy Zâhâb",
           "te": "కుమార్తెయైన",
-          "gr": "N-mp"
+          "gr": "HNp",
+          "strongs": "H4314"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "זָהָֽב",
+          "tr": "Mêy Zâhâb",
           "te": "మత్రేదు",
-          "gr": "V-Qal-Perf-3ms"
-        },
-        {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
-          "te": "క",
-          "gr": "N-mp"
+          "gr": "HNp",
+          "strongs": "H4314"
         }
       ]
     },
@@ -2968,124 +3352,95 @@
       "v": 40,
       "words": [
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "וְ֠/אֵלֶּה",
+          "tr": "H0428",
           "te": "మరియు",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HC/Pdxcp",
+          "strongs": "H0428"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "שְׁמ֞וֹת",
+          "tr": "shêm",
           "te": "వారివారి",
-          "gr": "N-mp"
+          "gr": "HNcmpc",
+          "strongs": "H8034"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
-          "te": "వంశముల",
-          "gr": "V-Qal-Perf-3ms"
-        },
-        {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "אַלּוּפֵ֤י",
+          "tr": "H0441",
           "te": "ప్రకారము",
-          "gr": "N-mp"
+          "gr": "HNcmpc",
+          "strongs": "H0441"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "עֵשָׂו֙",
+          "tr": "ʻÊsâv",
           "te": "వారివారి",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNp",
+          "strongs": "H6215"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
-          "te": "స్థలములలో",
-          "gr": "N-mp"
-        },
-        {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "לְ/מִשְׁפְּחֹתָ֔/ם",
+          "tr": "mishpâchâh",
           "te": "వారివారి",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HR/Ncfpc/Sp3mp",
+          "strongs": "H4940"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "לִ/מְקֹמֹתָ֖/ם",
+          "tr": "mâqôwm",
           "te": "పేరుల",
-          "gr": "N-mp"
+          "gr": "HR/Ncmpc/Sp3mp",
+          "strongs": "H4725"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
-          "te": "చొప్పున",
-          "gr": "V-Qal-Perf-3ms"
-        },
-        {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "בִּ/שְׁמֹתָ֑/ם",
+          "tr": "shêm",
           "te": "ఏశావు",
-          "gr": "N-mp"
+          "gr": "HR/Ncmpc/Sp3mp",
+          "strongs": "H8034"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "אַלּ֥וּף",
+          "tr": "H0441",
           "te": "సంతానపు",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNcmsa",
+          "strongs": "H0441"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
-          "te": "నాయకుల",
-          "gr": "N-mp"
-        },
-        {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "תִּמְנָ֛ע",
+          "tr": "Timnâʻ",
           "te": "పేరు",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNp",
+          "strongs": "H8555"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "אַלּ֥וּף",
+          "tr": "H0441",
           "te": "లేవనగా",
-          "gr": "N-mp"
+          "gr": "HNcmsa",
+          "strongs": "H0441"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
-          "te": "తిమ్నా",
-          "gr": "V-Qal-Perf-3ms"
-        },
-        {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "עַֽלְוָ֖ה",
+          "tr": "ʻAlvâh",
           "te": "నాయకుడు",
-          "gr": "N-mp"
+          "gr": "HNp",
+          "strongs": "H5933"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "אַלּ֥וּף",
+          "tr": "H0441",
           "te": "అల్వా",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNcmsa",
+          "strongs": "H0441"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
-          "te": "నాయకుడు",
-          "gr": "N-mp"
-        },
-        {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "יְתֵֽת",
+          "tr": "Yᵉthêth",
           "te": "యతేతు",
-          "gr": "V-Qal-Perf-3ms"
-        },
-        {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
-          "te": "నాయకుడు",
-          "gr": "N-mp"
+          "gr": "HNp",
+          "strongs": "H3509"
         }
       ]
     },
@@ -3093,40 +3448,46 @@
       "v": 41,
       "words": [
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "אַלּ֧וּף",
+          "tr": "H0441",
           "te": "అహొలీబామా",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNcmsa",
+          "strongs": "H0441"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "אָהֳלִיבָמָ֛ה",
+          "tr": "H0173",
           "te": "నాయకుడు",
-          "gr": "N-mp"
+          "gr": "HNp",
+          "strongs": "H0173"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "אַלּ֥וּף",
+          "tr": "H0441",
           "te": "ఏలా",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNcmsa",
+          "strongs": "H0441"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "אֵלָ֖ה",
+          "tr": "H0425",
           "te": "నాయకుడు",
-          "gr": "N-mp"
+          "gr": "HNp",
+          "strongs": "H0425"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "אַלּ֥וּף",
+          "tr": "H0441",
           "te": "పీనోను",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNcmsa",
+          "strongs": "H0441"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "פִּינֹֽן",
+          "tr": "pîynôn",
           "te": "నాయకుడు",
-          "gr": "N-mp"
+          "gr": "HNp",
+          "strongs": "H6373"
         }
       ]
     },
@@ -3134,40 +3495,46 @@
       "v": 42,
       "words": [
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "אַלּ֥וּף",
+          "tr": "H0441",
           "te": "కనజు",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNcmsa",
+          "strongs": "H0441"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "קְנַ֛ז",
+          "tr": "Qᵉnaz",
           "te": "నాయకుడు",
-          "gr": "N-mp"
+          "gr": "HNp",
+          "strongs": "H7073"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "אַלּ֥וּף",
+          "tr": "H0441",
           "te": "తేమాను",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNcmsa",
+          "strongs": "H0441"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "תֵּימָ֖ן",
+          "tr": "Têymân",
           "te": "నాయకుడు",
-          "gr": "N-mp"
+          "gr": "HNp",
+          "strongs": "H8487"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "אַלּ֥וּף",
+          "tr": "H0441",
           "te": "మిబ్సారు",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNcmsa",
+          "strongs": "H0441"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "מִבְצָֽר",
+          "tr": "Mibtsâr",
           "te": "నాయకుడు",
-          "gr": "N-mp"
+          "gr": "HNp",
+          "strongs": "H4014"
         }
       ]
     },
@@ -3175,118 +3542,102 @@
       "v": 43,
       "words": [
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "אַלּ֥וּף",
+          "tr": "H0441",
           "te": "మగ్దీయేలు",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNcmsa",
+          "strongs": "H0441"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "מַגְדִּיאֵ֖ל",
+          "tr": "Magdîyʼêl",
           "te": "నాయకుడు",
-          "gr": "N-mp"
+          "gr": "HNp",
+          "strongs": "H4025"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "אַלּ֣וּף",
+          "tr": "H0441",
           "te": "ఈరాము",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNcmsa",
+          "strongs": "H0441"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
-          "te": "నాయకుడు",
-          "gr": "N-mp"
-        },
-        {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "עִירָ֑ם",
+          "tr": "ʻÎyrâm",
           "te": "వీరు",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNp",
+          "strongs": "H5902"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "אֵ֣לֶּה",
+          "tr": "H0428",
           "te": "తమ",
-          "gr": "N-mp"
+          "gr": "HPdxcp",
+          "strongs": "H0428"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "אַלּוּפֵ֣י",
+          "tr": "H0441",
           "te": "తమ",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNcmpc",
+          "strongs": "H0441"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
-          "te": "స్వాస్థ్యమైన",
-          "gr": "N-mp"
-        },
-        {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "אֱד֗וֹם",
+          "tr": "H0123",
           "te": "దేశమందు",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNp",
+          "strongs": "H0123"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "לְ/מֹֽשְׁבֹתָ/ם֙",
+          "tr": "môwshâb",
           "te": "తమతమ",
-          "gr": "N-mp"
+          "gr": "HR/Ncmpc/Sp3mp",
+          "strongs": "H4186"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
-          "te": "నివాస",
-          "gr": "V-Qal-Perf-3ms"
+          "hb": "בְּ/אֶ֣רֶץ",
+          "tr": "H0776",
+          "te": "భూమిని",
+          "gr": "HR/Ncbsc",
+          "strongs": "H0776"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
-          "te": "స్థలముల",
-          "gr": "N-mp"
-        },
-        {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "אֲחֻזָּתָ֔/ם",
+          "tr": "H0272",
           "te": "ప్రకారము",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNcfsc/Sp3mp",
+          "strongs": "H0272"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "ה֥וּא",
+          "tr": "hûwʼ",
           "te": "ఎదోము",
-          "gr": "N-mp"
+          "gr": "HPp3ms",
+          "strongs": "H1931"
         },
         {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "עֵשָׂ֖ו",
+          "tr": "ʻÊsâv",
           "te": "నాయకులు",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNp",
+          "strongs": "H6215"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
-          "te": "ఏశావు",
-          "gr": "N-mp"
-        },
-        {
-          "hb": "בָּרָא",
-          "tr": "bara",
+          "hb": "אֲבִ֥י",
+          "tr": "H0001",
           "te": "ఎదోమీయులకు",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNcmsc",
+          "strongs": "H0001"
         },
         {
-          "hb": "אֱלֹהִים",
-          "tr": "elohim",
+          "hb": "אֱדֽוֹם",
+          "tr": "H0123",
           "te": "మూల",
-          "gr": "N-mp"
-        },
-        {
-          "hb": "בָּרָא",
-          "tr": "bara",
-          "te": "పురుషుడు",
-          "gr": "V-Qal-Perf-3ms"
+          "gr": "HNp",
+          "strongs": "H0123"
         }
       ]
     }
